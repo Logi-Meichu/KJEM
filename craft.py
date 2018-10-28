@@ -40,6 +40,9 @@ from copy import deepcopy
 from time import sleep
 from json import JSONEncoder
 from uuid import UUID
+#import pyttsx3
+import win32com.client
+import time
 
 glist=[]
 crownObjectList = []
@@ -76,19 +79,27 @@ def report(event, value):
 
 def showText(tlist):
     translator = Translator()
+    
     for i in tlist:
         str1 = ''.join(i)
         if str1 is not None:
+            speaker = win32com.client.Dispatch("SAPI.SpVoice")
+            
+            #engine = pyttsx3.init(sapi5)
+            #engine.say(str1)
+            #engine.runAndWait()
             #print("==========================\n")
             #print("\ntranslated\n")
             #print(str1)
             #print("==========================\n")
             translated = translator.translate(str1, src='la',dest='zh-tw')
-            print("===========================\n")
-            print(" Pronunciation:", translated.pronunciation)
-            print("===========================\n")
+            #print("===========================\n")
+            #print(" Pronunciation:", translated.pronunciation)
+            #print("===========================\n")
+
             dic_text = translated.text
             txt_left = wx.TextCtrl(panel, -1, dic_text, pos=(10,20), size=(380,180), style=wx.TE_MULTILINE|wx.TE_NOHIDESEL)
+            speaker.Speak(translated.text)
         else:
             #print("==========================\n")
             #print("\nNoneType\n")
