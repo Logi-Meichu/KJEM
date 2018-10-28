@@ -75,20 +75,24 @@ def report(event, value):
     ws.send(regMsg.encode('utf8'))
 
 def showText(tlist):
-    #translator = Translator()
+    translator = Translator()
     for i in tlist:
-        #str1 = ''.join(i)
-        #if str1 is not None:
+        str1 = ''.join(i)
+        if str1 is not None:
             #print("==========================\n")
             #print("\ntranslated\n")
             #print(str1)
             #print("==========================\n")
-            #translated = translator.translate('Hello Friends', src='en',dest='ja')
-            #print(" Pronunciation:", translated.pronunciation)
-        #else:
+            translated = translator.translate(str1, src='la',dest='zh-tw')
+            print("===========================\n")
+            print(" Pronunciation:", translated.pronunciation)
+            print("===========================\n")
+            dic_text = translated.text
+            txt_left = wx.TextCtrl(panel, -1, dic_text, pos=(10,20), size=(380,180), style=wx.TE_MULTILINE|wx.TE_NOHIDESEL)
+        else:
             #print("==========================\n")
             #print("\nNoneType\n")
-        print(i)
+            print(i)
             #print("==========================\n")
             
 
@@ -321,26 +325,232 @@ class CraftClient(object):
         
     def registerEventHandler(self, cb):
         self.callback = cb
+    '''
+    def report(self, event, value):
+        toolId = event.get('task_options').get('current_tool')
+        na = event.get('task_options').get('current_tool_option')
 
+        response = {
+            "message_type" : "tool_update",
+            "session_id"   :  sessionId,
+            "show_overlay" :  True,
+            "tool_id"      :  toolId,
+            "tool_options" :  [{
+                "name"  : na,
+                "value" : value
+            }]
+        };
+        regMsg =  json.dumps(response)
+        ws.send(regMsg.encode('utf8'))
+    '''
+    '''
+    def wrapperUpdateUI(self,msg):
+        global glist,sessionId
+        totalDeltaValue=0
+        totalRatchetDeltaValue=0
+        count=0
+        listCount=0
+        global firstObject
+
+        if(msg['message_type'] == "crown_turn_event"):
+            glist.append(msg)
+            listCount = len(glist)
+            if listCount==0:
+                return
+            currentToolOption = glist[0]['task_options']['current_tool_option']
+            print("+++currentToolOption = ",currentToolOption)
+            print("listCount = ",listCount)
+            firstObject = glist[0]
+            for i in range(listCount):
+                if currentToolOption == glist[i]['task_options']['current_tool_option']:
+                    totalDeltaValue = totalDeltaValue = glist[i]['delta']
+                    totalRatchetDeltaValue = totalRatchetDeltaValue + glist[i]['ratchet_delta']
+                else:
+                    break
+                count += 1
+
+            if listCount >= 0:
+                glist.clear()
+            print("totalDeltaValue = ",totalDeltaValue)
+            print("firstObject = ",firstObject['message_type'])
+            if firstObject['message_type'] == "deactivate_plugin":
+                return
+
+            try:
+                if firstObject['message_type'] == "crown_turn_event":
+                    print("turn event =====")
+                    if firstObject['task_options']['current_tool'] == 'Slider':
+                        print("\n","selected slider")
+                        v = slider.GetValue()
+                        tvalue = v + totalDeltaValue
+                        if tvalue <= 0:
+                            tvalue = 0
+                        if tvalue >1000:
+                            tvalue = 1000
+                        slider.SetValue(tvalue)
+                        print("report called....",tvalue,msg)
+                        self.report(msg,tvalue)
+                    elif firstObject['task_options']['current_tool'] == 'SpinCtrl':
+                        print("\n","selected SpinCtrl")
+                        v = spin.GetValue()
+                        tvalue = v + totalDeltaValue
+                        if tvalue <= 0:
+                            tvalue = 0
+                        if tvalue >1000:
+                            tvalue = 1000
+                        spin.SetValue(tvalue)
+                        self.report(msg,tvalue)
+                    elif firstObject['task_options']['current_tool'] == 'Gauge':
+                        if firstObject['task_options']['current_tool_option'] == 'gauge':
+                           print("\n","selected Gauge")
+                           v = gauge.GetValue()
+                           tvalue = v + totalDeltaValue
+                           if tvalue <= 0:
+                              tvalue = 0
+                           if tvalue >500:
+                              tvalue = 500
+                           gauge.SetValue(tvalue)
+                           self.report(msg,tvalue)
+                        if firstObject['task_options']['current_tool_option'] == 'gaugeRatchet':
+                           print("\n","selected gaugeRatchet")
+                           v = gauge.GetValue()
+                           tvalue = v + (totalRatchetDeltaValue * 10)
+                           if tvalue <= 0:
+                              tvalue = 0
+                           if tvalue >500:
+                              tvalue = 500
+                           gauge.SetValue(tvalue)
+                           self.report(msg,tvalue)
+
+                    elif firstObject['task_options']['current_tool'] == 'ComboBox':
+                        print("\n","selected ComboBox")
+                        v = combo.GetSelection()
+                        tvalue = v + totalRatchetDeltaValue
+                        if tvalue <= 0:
+                            tvalue = 0
+                        if tvalue >999:
+                            tvalue = 999
+                        combo.SetSelection(tvalue)
+                        self.report(msg,tvalue)
+                    elif firstObject['task_options']['current_tool'] == 'TextCtrl':
+                        print("\n","selected TextCtrl")
+                        v = txt.GetSize()
+                        h = v.height + totalDeltaValue
+                        w = v.width + totalDeltaValue
+                        txt.SetSize(w,h)
+                        self.report(msg,w)
+                    ## Comment
+                    elif firstObject['task_options']['current_tool'] == 'ListBox':
+                        print("\n","selected ListBox")
+                        v = lb.GetSelection()
+                        v = v + totalRatchetDeltaValue
+                        if v <= 0:
+                            v = 0
+                        if v > 999:
+                            v = 999
+                        lb.SetSelection(v)
+                        lb.EnsureVisible(v)
+                        self.report(msg,v)
+
+            except ValueError:
+                print("Error: update UI")
+
+
+
+        elif (msg['message_type'] == "register_ack"):
+            print("register_ack = ",msg['message_type'])
+            sessionId = msg['session_id']
+            print("Session Id = ",sessionId)
+
+            if platform.system() == 'Windows':
+                defaultTool = "Slider"
+            else:
+                defaultTool = "SpinCtrl"
+
+            connectMessage = {
+                "message_type": "tool_change",
+                "session_id": sessionId,
+                "tool_id": defaultTool
+            }
+            regMsg =  json.dumps(connectMessage)
+            ws.send(regMsg.encode('utf8'))
+    '''
 class TestFrame(wx.Frame):
 
     def __init__(self, parent, id):
         global craft,slider,spin,gauge,combo,txt,lb
         global txtNowIndex, txtOriIndex
+        global panel
 
         wx.Frame.__init__(self, parent, id, "Craft Python SDK Sample", size=(800,400))
 
         panel = wx.Panel(self)
+        '''
+        lbl = wx.StaticText(panel,-1, label="text", pos=(10,20), size=(50,-1))
+        lbl.SetLabel("Slider")
+
+        slider=wx.Slider(panel, -1, 0, 1, 1000, (100,20), (200,-1))
+        slider.Bind(wx.EVT_SET_FOCUS, self.sliderFocus)
+        slider.Bind(wx.EVT_LEFT_UP, self.sliderFocus)
+
+        lbl = wx.StaticText(panel, -1, label="text", pos=(10,100), size=(50,-1))
+        lbl.SetLabel("SpinCtrl")
+
+        spin = wx.SpinCtrl(panel, -1, "", pos=(100,100), size=(200,-1), min=0, max=1000)
+        spin.Bind(wx.EVT_CHILD_FOCUS, self.spinCtrlFocus)
+        spin.Bind(wx.EVT_LEFT_UP, self.spinCtrlFocus)
+
+        lbl = wx.StaticText(panel, -1, label="text", pos=(10,180), size=(50,-1))
+        lbl.SetLabel("Gauge")
+
+        gauge = wx.Gauge(panel, -1, range=500, pos=(100,180), size=(200,25))
+        gauge.Bind(wx.EVT_LEFT_UP, self.gaugeClick)
+
+        lbl = wx.StaticText(panel, -1, label="text", pos=(10,260), size=(50,-1))
+        lbl.SetLabel("ComboBox")
+
+        l=[]
+        for i in range(0, 1000):
+          l.append(str(i))
+        combo = wx.ComboBox(panel, -1, "", pos=(100,260), size=(200,25), choices=l)
+        combo.Bind(wx.EVT_SET_FOCUS, self.comboBoxFocus)
+        combo.Bind(wx.EVT_LEFT_UP, self.comboBoxFocus)
+        
+
+        lbl = wx.StaticText(panel, -1, label="text", pos=(400,20), size=(50,-1))
+        lbl.SetLabel("TextCtrl")
+        '''
         vtxt = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque semper ut felis non bibendum. " \
         "Suspendisse potenti. Mauris rhoncus auctor quam, non ullamcorper elit interdum a. Aliquam erat volutpat. " \
         "Ut facilisis odio a enim facilisis, at porta lectus hendrerit. Curabitur et vulputate lectus, nec sollicitudin odio. " \
         "Morbi tincidunt iaculis erat, eu bibendum sapien vehicula vel. Etiam sodales malesuada mauris, " \
         "quis viverra eros imperdiet at. Vestibulum maximus dui dolor, sed laoreet arcu laoreet in. "
         
+        dic_text = "potential\n"\
+        "adjective\n [ before noun ] UK"\
+        "/pəˈten.ʃəl/ US ​\n /poʊˈten.ʃəl/B2\n"\
+        "possible when the necessary conditions exist潛在的，可能的\n"\
+        "A number of potential buyers have expressed interest in the company.\n"\
+        "一些潛在的買主表達了對該公司的興趣。\n"\
+        "Many potential customers are waiting for a fall in prices before buying.\n"
+        
         txt = wx.TextCtrl(panel, -1, vtxt, pos=(400,20), size=(380,360), style=wx.TE_MULTILINE|wx.TE_NOHIDESEL)
+        #txt_left = wx.TextCtrl(panel, -1, dic_text, pos=(10,20), size=(380,180), style=wx.TE_MULTILINE|wx.TE_NOHIDESEL)
         txt.Bind(wx.EVT_SET_FOCUS, self.textCtrlFocus)
         txt.Bind(wx.EVT_LEFT_UP, self.textCtrlFocus)
 
+        '''
+        lbl = wx.StaticText(panel, -1, label="text", pos=(400,180), size=(50,-1))
+        lbl.SetLabel("ListBox")
+
+        li =[]
+        for i in range(0, 1000):
+            li.append(str(i))
+
+        lb = wx.ListBox(panel, -1, pos=(480,180), size=(100,-1), choices=li)
+        lb.Bind(wx.EVT_SET_FOCUS, self.listBoxFocus)
+        lb.Bind(wx.EVT_LEFT_UP, self.listBoxFocus)
+        '''
     def listBoxFocus(self, event):
         print("ListBox receives focus")
         self.changeTool("ListBox")
