@@ -1,0 +1,32 @@
+{
+  "LocalizedStrings": [
+    {
+      "ID": "moveframe",
+      "value": "Navigation på tidslinjen"
+    },
+    {
+      "ID": "jogwheel",
+      "value": "Scrollehjul"
+    },
+    {
+      "ID": "changetoolvalue",
+      "value": "Kontekstuel"
+    },
+    {
+      "ID": "undoRedo",
+      "value": "Fortryd/annuller fortryd"
+    },
+    {
+      "ID": "zoom",
+      "value": "Zoom"
+    },
+    {
+      "ID": "keystrokeassignment",
+      "value": "Tildeling af tastefunktioner"
+    },
+    {
+      "ID": "playpause",
+      "value": "Afspil/pause"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ImgData deviceid="0x6b350" version="1.4" scale="1.0">
+  <ImageRefs>
+    <ImageRef key="6b350KeyboardOther">Keyboard.png</ImageRef>
+    <ImageRef key="6b350KeyboardChina">Keyboard.png</ImageRef>
+    <ImageRef key="6b350KeyboardJapan">Keyboard.png</ImageRef>
+  </ImageRefs>
+</ImgData>

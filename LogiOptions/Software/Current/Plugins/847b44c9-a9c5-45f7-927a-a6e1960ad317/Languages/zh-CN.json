@@ -1,0 +1,92 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "textSize",
+            "value": "大小"
+        },
+        {
+            "ID": "leading",
+            "value": "行距"
+        },
+        {
+            "ID": "tracking",
+            "value": "跟踪"
+        },
+        {
+            "ID": "colorFill",
+            "value": "填充颜色"
+        },
+        {
+            "ID": "colorStroke",
+            "value": "描边颜色"
+        },
+        {
+            "ID": "strokeWeight",
+            "value": "描边粗细"
+        },
+        {
+            "ID": "scale",
+            "value": "比例"
+        },
+        {
+            "ID": "opacity",
+            "value": "透明度"
+        },
+        {
+            "ID": "pageNavigation",
+            "value": "切换页面"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "上下文"
+        },
+        {
+            "ID": "undoRedo",
+            "value": "还原/重做"
+        },
+        {
+            "ID": "undoredo",
+            "value": "还原/重做"
+        },
+        {
+            "ID": "undo",
+            "value": "还原"
+        },
+        {
+            "ID": "redo",
+            "value": "重做"
+        },
+        {
+            "ID": "zoom",
+            "value": "缩放"
+        },
+        {
+            "ID": "shear",
+            "value": "剪切"
+        },
+        {
+            "ID": "rotation",
+            "value": "转动"
+        },
+        {
+            "ID": "moveHorizontal",
+            "value": "位置 X"
+        },
+        {
+            "ID": "moveVertical",
+            "value": "位置 Y"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "按键分配"
+        },
+        {
+            "ID": "tint",
+            "value": "淡色"
+        },
+        {
+            "ID": "playpause",
+            "value": "暂停/播放"
+        }
+    ]
+}

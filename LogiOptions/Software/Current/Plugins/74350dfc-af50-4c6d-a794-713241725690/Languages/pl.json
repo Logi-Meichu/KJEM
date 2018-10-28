@@ -1,0 +1,72 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "textSize",
+            "value": "Rozmiar"
+        },
+        {
+            "ID": "leading",
+            "value": "Interlinia"
+        },
+        {
+            "ID": "tracking",
+            "value": "Światło"
+        },
+        {
+            "ID": "colorFill",
+            "value": "Kolor wypełnienia"
+        },
+        {
+            "ID": "colorStroke",
+            "value": "Kolor obrysu"
+        },
+        {
+            "ID": "strokeWeight",
+            "value": "Grubość obrysu"
+        },
+        {
+            "ID": "scale",
+            "value": "Skalowanie"
+        },
+        {
+            "ID": "opacity",
+            "value": "Krycie"
+        },
+        {
+            "ID": "artboardNavigation",
+            "value": "Zmień kompozycję"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "Kontekstowo"
+        },
+        {
+            "ID": "undoRedo",
+            "value": "Cofnij/ponów"
+        },
+        {
+            "ID": "undoredo",
+            "value": "Cofnij/ponów"
+        },
+        {
+            "ID": "undo",
+            "value": "Cofnij"
+        },
+        {
+            "ID": "redo",
+            "value": "Ponów"
+        },
+        {
+            "ID": "zoom",
+            "value": "Powiększenie"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Przypisanie sekwencji klawiszy"
+        },
+        {
+            "ID": "playpause",
+            "value": "Odtwórz/wstrzymaj"
+        }
+    ]
+}

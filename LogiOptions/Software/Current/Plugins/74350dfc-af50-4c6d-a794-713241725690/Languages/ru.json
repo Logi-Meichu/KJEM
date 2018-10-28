@@ -1,0 +1,72 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "textSize",
+            "value": "Размер"
+        },
+        {
+            "ID": "leading",
+            "value": "Интерлиньяж"
+        },
+        {
+            "ID": "tracking",
+            "value": "Трекинг"
+        },
+        {
+            "ID": "colorFill",
+            "value": "Цвет заливки"
+        },
+        {
+            "ID": "colorStroke",
+            "value": "Цвет обводки"
+        },
+        {
+            "ID": "strokeWeight",
+            "value": "Толщина обводки"
+        },
+        {
+            "ID": "scale",
+            "value": "Масштаб"
+        },
+        {
+            "ID": "opacity",
+            "value": "Непрозрачность"
+        },
+        {
+            "ID": "artboardNavigation",
+            "value": "Изменить монтажную область"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "Контекстное"
+        },
+        {
+            "ID": "undoRedo",
+            "value": "Отменить/Повторить"
+        },
+        {
+            "ID": "undoredo",
+            "value": "Отменить/Повторить"
+        },
+        {
+            "ID": "undo",
+            "value": "Отменить"
+        },
+        {
+            "ID": "redo",
+            "value": "Повторить"
+        },
+        {
+            "ID": "zoom",
+            "value": "Масштаб"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Назначение функций клавишам"
+        },
+        {
+            "ID": "playpause",
+            "value": "Воспроизведение/пауза"
+        }
+    ]
+}

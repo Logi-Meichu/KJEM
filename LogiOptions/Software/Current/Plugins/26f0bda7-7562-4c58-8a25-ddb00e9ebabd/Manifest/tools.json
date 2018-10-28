@@ -1,0 +1,110 @@
+{
+    "GUID": "26f0bda7-7562-4c58-8a25-ddb00e9ebabd",
+    "tools": [
+        {
+            "name": "text",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "textSize",
+                    "image_file_path": "textSize.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "image",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "imageSize",
+                    "image_file_path": "imageSize.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "nothing",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "tabSwitch",
+                    "image_file_path": "tabs.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "excel",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "tabSwitch",
+                    "image_file_path": "tabs.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "horizontalScroll",
+                    "image_file_path": "horizontalScroll.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 2,
+                    "name": "zoom",
+                    "image_file_path": "zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 3,
+                    "name": "sheetNavigation",
+                    "image_file_path": "sheetNavigation.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        }
+    ],
+    "tasks": [
+        {
+            "name": "crowntabscommand",
+            "win_id": "0x1005f",
+            "mac_id": 302,
+            "image_file_path": "tabs.png",
+            "ratchet_enabled": true
+        },
+        {
+            "win_id": "0x10066",
+            "name": "crownbrowsertextsize",
+            "image_file_path": "fontSize.png"
+        },
+        {
+            "win_id": "0x10000",
+            "mac_id": 73,
+            "name": "keystrokeassignment"
+        },
+		{
+            "name": "playpause",
+            "image_file_path": "",
+            "mac_id": 4,
+            "win_id": "0x0004"
+        }
+    ]
+}

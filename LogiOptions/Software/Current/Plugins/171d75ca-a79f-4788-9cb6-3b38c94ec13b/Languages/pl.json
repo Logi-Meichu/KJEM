@@ -1,0 +1,28 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "Elementy sterujące aplikacji Acrobat Pro"
+        },
+        {
+            "ID": "zoom",
+            "value": "Powiększ"
+        },
+        {
+            "ID": "rotate",
+            "value": "Obróć"
+        },
+        {
+            "ID": "navigate",
+            "value": "Zmień stronę"
+        },
+        {
+            "ID": "scroll",
+            "value": "Przewijanie w poziomie"
+        },
+        {
+            "ID": "playpause",
+            "value": "Odtwórz/wstrzymaj"
+        }
+    ]
+}

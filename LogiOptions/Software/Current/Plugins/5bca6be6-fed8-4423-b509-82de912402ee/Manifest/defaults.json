@@ -1,0 +1,43 @@
+{
+	"GUID": "5bca6be6-fed8-4423-b509-82de912402ee",
+	"info": {
+		"name": "Spotify",
+		"publisher": "Logitech Inc.",
+		"version": "1.0",
+		"restart_required": false,
+		"win_name": "Spotify.exe",
+		"mac_bundle": "Spotify.app",
+		"mac_path": "/Applications",
+		"mac_paths": [
+		{
+			"path": "/Applications/Spotify.app",
+			"mac_minimum_supported_version": "2015.0.1",
+			"mac_maximum_supported_version": "2015.0.1"
+		}],
+		"win_minimum_supported_version": "0.0.0",
+		"win_maximum_supported_version": "2015.0.1"
+	},
+	"crown":
+		{
+		"rotate":
+		{
+			"default_task": "changetoolvalue",
+			"tasks": [
+				"changetoolvalue"
+			],
+			"short_list": [
+				"changetoolvalue"
+			]
+		},
+		"press":
+		{
+			"default_task": "playpause",
+			"tasks": [
+				"playpause"
+			],
+			"short_list": [
+				"playpause"
+			]
+		}
+	}
+}

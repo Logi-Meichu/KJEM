@@ -1,0 +1,92 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "size",
+            "value": "Storlek"
+        },
+        {
+            "ID": "hardness",
+            "value": "Hårdhet"
+        },
+        {
+            "ID": "strokeWeight",
+            "value": "Streckgrovlek"
+        },
+        {
+            "ID": "opacity",
+            "value": "Genomskinlighet"
+        },
+        {
+            "ID": "brightness",
+            "value": "Ljusstyrka"
+        },
+        {
+            "ID": "contrast",
+            "value": "Kontrast"
+        },
+        {
+            "ID": "saturation",
+            "value": "Mättnad"
+        },
+        {
+            "ID": "flow",
+            "value": "Flöde"
+        },
+        {
+            "ID": "strength",
+            "value": "Styrka"
+        },
+        {
+            "ID": "tolerance",
+            "value": "Tolerans"
+        },
+        {
+            "ID": "exposure",
+            "value": "Exponering"
+        },        
+        {
+            "ID": "textSize",
+            "value": "Storlek"
+        },
+        {
+            "ID": "layertextSize",
+            "value": "Storlek på textlager"
+        },
+        {
+            "ID": "blendMode",
+            "value": "Toningsläge"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "Kontextbaserad"
+        },
+        {
+            "ID": "savefile",
+            "value": "Spara fil"
+        },
+        {
+            "ID": "undoredo",
+            "value": "Ångra/Gör om"
+        },
+        {
+            "ID": "undo",
+            "value": "Ångra"
+        },
+        {
+            "ID": "redo",
+            "value": "Gör om"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zooma"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Tangentkommando"
+        },
+        {
+            "ID": "playpause",
+            "value": "Spela/Pausa"
+        }
+    ]
+}

@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringDictionary version="1.2">
+  <Strings>
+    <String key="WindowName">LogiOptions</String>
+    <String key="ApplicationName">Options</String>
+    <String key="MoreDetails">その他の設定</String>
+    <String key="FnInversion">標準のファンクションキーとして F1 ～ F12 を使用</String>
+    <String key="KeyboardWinMode">キーボードを常に Windows レイアウトに保持する</String>
+    <String key="Backlighting">バックライトを無効化</String>
+    <String key="Customize">カスタマイズ</String>
+    <String key="CustomizeGestures">ジェスチャーをカスタマイズ</String>
+    <String key="GestureClickDetail">ジェスチャー ボタンをクリックします。</String>
+    <String key="GestureMotionDetail">ジェスチャー ボタンを押しながらマウスを動かします。</String>
+    <String key="GestureMotionDetail_Trackball">ジェスチャー ボタンを押しながらトラックボールを動かします。</String>
+    <!--<String key="GestureButtonLearnMore">Learn more about gesture button</String>-->
+    <String key="LearnMore">詳細を確認</String> 
+    <String key="LaunchSetpoint">SetPoint の起動</String>
+    <String key="DownloadSetpoint">SetPoint のダウンロード</String>
+    <String key="CrosslinkDevicesReminder">このメッセージを今後表示しない</String>
+    <String key="CrosslinkDevicesDialog">%BrandName% Options は、お使いのシステムに接続された %BrandName% デバイスの一部をサポートしていません。  %BrandName% SetPoint ソフトウェアを使用して、次のデバイスの設定をカスタマイズしてください：</String>
+    <String key="CommaSeparator">, </String>
+    <String key="AndSeparator"> および </String>
+
+    <String key="StringFragments:Device">デバイス</String>
+
+    <String key="DeviceList:NoDevices">デバイスは検出されませんでした</String>
+    <String key="DeviceList:NoDeviceDesc">デバイスが接続されていることを確認し、電源を入れてください。</String>
+    <String key="DeviceList:Removed">削除済み</String>
+    <String key="DeviceList:Enumuerate">スキャン中...</String>
+    <String key="DeviceList:Devices">デバイス</String>
+
+    <String key="Video:NoVideo">ビデオがインストールされていません</String>
+    <String key="Video:VideoFailDialog">デバイス ビデオをダウンロードできませんでした。後で再度お試しください。</String>
+
+    <String key="Tooltip:BatteryUnknown">不明</String>
+    <String key="Tooltip:BatteryCritical">重大</String>
+    <String key="Tooltip:BatteryLow">低い</String>
+    <String key="Tooltip:BatteryGood">十分</String>
+    <String key="Tooltip:BatteryFull">フル</String>
+    <String key="Tooltip:BatteryCharging">充電中</String>
+    <String key="Tooltip:BatteryError">充電エラー</String>
+    <String key="Tooltip:BatteryComplete">充電が完了しました</String>
+    <String key="Tooltip:Connected">接続済み</String>
+    <String key="Tooltip:NotConnected">接続されていません</String>
+
+    <!-- Device Settings Tabs -->
+    <String key="DeviceSettings:Keyboard">キーボード</String>
+    <String key="DeviceSettings:Mouse">マウス</String>
+    <String key="DeviceSettings:Trackball">トラックボール</String>
+    <String key="DeviceSettings:PointScroll">ポイント &amp; スクロール</String>
+    <String key="DeviceSettings:Gestures">ジェスチャー</String>
+    <String key="DeviceSettings:Illumination">照明</String>
+    <String key="DeviceSettings:FunctionKeys">ファンクションキー</String>
+    <String key="DeviceSettings:ShortcutKeys">ショートカットキー</String>
+    <String key="DeviceSettings:EasySwitch">Easy-Switch</String>
+    <String key="DeviceSettings:Crown">コントロールホイール</String>
+    <String key="DeviceSettings:Flow">Flow</String>
+    <String key="DeviceSettings:Beta">ベータ</String>
+
+    <String key="DeviceSettings:GestureById0x2e">サムホイールの感度</String>
+
+    <String key="Buttons:MinimizeToolTip">最小化</String>
+    <String key="Buttons:CloseToolTip">閉じる</String>
+    <String key="Buttons:More">増加</String>
+    <String key="Buttons:Less">減少</String>
+    <String key="Buttons:RestoreDefaults">デフォルトに戻す</String>
+    <String key="Buttons:Restore">復元</String>
+    <String key="Buttons:YourDevices">お使いのデバイス</String>
+    <String key="Buttons:AddDevice">デバイスの追加</String>
+    <String key="Buttons:Continue">続行</String>
+    <String key="Buttons:TryAgain">再試行</String>
+    <String key="Buttons:Cancel">キャンセル</String>
+    <String key="Buttons:Skip">スキップ</String>
+    <String key="Buttons:Remind">後でインストール</String>
+    <String key="Buttons:Okay">OK</String>
+    <String key="Buttons:Ok">OK</String>
+    <String key="Buttons:FirmwareUpdate">ファームウェアの更新を確認</String>
+    <String key="Buttons:SoftwareUpdate">更新を確認</String>
+    <String key="Buttons:LaunchUnifying">Unifying ソフトウェアを開く</String>
+    <String key="Buttons:FileBrowse">参照...</String>
+    <String key="Buttons:VideoDownload">ビデオをダウンロード</String>
+    <String key="Buttons:PairAnother">別のデバイスをペアリングします</String>
+    <String key="Buttons:Done">完了</String>    
+    <String key="Buttons:Enable">有効化</String><!--NEW AFTER 4/10/2017-->
+    <String key="Buttons:Disable">無効化</String>
+    <String key="Buttons:Retry">再試行</String>
+    <String key="Buttons:MoreSettings">詳細設定</String><!--NEW 7/24/2017-->
+    
+    <String key="TaskSelect:RemoveHost">削除</String>
+    <String key="TaskSelect:Keystroke">入力キーストローク</String>
+    <String key="TaskSelect:FileLaunch">ファイル名</String>
+    <String key="TaskSelect:FolderLaunch">フォルダ名</String>
+    <String key="TaskSelect:WebLaunch">Web アドレス</String>
+    <String key="TaskSelect:HostSwitch">Easy-Switch コントロール</String>
+    <String key="TaskSelect:DpiShift">マウス感度を設定</String>
+    <String key="TaskSelect:DpiShiftTrackball">トラックボールの感度を設定</String>
+    <String key="TaskSelect:HorizontalScrollSpeed">水平スクロール速度を設定</String>
+    <String key="TaskSelect:KeystrokeBlank">(ここをクリック)</String>
+    <String key="TaskSelect:FileLaunchBlank">(ファイル名を入力)</String>
+    <String key="TaskSelect:FolderLaunchBlank">(フォルダ名を入力)</String>
+    <String key="TaskSelect:WebLaunchBlank">(URL を入力)</String>
+    <String key="TaskSelect:KeystrokeDesc">上の白いボックスをクリックし、有効な組み合わせのキーを押してショートカットを作成します。</String>
+    <String key="TaskSelect:FileLaunchDesc">[参照] ボタンをクリックしてファイルを選択するか、上の白いボックス内にファイルのフルパスを入力します。</String>
+    <String key="TaskSelect:FolderLaunchDesc">[参照] ボタンをクリックしてフォルダを選択するか、上の白いボックス内にフォルダのフルパスを入力します。</String>
+    <String key="TaskSelect:WebLaunchDesc">上の白いボックス内に希望のウェブサイトの URL を入力します。</String>
+    <String key="TaskSelect:HostSwitchDesc">ボタンを押して、次に利用可能なホストに切り替えます。</String>
+    <String key="TaskSelect:DpiShiftDesc">ボタンを押して、マスタとカスタム ポインタの速度を切り替えます。</String>
+    <String key="TaskSelect:HorizontalScrollSpeedDesc">スライダーを使って、水平スクロールの速度設定を調節します。</String>
+    <String key="TaskSelect:KeystrokeWaiting">(キー押しの組み合わせ)</String>
+    <String key="TaskSelect:DpiShiftMasterChannel">マスタ</String>
+    <String key="TaskSelect:DpiShiftCustom1Channel">カスタム</String>
+    <String key="TaskSelect:HostSwitchNotAvail">デバイスが使用できません</String>
+    <String key="TaskSelect:HostSwitchInstruction">最大 3 台のホスト間で切り替えます。</String>
+    <String key="TaskSelect:HostSwitchLegend1">現在のホスト</String>
+    <String key="TaskSelect:HostSwitchLegend2">使用可能なディスク容量</String>
+    <String key="TaskSelect:HostSwitchLegend3">使用できません</String>
+    <String key="TaskSelect:ThumbwheelScroll">サムホイール スクロール</String>
+    <String key="TaskSelect:InvertHorzScroll">水平スクロール方向を反転する</String>
+    <String key="TaskSelect:TiltScrollSpeed">水平スクロール速度を設定</String>
+    <String key="TaskSelect:AdvancedClick">高度なクリックのセットアップ</String>
+    <String key="TaskSelect:ModifierKeys">モディファイアを選択</String>
+    <String key="TaskSelect:ModKeyAlt">Alt</String>
+    <String key="TaskSelect:ModKeyCtl">Ctrl</String>
+    <String key="TaskSelect:ModKeyShf">Shift</String>
+    <String key="TaskSelect:ModKeyWin">Win</String>
+    <String key="TaskSelect:ModKeyJnr"> + </String>
+    <String key="TaskSelect:SelectClick">クリックタイプを選択</String>
+    <String key="TaskSelect:SingleClick">クリック</String>
+    <String key="TaskSelect:DoubleClick">ダブルクリック</String>
+    <String key="TaskSelect:TripleClick">トリプルクリック</String>
+    <String key="TaskSelect:RightClick">右クリック</String>
+    <String key="TaskSelect:MiddleClick">ミドルクリック</String>
+    <String key="TaskSelect:SelectTools">開発ツールを選択</String>
+    <String key="TaskSelect:SelectToolsHint">画面解像度によって、オーバーレイにアクティブなすべてのツールを表示できない場合があります。</String>
+
+    <String key="More:ThisDevice">このデバイス</String>
+    <String key="More:Connectivity">接続性</String>
+    <String key="More:Software">ソフトウェア</String>
+    <String key="More:About">バージョン情報</String>
+    <String key="More:NotifyCheckbox">更新の自動確認</String>
+    <String key="More:Notifications">通知</String>
+    <String key="More:NotificationText">以下が発生したら通知を受ける。 (通知が画面上に短時間表示されます。)</String>
+    <String key="More:NotificationsText">以下のいずれかが発生したら通知を受ける。 (通知が画面上に短時間表示されます。)</String>
+    <String key="More:NotifyBattLow">デバイスのバッテリー残量が低下します</String>
+    <String key="More:NotifyCapsLock">Caps Lock が押されました</String>
+    <String key="More:NotifyScrollLock">Scroll Lock が押されました</String>
+    <String key="More:NotifyLockKey">ロックキーが押されました</String>
+    <String key="More:DisabledKeys">無効になったキー</String>
+    <String key="More:DisabledKeysText">無効にしたいキーをチェックしてください。</String>
+    <String key="More:KeysCapsLock">Caps Lock</String>
+    <String key="More:KeysScrollLock">Scroll Lock</String>
+    <String key="More:KeysInsert">挿入</String>
+    <String key="More:KeysWindows">Windows/スタート キー</String>
+    <String key="More:KeysNumLock">Num Lock</String>
+    <String key="More:Unifying">Unifying</String>
+    <String key="More:UnifyingText">%BrandName% Unifying レシーバーがこのコンピュータに接続されています。 最大 6 台の対応ワイヤレスマウス、キーボードまたはその他の Unifying デバイスを、1 つの %BrandName% Unifying レシーバーとペアリングすることができます。</String>
+    <String key="More:LearnMore">詳細を確認</String>
+    <String key="More:OpenUnifying">Unifying ソフトウェアを開く</String>
+    <String key="More:Bluetooth">Bluetooth</String>
+    <String key="More:SoftwareVersion">ソフトウェア バージョン: </String>
+    <String key="More:FirmwareVersion">ファームウェア バージョン: </String>
+    <String key="More:CopyTrade">© 2018 %BrandName%。 %BrandName%、Logi およびその他の %BrandName% マークは %BrandName% によって所有され、登録されている場合があります。 その他のすべての商標はそれぞれの所有者の財産です。</String>
+    <String key="More:Support">サポート</String>
+    <String key="More:SupportText">サポートサイトにアクセスすると、サポート、ドキュメントの検索、ダウンロード、ユーザーフォーラムへのアクセスなどができます。</String>
+    <String key="More:DeveloperMode">デベロッパーモード</String><!--NEW 1/11/2018-->
+    <String key="More:DeveloperModeText">開発目的で、無署名のサードパーティアプリケーションプロファイルをインストールし、使用することができます。 詳細 </String><!--NEW 1/11/2018-->
+    <String key="More:DeveloperModeLink">Options SDK</String><!--NEW 1/11/2018-->
+    <String key="More:DeveloperModeEnabled">デベロッパーモード有効</String><!--NEW 1/11/2018-->
+
+    <String key="UpdateStatus:Checking">更新の確認中...</String>
+    <String key="UpdateStatus:NoUpdateAvailable">ソフトウェアは最新です</String>
+    <String key="UpdateStatus:DownloadInProgress">更新をダウンロード中...</String>
+    <String key="UpdateStatus:DownloadSuccess">ダウンロードが完了しました</String>
+    <String key="UpdateStatus:DownloadFailure">ダウンロードできませんでした</String>
+    <String key="UpdateStatus:InstallInProgress">更新をインストール中...</String>
+    <String key="UpdateStatus:InstallSuccess">ソフトウェアは最新です</String>
+    <String key="UpdateStatus:InstallFailure">インストールできませんでした</String>
+    <String key="UpdateStatus:NoInternetConnection">インターネット接続が検出されませんでした。後で再度お試しください。</String>
+
+    <String key="Modal:RestoreDefaultsWarning">このデバイスの設定はデフォルト値に戻ります。 すべてのデバイスに適用されるユニバーサル設定は元に戻りません。 [続行] を選ぶとデフォルト設定に戻り、[キャンセル] を選ぶと現在の設定が保持されます。</String>
+    <String key="Modal:InstallUpdates">更新のインストール準備ができました。 [続行] を選ぶと今すぐインストールされ、[後でインストール] を選ぶとこのアプリを次回開いた時にリマインダーが表示され、[スキップ] を選ぶとこの更新が無視されます。</String>
+    <String key="Modal:InteractiveUpdates">更新のインストール準備ができました。 [続行] を選ぶと今すぐ更新され、[後でインストール] を選ぶとこのアプリを次回開いた時にリマインダーが表示されます。</String>
+    <String key="Modal:RelaunchUI">%BrandName% Options が更新されました。新機能を有効にするために自動的に再起動します。</String>
+    <String key="Modal:ClearHostChannel">これにより、選択したホストが Easy-Switch 機能から一時的に削除されます。 %%Buttons:Continue%% をクリックして続行、または %%Buttons:Cancel%% をクリックして中止します。</String>
+    <String key="Modal:UnknownFeatures">%BrandName% Options は、接続された 1 台または複数のデバイスに不明な機能を検出しました。 これらの機能を適切にサポートするには、必ず %BrandName% Options が常に最新バージョンであるようにしてください。</String>
+    <String key="Modal:ConfirmEnableDeveloperMode">デベロッパーモードを有効化することで、%BrandName% によって承認・署名されていないアプリケーションプロファイルをインストールし、使用することができます。 このアクションはお使いのデバイスとアプリケーションに影響を及ぼす可能性があります。 問題が発生した場合、弊社のサポートへ連絡する前に、デベロッパーモードを無効にしてください。 
+
+注：分析は自動的にオンになります。</String><!--NEW 1/11/2018-->
+    <String key="Modal:ConfirmDisableDeveloperMode">デベロッパーモードを無効にすると、%BrandName% によって承認・署名されていない新しいアプリケーションプロファイルはインストールできません。 すでにインストールされている無署名のアプリケーションプロファイルはプロファイルリストから削除されます。</String><!--NEW 1/11/2018-->
+    <String key="Modal:OnboardingSelectionError">アプリケーションに割り当てることができるプロファイルは 1 つのみです。リストからプロファイルを 1 つ選択してください。 プロファイルをすでに有効化した場合、アプリケーションプロファイルを「アプリケーション固有の設定」から削除したことをまず確認し、プロファイルのインストールを再試行してください。</String><!--NEW 1/11/2018-->
+
+    <String key="DFUState:DFU_WELCOME_PAGE_STEP0">==DeviceName== のファームウェアの更新が利用可能です。 このプロセス中、==DeviceName== は使用できなくなる場合があります。 続行しますか?</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_PAIRED_STEP1">ペアリングされたデバイスを確認しています...</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_PAIRED_STEP1_WAITING">お使いの ==DeviceName== はペアリングされていないようです。今すぐペアリングを行うか、後で再度お試しください。</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_ACTIVE_STEP2">デバイスが動作中であることを確認しています...</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_ACTIVE_STEP2_WAITING">==DeviceName== を検出できません。 電源が入り、動作していることを確認してください。</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_BATTERY_OK_STEP3">電池の充電状態を確認しています...</String>
+    <String key="DFUState:DFU_PREREQ_FW_VERSION_CHECK_STEP3_PLUS">ファームウェアバージョンを確認しています...</String>
+    <String key="DFUState:DFU_ENTER_DFU_MODE_STEP4">デバイスを、ファームウェア更新モードにしています...</String>
+    <String key="DFUState:DFU_ENTER_DFU_MODE_STEP4_WAITING">更新をインストールするには、==DeviceName== をオフにしてから再度オンにしてください。 更新が開始したら、更新が完了するまでデバイスをオフにしたり、外したりしないでください。</String>
+    <String key="DFUState:DFU_SEND_FIRST_DFU_PACKET_STEP5">ファームウェア更新の初期化中...</String>
+    <String key="DFUState:DFU_PACKET_STEP5_RESPONSE_WAITING">==DeviceName== ファームウェアを更新しています</String>
+    <String key="DFUState:DFU_ABORT_INTERNAL_ERROR">更新プロセス中にエラーが発生しました。 更新のインストールを再試行してください。</String>
+    <String key="DFUState:DFU_ABORT_LOW_BATTERY_ERROR">==DeviceName== の電池残量が少なすぎるため、更新をインストールできません。 電池を充電または交換し、更新のインストールを再試行してください。</String>
+    <String key="DFUState:DFU_ABORT_START_FAILED_ERROR">更新プロセス中にエラーが発生しました。 更新のインストールを再試行してください。</String>
+    <String key="DFUState:DFU_SUCCESS">==DeviceName== のファームウェアが更新されました!</String>
+    <String key="DFUState:DFU_ABORT">不明な問題によって、ファームウェアの更新が中止されました。 後で再度お試しください。</String>
+    <String key="DFUState:DFU_DONE">==DeviceName== は使用準備ができています。</String>
+    <String key="DFUState:DFU_ABORT_FW_VERSION_UPTO_DATE">お使いのデバイスのファームウェアは既に最新です。</String>
+    <String key="DFUState:DFU_BLE_MODE_NOT_SUPPORTED">Bluetooth とペアリングしている場合は、お使いの ==DeviceName== は更新できません。 Unifying レシーバーとペアリングされていることを確認し、再度お試しださい。 ありがとうございます。</String>
+    <String key="DFUState:DFU_EXIT_FROM_WELCOME_PAGE"/>
+    <String key="DFUState:Unknown">不明な DFU 状態に達しました:</String>
+
+    <String key="GenericFeatures:ProgramControls">プログラム可能なコントロール</String>
+    <String key="GenericFeatures:UnsupportedFeatures">未サポートの機能</String>
+
+    <String key="MouseFeatures:MiddleButton">中央ボタン</String>
+    <String key="MouseFeatures:PointerSpeed">ポインタの速度</String>
+    <String key="MouseFeatures:ScrollDirection">スクロールホイールの方向</String>
+    <String key="MouseFeatures:SmoothScroll">スムーズ スクロール</String>
+    <String key="MouseFeatures:SmartShift">SmartShift</String>
+    <String key="MouseFeatures:SmartShiftThreshold">SmartShift の感度</String>
+    <String key="MouseFeatures:DefaultWheelMode">固定スクロールホイール モード</String>
+    <String key="MouseFeatures:SwapLeftRight">左/右ボタンのスワップ</String>
+    <String key="MouseFeatures:SmartShiftHintOff">固定モードは非アクティブです。 (SmartShift を無効にし、モードシフトがボタンに割り当てられていないことを確認してください。)</String>
+    <String key="MouseFeatures:SmartShiftHintOn">固定モードがアクティブです。 </String>
+    <String key="MouseFeatures:Enabled">有効</String>
+    <String key="MouseFeatures:Disabled">無効</String>
+    <String key="MouseFeatures:Traditional">従来</String>
+    <String key="MouseFeatures:Inverted">反転</String>
+    <String key="MouseFeatures:Default">既定値</String>
+    <String key="MouseFeatures:Ratchet">ラチェット</String>
+    <String key="MouseFeatures:Freespin">フリースピン</String>
+    <String key="MouseFeatures:HorScroll">サムホイールの方向</String>
+    <String key="MouseFeatures:NotAssigned">割り当てられていません</String>
+    <String key="MouseFeatures:Backlight">次の時間経過後にイルミネーションをオフにする</String>
+    <String key="MouseFeatures:10Sec">10秒</String>
+    <String key="MouseFeatures:20Sec">20 秒</String>
+    <String key="MouseFeatures:30Sec">30 秒</String>
+    <String key="MouseFeatures:1Min">1 分</String>
+    <String key="MouseFeatures:5Min">5 分</String>
+    <String key="MouseFeatures:10Min">10 分</String>
+    <String key="MouseFeatures:Illumination">イルミネーションを有効化</String>
+    <String key="MouseFeatures:HandDetection">手の検出時</String>
+    <String key="MouseFeatures:StartTyping">タイピング開始時</String>
+
+    <String key="AddDevice">デバイスの追加</String>
+    <String key="AddDevice:UnifyingHeadline">Unifying デバイスのセットアップ</String>
+    <String key="AddDevice:WirelessHeadline">ワイヤレスデバイスのセットアップ</String>
+    <String key="AddDevice:UnifyingDescription">最大 6 台の対応ワイヤレスマウスおよびキーボードを、1 つの %BrandName% Unifying レシーバーとペアリングします。</String>
+    <String key="AddDevice:WirelessDescription">最大 6 台の対応ワイヤレスマウスおよびキーボードを 1 つの %BrandName% Unifying レシーバーとペアリング、またはワイヤレスマウスまたはキーボードを %BrandName% 超小型レシーバーとペアリングします。</String>
+    <String key="AddDevice:LtdOnlyDescription">ワイヤレスマウスまたはキーボードをペアリングします。</String>
+    <String key="AddDevice:UnifyingButton">Unifying デバイスの追加</String>
+    <String key="AddDevice:WirelessButton">ワイヤレス デバイスを追加</String>
+    <String key="AddDevice:AdvancedButton">高度な Unifying アプリ</String>
+    <String key="AddDevice:NoUnifyingHeadline">Unifying レシーバーがありません</String>
+    <String key="AddDevice:NoUnifyingDescription">デバイスを追加するには、Unifying レシーバーをコンピュータに接続し、[Unifying デバイスの追加] ボタンが表示されるまで数秒待ちます。</String>
+    <String key="AddDevice:BluetoothHeadline">Bluetooth デバイスのセットアップ</String>
+    <String key="AddDevice:BluetoothDescription">Windows でペアリングユーティリティを使用して Bluetooth デバイスを追加します。</String>
+    <String key="AddDevice:BluetoothButton">Bluetooth デバイスの追加</String>
+    <String key="AddDevice:NoBluetoothHeadline">Bluetooth レシーバーがありません</String>
+    <String key="AddDevice:BluetoothOffHeadline">Bluetooth レシーバーがオフです</String>
+    <String key="AddDevice:DevicesDetected">検出されたデバイス</String>
+    <String key="AddDevice:NoDevicesDetected">デバイスは検出されませんでした</String>
+    <String key="AddDevice:BluetoothSmartCapable">お使いの PC は Bluetooth Smart デバイスをサポートしていす。</String>
+    <String key="AddDevice:BluetoothSmartIncapable">お使いの PC は Bluetooth Smart デバイスをサポートしていません。</String>
+
+    <!-- DJCU components -->
+    <String key="DJCU:ConnectTitle">コンピュータに接続するデバイスを再起動してください</String>
+    <String key="DJCU:Connect1">1. OFF-ON スライダー (以下の画像) を見つけます。</String>
+    <String key="DJCU:Connect2">2. スライダーを OFF にしてから、ON にします。 (その後デバイスがペアリングされるまで待ちます)</String>
+    <String key="DJCU:Connect3">(ヒント: スライダーは、デバイスの底面または右上にあります。)</String>
+    <String key="DJCU:Connect4">* 一部の %BrandName% デバイスはこのワイヤレスレシーバーと互換性がありません。</String>
+
+    <String key="DJCU:TimeoutTitle">ペアリングできませんでした</String>
+    <String key="DJCU:Timeout1">予測された時間内にデバイスをペアリングできませんでした。</String>
+    <String key="DJCU:Timeout2">‘%%Buttons:TryAgain%%’をクリックし、ペアリングプロセスを再開してください。</String>
+    <String key="DJCU:Timeout3">または、このデバイスを使用しない場合は ‘%%Buttons:Cancel%%’をクリックします。</String>
+    <String key="DJCU:Timeout4">トラブルシューティング情報は、ここをクリックしてください。</String>
+
+    <String key="DJCU:ReceiversFullTitle">全てのワイヤレス レシーバーが使用中です</String>
+    <String key="DJCU:ReceiversFull1">現在のレシーバーには、追加の Unifying またはワイヤレス デバイスの接続に利用できるスロットがありません。</String>
+    <String key="DJCU:ReceiversFull2">別のデバイスを接続するには、新しい Unifying レシーバーを接続する必要があります。</String>
+
+    <String key="DJCU:MultiReceiverTitle">複数のワイヤレス レシーバーが接続されていることが検出されました</String>
+    <String key="DJCU:MultiReceiver1">特定のレシーバーにペアリングしたい場合、ペアリングに使用するものを除く全ての Unifying レシーバーをコンピュータから取り外してください。</String>
+    <String key="DJCU:MultiReceiver2">ペアリング用のレシーバーを自動的に選択するには、‘%%Buttons:Continue%%’をクリックしてください。</String>
+
+    <String key="DJCU:OtpErrorTitle">デバイスまたはレシーバーの障害</String>
+    <String key="DJCU:OtpError1">ペアリングを試みていたデバイスまたはレシーバーは、ペアリング回数が多すぎるため、これ以上ペアリングすることができません。</String>
+
+    <String key="DJCU:IncompatibleDeviceTitle">デバイスに互換性がありません。</String>
+    <String key="DJCU:IncompatibleDevice1">デバイスをペアリングできませんでした。 デバイスはレシーバーと互換性がありません。 デバイスに同梱のレシーバーを使用してください。</String>
+
+    <String key="DJCU:PairSuccessTitle">ペアリングが完了しました</String>
+    <String key="DJCU:PairSuccess1">お使いの %DeviceName% のペアリングが完了しました。</String>
+
+    <!-- Easy-Switch HostInfo Types (feature 0x1814) -->
+    <!-- public enum HostInfoHostTypes { Unset = 0, Unknown = 1, Windows = 2, Win7 = 3, Win8 = 4, Win10 = 5, MacOS = 6, Mac107 = 7, Mac108 = 8, Mac109 = 9 } -->
+    <String key="HostInfo:Unset">ホストがありません</String>
+    <String key="HostInfo:Unknown">不明なホストタイプ</String>
+    <String key="HostInfo:Windows">Windows</String>
+    <String key="HostInfo:Win7">Windows 7</String>
+    <String key="HostInfo:Win8">Windows 8</String>
+    <String key="HostInfo:Win10">Windows 10</String>
+    <String key="HostInfo:MacOS">Mac OS</String>
+    <String key="HostInfo:Mac107">Mac OSX 10.7</String>
+    <String key="HostInfo:Mac108">Mac OSX 10.8</String>
+    <String key="HostInfo:Mac109">Mac OSX 10.9</String>
+
+    <!-- MP HostInfo Types (features 0x4531 and 0x1815) -->
+    <!-- public enum Feature4351Platforms { Unknown = 0, Windows = 1, WinEmb = 2, Linux = 3, Chrome = 4, Android = 5, MacOS = 6, IOS = 7 } -->
+    <String key="MPHostInfo:None">未ペアリング</String>
+    <String key="MPHostInfo:Unknown">不明</String>
+    <String key="MPHostInfo:Windows">Windows</String>
+    <String key="MPHostInfo:WinEmb">Windows IoT</String>
+    <String key="MPHostInfo:Linux">Linux</String>
+    <String key="MPHostInfo:Chrome">Chrome</String>
+    <String key="MPHostInfo:Android">Android</String>
+    <String key="MPHostInfo:MacOS">Mac OS</String>
+    <String key="MPHostInfo:IOS">iOS</String>
+
+    <!-- App profiles Strings -->
+    <String key="AppProfAddApp">アプリケーションの追加</String>
+    <!--<String key="AppProfAddAppTT">Click to add a new application profile for this device</String>
+     <String key="AppProfBrowseTT">Click to add a program manually using a file browser</String>-->
+    <String key="AppProfDeleteWarning">これによって、==ApplicationName== のカスタム設定が永久に削除されます。 削除するには [続行] を選択、またはカスタム設定を保持するには [キャンセル] を選択します。</String>
+    <String key="AppProfDefaultSettings">すべてのアプリケーション</String>
+    <!--<String key="AppProfDefaultSettingsTT">Click to update All Applications settings</String>-->
+    <String key="AppProfRestoreProfileWarning">==ApplicationName== の設定は「すべてのアプリケーション」設定に復元されます。 復元するには [続行] を選択、またはカスタム設定を保持するには [キャンセル] を選択します。</String>
+    <String key="AppProfRestoreProfileWarningCraft">'==ApplicationName==' の設定はデフォルトの Craft プロファイル設定に復元されます。 復元するには [続行] を選択、またはカスタム設定を保持するには [キャンセル] を選択します。</String><!--NEW-->
+    <String key="AppProfToggleText">アプリケーション固有の設定</String>
+    <String key="AppProfDetailHeading">特定のアプリケーションのカスタム設定を作成</String>
+    <String key="AppProfDetailDescription">「アプリケーション固有」の設定では、お気に入りのアプリケーションのボタンやアクションをカスタマイズすることができます。 現在の「すべてのアプリケーション」設定は影響を受けず、この機能は、カスタム設定を失わずにいつでも有効化/無効化することができます。</String>
+    <String key="AppProfOther">その他...</String>
+    <String key="AppProfAddAppHeader">アプリケーションを選択</String>
+
+    <String key="Flow:ConfigurationError">%BrandName% Flow 構成ファイルエラー。マウスのオフ/オンを行い、%BrandName% Options を再起動してください。</String>
+    <String key="Flow:LearnMore">詳細を確認</String>
+    <String key="Flow:MoreOptions">その他のオプション</String>
+    <String key="Flow:ManualSetUp">手動セットアップ</String>
+    <String key="Flow:LinkKeyboard">リンクキーボード</String>
+    <String key="Flow:CopyPaste">コピー &amp; 貼り付け</String>
+    <String key="Flow:ScreenCorners">画面の隅</String>
+    <!--<String key="Flow:CannotFlow">Cannot Flow</String>
+    <String key="Flow:CanFlow">Can Flow</String>-->
+    <String key="Flow:SwitchBetweenComputers">コンピュータ間で切り替え</String>
+    <String key="Flow:HoldCtrlAndMove">Ctrl を押しながら端へ移動</String>
+    <String key="Flow:MoveToEdge">端へ移動</String>
+
+    <String key="Flow:SettingUpFlowHeader">%BrandName% Flow をセットアップしています...</String>
+    <String key="Flow:SettingUpFlowSearching">コンピュータを検索しています</String>
+    <String key="Flow:SettingUpFlowFound">コンピュータが見つかりました</String>
+    <String key="Flow:SettingUpFlow">コンピュータをセットアップしています</String>
+    <String key="Flow:SettingUpFlowNote">このプロセスには最長 1 分かかります</String>
+    <String key="Flow:SettingUpFlowManual">他のコンピュータ名または IP アドレスを入力してください</String>
+    <String key="Flow:SettingUpFlowSuccess">%BrandName% Flow はセットアップが完了し、使用準備ができています。</String>
+    <String key="Flow:SettingUpFlowManualFailed">他のコンピュータへの接続が見つからない、または接続を確立できません。 以下を確認してください:
+ - %BrandName% Options が他のコンピュータにインストールされている
+ - マウスがコンピュータとペアリングされている
+ - お使いのコンピュータが同じネットワーク上にある
+上記を確認してから、他のコンピュータから Flow の有効化をお試しください。</String> 
+    <String key="Flow:SettingUpFlowOtherMachine">他のコンピュータ上で Flow の有効化を試みました。</String>
+      <String key="Flow:ShowNotificationIcon">タスクバーアイコンを表示</String>
+    <String key="Flow:RemoveFlowHost">このコンピュータが削除され、再度追加するまで %BrandName% Flow で使用できなくなります。 削除するには [続行] を選択、保持するには [キャンセル] を選択します。</String>
+    <String key="Flow:RestoreFlowDefaults">%BrandName% Flow 設定が復元されます。 再度有効化するか、または Flow が有効な別のコンピュータから追加しないと、このコンピュータ上で Flow を使用できません。 復元するには [続行] を選択、現在の設定を保持するには [キャンセル] を選択します。</String>
+    <String key="Flow:FeedbackButton">フィードバック</String>
+    <String key="Flow:FeedbackFormHint">フィードバックをここに入力してください...</String>
+
+    <String key="Flow:WelcomeTitle">%BRANDNAME% FLOW へようこそ</String>
+    <String key="Flow:WelcomeDescription1">カーソルを画面の端に移動させてコンピュータ間をシームレスに切り替え、テキスト、画像、およびファイルをコンピュータ間で素早くコピー&amp;貼り付け。</String>
+    <String key="Flow:WelcomeHowToSetup">セットアップ方法</String>
+    <String key="Flow:WelcomeEnabledFlow">FLOW を有効化</String>
+
+      <String key="Flow:WelcomeTitlePart1">製品を使用してみて感じたことを教えてください </String>
+    <String key="Flow:feedback">フィードバック</String>
+    <String key="Flow:WelcomeTitlePart2"> ボタン</String>
+    <String key="Flow:Enable">Flow を有効化</String>
+    <String key="Flow:LogitechFlow">%BrandName% Flow</String>
+    <String key="Flow:TutorialSlide1">マウスをコンピュータとペアリングします。</String>
+    <String key="Flow:TutorialSlide2">お使いのコンピュータが同じネットワーク上にあることを確認してください。</String>
+    <String key="Flow:TutorialSlide3">%BrandName% Options をコンピュータにダウンロードし、インストールします。</String>
+
+    <String key="Flow:TutorialSlide4">それだけです! %BrandName% Flow の使用準備ができます。</String>
+    
+    <String key="Flow:DiscoveryFailedUnableToEstablish">他のコンピュータ上で %BRANDNAME% FLOW を有効化してください</String>
+    <String key="Flow:DiscoveryFailedFollowTheseSteps1">%BrandName% Flow はネットワーク上の他のコンピュータを自動的に検出できませんでした。</String>
+    <String key="Flow:DiscoveryFailedFollowTheseSteps2">インターネット接続があり、以下の手順に従ったことを確認してください。</String>
+    <String key="Flow:DiscoveryFailed:DownloadAndInstall">最新バージョンの %BRANDNAME% OPTIONS のダウンロードとインストール</String>
+    <String key="Flow:DiscoveryFailed:Pair">マウスを他のコンピュータにペアリングする</String>
+    <String key="Flow:DiscoveryFailed:ConnectSameNetwork">コンピュータを同じネットワークに接続する</String>
+    <String key="Flow:DiscoveryFailed:EnabledOnAll">全てのコンピュータ上で %BRANDNAME% FLOW を有効化</String>
+    <String key="Flow:DiscoveryFailed:TroubleshootingLink">トラブルシューティング</String>
+    <String key="Flow:DiscoverySucceeded:Success">成功</String>
+    <String key="Flow:DiscoverySucceeded:Continue">続行</String>
+    <String key="Buttons:CancelALLCAPS">キャンセル</String>
+
+    <!--Ichitaro-->
+    <String key="Ichitaro:AppName">一太郎2017</String>
+    <!--End Ichitaro-->
+
+    <!--Duolink-->
+    <String key="Duolink:ToggleDefault">デフォルト</String>
+    <String key="Duolink:ToggleFn">DUOLINK</String> <!--MODIFIED 10/10/2017-->
+    <String key="Duolink:ArrowHover">Fn + ジェスチャー</String>
+    <String key="Duolink:DeviceListSelectInfo">キーボードの Fn キーによって、お使いの %BrandName% マウスの機能性を拡張することができます。 構成するマウスをクリックします。</String>
+    <String key="Duolink:TutorialText">DuoLink によって、マウスボタンに様々なアクションのセットを割り当て、*Fn* キーを押して実行することができます。 *Fn* キーを押しながらマウスを動かして、様々なジェスチャーを実行することもできます。</String>
+    <String key="Duolink:TutorialFn">Fn</String>
+    <String key="Duolink:FnGestureMontionDetail">マウスを動かしながらキーボードの Fn キーを押し続けます</String>
+    <String key="Duolink:NoDevicesAddDevices">Duolink デバイスが見つかりませんでした。 ここをクリックして追加します。</String>
+    <!--End Duolink-->
+    
+    <!--Analytics-->
+    <String key="Analytics:HelpImprove">%BrandName% を助け、匿名の診断と使用データを自動的に送信することで、製品とサービスを強化します。 %BrandName% の詳細</String>
+    <String key="Analytics:PrivacyPolicy"> 個人情報保護方針</String>
+    <String key="Analytics:HelpImproveCheckBox">%BrandName% を助け、製品とサービスを自動的に強化します</String>
+    <String key="Analytics:Analytics">分析</String>
+
+    <String key="Device:Unknown">不明な %BrandName% デバイス</String>
+  
+    <!--Craft-->
+    <String key="Craft:Turn">回す</String>
+    <String key="Craft:Press">押す</String>
+    <String key="Craft:PressAndTurn">押す &amp; 回す</String>
+    <String key="Craft:NameYourFunction">カスタム機能に名前を付ける</String>
+    <String key="Craft:ExUndoRedo">例: 元に戻す / やり直す</String>
+    <String key="Craft:TurnRight">右に回転</String>
+    <String key="Craft:TurnLeft">左に回転</String>
+    <String key="Craft:Ratchet">ラチェット</String>
+    <String key="Craft:MaxCharactersX">最大文字数: %d</String>
+    
+    <String key="Craft:ButtonInstallProfiles">プロファイルのインストール</String>
+    <String key="Craft:ApplicationsWithProfiles">アプリケーションと Craft プロファイル</String>
+    <String key="Craft:OtherApplications">他のアプリケーション</String>
+    <String key="Craft:PressAndTurnTooltip">[すべてのアプリケーション] 設定でのみこの機能を変更することができます。</String>
+    
+    <String key="Craft:ButtonContinueWithoutInstalling">プロファイルをインストールせずに続行</String>
+    <String key="Craft:ButtonBackToOptions">OPTIONS に戻る</String>    
+    <String key="Craft:OnboardingWelcome">CRAFT へようこそ</String>
+    <String key="Craft:OnboardingWelcomeDescription">クリエイティブかつ完全にコントロール</String>
+    <String key="Craft:OnboardingSearch">最適化されたアプリを検索しています</String>
+    <String key="Craft:OnboardingSearchDescription">このコンピュータ上で Craft 用に最適化されたアプリを検索しています</String>
+    <String key="Craft:OnboardingNoOptimizedApps">コンピュータ上には最適化されたアプリはありません</String>
+    <String key="Craft:OnboardingNoOptimizedAppsDescription">Craft 用に最適化されたアプリケーションはこのコンピュータにインストールされていないようです</String>
+    <String key="Craft:OnboardingNoOptimizedApps2">コンピュータ上に CRAFT 用に最適化されたアプリはありません</String>
+    <String key="Craft:OnboardingNoOptimizedAppsDescription2">コンピュータ上に Craft 用に最適化されたアプリは見つかりませんでした... :(</String>
+    <String key="Craft:OnboardingNoOptimizedAppsDescription3">コンピュータ上に Craft 用に最適化されたアプリは見つかりませんでした。</String><!--NEW 8/2/2017-->
+    <String key="Craft:OnboardingOneOptimizedApp">CRAFT 用に最適化されたアプリが 1 つ見つかりました</String>
+    <String key="Craft:OnboardingOneOptimizedApps">CRAFT 用に最適化された %d アプリを検出しました</String>
+    <String key="Craft:OnboardingOneOptimizedAppDescription">Craft 用に最適化された残りのアプリケーションはこのコンピュータにインストールされていないようです</String>
+    <String key="Craft:OnboardingXOptimizedApps">最適化された %d アプリがインストールされています</String>
+    <String key="Craft:OnboardingXOptimizedAppsDescription">使用している各アプリの最適化されたプロファイルを選択してインストールしてください</String>
+    <String key="Craft:OnboardingProfilesInstalledDescription">これらのアプリケーション用のプロファイルはすでにインストールされているようです</String>
+    <String key="Craft:OnboardingInstallingProfiles">プロファイルをインストールしています</String>
+    <String key="Craft:OnboardingInstallingProfilesDescription">プロファイルをコンピュータにインストールしています</String>
+    <String key="Craft:OnboardingInstallingProfilesProblem">プロファイル インストールの問題</String>
+    <String key="Craft:OnboardingInstallingProfilesPlugins">プラグインインストールの問題</String>
+    <String key="Craft:OnboardingInstallingProfilesProblemDescription">弊社のウェブサイトでトラブルシューティングを確認してください</String>
+    <String key="Craft:OnboardingInstallingProfilesDone">プロファイルがインストールされました</String>
+    <String key="Craft:OnboardingInstallingProfilesDoneDescription">最適化されたアプリを再起動して、インストールプロセスを完了してください</String>
+    <String key="Craft:OnboardingWatchTutorial">チュートリアルを観る</String>
+    <String key="Craft:OnboardingWatchTutorials">チュートリアルを観る</String>
+    <String key="Craft:OnboardingWatchTutorialDescription">コントロールホイールによって、最適化されたそれぞれのアプリでワークフローがどのように一変するかをご覧ください</String>
+    <String key="Craft:OnboardingWatchTutorialDescription2">最適化されたそれぞれのアプリでのコントロールホイールの使用方法をご覧ください</String>
+    <String key="Craft:OnboardingDone">準備が完了しました</String>
+    <String key="Craft:OnboardingDoneDescription">Craft は、最もよく使用するアプリ用に最適化されています</String>
+    <String key="Craft:OnboardingSelectedNewApps">新しいアプリが選択されました</String>
+    <String key="Craft:OnboardingSelectedNewAppsDescription">ボタンをクリックしてプロファイルをインストール</String>
+    <String key="Craft:OnboardingUnsignedPlugin">（無署名）</String><!--NEW 1/11/2018-->
+
+    <String key="Craft:RestoreDefaults">==ApplicationName== の設定はデフォルトの Craft プロファイル設定に復元されます。 復元するには [続行] を選択、またはカスタム設定を保持するには [キャンセル] を選択します。</String><!--NEW 8/8/2017-->
+    <!--End Craft-->
+  
+  </Strings>
+</StringDictionary>

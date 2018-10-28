@@ -1,0 +1,100 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "Contestuale"
+        },
+        {
+            "ID": "savefile",
+            "value": "Salva file"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zoom"
+        },
+        {
+            "ID": "sheetNavigation",
+            "value": "Navigazione foglio"
+        },
+        {
+            "ID": "horizontalScroll",
+            "value": "Scorrimento orizzontale"
+        },
+        {
+            "ID": "createChart",
+            "value": "Crea grafico"
+        },
+        {
+            "ID": "createTable",
+            "value": "Crea tabella"
+        },
+        {
+            "ID": "tableStyle",
+            "value": "Stile tabella"
+        },
+        {
+            "ID": "chartType",
+            "value": "Tipo grafico"
+        },
+        {
+            "ID": "quickLayout",
+            "value": "Layout rapido"
+        },
+        {
+            "ID": "changeColor",
+            "value": "Modifica colore"
+        },
+        {
+            "ID": "chartStyle",
+            "value": "Stile grafico"
+        },
+        {
+            "ID": "pieChart",
+            "value": "Grafico a torta"
+        },
+        {
+            "ID": "columnChart",
+            "value": "Istogramma"
+        },
+        {
+            "ID": "barChart",
+            "value": "Grafico a barre"
+        },
+        {
+            "ID": "areaChart",
+            "value": "Grafico ad area"
+        },
+        {
+            "ID": "stockChart",
+            "value": "Grafico azionario"
+        },
+        {
+            "ID": "surfaceChart",
+            "value": "Grafico a superficie"
+        },
+        {
+            "ID": "radarChart",
+            "value": "Grafico radar"
+        },
+        {
+            "ID": "tableColor",
+            "value": "Colore tabella"
+        },
+        {
+            "ID": "xyscatterChart",
+            "value": "Grafico a dispersione"
+        },
+        {
+            "ID": "lineChart",
+            "value": "Grafico a linee"
+        },
+        {
+            "ID": "comboChart",
+            "value": "Grafico combinato"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Assegnazione tasti"
+        }
+    ]
+}

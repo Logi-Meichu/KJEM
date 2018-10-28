@@ -1,0 +1,412 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "crownbrightness",
+            "value": "밝기"
+        },
+        {
+            "ID": "crownvolume",
+            "value": "볼륨"
+        },
+        {
+            "ID": "crownmediacontrol",
+            "value": "미디어 제어"
+        },
+        {
+            "ID": "crownexposeappswitch",
+            "value": "응용 프로그램 전환"
+        },
+        {
+            "ID": "crowntabscommand",
+            "value": "탭 스위치"
+        },
+        {
+            "ID": "crownswitchdesktop",
+            "value": "바탕화면 스위치"
+        },
+        {
+            "ID": "crownzoom",
+            "value": "돋보기"
+        },
+        {
+            "ID": "crownnavigatepages",
+            "value": "페이지 탐색"
+        },
+        {
+            "ID": "crowncustomkeyleftright",
+            "value": "사용자 지정 키"
+        },
+        {
+            "ID": "crownhscroll",
+            "value": "수평 스크롤"
+        },
+		{
+            "ID": "brightness",
+            "value": "밝기"
+        },
+        {
+            "ID": "volume",
+            "value": "볼륨"
+        },
+        {
+            "ID": "mediaplayer",
+            "value": "미디어 플레이어"
+        },
+        {
+            "ID": "appswitch",
+            "value": "응용 프로그램 전환"
+        },
+        {
+            "ID": "tabsswitch",
+            "value": "탭 스위치"
+        },
+        {
+            "ID": "desktopswitch",
+            "value": "바탕화면 스위치"
+        },
+        {
+            "ID": "crowndesktopswitch",
+            "value": "바탕화면 스위치"
+        },
+        {
+            "ID": "zoom",
+            "value": "돋보기"
+        },
+        {
+            "ID": "gesturebutton",
+            "value": "제스처 버튼"
+        },
+        {
+            "ID": "modeshiftbutton",
+            "value": "모드 전환 버튼"
+        },
+        {
+            "ID": "advancedclick",
+            "value": "고급 클릭"
+        },
+        {
+            "ID": "applicationmenu",
+            "value": "응용 프로그램 메뉴"
+        },
+        {
+            "ID": "back",
+            "value": "뒤로"
+        },
+        {
+            "ID": "calculator",
+            "value": "계산기"
+        },
+        {
+            "ID": "charms",
+            "value": "참 메뉴"
+        },
+        {
+            "ID": "closewindow",
+            "value": "창 닫기"
+        },
+        {
+            "ID": "copy",
+            "value": "복사"
+        },
+        {
+            "ID": "cut",
+            "value": "잘라내기"
+        },
+        {
+            "ID": "devices",
+            "value": "장치"
+        },
+        {
+            "ID": "documents",
+            "value": "문서"
+        },
+        {
+            "ID": "doubleclick",
+            "value": "두 번 클릭"
+        },
+        {
+            "ID": "email",
+            "value": "이메일"
+        },
+        {
+            "ID": "forward",
+            "value": "앞으로"
+        },
+        {
+            "ID": "home",
+            "value": "홈"
+        },
+        {
+            "ID": "myhome",
+            "value": "내 홈"
+        },
+        {
+            "ID": "mymusic",
+            "value": "내 음악"
+        },
+        {
+            "ID": "inputlanguage",
+            "value": "입력 언어"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "입력할 키 지정"
+        },
+        {
+            "ID": "launchapplication",
+            "value": "응용 프로그램 실행"
+        },
+        {
+            "ID": "leftclick",
+            "value": "마우스 왼쪽 버튼으로 클릭"
+        },
+        {
+            "ID": "lock",
+            "value": "잠금"
+        },
+        {
+            "ID": "maximizewindow",
+            "value": "창 최대화"
+        },
+        {
+            "ID": "middlebutton",
+            "value": "가운데 버튼"
+        },
+        {
+            "ID": "minimizewindow",
+            "value": "창 최소화"
+        },
+        {
+            "ID": "modifierkeys",
+            "value": "수정자 키"
+        },
+        {
+            "ID": "mousesensitivity",
+            "value": "마우스 민감도"
+        },
+        {
+            "ID": "music",
+            "value": "음악"
+        },
+        {
+            "ID": "mute",
+            "value": "음소거"
+        },
+        {
+            "ID": "mycomputer",
+            "value": "내 컴퓨터"
+        },
+        {
+            "ID": "mydocuments",
+            "value": "내 문서"
+        },
+        {
+            "ID": "myvideos",
+            "value": "내 비디오"
+        },
+        {
+            "ID": "next",
+            "value": "다음"
+        },
+        {
+            "ID": "nextprevious",
+            "value": "다음/이전"
+        },
+        {
+            "ID": "nexttrackfastforward",
+            "value": "다음 트랙/고속 감기"
+        },
+        {
+            "ID": "openfile",
+            "value": "파일 열기"
+        },
+        {
+            "ID": "openfolder",
+            "value": "폴더 열기"
+        },
+        {
+            "ID": "openwebpage",
+            "value": "웹 페이지 열기"
+        },
+        {
+            "ID": "paste",
+            "value": "붙여넣기"
+        },
+        {
+            "ID": "mypictures",
+            "value": "내 사진"
+        },
+        {
+            "ID": "pictures",
+            "value": "그림"
+        },
+        {
+            "ID": "playpause",
+            "value": "재생/일시 중지"
+        },
+        {
+            "ID": "previous",
+            "value": "이전"
+        },
+        {
+            "ID": "previoustrackrewind",
+            "value": "이전 트랙/되감기"
+        },
+        {
+            "ID": "rightclick",
+            "value": "마우스 오른쪽 버튼으로 클릭"
+        },
+        {
+            "ID": "scrollleft",
+            "value": "왼쪽으로 스크롤"
+        },
+        {
+            "ID": "scrollright",
+            "value": "오른쪽으로 스크롤"
+        },
+        {
+            "ID": "search",
+            "value": "검색"
+        },
+        {
+            "ID": "settings",
+            "value": "설정"
+        },
+        {
+            "ID": "share",
+            "value": "공유"
+        },
+        {
+            "ID": "showhidedesktop",
+            "value": "바탕화면 표시/숨기기"
+        },
+        {
+            "ID": "shutdown",
+            "value": "종료"
+        },
+        {
+            "ID": "signout",
+            "value": "로그아웃"
+        },
+        {
+            "ID": "sleep",
+            "value": "절전"
+        },
+        {
+            "ID": "startscreen",
+            "value": "시작 화면"
+        },
+        {
+            "ID": "stop",
+            "value": "중지"
+        },
+        {
+            "ID": "switchscreen",
+            "value": "화면 전환"
+        },
+        {
+            "ID": "thispc",
+            "value": "이 PC"
+        },
+        {
+            "ID": "togglesmoothscrolling",
+            "value": "매끄러운 스크롤 전환"
+        },
+        {
+            "ID": "videos",
+            "value": "비디오"
+        },
+        {
+            "ID": "volumedown",
+            "value": "볼륨 낮추기"
+        },
+        {
+            "ID": "volumeup",
+            "value": "볼륨 높이기"
+        },
+        {
+            "ID": "zoomin",
+            "value": "확대"
+        },
+        {
+            "ID": "zoomout",
+            "value": "축소"
+        },
+        {
+            "ID": "zoomreset",
+            "value": "돋보기 재설정"
+        },
+        {
+            "ID": "none",
+            "value": "없음"
+        },
+        {
+            "ID": "switchleft",
+            "value": "왼쪽 전환"
+        },
+        {
+            "ID": "switchright",
+            "value": "오른쪽 전환"
+        },
+        {
+            "ID": "previouspage",
+            "value": "이전 페이지"
+        },
+        {
+            "ID": "nextpage",
+            "value": "다음 페이지"
+        },
+        {
+            "ID": "navigatepages",
+            "value": "페이지 탐색"
+        },
+        {
+            "ID": "customkey",
+            "value": "사용자 지정 키"
+        },
+        {
+            "ID": "navigatebetweenapps",
+            "value": "앱 간 탐색"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "상황별"
+        },
+        {
+            "ID": "crownbrowsertextsize",
+            "value": "텍스트 크기 또는 탭 변경"
+        },
+        {
+            "ID": "createvirtualdesktop",
+            "value": "새 바탕화면"
+        },
+        {
+            "ID": "clonevirtualdesktop",
+            "value": "바탕화면 닫기"
+        },
+        {
+            "ID": "nextvirtualdesktop",
+            "value": "바탕화면(다음)"
+        },
+        {
+            "ID": "previousvirtualdesktop",
+            "value": "바탕화면(이전)"
+        },
+        {
+            "ID": "teskview",
+            "value": "작업 보기"
+        },
+        {
+            "ID": "teskview10",
+            "value": "작업 보기"
+        },
+        {
+            "ID": "cortana",
+            "value": "Cortana"
+        },
+        {
+            "ID": "actioncenter",
+            "value": "작업 센터"
+        }
+    ]
+}

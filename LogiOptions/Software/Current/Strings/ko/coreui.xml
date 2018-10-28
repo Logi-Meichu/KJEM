@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringDictionary version="1.2">
+  <Strings>
+    <String key="WindowName">LogiOptions</String>
+    <String key="ApplicationName">Options</String>
+    <String key="MoreDetails">추가 설정</String>
+    <String key="FnInversion">표준 기능 키로 F1 - F12 사용</String>
+    <String key="KeyboardWinMode">항상 Windows 레이아웃으로 키보드 유지</String>
+    <String key="Backlighting">백라이트 비활성화</String>
+    <String key="Customize">사용자 지정</String>
+    <String key="CustomizeGestures">제스처 사용자 지정</String>
+    <String key="GestureClickDetail">제스처 버튼을 클릭하십시오.</String>
+    <String key="GestureMotionDetail">제스처 버튼을 누른 상태로 마우스를 움직이십시오.</String>
+    <String key="GestureMotionDetail_Trackball">제스처 버튼을 누른 상태로 트랙볼을 움직이십시오.</String>
+    <!--<String key="GestureButtonLearnMore">Learn more about gesture button</String>-->
+    <String key="LearnMore">자세히 알아보기</String> 
+    <String key="LaunchSetpoint">SetPoint 실행</String>
+    <String key="DownloadSetpoint">SetPoint 다운로드</String>
+    <String key="CrosslinkDevicesReminder">이 메시지를 다시 표시 안 함</String>
+    <String key="CrosslinkDevicesDialog">%BrandName% Options는 시스템에 연결된 모든 %BrandName% 장치를 지원하지 않습니다.  다음 장치의 설정을 사용자 지정하려면 %BrandName% SetPoint 소프트웨어를 사용하십시오.</String>
+    <String key="CommaSeparator">, </String>
+    <String key="AndSeparator"> 및 </String>
+
+    <String key="StringFragments:Device">장치</String>
+
+    <String key="DeviceList:NoDevices">발견된 장치 없음</String>
+    <String key="DeviceList:NoDeviceDesc">장치가 연결되고 켜져 있는지 확인하십시오.</String>
+    <String key="DeviceList:Removed">삭제됨</String>
+    <String key="DeviceList:Enumuerate">스캔 중...</String>
+    <String key="DeviceList:Devices">장치</String>
+
+    <String key="Video:NoVideo">비디오 설치 안 됨</String>
+    <String key="Video:VideoFailDialog">현재 장치 비디오를 다운로드할 수 없습니다. 나중에 다시 시도하십시오.</String>
+
+    <String key="Tooltip:BatteryUnknown">알 수 없음</String>
+    <String key="Tooltip:BatteryCritical">부족</String>
+    <String key="Tooltip:BatteryLow">낮음</String>
+    <String key="Tooltip:BatteryGood">양호</String>
+    <String key="Tooltip:BatteryFull">꽉 참</String>
+    <String key="Tooltip:BatteryCharging">충전 중</String>
+    <String key="Tooltip:BatteryError">충전 오류</String>
+    <String key="Tooltip:BatteryComplete">충전 완료</String>
+    <String key="Tooltip:Connected">연결됨</String>
+    <String key="Tooltip:NotConnected">연결 안 됨</String>
+
+    <!-- Device Settings Tabs -->
+    <String key="DeviceSettings:Keyboard">키보드</String>
+    <String key="DeviceSettings:Mouse">마우스</String>
+    <String key="DeviceSettings:Trackball">트랙볼</String>
+    <String key="DeviceSettings:PointScroll">포인팅 및 스크롤</String>
+    <String key="DeviceSettings:Gestures">제스처</String>
+    <String key="DeviceSettings:Illumination">조명</String>
+    <String key="DeviceSettings:FunctionKeys">기능 키</String>
+    <String key="DeviceSettings:ShortcutKeys">바로 가기 키</String>
+    <String key="DeviceSettings:EasySwitch">이지-스위치</String>
+    <String key="DeviceSettings:Crown">크라운</String>
+    <String key="DeviceSettings:Flow">Flow</String>
+    <String key="DeviceSettings:Beta">베타</String>
+
+    <String key="DeviceSettings:GestureById0x2e">썸휠 민감도</String>
+
+    <String key="Buttons:MinimizeToolTip">최소화</String>
+    <String key="Buttons:CloseToolTip">닫기</String>
+    <String key="Buttons:More">자세히</String>
+    <String key="Buttons:Less">간단히</String>
+    <String key="Buttons:RestoreDefaults">기본값 복원</String>
+    <String key="Buttons:Restore">복원</String>
+    <String key="Buttons:YourDevices">사용자 장치</String>
+    <String key="Buttons:AddDevice">장치 추가</String>
+    <String key="Buttons:Continue">계속</String>
+    <String key="Buttons:TryAgain">다시 시도하십시오.</String>
+    <String key="Buttons:Cancel">취소</String>
+    <String key="Buttons:Skip">건너뛰기</String>
+    <String key="Buttons:Remind">나중에 설치</String>
+    <String key="Buttons:Okay">확인</String>
+    <String key="Buttons:Ok">확인</String>
+    <String key="Buttons:FirmwareUpdate">펌웨어 업데이트 확인</String>
+    <String key="Buttons:SoftwareUpdate">업데이트 확인</String>
+    <String key="Buttons:LaunchUnifying">Unifying 소프트웨어 열기</String>
+    <String key="Buttons:FileBrowse">찾아보기...</String>
+    <String key="Buttons:VideoDownload">비디오 다운로드</String>
+    <String key="Buttons:PairAnother">다른 장치 페어</String>
+    <String key="Buttons:Done">완료</String>    
+    <String key="Buttons:Enable">활성화</String><!--NEW AFTER 4/10/2017-->
+    <String key="Buttons:Disable">비활성화</String>
+    <String key="Buttons:Retry">다시 시도</String>
+    <String key="Buttons:MoreSettings">추가 설정</String><!--NEW 7/24/2017-->
+    
+    <String key="TaskSelect:RemoveHost">제거</String>
+    <String key="TaskSelect:Keystroke">키 입력</String>
+    <String key="TaskSelect:FileLaunch">파일 이름</String>
+    <String key="TaskSelect:FolderLaunch">폴더 이름</String>
+    <String key="TaskSelect:WebLaunch">웹 주소</String>
+    <String key="TaskSelect:HostSwitch">이지-스위치 컨트롤</String>
+    <String key="TaskSelect:DpiShift">마우스 민감도 설정</String>
+    <String key="TaskSelect:DpiShiftTrackball">트랙볼 감도 설정</String>
+    <String key="TaskSelect:HorizontalScrollSpeed">수평 스크롤 속도 설정</String>
+    <String key="TaskSelect:KeystrokeBlank">(여기를 클릭)</String>
+    <String key="TaskSelect:FileLaunchBlank">(파일 이름 입력)</String>
+    <String key="TaskSelect:FolderLaunchBlank">(폴더 이름 입력)</String>
+    <String key="TaskSelect:WebLaunchBlank">(URL 입력)</String>
+    <String key="TaskSelect:KeystrokeDesc">위 흰색 상자를 클릭하고 유효한 키 조합을 눌러 바로가기를 만드십시오.</String>
+    <String key="TaskSelect:FileLaunchDesc">찾아보기 버튼을 클릭하여 파일을 선택하거나 위 흰색 상자에 파일의 전체 경로를 입력하십시오.</String>
+    <String key="TaskSelect:FolderLaunchDesc">찾아보기 버튼을 클릭하여 폴더를 선택하거나 위 흰색 상자에 폴더의 전체 경로를 입력하십시오.</String>
+    <String key="TaskSelect:WebLaunchDesc">위 흰색 상자에 원하는 웹 사이트의 URL을 입력하십시오.</String>
+    <String key="TaskSelect:HostSwitchDesc">사용 가능한 다음 호스트로 전환하려면 버튼을 누르십시오.</String>
+    <String key="TaskSelect:DpiShiftDesc">마스터 및 사용자 지정 포인터 속도 간을 전환하려면 버튼을 누르십시오.</String>
+    <String key="TaskSelect:HorizontalScrollSpeedDesc">슬라이더를 사용하여 수평 스크롤 속도 설정을 조정하십시오.</String>
+    <String key="TaskSelect:KeystrokeWaiting">(키 조합 누르기)</String>
+    <String key="TaskSelect:DpiShiftMasterChannel">마스터</String>
+    <String key="TaskSelect:DpiShiftCustom1Channel">사용자 지정</String>
+    <String key="TaskSelect:HostSwitchNotAvail">장치 사용 불가</String>
+    <String key="TaskSelect:HostSwitchInstruction">최대 3개 호스트 간을 전환합니다.</String>
+    <String key="TaskSelect:HostSwitchLegend1">현재 호스트</String>
+    <String key="TaskSelect:HostSwitchLegend2">대화 가능</String>
+    <String key="TaskSelect:HostSwitchLegend3">사용 불가</String>
+    <String key="TaskSelect:ThumbwheelScroll">썸휠 스크롤</String>
+    <String key="TaskSelect:InvertHorzScroll">가로 스크롤 방향 반전</String>
+    <String key="TaskSelect:TiltScrollSpeed">수평 스크롤 속도 설정</String>
+    <String key="TaskSelect:AdvancedClick">고급 설정 클릭</String>
+    <String key="TaskSelect:ModifierKeys">수정자 선택</String>
+    <String key="TaskSelect:ModKeyAlt">Alt</String>
+    <String key="TaskSelect:ModKeyCtl">Ctrl</String>
+    <String key="TaskSelect:ModKeyShf">Shift</String>
+    <String key="TaskSelect:ModKeyWin">Win</String>
+    <String key="TaskSelect:ModKeyJnr"> + </String>
+    <String key="TaskSelect:SelectClick">클릭 유형 선택</String>
+    <String key="TaskSelect:SingleClick">클릭</String>
+    <String key="TaskSelect:DoubleClick">두 번 클릭</String>
+    <String key="TaskSelect:TripleClick">세 번 클릭</String>
+    <String key="TaskSelect:RightClick">마우스 오른쪽 버튼으로 클릭</String>
+    <String key="TaskSelect:MiddleClick">가운데 클릭</String>
+    <String key="TaskSelect:SelectTools">개발 도구 선택</String>
+    <String key="TaskSelect:SelectToolsHint">화면 해상도에 따라 오버레이에 있는 모든 활성 도구를 보지 못할 수도 있습니다.</String>
+
+    <String key="More:ThisDevice">이 장치</String>
+    <String key="More:Connectivity">연결</String>
+    <String key="More:Software">소프트웨어</String>
+    <String key="More:About">정보</String>
+    <String key="More:NotifyCheckbox">자동으로 업데이트 확인</String>
+    <String key="More:Notifications">알림</String>
+    <String key="More:NotificationText">다음이 발생하는 경우 알림. (알림이 화면에 간략히 나타납니다.)</String>
+    <String key="More:NotificationsText">다음 중 하나가 발생하는 경우 알림. (알림이 화면에 간략히 나타납니다.)</String>
+    <String key="More:NotifyBattLow">장치 배터리가 부족하게 됨</String>
+    <String key="More:NotifyCapsLock">Caps Lock을 누름</String>
+    <String key="More:NotifyScrollLock">Scroll Lock을 누름</String>
+    <String key="More:NotifyLockKey">잠금 키를 누름</String>
+    <String key="More:DisabledKeys">비활성화된 키</String>
+    <String key="More:DisabledKeysText">비활성화할 키를 확인하십시오.</String>
+    <String key="More:KeysCapsLock">Caps Lock</String>
+    <String key="More:KeysScrollLock">Scroll Lock</String>
+    <String key="More:KeysInsert">삽입</String>
+    <String key="More:KeysWindows">Windows/시작 키</String>
+    <String key="More:KeysNumLock">Num Lock</String>
+    <String key="More:Unifying">Unifying</String>
+    <String key="More:UnifyingText">%BrandName% Unifying 수신기가 컴퓨터에 연결되어 있습니다. 단일 %BrandName% Unifying 수신기에 최대 6개의 호환 가능 무선 마우스, 키보드 또는 기타 Unifying 장치를 페어링할 수 있습니다.</String>
+    <String key="More:LearnMore">자세히 알아보기</String>
+    <String key="More:OpenUnifying">Unifying 소프트웨어 열기</String>
+    <String key="More:Bluetooth">블루투스</String>
+    <String key="More:SoftwareVersion">소프트웨어 버전: </String>
+    <String key="More:FirmwareVersion">펌웨어 버전: </String>
+    <String key="More:CopyTrade">© 2018 %BrandName%. %BrandName%, Logi 및 기타 %BrandName% 마크는 %BrandName%의 소유이며 등록되어 있을 수 있습니다. 그 밖의 모든 상표는 해당 소유자의 자산입니다.</String>
+    <String key="More:Support">지원</String>
+    <String key="More:SupportText">지원 사이트를 방문하여 지원을 받거나 설명서를 찾아보고 다운로드하여 사용자 포럼에 액세스하십시오.</String>
+    <String key="More:DeveloperMode">개발 모드</String><!--NEW 1/11/2018-->
+    <String key="More:DeveloperModeText">서명되지 않은 타사 응용 프로그램 프로파일을 개발 목적으로 설치 및 사용하도록 허용합니다. 자세히 보기: </String><!--NEW 1/11/2018-->
+    <String key="More:DeveloperModeLink">Options SDK</String><!--NEW 1/11/2018-->
+    <String key="More:DeveloperModeEnabled">개발자 모드 활성화됨</String><!--NEW 1/11/2018-->
+
+    <String key="UpdateStatus:Checking">업데이트 확인 중...</String>
+    <String key="UpdateStatus:NoUpdateAvailable">소프트웨어가 최신 상태임</String>
+    <String key="UpdateStatus:DownloadInProgress">업데이트 다운로드 중...</String>
+    <String key="UpdateStatus:DownloadSuccess">다운로드 완료</String>
+    <String key="UpdateStatus:DownloadFailure">다운로드하지 못함</String>
+    <String key="UpdateStatus:InstallInProgress">업데이트 설치 중...</String>
+    <String key="UpdateStatus:InstallSuccess">소프트웨어가 최신 상태임</String>
+    <String key="UpdateStatus:InstallFailure">설치하지 못함</String>
+    <String key="UpdateStatus:NoInternetConnection">인터넷 연결을 찾을 수 없습니다. 나중에 다시 시도하십시오.</String>
+
+    <String key="Modal:RestoreDefaultsWarning">이 장치의 설정이 기본값으로 복원되게 됩니다. 모든 장치에 적용되는 범용 설정은 복원되지 않습니다. 계속을 선택하여 기본 설정으로 복원하거나, 취소를 선택하여 현재 설정을 유지합니다.</String>
+    <String key="Modal:InstallUpdates">업데이트 설치 준비가 되었습니다. 계속을 선택하여 지금 업데이트를 설치하거나, 나중에 설치를 선택하여 이 앱을 다음에 열 때 알려주도록 하거나, 건너뛰기를 선택하여 이 업데이트를 무시합니다.</String>
+    <String key="Modal:InteractiveUpdates">업데이트 설치 준비가 되었습니다. 계속을 선택하여 지금 업데이트를 설치하거나, 나중에 설치를 선택하여 다음에 이 앱을 열 때 알려주도록 합니다.</String>
+    <String key="Modal:RelaunchUI">%BrandName% Options가 업데이트되었으며, 새로운 기능을 활성화하기 위해 자동으로 다시 시작됩니다.</String>
+    <String key="Modal:ClearHostChannel">이렇게 하면 이지-스위치 기능에서 선택한 호스트가 일시적으로 제거됩니다. 계속하려면 %%Buttons:Continue%%을 클릭하고, 중단하려면 %%Buttons:Cancel%%를 클릭하십시오.</String>
+    <String key="Modal:UnknownFeatures">%BrandName% Options가 연결된 장치의 하나 이상에서 알 수 없는 기능을 발견했습니다. 해당 기능을 올바로 지원하기 위해서는 %BrandName% Options를 최신 버전으로 유지하도록 하십시오.</String>
+    <String key="Modal:ConfirmEnableDeveloperMode">개발자 모드를 활성화하면 %BrandName%에서 승인 및 서명되지 않은 응용 프로그램 프로파일을 설치하여 사용할 수 있습니다. 이 작업은 장치 및 응용 프로그램의 동작에 영향을 미칠 수 있습니다. 문제가 발생하면 당사 지원팀에 문의하기 전에 개발자 모드를 비활성화하십시오. 
+
+참고: Analytics는 자동으로 켜집니다.</String><!--NEW 1/11/2018-->
+    <String key="Modal:ConfirmDisableDeveloperMode">개발자 모드를 비활성화하면 %BrandName%에서 승인 및 서명되지 않은 새 응용 프로그램 프로파일을 설치할 수 없습니다. 서명되지 않은 응용 프로그램 프로파일이 이미 설치되었으면 프로파일 목록에서 제거됩니다.</String><!--NEW 1/11/2018-->
+    <String key="Modal:OnboardingSelectionError">응용 프로그램에는 하나의 프로파일만 할당할 수 있으므로 목록에서 단일 프로파일을 선택하십시오. 이미 프로파일을 활성화하도록 설정했다면 먼저 ‘응용 프로그램 고유의 설정’에서 응용 프로그램 프로파일을 제거하고 프로파일을 다시 설치하십시오.</String><!--NEW 1/11/2018-->
+
+    <String key="DFUState:DFU_WELCOME_PAGE_STEP0">==DeviceName==에 대한 펌웨어 업데이트를 사용할 수 있습니다. 이 프로세스 중에 ==DeviceName==이(가) 사용할 수 없게 될 수 있습니다. 계속하시겠습니까?</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_PAIRED_STEP1">페어링된 장치 확인 중...</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_PAIRED_STEP1_WAITING">==DeviceName==이(가) 페어링되지 않은 것 같습니다. 지금 페어링하거나 나중에 다시 시도하십시오.</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_ACTIVE_STEP2">장치가 활성화되었는지 확인 중...</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_ACTIVE_STEP2_WAITING">==DeviceName==을(를) 검색할 수 없습니다. 전원이 켜지고 작동 중인지 확인하십시오.</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_BATTERY_OK_STEP3">배터리 충전 상태 확인 중...</String>
+    <String key="DFUState:DFU_PREREQ_FW_VERSION_CHECK_STEP3_PLUS">펌웨어 버전 확인 중...</String>
+    <String key="DFUState:DFU_ENTER_DFU_MODE_STEP4">장치를 펌웨어 업데이트 모드로 전환 중...</String>
+    <String key="DFUState:DFU_ENTER_DFU_MODE_STEP4_WAITING">업데이트를 설치하려면 ==DeviceName==을(를) 껐다가 켜십시오. 업데이트가 시작되면 업데이트가 완료될 때까지 장치를 끄거나 연결 해제하지 마십시오.</String>
+    <String key="DFUState:DFU_SEND_FIRST_DFU_PACKET_STEP5">펌웨어 업데이트 초기화 중...</String>
+    <String key="DFUState:DFU_PACKET_STEP5_RESPONSE_WAITING">==DeviceName== 펌웨어 업데이트 중</String>
+    <String key="DFUState:DFU_ABORT_INTERNAL_ERROR">업데이트 프로세스 중에 오류가 발생했습니다. 업데이트를 다시 설치해 보십시오.</String>
+    <String key="DFUState:DFU_ABORT_LOW_BATTERY_ERROR">==DeviceName==의 배터리 수준이 너무 낮기 때문에 업데이트를 설치할 수 없습니다. 배터리를 충전하거나 교체한 후 다시 업데이트를 설치해 보십시오.</String>
+    <String key="DFUState:DFU_ABORT_START_FAILED_ERROR">업데이트 프로세스 중에 오류가 발생했습니다. 업데이트를 다시 설치해 보십시오.</String>
+    <String key="DFUState:DFU_SUCCESS">==DeviceName== 펌웨어가 성공적으로 업데이트되었습니다!</String>
+    <String key="DFUState:DFU_ABORT">알 수 없는 문제로 인해 펌웨어 업데이트가 중단되었습니다. 나중에 다시 시도해 보십시오.</String>
+    <String key="DFUState:DFU_DONE">이제 ==DeviceName==을(를) 사용할 준비가 되었습니다.</String>
+    <String key="DFUState:DFU_ABORT_FW_VERSION_UPTO_DATE">장치 펌웨어가 이미 최신 상태입니다.</String>
+    <String key="DFUState:DFU_BLE_MODE_NOT_SUPPORTED">블루투스와 페어링된 경우 ==DeviceName==을(를) 업데이트할 수 없습니다. Unifying 수신기와 페어링되었는지 확인하고 다시 시도하십시오. 감사합니다.</String>
+    <String key="DFUState:DFU_EXIT_FROM_WELCOME_PAGE"/>
+    <String key="DFUState:Unknown">알 수 없는 DFU 상태에 도달했습니다:</String>
+
+    <String key="GenericFeatures:ProgramControls">프로그래밍 가능한 컨트롤</String>
+    <String key="GenericFeatures:UnsupportedFeatures">지원되지 않는 기능</String>
+
+    <String key="MouseFeatures:MiddleButton">가운데 버튼</String>
+    <String key="MouseFeatures:PointerSpeed">포인터 속도</String>
+    <String key="MouseFeatures:ScrollDirection">스크롤 휠 방향</String>
+    <String key="MouseFeatures:SmoothScroll">부드러운 스크롤</String>
+    <String key="MouseFeatures:SmartShift">SmartShift</String>
+    <String key="MouseFeatures:SmartShiftThreshold">SmartShift 민감도</String>
+    <String key="MouseFeatures:DefaultWheelMode">고정 스크롤 휠 모드</String>
+    <String key="MouseFeatures:SwapLeftRight">왼쪽/오른쪽 버튼 교체</String>
+    <String key="MouseFeatures:SmartShiftHintOff">고정 모드가 비활성 상태입니다. (SmartShift 비활성화 및 모드 전환 확인은 아무 버튼에도 할당되지 않습니다.)</String>
+    <String key="MouseFeatures:SmartShiftHintOn">고정 모드가 활성 상태입니다. </String>
+    <String key="MouseFeatures:Enabled">사용</String>
+    <String key="MouseFeatures:Disabled">사용 안 함</String>
+    <String key="MouseFeatures:Traditional">일반</String>
+    <String key="MouseFeatures:Inverted">반전</String>
+    <String key="MouseFeatures:Default">기본값</String>
+    <String key="MouseFeatures:Ratchet">래칫</String>
+    <String key="MouseFeatures:Freespin">프리스핀</String>
+    <String key="MouseFeatures:HorScroll">썸휠 방향</String>
+    <String key="MouseFeatures:NotAssigned">할당 안 됨</String>
+    <String key="MouseFeatures:Backlight">다음 시간 이후 조명 끄기</String>
+    <String key="MouseFeatures:10Sec">10초</String>
+    <String key="MouseFeatures:20Sec">20초</String>
+    <String key="MouseFeatures:30Sec">30초</String>
+    <String key="MouseFeatures:1Min">1분</String>
+    <String key="MouseFeatures:5Min">5분</String>
+    <String key="MouseFeatures:10Min">10분</String>
+    <String key="MouseFeatures:Illumination">조명 활성화</String>
+    <String key="MouseFeatures:HandDetection">손 감지 사용</String>
+    <String key="MouseFeatures:StartTyping">타이핑을 시작할 때</String>
+
+    <String key="AddDevice">장치 추가</String>
+    <String key="AddDevice:UnifyingHeadline">Unifying 장치 설정</String>
+    <String key="AddDevice:WirelessHeadline">무선 장치 설정</String>
+    <String key="AddDevice:UnifyingDescription">단일 %BrandName% Unifying 수신기에 최대 6개의 호환 가능 무선 마우스 및 키보드를 페어링하십시오.</String>
+    <String key="AddDevice:WirelessDescription">단일 %BrandName% Unifying 수신기에 최대 6개의 호환 가능 무선 마우스 및 키보드를 페어링하거나 %BrandName% 나노 수신기에 무선 마우스나 키보드를 페어링하십시오.</String>
+    <String key="AddDevice:LtdOnlyDescription">무선 마우스나 키보드를 페어링하십시오.</String>
+    <String key="AddDevice:UnifyingButton">Unifying 장치 추가</String>
+    <String key="AddDevice:WirelessButton">무선 장치 추가</String>
+    <String key="AddDevice:AdvancedButton">고급 Unifying 앱</String>
+    <String key="AddDevice:NoUnifyingHeadline">Unifying 수신기 없음</String>
+    <String key="AddDevice:NoUnifyingDescription">장치를 추가하려면 Unifying 수신기를 컴퓨터에 연결하고 'Unifying 장치 추가' 버튼이 사용 가능 될 때까지 몇 초 기다리십시오.</String>
+    <String key="AddDevice:BluetoothHeadline">블루투스 장치 설정</String>
+    <String key="AddDevice:BluetoothDescription">Windows에서 페어링 유틸리티를 사용하여 블루투스 장치를 추가하십시오.</String>
+    <String key="AddDevice:BluetoothButton">블루투스 장치 추가</String>
+    <String key="AddDevice:NoBluetoothHeadline">블루투스 수신기 없음</String>
+    <String key="AddDevice:BluetoothOffHeadline">블루투스 수신기 꺼짐</String>
+    <String key="AddDevice:DevicesDetected">검색된 장치</String>
+    <String key="AddDevice:NoDevicesDetected">발견된 장치 없음</String>
+    <String key="AddDevice:BluetoothSmartCapable">해당 PC에서 Bluetooth Smart 장치를 지원합니다.</String>
+    <String key="AddDevice:BluetoothSmartIncapable">해당 PC에서 Bluetooth Smart 장치를 지원하지 않습니다.</String>
+
+    <!-- DJCU components -->
+    <String key="DJCU:ConnectTitle">컴퓨터에 연결할 장치를 다시 시작합니다.</String>
+    <String key="DJCU:Connect1">1. 끄기-켜기 슬라이더를 찾습니다(아래 그림 참조).</String>
+    <String key="DJCU:Connect2">2. 슬라이더를 끄기로 움직인 다음, 켜기로 움직입니다. (그런 다음 장치가 페어링될 때까지 기다리십시오.)</String>
+    <String key="DJCU:Connect3">(팁: 슬라이더는 장치의 밑면이나 상단 오른쪽 모서리에 위치해 있습니다.)</String>
+    <String key="DJCU:Connect4">* 일부 %BrandName% 장치는 이 무선 수신기와 호환되지 않습니다.</String>
+
+    <String key="DJCU:TimeoutTitle">죄송합니다. 페어링에 실패했습니다.</String>
+    <String key="DJCU:Timeout1">예상 시간 내에 장치를 페어링할 수 없습니다.</String>
+    <String key="DJCU:Timeout2">‘%%Buttons:TryAgain%%’를 클릭하여 페어링 프로세스를 다시 시작하십시오.</String>
+    <String key="DJCU:Timeout3">또는 이 장치를 사용하지 않으려면 ‘%%Buttons:Cancel%%’를 클릭하십시오.</String>
+    <String key="DJCU:Timeout4">문제 해결 정보는 여기를 클릭하십시오.</String>
+
+    <String key="DJCU:ReceiversFullTitle">모든 무선 수신기가 사용 중임</String>
+    <String key="DJCU:ReceiversFull1">현재 수신기 중 추가 Unifying 또는 무선 장치를 연결할 슬롯이 없습니다.</String>
+    <String key="DJCU:ReceiversFull2">다른 장치를 연결하려면 새로운 Unifying 수신기를 연결해야 합니다.</String>
+
+    <String key="DJCU:MultiReceiverTitle">여러 무선 수신기가 연결되어 있는 것을 발견했습니다.</String>
+    <String key="DJCU:MultiReceiver1">특정 수신기에 페어링하려면 원하는 항목을 제외하고 컴퓨터에서 모든 Unifying 수신기를 분리하십시오.</String>
+    <String key="DJCU:MultiReceiver2">페어링에 사용 가능한 아무 수신기나 선택하려면 ‘%%Buttons:Continue%%’을 클릭하십시오.</String>
+
+    <String key="DJCU:OtpErrorTitle">장치 또는 수신기 오류</String>
+    <String key="DJCU:OtpError1">페어링하려는 장치 또는 수신기가 너무 많이 페어링되었거나 더 이상 페어링할 수 없습니다.</String>
+
+    <String key="DJCU:IncompatibleDeviceTitle">장치가 호환되지 않음</String>
+    <String key="DJCU:IncompatibleDevice1">해당 장치를 페어링할 수 없습니다. 장치가 수신기와 호환되지 않습니다. 장치와 함께 제공되는 수신기를 사용하십시오.</String>
+
+    <String key="DJCU:PairSuccessTitle">페어링 완료</String>
+    <String key="DJCU:PairSuccess1">%DeviceName%이(가) 성공적으로 페어링되었습니다.</String>
+
+    <!-- Easy-Switch HostInfo Types (feature 0x1814) -->
+    <!-- public enum HostInfoHostTypes { Unset = 0, Unknown = 1, Windows = 2, Win7 = 3, Win8 = 4, Win10 = 5, MacOS = 6, Mac107 = 7, Mac108 = 8, Mac109 = 9 } -->
+    <String key="HostInfo:Unset">호스트 없음</String>
+    <String key="HostInfo:Unknown">알 수 없는 호스트 유형</String>
+    <String key="HostInfo:Windows">Windows</String>
+    <String key="HostInfo:Win7">Windows 7</String>
+    <String key="HostInfo:Win8">Windows 8</String>
+    <String key="HostInfo:Win10">Windows 10</String>
+    <String key="HostInfo:MacOS">Mac OS</String>
+    <String key="HostInfo:Mac107">Mac OSX 10.7</String>
+    <String key="HostInfo:Mac108">Mac OSX 10.8</String>
+    <String key="HostInfo:Mac109">Mac OSX 10.9</String>
+
+    <!-- MP HostInfo Types (features 0x4531 and 0x1815) -->
+    <!-- public enum Feature4351Platforms { Unknown = 0, Windows = 1, WinEmb = 2, Linux = 3, Chrome = 4, Android = 5, MacOS = 6, IOS = 7 } -->
+    <String key="MPHostInfo:None">페어링되지 않음</String>
+    <String key="MPHostInfo:Unknown">알 수 없음</String>
+    <String key="MPHostInfo:Windows">Windows</String>
+    <String key="MPHostInfo:WinEmb">Windows IoT</String>
+    <String key="MPHostInfo:Linux">Linux</String>
+    <String key="MPHostInfo:Chrome">Chrome</String>
+    <String key="MPHostInfo:Android">Android</String>
+    <String key="MPHostInfo:MacOS">Mac OS</String>
+    <String key="MPHostInfo:IOS">iOS</String>
+
+    <!-- App profiles Strings -->
+    <String key="AppProfAddApp">응용 프로그램 추가</String>
+    <!--<String key="AppProfAddAppTT">Click to add a new application profile for this device</String>
+     <String key="AppProfBrowseTT">Click to add a program manually using a file browser</String>-->
+    <String key="AppProfDeleteWarning">이렇게 하면 ==ApplicationName==에 대한 사용자 지정 설정이 영구히 제거됩니다. 계속을 선택하여 사용자 지정 설정을 제거하거나, 취소를 선택하여 사용자 지정 설정을 유지합니다.</String>
+    <String key="AppProfDefaultSettings">모든 응용 프로그램</String>
+    <!--<String key="AppProfDefaultSettingsTT">Click to update All Applications settings</String>-->
+    <String key="AppProfRestoreProfileWarning">==ApplicationName==의 설정이 '모든 응용 프로그램' 설정으로 복원되게 됩니다. 계속을 선택하여 사용자 지정 설정을 복원하거나, 취소를 선택하여 사용자 지정 설정을 유지합니다.</String>
+    <String key="AppProfRestoreProfileWarningCraft">'==ApplicationName=='에 대한 설정이 기본 Craft 프로파일 설정으로 복원됩니다. 계속을 선택하여 사용자 지정 설정을 복원하거나, 취소를 선택하여 사용자 지정 설정을 유지합니다.</String><!--NEW-->
+    <String key="AppProfToggleText">응용 프로그램 특정 설정</String>
+    <String key="AppProfDetailHeading">특정 응용 프로그램의 사용자 지정 설정 만들기</String>
+    <String key="AppProfDetailDescription">응용 프로그램 특정 설정을 사용하면 즐겨 이용하는 응용 프로그램에 대한 버튼과 동작을 원하는 대로 커스터마이징할 수 있습니다. 현재 '모든 응용 프로그램' 설정이 영향을 미치지 않으며, 언제든지 사용자 지정 설정을 손실하지 않은 상태로 이 기능을 활성화하거나 비활성화할 수 있습니다.</String>
+    <String key="AppProfOther">기타...</String>
+    <String key="AppProfAddAppHeader">응용 프로그램 선택</String>
+
+    <String key="Flow:ConfigurationError">%BrandName% Flow 구성 파일 오류, 마우스를 껐다 켜고  %BrandName% Options를 다시 시작하십시오.</String>
+    <String key="Flow:LearnMore">자세히 알아보기</String>
+    <String key="Flow:MoreOptions">추가 옵션</String>
+    <String key="Flow:ManualSetUp">수동 설정</String>
+    <String key="Flow:LinkKeyboard">키보드 연결</String>
+    <String key="Flow:CopyPaste">복사 및 붙여넣기</String>
+    <String key="Flow:ScreenCorners">화면 모서리</String>
+    <!--<String key="Flow:CannotFlow">Cannot Flow</String>
+    <String key="Flow:CanFlow">Can Flow</String>-->
+    <String key="Flow:SwitchBetweenComputers">컴퓨터 간 전환</String>
+    <String key="Flow:HoldCtrlAndMove">Ctrl 누른 상태로 가장자리로 이동하십시오</String>
+    <String key="Flow:MoveToEdge">가장자리로 이동</String>
+
+    <String key="Flow:SettingUpFlowHeader">%BrandName% Flow 설치 중...</String>
+    <String key="Flow:SettingUpFlowSearching">컴퓨터 검색 중</String>
+    <String key="Flow:SettingUpFlowFound">컴퓨터 발견</String>
+    <String key="Flow:SettingUpFlow">컴퓨터 설정 중</String>
+    <String key="Flow:SettingUpFlowNote">이 프로세스는 최대 1분 정도 걸릴 수 있습니다.</String>
+    <String key="Flow:SettingUpFlowManual">다른 컴퓨터 이름 또는 IP 주소 입력</String>
+    <String key="Flow:SettingUpFlowSuccess">%BrandName% Flow가 설치되고 사용할 준비가 되었습니다.</String>
+    <String key="Flow:SettingUpFlowManualFailed">다른 컴퓨터에 대한 연결을 찾거나 설정할 수 없습니다. 다음을 확인하십시오.
+ - %BrandName% Options가 다른 컴퓨터에 설치되어 있는지 여부
+ - 마우스가 컴퓨터와 페어링되었는지 여부
+ - 컴퓨터가 같은 네트워크에 있는지 여부
+위의 내용을 확인한 다음 다른 컴퓨터에서 Flow를 활성화하십시오.</String> 
+    <String key="Flow:SettingUpFlowOtherMachine">다른 컴퓨터에서 Flow를 활성화하려고 시도했습니다.</String>
+      <String key="Flow:ShowNotificationIcon">작업 표시줄 아이콘 표시</String>
+    <String key="Flow:RemoveFlowHost">이 컴퓨터를 제거하면 다시 추가할 때까지 %BrandName% Flow에서 사용할 수 없게 됩니다. 제거하려면 계속을 선택하고 유지하려면 취소를 선택하십시오.</String>
+    <String key="Flow:RestoreFlowDefaults">%BrandName% Flow 설정이 복원됩니다. 다시 활성화하거나 다른 Flow 가능 컴퓨터에서 추가하기 전까지 이 컴퓨터에서 Flow를 사용할 수 없습니다. 복원하려면 계속을 선택하고, 현재 설정을 유지하려면 취소를 선택하십시오.</String>
+    <String key="Flow:FeedbackButton">피드백</String>
+    <String key="Flow:FeedbackFormHint">여기에 피드백 입력...</String>
+
+    <String key="Flow:WelcomeTitle">%BRANDNAME% FLOW 시작</String>
+    <String key="Flow:WelcomeDescription1">커서를 화면 가장자리로 이동하여 컴퓨터 사이에서 원활하게 전환하고 텍스트, 이미지 및 파일을 신속하게 복사하고 붙여 넣으십시오.</String>
+    <String key="Flow:WelcomeHowToSetup">설치 방법</String>
+    <String key="Flow:WelcomeEnabledFlow">FLOW 활성화</String>
+
+      <String key="Flow:WelcomeTitlePart1">제안 사항을 말씀해 주시기 바랍니다. </String>
+    <String key="Flow:feedback">피드백</String>
+    <String key="Flow:WelcomeTitlePart2"> 버튼</String>
+    <String key="Flow:Enable">Flow 활성화</String>
+    <String key="Flow:LogitechFlow">%BrandName% Flow</String>
+    <String key="Flow:TutorialSlide1">마우스를 컴퓨터에 페어링하십시오.</String>
+    <String key="Flow:TutorialSlide2">컴퓨터가 같은 네트워크에 있는지 확인하십시오.</String>
+    <String key="Flow:TutorialSlide3">컴퓨터에 %BrandName% Options를 다운로드하여 설치하십시오.</String>
+
+    <String key="Flow:TutorialSlide4">다 되었습니다! %BrandName% Flow를 사용할 준비가 되었습니다.</String>
+    
+    <String key="Flow:DiscoveryFailedUnableToEstablish">다른 컴퓨터에서 %BRANDNAME% FLOW를 활성화해 주십시오.</String>
+    <String key="Flow:DiscoveryFailedFollowTheseSteps1">%BrandName% Flow가 네트워크에서 다른 컴퓨터를 자동으로 찾지 못했습니다.</String>
+    <String key="Flow:DiscoveryFailedFollowTheseSteps2">인터넷에 연결되어 있는지 확인하고 아래 단계를 따르십시오.</String>
+    <String key="Flow:DiscoveryFailed:DownloadAndInstall">%BRANDNAME% OPTIONS 최신 버전 다운로드 및 설치</String>
+    <String key="Flow:DiscoveryFailed:Pair">마우스를 다른 컴퓨터와 페어링</String>
+    <String key="Flow:DiscoveryFailed:ConnectSameNetwork">컴퓨터를 동일 네트워크에 연결</String>
+    <String key="Flow:DiscoveryFailed:EnabledOnAll">모든 컴퓨터에서 %BRANDNAME% FLOW 활성화</String>
+    <String key="Flow:DiscoveryFailed:TroubleshootingLink">문제 해결</String>
+    <String key="Flow:DiscoverySucceeded:Success">성공</String>
+    <String key="Flow:DiscoverySucceeded:Continue">계속</String>
+    <String key="Buttons:CancelALLCAPS">취소</String>
+
+    <!--Ichitaro-->
+    <String key="Ichitaro:AppName">Ichitaro2017</String>
+    <!--End Ichitaro-->
+
+    <!--Duolink-->
+    <String key="Duolink:ToggleDefault">기본값</String>
+    <String key="Duolink:ToggleFn">DUOLINK</String> <!--MODIFIED 10/10/2017-->
+    <String key="Duolink:ArrowHover">Fn + 제스처</String>
+    <String key="Duolink:DeviceListSelectInfo">키보드의 Fn 키를 사용하면 %BrandName% 마우스의 기능을 확장할 수 있습니다. 구성하려는 마우스를 클릭하십시오.</String>
+    <String key="Duolink:TutorialText">DuoLink를 사용하면 *Fn* 키를 누른 상태에서 마우스 버튼으로 다른 동작 세트를 사용할 수 있습니다. *Fn* 키를 사용하여 마우스를 움직여 다른 동작을 수행할 수도 있습니다.</String>
+    <String key="Duolink:TutorialFn">Fn</String>
+    <String key="Duolink:FnGestureMontionDetail">마우스를 움직이는 동안 키보드의 Fn 키를 누르고 계십시오.</String>
+    <String key="Duolink:NoDevicesAddDevices">Duolink 장치를 찾지 못했습니다. 추가하려면 여기를 클릭하십시오.</String>
+    <!--End Duolink-->
+    
+    <!--Analytics-->
+    <String key="Analytics:HelpImprove">진단 및 사용 데이터를 익명으로 자동 전송하여 %BrandName%에서 제품과 서비스를 개선할 수 있도록 도와주십시오. %BrandName%에 대해 자세히 알아보기</String>
+    <String key="Analytics:PrivacyPolicy"> 개인정보보호 정책</String>
+    <String key="Analytics:HelpImproveCheckBox">%BrandName%에서 제품과 서비스를 개선할 수 있도록 자동으로 데이터 전송</String>
+    <String key="Analytics:Analytics">분석</String>
+
+    <String key="Device:Unknown">알 수 없는 %BrandName% 장치</String>
+  
+    <!--Craft-->
+    <String key="Craft:Turn">돌리기</String>
+    <String key="Craft:Press">누르기</String>
+    <String key="Craft:PressAndTurn">눌러서 돌리기</String>
+    <String key="Craft:NameYourFunction">사용자 지정 기능 이름 지정</String>
+    <String key="Craft:ExUndoRedo">예: 실행 취소/다시 실행</String>
+    <String key="Craft:TurnRight">오른쪽으로 돌리기</String>
+    <String key="Craft:TurnLeft">왼쪽으로 돌리기</String>
+    <String key="Craft:Ratchet">래칫</String>
+    <String key="Craft:MaxCharactersX">최대 글자수: %d</String>
+    
+    <String key="Craft:ButtonInstallProfiles">프로파일 설치</String>
+    <String key="Craft:ApplicationsWithProfiles">Craft 프로파일을 사용한 응용 프로그램</String>
+    <String key="Craft:OtherApplications">다른 응용 프로그램</String>
+    <String key="Craft:PressAndTurnTooltip">'모든 응용 프로그램' 설정에서만 이 기능을 변경할 수 있습니다.</String>
+    
+    <String key="Craft:ButtonContinueWithoutInstalling">프로파일을 설치하지 않고 계속</String>
+    <String key="Craft:ButtonBackToOptions">OPTIONS 이동</String>    
+    <String key="Craft:OnboardingWelcome">CRAFT에 오신 것을 환영합니다</String>
+    <String key="Craft:OnboardingWelcomeDescription">독창성을 완벽히 제어</String>
+    <String key="Craft:OnboardingSearch">최적화된 앱 검색</String>
+    <String key="Craft:OnboardingSearchDescription">지금 이 컴퓨터에서 Craft에 최적화된 앱을 검색하는 중입니다.</String>
+    <String key="Craft:OnboardingNoOptimizedApps">컴퓨터에 최적화된 앱 없음</String>
+    <String key="Craft:OnboardingNoOptimizedAppsDescription">이 컴퓨터에 Craft 최적화 응용 프로그램이 설치되지 않은 것 같습니다.</String>
+    <String key="Craft:OnboardingNoOptimizedApps2">컴퓨터에 CRAFT에 최적화된 앱 없음</String>
+    <String key="Craft:OnboardingNoOptimizedAppsDescription2">컴퓨터에서 Craft에 최적화된 앱을 찾지 못했습니다... :(</String>
+    <String key="Craft:OnboardingNoOptimizedAppsDescription3">컴퓨터에서 Craft에 최적화된 앱을 찾지 못했습니다.</String><!--NEW 8/2/2017-->
+    <String key="Craft:OnboardingOneOptimizedApp">CRAFT에 최적화된 앱을 1개 발견했습니다.</String>
+    <String key="Craft:OnboardingOneOptimizedApps">CRAFT에 최적화된 앱을 %d개 발견했습니다.</String>
+    <String key="Craft:OnboardingOneOptimizedAppDescription">나머지 Craft 최적화 응용 프로그램이 이 컴퓨터에 설치되지 않은 것 같습니다.</String>
+    <String key="Craft:OnboardingXOptimizedApps">최적화된 앱이 %d개 설치되어 있습니다.</String>
+    <String key="Craft:OnboardingXOptimizedAppsDescription">사용하는 각 앱에 대해 최적화된 프로파일을 설치하려면 선택하십시오.</String>
+    <String key="Craft:OnboardingProfilesInstalledDescription">이미 설치된 응용 프로그램에 대한 프로파일인 것 같습니다.</String>
+    <String key="Craft:OnboardingInstallingProfiles">프로파일 설치 중</String>
+    <String key="Craft:OnboardingInstallingProfilesDescription">프로파일을 컴퓨터에 설치하는 중입니다.</String>
+    <String key="Craft:OnboardingInstallingProfilesProblem">프로파일 설치 중 문제</String>
+    <String key="Craft:OnboardingInstallingProfilesPlugins">플러그인 설치 중 문제</String>
+    <String key="Craft:OnboardingInstallingProfilesProblemDescription">웹사이트에서 문제 해결을 확인하십시오.</String>
+    <String key="Craft:OnboardingInstallingProfilesDone">프로파일 설치됨</String>
+    <String key="Craft:OnboardingInstallingProfilesDoneDescription">설치 프로세스를 완료하려면 최적화된 앱을 다시 시작하십시오.</String>
+    <String key="Craft:OnboardingWatchTutorial">자습서 보기</String>
+    <String key="Craft:OnboardingWatchTutorials">자습서 보기</String>
+    <String key="Craft:OnboardingWatchTutorialDescription">각각의 최적화 앱에서 크라운이 워크플로우를 어떻게 개선하는지 살펴보십시오.</String>
+    <String key="Craft:OnboardingWatchTutorialDescription2">각각의 최적화 앱에서 크라운을 어떻게 사용하는지 살펴보십시오.</String>
+    <String key="Craft:OnboardingDone">만반의 준비가 되었습니다.</String>
+    <String key="Craft:OnboardingDoneDescription">Craft가 가장 자주 사용하는 앱에 맞게 최적화되었습니다.</String>
+    <String key="Craft:OnboardingSelectedNewApps">새로운 앱을 선택했습니다.</String>
+    <String key="Craft:OnboardingSelectedNewAppsDescription">프로파일을 설치하려면 버튼을 클릭하십시오.</String>
+    <String key="Craft:OnboardingUnsignedPlugin">(서명되지 않음)</String><!--NEW 1/11/2018-->
+
+    <String key="Craft:RestoreDefaults">==ApplicationName==에 대한 설정이 기본 Craft 프로파일 설정으로 복원됩니다. 계속을 선택하여 사용자 지정 설정을 복원하거나, 취소를 선택하여 사용자 지정 설정을 유지합니다.</String><!--NEW 8/8/2017-->
+    <!--End Craft-->
+  
+  </Strings>
+</StringDictionary>

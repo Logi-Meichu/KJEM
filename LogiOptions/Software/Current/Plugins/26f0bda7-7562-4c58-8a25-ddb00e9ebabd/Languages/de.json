@@ -1,0 +1,48 @@
+{
+  "LocalizedStrings": [
+    {
+      "ID": "keystrokeassignment",
+      "value": "Tastendruckzuweisung"
+    },
+    {
+      "ID": "changetoolvalue",
+      "value": "Kontextabhängig"
+    },
+    {
+      "ID": "crownbrowsertextsize",
+      "value": "Textgröße oder Registerkartenwechsel"
+    },
+    {
+      "ID": "crowntabscommand",
+      "value": "Registerkarte wechseln"
+    },
+    {
+      "ID": "textSize",
+      "value": "Größe"
+    },
+    {
+      "ID": "imageSize",
+      "value": "Größe"
+    },
+    {
+      "ID": "tabSwitch",
+      "value": "Registerkarten-Navigation"
+    },
+    {
+      "ID": "zoom",
+      "value": "Zoom"
+    },
+    {
+      "ID": "sheetNavigation",
+      "value": "Blatt-Navigation"
+    },
+    {
+      "ID": "horizontalScroll",
+      "value": "Horizontaler Bildlauf"
+    },
+    {
+      "ID": "playpause",
+      "value": "Wiedergabe/Pause"
+    }
+  ]
+}

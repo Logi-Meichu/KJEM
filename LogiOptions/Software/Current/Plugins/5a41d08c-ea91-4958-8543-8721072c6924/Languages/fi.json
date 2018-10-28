@@ -1,0 +1,32 @@
+{
+  "LocalizedStrings": [
+    {
+      "ID": "moveframe",
+      "value": "Siirtyminen aikajanalla"
+    },
+    {
+      "ID": "jogwheel",
+      "value": "Valintarulla"
+    },
+    {
+      "ID": "changetoolvalue",
+      "value": "Sisällönmukainen"
+    },
+    {
+      "ID": "undoRedo",
+      "value": "Kumoa / tee uudelleen"
+    },
+    {
+      "ID": "zoom",
+      "value": "Zoomaus"
+    },
+    {
+      "ID": "keystrokeassignment",
+      "value": "Näppäinten määrittäminen"
+    },
+    {
+      "ID": "playpause",
+      "value": "Toisto / tauko"
+    }
+  ]
+}

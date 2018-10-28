@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<probe version="1.1">
+	<cache device_name="USB Receiver" device_support_type="true" fw="024.007.00030" qid="50475" device_type="7" fnkey_enabled="false" />
+	<cache device_name="USB Receiver" device_support_type="true" fw="000.000.00000" qid="50475" device_type="7" fnkey_enabled="false" />
+</probe>

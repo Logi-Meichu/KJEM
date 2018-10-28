@@ -1,0 +1,100 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "Μενού περιβάλλοντος"
+        },
+        {
+            "ID": "savefile",
+            "value": "Αποθήκευση αρχείου"
+        },
+        {
+            "ID": "zoom",
+            "value": "Ζουμ"
+        },
+        {
+            "ID": "sheetNavigation",
+            "value": "Πλοήγηση στο φύλλο"
+        },
+        {
+            "ID": "horizontalScroll",
+            "value": "Οριζόντια κύλιση"
+        },
+        {
+            "ID": "createChart",
+            "value": "Δημιουργία γραφήματος"
+        },
+        {
+            "ID": "createTable",
+            "value": "Δημιουργία πίνακα"
+        },
+        {
+            "ID": "tableStyle",
+            "value": "Στυλ πίνακα"
+        },
+        {
+            "ID": "chartType",
+            "value": "Τύπος γραφήματος"
+        },
+        {
+            "ID": "quickLayout",
+            "value": "Γρήγορη διάταξη"
+        },
+        {
+            "ID": "changeColor",
+            "value": "Αλλαγή χρώματος"
+        },
+        {
+            "ID": "chartStyle",
+            "value": "Στυλ γραφήματος"
+        },
+        {
+            "ID": "pieChart",
+            "value": "Γράφημα πίτας"
+        },
+        {
+            "ID": "columnChart",
+            "value": "Γράφημα στηλών"
+        },
+        {
+            "ID": "barChart",
+            "value": "Γράφημα ράβδων"
+        },
+        {
+            "ID": "areaChart",
+            "value": "Γράφημα περιοχών"
+        },
+        {
+            "ID": "stockChart",
+            "value": "Γράφημα μετοχών"
+        },
+        {
+            "ID": "surfaceChart",
+            "value": "Γράφημα επιφάνειας"
+        },
+        {
+            "ID": "radarChart",
+            "value": "Αραχνοειδές γράφημα"
+        },
+        {
+            "ID": "tableColor",
+            "value": "Χρώμα πίνακα"
+        },
+        {
+            "ID": "xyscatterChart",
+            "value": "Γράφημα διασποράς"
+        },
+        {
+            "ID": "lineChart",
+            "value": "Γράφημα γραμμών"
+        },
+        {
+            "ID": "comboChart",
+            "value": "Σύνθετο γράφημα"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Αντιστοίχιση πλήκτρου"
+        }
+    ]
+}

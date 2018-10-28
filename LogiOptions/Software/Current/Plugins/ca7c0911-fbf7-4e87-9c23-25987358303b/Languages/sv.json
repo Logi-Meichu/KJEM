@@ -1,0 +1,72 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "Kontextbaserad"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Tangentkommando"
+        },
+        {
+            "ID": "savefile",
+            "value": "Spara fil"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zooma"
+        },
+        {
+            "ID": "theme",
+            "value": "Temastil"
+        },
+        {
+            "ID": "color",
+            "value": "Färgtema"
+        },
+        {
+            "ID": "layout",
+            "value": "Layout"
+        },
+        {
+            "ID": "font",
+            "value": "Temateckensnitt"
+        },
+        {
+            "ID": "fontSize",
+            "value": "Storlek"
+        },
+        {
+            "ID": "alignment",
+            "value": "Justera"
+        },
+        {
+            "ID": "fontWeight",
+            "value": "Teckengrovlek"
+        },
+        {
+            "ID": "size",
+            "value": "Skala"
+        },
+        {
+            "ID": "rotate",
+            "value": "Rotera"
+        },
+        {
+            "ID": "tableStyle",
+            "value": "Tabellformat"
+        },
+        {
+            "ID": "tableColor",
+            "value": "Tabellfärg"
+        },
+        {
+            "ID": "paragraphStyle",
+            "value": "Styckeformat"
+        },
+        {
+            "ID": "wrapText",
+            "value": "Radbryt text"
+        }
+    ]
+}

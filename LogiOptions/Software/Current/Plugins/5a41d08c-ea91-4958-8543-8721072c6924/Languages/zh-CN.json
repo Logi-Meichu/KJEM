@@ -1,0 +1,32 @@
+{
+  "LocalizedStrings": [
+    {
+      "ID": "moveframe",
+      "value": "时间线导航"
+    },
+    {
+      "ID": "jogwheel",
+      "value": "缓动轮"
+    },
+    {
+      "ID": "changetoolvalue",
+      "value": "上下文"
+    },
+    {
+      "ID": "undoRedo",
+      "value": "还原/重做"
+    },
+    {
+      "ID": "zoom",
+      "value": "缩放"
+    },
+    {
+      "ID": "keystrokeassignment",
+      "value": "按键分配"
+    },
+    {
+      "ID": "playpause",
+      "value": "播放/暂停"
+    }
+  ]
+}

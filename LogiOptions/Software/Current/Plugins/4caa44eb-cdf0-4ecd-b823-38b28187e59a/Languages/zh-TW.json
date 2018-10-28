@@ -1,0 +1,100 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "上下文"
+        },
+        {
+            "ID": "savefile",
+            "value": "儲存檔案"
+        },
+        {
+            "ID": "zoom",
+            "value": "縮放"
+        },
+        {
+            "ID": "sheetNavigation",
+            "value": "工作表瀏覽"
+        },
+        {
+            "ID": "horizontalScroll",
+            "value": "水平捲動"
+        },
+        {
+            "ID": "createChart",
+            "value": "建立圖表"
+        },
+        {
+            "ID": "createTable",
+            "value": "建立表格"
+        },
+        {
+            "ID": "tableStyle",
+            "value": "表格樣式"
+        },
+        {
+            "ID": "chartType",
+            "value": "圖表類型"
+        },
+        {
+            "ID": "quickLayout",
+            "value": "快速配置"
+        },
+        {
+            "ID": "changeColor",
+            "value": "變更顏色"
+        },
+        {
+            "ID": "chartStyle",
+            "value": "圖表樣式"
+        },
+        {
+            "ID": "pieChart",
+            "value": "圓形圖"
+        },
+        {
+            "ID": "columnChart",
+            "value": "直條圖"
+        },
+        {
+            "ID": "barChart",
+            "value": "橫條圖"
+        },
+        {
+            "ID": "areaChart",
+            "value": "面積圖"
+        },
+        {
+            "ID": "stockChart",
+            "value": "股票圖"
+        },
+        {
+            "ID": "surfaceChart",
+            "value": "表面圖"
+        },
+        {
+            "ID": "radarChart",
+            "value": "雷達圖"
+        },
+        {
+            "ID": "tableColor",
+            "value": "表格顏色"
+        },
+        {
+            "ID": "xyscatterChart",
+            "value": "散佈圖"
+        },
+        {
+            "ID": "lineChart",
+            "value": "折線圖"
+        },
+        {
+            "ID": "comboChart",
+            "value": "組合圖"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "按鍵動作指定"
+        }
+    ]
+}

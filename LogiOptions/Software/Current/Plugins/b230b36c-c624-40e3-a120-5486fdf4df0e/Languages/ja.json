@@ -1,0 +1,92 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "size",
+            "value": "直径"
+        },
+        {
+            "ID": "hardness",
+            "value": "硬さ"
+        },
+        {
+            "ID": "strokeWeight",
+            "value": "線幅"
+        },
+        {
+            "ID": "opacity",
+            "value": "不透明度"
+        },
+        {
+            "ID": "brightness",
+            "value": "明るさ"
+        },
+        {
+            "ID": "contrast",
+            "value": "コントラスト"
+        },
+        {
+            "ID": "saturation",
+            "value": "彩度"
+        },
+        {
+            "ID": "flow",
+            "value": "流量"
+        },
+        {
+            "ID": "strength",
+            "value": "強さ"
+        },
+        {
+            "ID": "tolerance",
+            "value": "許容値"
+        },
+        {
+            "ID": "exposure",
+            "value": "露光量"
+        },        
+        {
+            "ID": "textSize",
+            "value": "直径"
+        },
+        {
+            "ID": "layertextSize",
+            "value": "レイヤーフォントサイズ"
+        },
+        {
+            "ID": "blendMode",
+            "value": "描画モード"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "コンテキスト"
+        },
+        {
+            "ID": "savefile",
+            "value": "ファイルを保存"
+        },
+        {
+            "ID": "undoredo",
+            "value": "取り消し/やり直し"
+        },
+        {
+            "ID": "undo",
+            "value": "取り消し"
+        },
+        {
+            "ID": "redo",
+            "value": "やり直し"
+        },
+        {
+            "ID": "zoom",
+            "value": "ズーム"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "キーストロークの割当"
+        },
+        {
+            "ID": "playpause",
+            "value": "再生/一時停止"
+        }
+    ]
+}

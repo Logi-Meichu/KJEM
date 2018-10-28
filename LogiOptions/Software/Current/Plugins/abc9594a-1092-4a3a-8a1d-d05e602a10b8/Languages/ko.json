@@ -1,0 +1,64 @@
+{
+  "LocalizedStrings": [
+    {
+      "ID": "changetoolvalue",
+      "value": "상황별"
+    },
+    {
+      "ID": "keystrokeassignment",
+      "value": "입력할 키 지정"
+    },
+    {
+      "ID": "savefile",
+      "value": "파일 저장"
+    },
+    {
+      "ID": "zoom",
+      "value": "돋보기"
+    },
+    {
+      "ID": "theme",
+      "value": "테마 스타일"
+    },
+    {
+      "ID": "colour",
+      "value": "테마 색"
+    },
+    {
+      "ID": "layout",
+      "value": "레이아웃"
+    },
+    {
+      "ID": "font",
+      "value": "테마 글꼴"
+    },
+    {
+      "ID": "textSize",
+      "value": "크기"
+    },
+    {
+      "ID": "alignment",
+      "value": "맞춤"
+    },
+    {
+      "ID": "fontWeight",
+      "value": "글꼴 비중"
+    },
+    {
+      "ID": "size",
+      "value": "비율"
+    },
+    {
+      "ID": "rotate",
+      "value": "회전"
+    },
+    {
+      "ID": "tableStyle",
+      "value": "표 스타일"
+    },
+    {
+      "ID": "tableColor",
+      "value": "표 색"
+    }
+  ]
+}

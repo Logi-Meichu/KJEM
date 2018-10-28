@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gestureids>
+
+ <feature0x6501>
+
+   <!-- All taps gesture controller       -->
+   <!--  disables  tap 1 finger, tap 2 finger, TapDrag1Finger -->
+   <gesture id="0x21" gestureidlist="tapsGestureTaskidList" gesturetaskid="0x1" class="select"  uitab="2" index="1"  />
+
+    <gesture id="0x2C" gestureidlist="smoothScrollingGestureTaskidList" gesturetaskid="0x2" class="select"  uitab="1"  index="2"   />
+
+    <gesture id="0x2d" gestureidlist="scrollDirectionGestureTaskidList" gesturetaskid="0x3" class="select"  uitab="1"  index="1"   />
+
+   <gesture id="0x2a" gestureidlist="horizontalScrollGestureTaskidList" gesturetaskid="0x5" class="select"  uitab="1"  index="4"   />
+
+   <gesture id="0x2b" gestureidlist="verticalScrollGestureTaskidList" gesturetaskid="0x6"  class="select"  uitab="1" index="3"   />
+
+   <gesture id="0x40" gestureidlist="leftEdgeSwipeGestureTaskidList" gesturetaskid="0x7"  class="select"  uitab="2" index="2"  maxver="8.1" />
+
+   <gesture id="0x41" gestureidlist="rightEdgeSwipeGestureTaskidList" gesturetaskid="0x8"  class="select"  uitab="2" index="3" minver="8" maxver="8.1" />
+
+   <gesture id="0x43" gestureidlist="topEdgeSwipeGestureTaskidList" gesturetaskid="0x9"  class="select"  uitab="2"  index="4" minver="8" maxver="8.1" />
+
+   <gesture id="0x54" gestureidlist="2FingerZoomStatelessGestureTaskidList" gesturetaskid="0xa" class="select"  uitab="2" index="5"   />
+
+   <gesture id="0x14" gesturetaskid="0xb" class="slider"  uitab="1"  index="5"   />
+
+   <!-- new gestures -->
+
+   <gesture id="0x2e" actiongrouplist="thumbWheelGestureList" actiongroup="thumbwheelhorzscroll" gestureidlist="thumbWheelGestureTaskidList" gesturetaskid="0xc" class="select"  uitab="1"  index="1" curhspeed="4" minhspeed="1" maxhspeed="7" stephspeed="1">
+      <fn_link actiongrouplist="thumbWheelGestureList" actiongroup="thumbwheelvolume" gestureidlist="thumbWheelGestureTaskidList" gesturetaskid="0xc" class="select"  uitab="1"  index="1" curhspeed="4" minhspeed="1" maxhspeed="7" stephspeed="1" />
+   </gesture>
+
+   <gesture id="0x64" gestureidlist="thumbWheelDoubleTapGestureTaskidList" gesturetaskid="0xc" class="select"  uitab="1"  index="1"   />
+
+   <!-- app switch button remapped to Gesture Enable button -->
+   <gesture id="0x27d3" actiongrouplist="win8NavList" actiongroup7="win8nav2" actiongroup8="win8nav2" actiongroup="virtualdesktop"   gestureidlist="othersGestureidList" class="select"  uitab="1"  index="1"   />
+
+   <!-- middle button remapped to gesture enable button-->
+   <gesture id="0x2762" actiongrouplist="win8NavList" actiongroup7="win8nav2" actiongroup8="win8nav2" actiongroup="virtualdesktop" gestureidlist="othersGestureidList" class="select"  uitab="1"  index="1"   />
+
+   <!-- manual shift button remapped to gesture enable button-->
+   <gesture id="0x27d4" actiongrouplist="win8NavList" actiongroup7="win8nav2"  actiongroup8="win8nav2" actiongroup="virtualdesktop" gestureidlist="othersGestureidList" class="select"  uitab="1"  index="1"   />
+
+
+ </feature0x6501>
+
+</gestureids>
+
+

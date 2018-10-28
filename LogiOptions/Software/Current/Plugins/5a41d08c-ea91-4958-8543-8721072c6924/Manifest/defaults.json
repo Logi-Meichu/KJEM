@@ -1,0 +1,48 @@
+{
+    "GUID": "5a41d08c-ea91-4958-8543-8721072c6924",
+    "info": {
+        "name": "Adobe Premiere Pro CC",
+        "publisher": "Logitech Inc.",
+        "version": "1.0",
+        "win_name": "Adobe Premiere Pro.exe",
+        "mac_bundle": "Adobe Premiere Pro CC 2018.app",
+        "mac_path": "/Applications/Adobe Premiere Pro CC 2018",
+        "mac_paths": [
+            {
+                "path": "/Applications/Adobe Premiere Pro CC 2017/Adobe Premiere Pro CC 2017.app",
+                "mac_minimum_supported_version": "11.0.0",
+                "mac_maximum_supported_version": "11.*.*",
+                "name_suffix": "(2017)"
+            },
+            {
+                "path": "/Applications/Adobe Premiere Pro CC 2018/Adobe Premiere Pro CC 2018.app",
+                "comment": "Fix version number here when available",
+                "mac_minimum_supported_version": "12.0.0",
+                "mac_maximum_supported_version": "12.*.*",
+                "name_suffix": "(2018)"
+            }
+        ],
+        "win_minimum_supported_version": "11.0.0",
+        "win_maximum_supported_version": "2017.0.1"
+    },
+    "crown": {
+        "rotate": {
+            "default_task": "changetoolvalue",
+            "tasks": [
+                "changetoolvalue"
+            ],
+            "short_list": [
+                "changetoolvalue"
+            ]
+        },
+        "press": {
+            "default_task": "playpause",
+            "tasks": [
+                "playpause"
+            ],
+            "short_list": [
+                "playpause"
+            ]
+        }
+    }
+}

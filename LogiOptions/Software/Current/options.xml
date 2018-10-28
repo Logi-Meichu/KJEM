@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<useroptions>
+
+  <useroption name="showLockNotifications" value="1" />
+  <useroption name="showLowBatteryNotifications" value="1" />
+  <useroption name="automaticCheckForUpdates" value="1" />
+  <useroption name="collectAnonymousData" value="-1"/>
+  
+</useroptions>
+  

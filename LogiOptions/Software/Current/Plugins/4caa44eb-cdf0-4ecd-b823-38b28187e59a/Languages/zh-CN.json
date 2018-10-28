@@ -1,0 +1,100 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "上下文"
+        },
+        {
+            "ID": "savefile",
+            "value": "保存文件"
+        },
+        {
+            "ID": "zoom",
+            "value": "缩放"
+        },
+        {
+            "ID": "sheetNavigation",
+            "value": "表单导航"
+        },
+        {
+            "ID": "horizontalScroll",
+            "value": "水平滚动"
+        },
+        {
+            "ID": "createChart",
+            "value": "创建图标"
+        },
+        {
+            "ID": "createTable",
+            "value": "创建表格"
+        },
+        {
+            "ID": "tableStyle",
+            "value": "表格样式"
+        },
+        {
+            "ID": "chartType",
+            "value": "图表样式"
+        },
+        {
+            "ID": "quickLayout",
+            "value": "快速布局"
+        },
+        {
+            "ID": "changeColor",
+            "value": "更改颜色"
+        },
+        {
+            "ID": "chartStyle",
+            "value": "图表颜色"
+        },
+        {
+            "ID": "pieChart",
+            "value": "饼状图"
+        },
+        {
+            "ID": "columnChart",
+            "value": "柱状图"
+        },
+        {
+            "ID": "barChart",
+            "value": "条形图"
+        },
+        {
+            "ID": "areaChart",
+            "value": "面积图"
+        },
+        {
+            "ID": "stockChart",
+            "value": "股票走势图"
+        },
+        {
+            "ID": "surfaceChart",
+            "value": "层面图"
+        },
+        {
+            "ID": "radarChart",
+            "value": "雷达图"
+        },
+        {
+            "ID": "tableColor",
+            "value": "表格颜色"
+        },
+        {
+            "ID": "xyscatterChart",
+            "value": "散布图"
+        },
+        {
+            "ID": "lineChart",
+            "value": "线形图"
+        },
+        {
+            "ID": "comboChart",
+            "value": "组合图"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "按键分配"
+        }
+    ]
+}

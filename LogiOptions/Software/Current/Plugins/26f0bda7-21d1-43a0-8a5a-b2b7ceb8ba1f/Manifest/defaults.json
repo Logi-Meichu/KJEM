@@ -1,0 +1,33 @@
+{
+    "GUID": "26f0bda7-21d1-43a0-8a5a-b2b7ceb8ba1f",
+    "info": {
+        "name": "Microsoft Edge",
+        "publisher": "Logitech Inc.",
+        "version": "1.0",
+        "restart_required": false,
+        "win_name": "MicrosoftEdge.exe",
+        "mac_bundle": "Microsoft Edge.app",
+        "win_minimum_supported_version": "0.0.0",
+        "win_maximum_supported_version": "2015.0.1"
+    },
+    "crown": {
+        "rotate": {
+            "default_task": "crowntabscommand",
+            "tasks": [
+                "crowntabscommand"
+            ],
+            "short_list": [
+                "crowntabscommand"
+            ]
+        },
+        "press": {
+            "default_task": "playpause",
+            "tasks": [
+                "playpause"
+            ],
+            "short_list": [
+                "playpause"
+            ]
+        }
+    }
+}

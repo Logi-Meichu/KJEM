@@ -1,0 +1,28 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "Kontroller i Acrobat Pro"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zoom"
+        },
+        {
+            "ID": "rotate",
+            "value": "Roter"
+        },
+        {
+            "ID": "navigate",
+            "value": "Endre side"
+        },
+        {
+            "ID": "scroll",
+            "value": "Vannrett rulling"
+        },
+        {
+            "ID": "playpause",
+            "value": "Spill av / pause"
+        }
+    ]
+}

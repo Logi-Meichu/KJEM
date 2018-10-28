@@ -1,0 +1,70 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "Kontextbaserad"
+        },
+		{
+            "ID": "customactions",
+            "value": "Anpassade åtgärder"
+        },
+        {
+            "ID": "Zoom",
+            "value": "Zooma"
+        },
+        {
+            "ID": "Temperature",
+            "value": "Temperatur"
+        },
+        {
+            "ID": "Tint",
+            "value": "Färgton"
+        },
+		{
+            "ID": "Exposure",
+            "value": "Exponering"
+        },
+		{
+            "ID": "Contrast",
+            "value": "Kontrast"
+        },
+        {
+            "ID": "Highlights",
+            "value": "Högdagrar"
+        },
+        {
+            "ID": "Shadows",
+            "value": "Skuggor"
+        },
+        {
+            "ID": "Whites",
+            "value": "Vita"
+        },
+        {
+            "ID": "Blacks",
+            "value": "Svärta"
+        },
+		{
+            "ID": "Clarity",
+            "value": "Klarhet"
+        },
+        {
+            "ID": "Vibrance",
+            "value": "Lyster"
+        },
+        {
+            "ID": "Saturation",
+            "value": "Mättnad"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Tangentkommando"
+        },
+        {
+            "ID": "playpause",
+            "value": "Spela/Pausa"
+        }
+    ]
+}
+
+

@@ -1,0 +1,92 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "textSize",
+            "value": "Tamaño"
+        },
+        {
+            "ID": "leading",
+            "value": "Interlineado"
+        },
+        {
+            "ID": "tracking",
+            "value": "Tracking"
+        },
+        {
+            "ID": "colorFill",
+            "value": "Color de relleno"
+        },
+        {
+            "ID": "colorStroke",
+            "value": "Color de trazo"
+        },
+        {
+            "ID": "strokeWeight",
+            "value": "Grosor de trazo"
+        },
+        {
+            "ID": "scale",
+            "value": "Escala"
+        },
+        {
+            "ID": "opacity",
+            "value": "Opacidad"
+        },
+        {
+            "ID": "pageNavigation",
+            "value": "Cambiar página"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "Contextual"
+        },
+        {
+            "ID": "undoRedo",
+            "value": "Paso adelante/Paso atrás"
+        },
+        {
+            "ID": "undoredo",
+            "value": "Paso adelante/Paso atrás"
+        },
+        {
+            "ID": "undo",
+            "value": "Deshacer"
+        },
+        {
+            "ID": "redo",
+            "value": "Rehacer"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zoom"
+        },
+        {
+            "ID": "shear",
+            "value": "Distorsión"
+        },
+        {
+            "ID": "rotation",
+            "value": "Giro"
+        },
+        {
+            "ID": "moveHorizontal",
+            "value": "Posición X"
+        },
+        {
+            "ID": "moveVertical",
+            "value": "Posición Y"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Asignación de acción"
+        },
+        {
+            "ID": "tint",
+            "value": "Matiz"
+        },
+        {
+            "ID": "playpause",
+            "value": "Reproducir/Pausa"
+        }
+    ]
+}

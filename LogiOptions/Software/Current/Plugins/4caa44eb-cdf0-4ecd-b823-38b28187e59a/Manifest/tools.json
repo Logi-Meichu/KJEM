@@ -1,0 +1,546 @@
+{
+    "GUID": "4caa44eb-cdf0-4ecd-b823-38b28187e59a",
+    "tools": [
+        {
+            "name": "cell",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "horizontalScroll",
+                    "image_file_path": "horizontalScroll.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false,
+                    "task": "horizontalScroll",
+                    "builtin_action": true
+                },
+                {
+                    "index": 1,
+                    "name": "zoom",
+                    "image_file_path": "zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 2,
+                    "name": "sheetNavigation",
+                    "image_file_path": "sheetNavigation.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "singleSheetCell",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "horizontalScroll",
+                    "image_file_path": "horizontalScroll.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "zoom",
+                    "image_file_path": "zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "dataCell",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "createChart",
+                    "image_file_path": "createChart.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "createTable",
+                    "image_file_path": "createTable.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "table",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "tableStyle",
+                    "image_file_path": "tableStyle.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "tableColor",
+                    "image_file_path": "tableColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 2,
+                    "name": "createChart",
+                    "image_file_path": "createChart.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "pieChart",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "pieChart",
+                    "image_file_path": "pie.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "quickLayout",
+                    "image_file_path": "quickLayout.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 2,
+                    "name": "changeColor",
+                    "image_file_path": "changeColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 3,
+                    "name": "chartStyle",
+                    "image_file_path": "chartStyle.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "columnChart",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "columnChart",
+                    "image_file_path": "column.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "quickLayout",
+                    "image_file_path": "quickLayout.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 2,
+                    "name": "changeColor",
+                    "image_file_path": "changeColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 3,
+                    "name": "chartStyle",
+                    "image_file_path": "chartStyle.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "barChart",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "barChart",
+                    "image_file_path": "bar.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "quickLayout",
+                    "image_file_path": "quickLayout.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 2,
+                    "name": "changeColor",
+                    "image_file_path": "changeColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 3,
+                    "name": "chartStyle",
+                    "image_file_path": "chartStyle.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "areaChart",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "areaChart",
+                    "image_file_path": "area.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "quickLayout",
+                    "image_file_path": "quickLayout.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 2,
+                    "name": "changeColor",
+                    "image_file_path": "changeColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 3,
+                    "name": "chartStyle",
+                    "image_file_path": "chartStyle.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "stockChart",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "stockChart",
+                    "image_file_path": "stock.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "quickLayout",
+                    "image_file_path": "quickLayout.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 2,
+                    "name": "changeColor",
+                    "image_file_path": "changeColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 3,
+                    "name": "chartStyle",
+                    "image_file_path": "chartStyle.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "surfaceChart",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "surfaceChart",
+                    "image_file_path": "surface.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "quickLayout",
+                    "image_file_path": "quickLayout.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 2,
+                    "name": "changeColor",
+                    "image_file_path": "changeColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 3,
+                    "name": "chartStyle",
+                    "image_file_path": "chartStyle.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "radarChart",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "radarChart",
+                    "image_file_path": "radar.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "quickLayout",
+                    "image_file_path": "quickLayout.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 2,
+                    "name": "changeColor",
+                    "image_file_path": "changeColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 3,
+                    "name": "chartStyle",
+                    "image_file_path": "chartStyle.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "xyscatterChart",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "xyscatterChart",
+                    "image_file_path": "scatter.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "quickLayout",
+                    "image_file_path": "quickLayout.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 2,
+                    "name": "changeColor",
+                    "image_file_path": "changeColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 3,
+                    "name": "chartStyle",
+                    "image_file_path": "chartStyle.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "lineChart",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "lineChart",
+                    "image_file_path": "line.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "quickLayout",
+                    "image_file_path": "quickLayout.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 2,
+                    "name": "changeColor",
+                    "image_file_path": "changeColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 3,
+                    "name": "chartStyle",
+                    "image_file_path": "chartStyle.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "comboChart",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "comboChart",
+                    "image_file_path": "combo.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "quickLayout",
+                    "image_file_path": "quickLayout.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 2,
+                    "name": "changeColor",
+                    "image_file_path": "changeColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 3,
+                    "name": "chartStyle",
+                    "image_file_path": "chartStyle.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "unsupportedChart",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "quickLayout",
+                    "image_file_path": "quickLayout.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "changeColor",
+                    "image_file_path": "changeColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 2,
+                    "name": "chartStyle",
+                    "image_file_path": "chartStyle.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        }
+    ],
+    "tasks": [
+        {
+            "name": "changetoolvalue",
+            "image_file_path": "changetoolvalue.png",
+            "win_id": "0x10064"
+        },
+        {
+            "name": "keystrokeassignment",
+            "image_file_path": "",
+            "mac_id": 73,
+            "win_id": "0x10000"
+        },
+        {
+            "name": "playpause",
+            "image_file_path": "",
+            "mac_id": 4,
+            "win_id": "0x0004"
+        },
+        {
+            "name": "horizontalScroll",
+            "image_file_path": "horizontalScroll.png",
+            "tool_options": [],
+            "win_id": "0x10067"
+        }
+    ]
+}

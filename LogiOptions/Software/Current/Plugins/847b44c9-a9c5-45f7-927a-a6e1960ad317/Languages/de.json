@@ -1,0 +1,92 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "textSize",
+            "value": "Größe"
+        },
+        {
+            "ID": "leading",
+            "value": "Zeilenabstand"
+        },
+        {
+            "ID": "tracking",
+            "value": "Laufweite"
+        },
+        {
+            "ID": "colorFill",
+            "value": "Füllfarbe"
+        },
+        {
+            "ID": "colorStroke",
+            "value": "Konturfarbe"
+        },
+        {
+            "ID": "strokeWeight",
+            "value": "Strichstärke"
+        },
+        {
+            "ID": "scale",
+            "value": "Skalierung"
+        },
+        {
+            "ID": "opacity",
+            "value": "Deckkraft"
+        },
+        {
+            "ID": "pageNavigation",
+            "value": "Seite ändern"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "Kontextabhängig"
+        },
+        {
+            "ID": "undoRedo",
+            "value": "Rückgängig/Wiederholen"
+        },
+        {
+            "ID": "undoredo",
+            "value": "Rückgängig/Wiederholen"
+        },
+        {
+            "ID": "undo",
+            "value": "Rückgängig"
+        },
+        {
+            "ID": "redo",
+            "value": "Wiederholen"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zoom"
+        },
+        {
+            "ID": "shear",
+            "value": "Verbiegen"
+        },
+        {
+            "ID": "rotation",
+            "value": "Drehung"
+        },
+        {
+            "ID": "moveHorizontal",
+            "value": "X-Position"
+        },
+        {
+            "ID": "moveVertical",
+            "value": "Y-Position"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Tastenanschlag-Zuweisung"
+        },
+        {
+            "ID": "tint",
+            "value": "Schattierung"
+        },
+        {
+            "ID": "playpause",
+            "value": "Wiedergabe/Pause"
+        }
+    ]
+}

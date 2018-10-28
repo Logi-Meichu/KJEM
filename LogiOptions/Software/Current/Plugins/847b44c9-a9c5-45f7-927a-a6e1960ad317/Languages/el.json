@@ -1,0 +1,92 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "textSize",
+            "value": "Μέγεθος"
+        },
+        {
+            "ID": "leading",
+            "value": "Διάστιχο"
+        },
+        {
+            "ID": "tracking",
+            "value": "Παρακολούθηση"
+        },
+        {
+            "ID": "colorFill",
+            "value": "Χρώμα γεμίσματος"
+        },
+        {
+            "ID": "colorStroke",
+            "value": "Χρώμα μολυβιάς"
+        },
+        {
+            "ID": "strokeWeight",
+            "value": "Πάχος μολυβιάς"
+        },
+        {
+            "ID": "scale",
+            "value": "Κλίμακα"
+        },
+        {
+            "ID": "opacity",
+            "value": "Αδιαφάνεια"
+        },
+        {
+            "ID": "pageNavigation",
+            "value": "Αλλαγή σελίδας"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "Μενού περιβάλλοντος"
+        },
+        {
+            "ID": "undoRedo",
+            "value": "Αναίρεση/Επανάληψη"
+        },
+        {
+            "ID": "undoredo",
+            "value": "Αναίρεση/Επανάληψη"
+        },
+        {
+            "ID": "undo",
+            "value": "Αναίρεση"
+        },
+        {
+            "ID": "redo",
+            "value": "Ακύρωση αναίρεσης"
+        },
+        {
+            "ID": "zoom",
+            "value": "Ζουμ"
+        },
+        {
+            "ID": "shear",
+            "value": "Περικοπή"
+        },
+        {
+            "ID": "rotation",
+            "value": "Περιστροφή"
+        },
+        {
+            "ID": "moveHorizontal",
+            "value": "Θέση X"
+        },
+        {
+            "ID": "moveVertical",
+            "value": "Θέση Y"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Αντιστοίχιση πλήκτρου"
+        },
+        {
+            "ID": "tint",
+            "value": "Χρωματικός τόνος"
+        },
+        {
+            "ID": "playpause",
+            "value": "Αναπαραγωγή/Παύση"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "moveframe",
+            "value": "Timeline Navigation"
+        },
+        {
+            "ID": "jogwheel",
+            "value": "Jog Wheel"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "Contextual"
+        },
+        {
+            "ID": "undoRedo",
+            "value": "Undo/Redo"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zoom"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Keystroke assignment"
+        },
+        {
+            "ID": "playpause",
+            "value": "Play/Pause"
+        }
+    ]
+}

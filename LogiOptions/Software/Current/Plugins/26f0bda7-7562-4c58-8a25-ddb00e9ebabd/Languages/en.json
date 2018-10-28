@@ -1,0 +1,48 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "keystrokeassignment",
+            "value": "Keystroke assignment"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "Contextual"
+        },
+        {
+            "ID": "crownbrowsertextsize",
+            "value": "Text size or Tab change"
+        },
+        {
+            "ID": "crowntabscommand",
+            "value": "Tab Switch"
+        },
+        {
+            "ID": "textSize",
+            "value": "Size"
+        },
+        {
+            "ID": "imageSize",
+            "value": "Size"
+        },
+        {
+            "ID": "tabSwitch",
+            "value": "Tab Navigation"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zoom"
+        },
+        {
+            "ID": "sheetNavigation",
+            "value": "Sheet Navigation"
+        },
+        {
+            "ID": "horizontalScroll",
+            "value": "Horizontal Scroll"
+        },
+        {
+            "ID": "playpause",
+            "value": "Play/Pause"
+        }
+    ]
+}

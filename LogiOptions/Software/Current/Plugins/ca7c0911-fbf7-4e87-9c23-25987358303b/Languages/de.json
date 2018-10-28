@@ -1,0 +1,72 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "Kontextabhängig"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Tastenanschlag-Zuweisung"
+        },
+        {
+            "ID": "savefile",
+            "value": "Datei speichern"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zoom"
+        },
+        {
+            "ID": "theme",
+            "value": "Schema-Stil"
+        },
+        {
+            "ID": "color",
+            "value": "Schema-Farbe"
+        },
+        {
+            "ID": "layout",
+            "value": "Layout"
+        },
+        {
+            "ID": "font",
+            "value": "Schema-Schriftart"
+        },
+        {
+            "ID": "fontSize",
+            "value": "Größe"
+        },
+        {
+            "ID": "alignment",
+            "value": "Ausrichtung"
+        },
+        {
+            "ID": "fontWeight",
+            "value": "Schriftstärke"
+        },
+        {
+            "ID": "size",
+            "value": "Skalierung"
+        },
+        {
+            "ID": "rotate",
+            "value": "Drehen"
+        },
+        {
+            "ID": "tableStyle",
+            "value": "Tabellenstil"
+        },
+        {
+            "ID": "tableColor",
+            "value": "Tabellenfarbe"
+        },
+        {
+            "ID": "paragraphStyle",
+            "value": "Paragrafenstil"
+        },
+        {
+            "ID": "wrapText",
+            "value": "Zeilenumbruch"
+        }
+    ]
+}

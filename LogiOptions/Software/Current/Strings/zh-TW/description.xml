@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="utf-8"?>
+<descriptions>
+	<taskids>
+
+		<!-- ******************************** frequently used windows tasks *********************************** -->
+		<task id="0x1d">
+			<description>媒體播放程式</description>
+		</task>
+		<task id="0x44">
+			<description>鎖定</description>
+		</task>
+		<task id="0x10001">
+			<description>登出</description>
+		</task>
+		<task id="0x0c">
+			<description>關閉視窗</description>
+		</task>
+		<task id="0x52">
+			<description>無</description>
+		</task>
+		<task id="0x53">
+			<description>切換應用程式</description>
+		</task>
+		<task id="0x8">
+			<description>切換應用程式</description>
+		</task>
+		<task id="0x0e">
+			<description>電子郵件</description>
+		</task>
+		<task id="0x87">
+			<description>搜尋</description>
+		</task>
+		<task id="0x88">
+			<description>分享</description>
+		</task>
+		<task id="0x89">
+			<description>裝置</description>
+		</task>
+		<task id="0x8a">
+			<description>設定</description>
+		</task>
+		<task id="0x7A">
+			<description>Charms</description>
+		</task>
+		<task id="0x8E">
+			<description>顯示/隱藏桌面</description>
+		</task>
+		<task id="0x79">
+			<description>應用程式功能表</description>
+		</task>
+		<task id="0x90">
+			<description>開始畫面</description>
+		</task>
+		<task id="0x95">
+			<description>最大化視窗</description>
+		</task>
+		<task id="0x94">
+			<description>最小化視窗</description>
+		</task>
+		<task id="0x38">
+			<description>按滑鼠左鍵</description>
+		</task>
+		<task id="0x39">
+			<description>按滑鼠右鍵</description>
+		</task>
+		<task id="0x3A">
+			<description>中間按鈕</description>
+		</task>
+
+		<!-- *********************************** back/forward *********************************** -->
+		<task id="0x3b">
+			<description>上一頁</description>
+		</task>
+		<task id="0x3c">
+			<description>上一頁</description>
+		</task>
+		<task id="0xab">
+			<description>上一步</description>
+		</task>
+		<task id="0x3d">
+			<description>下一頁</description>
+		</task>
+		<task id="0x3e">
+			<description>下一頁</description>
+		</task>
+		<task id="0xac">
+			<description>下一步</description>
+		</task>
+
+		<!-- *********************************** Edit features *********************************** -->
+		<task id="0x51">
+			<description>剪下</description>
+		</task>
+		<task id="0x4e">
+			<description>複製</description>
+		</task>
+		<task id="0x85">
+			<description>貼上</description>
+		</task>
+
+		<!-- *********************************** Calculator File launcher *********************************** -->
+		<task id="0x0a">
+			<description>小算盤</description>
+		</task>
+
+		<!-- *********************************** Volume & Media handlers *********************************** -->
+		<task id="0x01">
+			<description>音量增大</description>
+		</task>
+		<task id="0x02">
+			<description>音量減小</description>
+		</task>
+		<task id="0x03">
+			<description>靜音</description>
+		</task>
+		<task id="0x04">
+			<description>播放/暫停</description>
+		</task>
+		<task id="0x07">
+			<description>停止</description>
+		</task>
+		<task id="0x05">
+			<description>下一個</description>
+		</task>
+		<task id="0x06">
+			<description>上一個</description>
+		</task>
+
+		<!-- *********************************** Common folders *********************************** -->
+		<task id="0x27">
+			<description>我的電腦</description>
+		</task>
+		<task id="0x48">
+			<description>此個人電腦</description>
+		</task>
+		<task id="0x22">
+			<description>我的文件</description>
+		</task>
+		<task id="0x49">
+			<description>檔案</description>
+		</task>
+		<task id="0x24">
+			<description>我的圖片</description>
+		</task>
+		<task id="0x50">
+			<description>圖片</description>
+		</task>
+		<task id="0x23">
+			<description>我的音樂</description>
+		</task>
+		<task id="0x54">
+			<description>音樂</description>
+		</task>
+		<task id="0x26">
+			<description>我的影像</description>
+		</task>
+		<task id="0x55">
+			<description>視訊</description>
+		</task>
+
+		<!-- *********************************** Open Web Page *********************************** -->
+		<task id="0x47">
+			<description>首頁</description>
+		</task>
+		<task id="0x33">
+			<description>放大</description>
+		</task>
+		<task id="0x35">
+			<description>縮小</description>
+		</task>
+		<task id="0x10010">
+			<description>向左旋轉</description>
+		</task>
+		<task id="0x1000F">
+			<description>向右旋轉</description>
+		</task>
+		<task id="0x1000E">
+			<description>已取消指派</description>
+		</task>
+
+        <task id="0xFFFE">
+            <description>已停用</description>
+        </task>     
+
+		<task id="0x37">
+			<description>縮放重設</description>
+		</task>
+		<task id="0x0b">
+			<description>電子郵件</description>
+		</task>
+		<task id="0x2f">
+			<description>睡眠</description>
+		</task>
+		<task id="0x1a">
+			<description>首頁</description>
+		</task>
+		<task id="0x56">
+			<description>首頁</description>
+		</task>
+		<task id="0x1c">
+			<description>將所有視窗最小化</description>
+		</task>
+		<task id="0x1b">
+			<description>恢復所有視窗</description>
+		</task>
+		<task id="0x91">
+			<description>切換螢幕</description>
+		</task>
+		<task id="0x93">
+			<description>切換螢幕</description>
+		</task>
+		<task id="0x43">
+			<description>顯示/隱藏桌面</description>
+		</task>
+		<task id="0x2d">
+			<description>搜尋</description>
+		</task>
+		<task id="0xb0">
+			<description>搜尋</description>
+		</task>
+		<task id="0xb1">
+			<description>搜尋</description>
+		</task>
+		<task id="0xba">
+			<description>輸入語言</description>
+		</task>
+
+		<task id="0x47">
+			<description>首頁</description>
+		</task>
+
+		<task id="0x96">
+			<description>切換應用程式</description>
+		</task>
+		<task id="0x97">
+			<description>首頁</description>
+		</task>
+		<task id="0x9b">
+             <description>螢幕擷取</description>
+        </task>
+		<task id="0xb2">
+			<description>首頁</description>
+		</task>
+		<task id="0x98">
+			<description>按滑鼠右鍵</description>
+		</task>
+		<task id="0x20">
+			<description>按滑鼠右鍵</description>
+		</task>
+		<task id="0xb3">
+			<description>按滑鼠右鍵</description>
+		</task>
+		<task id="0x99">
+			<description>上一頁</description>
+		</task>
+		<task id="0xce">
+			<description>上一步</description>
+		</task>
+    <task id="0xc5">
+      <description>新瀏覽器標籤</description>
+    </task>
+    
+		<task id="0xA8">
+			<description>手勢按鈕</description>
+		</task>
+		<task id="0xA9">
+			<description>手勢按鈕</description>
+		</task>
+		<task id="0x9c">
+			<description>手勢按鈕</description>
+		</task>
+		<task id="0xad">
+			<description>手勢按鈕</description>
+		</task>
+
+		<task id="0x1002c">
+			<description>手勢按鈕</description>
+		</task>
+
+		<task id="0x9d">
+			<description>模式切換按鈕</description>
+		</task>
+
+		<task id="0x71">
+			<description>向右旋轉類比</description>
+		</task>
+
+		<task id="0x72">
+			<description>向左旋轉類比</description>
+		</task>
+
+		<task id="0x73">
+			<description>向左平移</description>
+		</task>
+
+		<task id="0x74">
+			<description>向右平移</description>
+		</task>
+
+		<task id="0x75">
+			<description>向上平移</description>
+		</task>
+
+		<task id="0x76">
+			<description>向下平移</description>
+		</task>
+
+
+		<task id="0x3f">
+			<description>向左捲動</description>
+		</task>
+
+		<task id="0x40">
+			<description>向右捲動</description>
+		</task>
+
+		<task id="0xc3">
+			<description>應用程式功能表</description>
+		</task>
+
+		<task id="0xbf">
+			<description>工作檢視</description>
+		</task>
+
+		<task id="0xa3">
+			<description>亮度減少</description>
+		</task>
+
+		<task id="0xa4">
+			<description>亮度增加</description>
+		</task>
+
+		<task id="0xc0">
+			<description>行動中心</description>
+		</task>
+
+		<task id="0xc1">
+			<description>背光減少</description>
+		</task>
+
+		<task id="0xc2">
+			<description>背光增加</description>
+		</task>
+		
+		<task id="0x10003">
+			<description>休眠</description>
+		</task>
+
+		<!-- task ids local to LogiOptions -->
+		<!-- *************************************  -->
+		<task id="0x10000">
+			<description>按鍵動作指定</description>
+		</task>
+		<task id="0x10001">
+			<description>登出</description>
+		</task>
+		<task id="0x10002">
+			<description>關機</description>
+		</task>
+		<task id="0x10003">
+			<description>休眠</description>
+		</task>
+		<task id="0x10004">
+			<description>啟動應用程式</description>
+		</task>
+		<task id="0x10007">
+			<description>下一首/快轉</description>
+		</task>
+		<task id="0x10008">
+			<description>開啟檔案</description>
+		</task>
+		<task id="0x10009">
+			<description>開啟資料夾</description>
+		</task>
+		<task id="0x1000A">
+			<description>開啟網頁</description>
+		</task>
+		<task id="0x1000B">
+			<description>上一首/倒轉</description>
+		</task>
+		<task id="0x1000C">
+			<description>連按兩下</description>
+		</task>
+		<task id="0x1000D">
+			<description>Windows 8 快捷鍵</description>
+		</task>
+
+		<task id="0x10011">
+			<description>平移</description>
+		</task>
+		<task id="0x10012">
+			<description>平移</description>
+		</task>
+		<task id="0x10013">
+			<description>平移</description>
+		</task>
+		<task id="0x10014">
+			<description>平移</description>
+		</task>
+		<task id="0x1000E">
+			<description>中間按鈕</description>
+		</task>
+
+		<task id="0x10019">
+			<description>開始畫面</description>
+		</task>
+
+		<task id="0x10020">
+			<description>最大化視窗</description>
+		</task>
+
+		<task id="0x10021">
+			<description>顯示/隱藏桌面</description>
+		</task>
+		<task id="0x10022">
+			<description>切換應用程式</description>
+		</task>
+
+		<task id="0x10026">
+			<description>向左貼齊</description>
+		</task>
+
+		<task id="0x10027">
+			<description>向右貼齊</description>
+		</task>
+
+		<task id="0x10029">
+			<description>放大</description>
+		</task>
+
+		<task id="0x10030">
+			<description>音量增大</description>
+		</task>
+
+		<task id="0x10031">
+			<description>音量減小</description>
+		</task>
+
+		<task id="0x10032">
+			<description>上一個</description>
+		</task>
+
+		<task id="0x10033">
+			<description>下一個</description>
+		</task>
+
+		<task id="0x10034">
+			<description>播放/暫停</description>
+		</task>
+
+		<task id="0x10035">
+			<description>開始功能表</description>
+		</task>
+		<task id="0x10036">
+			<description>Easy-Switch</description>
+		</task>
+		<task id="0x10037">
+			<description>滑鼠靈敏度</description>
+		</task>
+		<task id="0xc4">
+			<description>精確模式</description>
+		</task>
+
+		<task id="0x10038">
+			<description>最大化視窗</description>
+		</task>
+
+		<task id="0x10039">
+			<description>輔助按鍵</description>
+		</task>
+
+		<task id="0x10040">
+			<description>進階點按</description>
+		</task>
+
+		<task id="0x10041">
+			<description>切換平滑捲動</description>
+		</task>
+
+		<task id="0x10042">
+			<description>新桌面</description>
+		</task>
+
+		<task id="0x10043">
+			<description>關閉桌面</description>
+		</task>
+
+		<task id="0x10044">
+			<description>桌面 (下一個)</description>
+		</task>
+
+		<task id="0x10045">
+			<description>桌面 (上一個)</description>
+		</task>
+
+		<task id="0x10047">
+			<description>開始功能表</description>
+		</task>
+		<task id="0x10048">
+			<description>顯示/隱藏桌面</description>
+		</task>
+		<task id="0x10049">
+			<description>桌面 (上一個)</description>
+		</task>
+		<task id="0x10050">
+			<description>桌面 (下一個)</description>
+		</task>
+		<task id="0x10051">
+			<description>工作檢視</description>
+		</task>
+		<task id="0x10052">
+			<description>行動中心</description>
+		</task>
+		<task id="0x10053">
+			<description>工作檢視</description>
+		</task>
+		<task id="0x10055">
+			<description>Cortana</description>
+		</task>
+	<task id="0x10056">
+	  <description>工作檢視</description>
+	</task>
+		<task id="0x10100">
+			<description>最大化視窗</description>
+		</task>
+		<task id="0x10101">
+			<description>顯示/隱藏桌面</description>
+		</task>
+		<task id="0x10102">
+			<description>首頁</description>
+		</task>
+		<task id="0x10103">
+			<description>啟動應用程式</description>
+		</task>
+		<task id="0x10104">
+			<description>切換應用程式</description>
+		</task>
+		<task id="0x10059">
+			<description>音量</description>
+		</task>
+		<task id="0x1005a">
+			<description>切換桌面</description>
+		</task>
+		<task id="0x1005b">
+			<description>亮度</description>
+		</task>
+		<task id="0x1005c">
+			<description>媒體控制</description>
+		</task>
+		<task id="0x1005d">
+			<description>切換應用程式</description>
+		</task>
+		<task id="0x1005f">
+			<description>切換標籤</description>
+		</task>
+    <!--task id="0x10060">
+			<description>Crown Desktop Switch</description>
+		</task-->
+		<task id="0x10061">
+			<description>縮放</description>
+		</task>
+		<task id="0x10062">
+			<description>多功能轉鈕瀏覽頁面</description>
+		</task>
+		<task id="0x10063">
+			<description>自訂按鍵</description>
+		</task>
+		<task id="0x10064">
+			<description>變更工具值</description>
+		</task>
+		<task id="0x10065">
+			<description>復原/重做</description>
+		</task>
+    <task id="0x10110">
+      <description>軌跡球靈敏度</description>
+    </task>
+    <task id="0xcd">
+      <description>F1</description>
+    </task>
+    <task id="0xc6">
+      <description>F2</description>
+    </task>
+    <task id="0xc7">
+      <description>F3</description>
+    </task>
+    <task id="0xc8">
+      <description>F4</description>
+    </task>
+    <task id="0xc9">
+      <description>F5</description>
+    </task>
+    <task id="0xca">
+      <description>F6</description>
+    </task>
+    <task id="0xcb">
+      <description>F7</description>
+    </task>
+    <task id="0xcc">
+      <description>F8</description>
+    </task>
+
+
+  </taskids>
+	<gestureids>
+		<gesture id="0x21">
+			<description>觸碰以執行點按功能</description>
+		</gesture>
+		<gesture id="0x2c">
+			<description>平滑捲動</description>
+		</gesture>
+		<gesture id="0x2d">
+			<description>捲動方向</description>
+		</gesture>
+		<gesture id="0x2a">
+			<description>水平捲動</description>
+		</gesture>
+		<gesture id="0x2b">
+			<description>垂直捲動</description>
+		</gesture>
+		<gesture id="0x40">
+			<description>切換應用程式</description>
+		</gesture>
+		<gesture id="0x41">
+			<description>顯示 Charms</description>
+		</gesture>
+		<gesture id="0x43">
+			<description>應用程式功能表</description>
+		</gesture>
+		<gesture id="0x54">
+			<description>縮放</description>
+		</gesture>
+		<gesture id="0x14">
+			<description>指標速度</description>
+		</gesture>
+		<!-- new gestures -->
+		<gesture id="0x2e">
+			<description>拇指輪捲動</description>
+		</gesture>
+		<gesture id="0x64">
+			<description>拇指輪按兩下</description>
+		</gesture>
+		<gesture id="0x27d3">
+			<description>SmartShift 重新對應</description>
+		</gesture>
+		<gesture id="0x2762">
+			<description>按鈕 3 重新對應</description>
+		</gesture>
+		<gesture id="0x27d4">
+			<description>手勢按鈕重新對應</description>
+		</gesture>
+	</gestureids>
+	<gesturetaskids>
+		<gesturetask id="0x0">
+			<description>已停用</description>
+		</gesturetask>
+		<gesturetask id="0x1">
+			<description>使用 1 或 2 隻手指點按</description>
+		</gesturetask>
+		<gesturetask id="0x2">
+			<description>已啟用</description>
+		</gesturetask>
+		<gesturetask id="0x3">
+			<description>傳統</description>
+		</gesturetask>
+		<gesturetask id="0x4">
+			<description>內容追蹤手指</description>
+		</gesturetask>
+		<gesturetask id="0x5">
+			<description>用 2 隻手指左右滑動</description>
+		</gesturetask>
+		<gesturetask id="0x6">
+			<description>用 2 隻手指上下滑動</description>
+		</gesturetask>
+		<gesturetask id="0x7">
+			<description>用 1 隻手指從左側滑動</description>
+		</gesturetask>
+		<gesturetask id="0x8">
+			<description>用 1 隻手指從右側滑動</description>
+		</gesturetask>
+		<gesturetask id="0x9">
+			<description>用 1 隻手指從上側滑動</description>
+		</gesturetask>
+		<gesturetask id="0xa">
+			<description>用 2 隻手指進行張開或收合動作</description>
+		</gesturetask>
+		<gesturetask id="0xb">
+			<description>指標速度</description>
+		</gesturetask>
+	</gesturetaskids>
+	<gestureactiongroups>
+		<actiongroup id="win8nav">
+			<description>瀏覽視窗</description>
+		</actiongroup>
+		<actiongroup id="win7nav">
+			<description>瀏覽視窗</description>
+		</actiongroup>
+		<actiongroup id="win8nav2">
+			<description>視窗管理</description>
+		</actiongroup>
+		<actiongroup id="winarrangement">
+			<description>排列視窗</description>
+		</actiongroup>
+		<actiongroup id="mediagestures">
+			<description>媒體控制</description>
+		</actiongroup>
+		<actiongroup id="panzoom">
+			<description>平移</description>
+		</actiongroup>
+		<actiongroup id="zoomrotate">
+			<description>縮放/旋轉</description>
+		</actiongroup>
+		<actiongroup id="custom">
+			<description>自訂</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelhorzscroll">
+			<description>水平捲動</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelzoom">
+			<description>放大/縮小</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelvolume">
+			<description>音量增大/音量減小</description>
+		</actiongroup>
+		<actiongroup id="thumbwheeltabs">
+			<description>索引標籤下一個/上一個</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelnextprev">
+			<description>下一個/上一個</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelbackforward">
+			<description>前進/後退</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelalttab">
+			<description>切換應用程式</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelbrightness">
+			<description>增加/減少亮度 </description>
+		</actiongroup>
+		<actiongroup id="thumbwheelbackforwardtouch">
+			<description>前進 / 後退觸控</description>
+		</actiongroup>
+		<actiongroup id="virtualdesktop">
+			<description>虛擬桌面</description>
+		</actiongroup>
+	<actiongroup id="fn_virtualdesktop">
+      <description>虛擬桌面</description>
+    </actiongroup>
+		<actiongroup id="thumbwheelvirtualdesktop">
+			<description>在桌面間切換</description>
+		</actiongroup>
+		<actiongroup id="thumbwheeldonothing">
+			<description>無</description>
+		</actiongroup>
+		<actiongroup id="touch">
+			<description>使用觸控平移 </description>
+		</actiongroup>
+		<actiongroup id="ichitaro">
+			<description>Ichitaro2017</description>
+		</actiongroup>
+    <actiongroup id="disabled">
+        <description>已停用</description>
+    </actiongroup>
+
+	</gestureactiongroups>
+</descriptions>

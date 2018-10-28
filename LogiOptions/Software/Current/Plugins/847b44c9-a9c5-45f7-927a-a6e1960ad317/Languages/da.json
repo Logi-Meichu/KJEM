@@ -1,0 +1,92 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "textSize",
+            "value": "Størrelse"
+        },
+        {
+            "ID": "leading",
+            "value": "Skydning"
+        },
+        {
+            "ID": "tracking",
+            "value": "Registrering"
+        },
+        {
+            "ID": "colorFill",
+            "value": "Udfyldningsfarve"
+        },
+        {
+            "ID": "colorStroke",
+            "value": "Strøgfarve"
+        },
+        {
+            "ID": "strokeWeight",
+            "value": "Strøgtykkelse"
+        },
+        {
+            "ID": "scale",
+            "value": "Skaler"
+        },
+        {
+            "ID": "opacity",
+            "value": "Opacitet"
+        },
+        {
+            "ID": "pageNavigation",
+            "value": "Skift side"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "Kontekstuel"
+        },
+        {
+            "ID": "undoRedo",
+            "value": "Fortryd/annuller fortryd"
+        },
+        {
+            "ID": "undoredo",
+            "value": "Fortryd/annuller fortryd"
+        },
+        {
+            "ID": "undo",
+            "value": "Fortryd"
+        },
+        {
+            "ID": "redo",
+            "value": "Annuller fortryd"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zoom"
+        },
+        {
+            "ID": "shear",
+            "value": "Vridning"
+        },
+        {
+            "ID": "rotation",
+            "value": "Rotation"
+        },
+        {
+            "ID": "moveHorizontal",
+            "value": "Placering X"
+        },
+        {
+            "ID": "moveVertical",
+            "value": "Placering Y"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Tildeling af tastefunktioner"
+        },
+        {
+            "ID": "tint",
+            "value": "Farvetone"
+        },
+        {
+            "ID": "playpause",
+            "value": "Afspil/pause"
+        }
+    ]
+}

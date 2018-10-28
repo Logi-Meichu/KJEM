@@ -1,0 +1,64 @@
+{
+  "LocalizedStrings": [
+    {
+      "ID": "changetoolvalue",
+      "value": "Kontekstavhengig"
+    },
+    {
+      "ID": "keystrokeassignment",
+      "value": "Tilordning av tastetrykk"
+    },
+    {
+      "ID": "savefile",
+      "value": "Lagre fil"
+    },
+    {
+      "ID": "zoom",
+      "value": "Zoom"
+    },
+    {
+      "ID": "theme",
+      "value": "Temastil"
+    },
+    {
+      "ID": "colour",
+      "value": "Temafarge"
+    },
+    {
+      "ID": "layout",
+      "value": "Oppsett"
+    },
+    {
+      "ID": "font",
+      "value": "Temaskrift"
+    },
+    {
+      "ID": "textSize",
+      "value": "Tekststørrelse"
+    },
+    {
+      "ID": "alignment",
+      "value": "Juster"
+    },
+    {
+      "ID": "fontWeight",
+      "value": "Skrifttykkelse"
+    },
+    {
+      "ID": "size",
+      "value": "Skalering"
+    },
+    {
+      "ID": "rotate",
+      "value": "Roter"
+    },
+    {
+      "ID": "tableStyle",
+      "value": "Tabellstil"
+    },
+    {
+      "ID": "tableColor",
+      "value": "Tabellfarge"
+    }
+  ]
+}

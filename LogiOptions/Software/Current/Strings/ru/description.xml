@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="utf-8"?>
+<descriptions>
+	<taskids>
+
+		<!-- ******************************** frequently used windows tasks *********************************** -->
+		<task id="0x1d">
+			<description>Проигрыватель мультимедиа</description>
+		</task>
+		<task id="0x44">
+			<description>Блокировать</description>
+		</task>
+		<task id="0x10001">
+			<description>Выход</description>
+		</task>
+		<task id="0x0c">
+			<description>Закрыть окно</description>
+		</task>
+		<task id="0x52">
+			<description>Нет</description>
+		</task>
+		<task id="0x53">
+			<description>Переключение между приложениями</description>
+		</task>
+		<task id="0x8">
+			<description>Переключение между приложениями</description>
+		</task>
+		<task id="0x0e">
+			<description>Электронная почта</description>
+		</task>
+		<task id="0x87">
+			<description>Поиск</description>
+		</task>
+		<task id="0x88">
+			<description>Общий доступ</description>
+		</task>
+		<task id="0x89">
+			<description>Устройства</description>
+		</task>
+		<task id="0x8a">
+			<description>Параметры</description>
+		</task>
+		<task id="0x7A">
+			<description>Чудо-кнопки</description>
+		</task>
+		<task id="0x8E">
+			<description>Отображение/скрытие рабочего стола</description>
+		</task>
+		<task id="0x79">
+			<description>Меню приложения</description>
+		</task>
+		<task id="0x90">
+			<description>Начальный экран</description>
+		</task>
+		<task id="0x95">
+			<description>Развернуть окно</description>
+		</task>
+		<task id="0x94">
+			<description>Свернуть окно</description>
+		</task>
+		<task id="0x38">
+			<description>Щелчок левой кнопкой мыши</description>
+		</task>
+		<task id="0x39">
+			<description>Щелчок правой кнопкой мыши</description>
+		</task>
+		<task id="0x3A">
+			<description>Средняя кнопка</description>
+		</task>
+
+		<!-- *********************************** back/forward *********************************** -->
+		<task id="0x3b">
+			<description>Назад</description>
+		</task>
+		<task id="0x3c">
+			<description>Назад</description>
+		</task>
+		<task id="0xab">
+			<description>Назад</description>
+		</task>
+		<task id="0x3d">
+			<description>Вперед</description>
+		</task>
+		<task id="0x3e">
+			<description>Вперед</description>
+		</task>
+		<task id="0xac">
+			<description>Далее</description>
+		</task>
+
+		<!-- *********************************** Edit features *********************************** -->
+		<task id="0x51">
+			<description>Вырезать</description>
+		</task>
+		<task id="0x4e">
+			<description>Копировать</description>
+		</task>
+		<task id="0x85">
+			<description>Вставить</description>
+		</task>
+
+		<!-- *********************************** Calculator File launcher *********************************** -->
+		<task id="0x0a">
+			<description>Калькулятор</description>
+		</task>
+
+		<!-- *********************************** Volume & Media handlers *********************************** -->
+		<task id="0x01">
+			<description>Увеличение громкости</description>
+		</task>
+		<task id="0x02">
+			<description>Уменьшение громкости</description>
+		</task>
+		<task id="0x03">
+			<description>Отключение звука</description>
+		</task>
+		<task id="0x04">
+			<description>Воспроизведение/пауза</description>
+		</task>
+		<task id="0x07">
+			<description>Остановить</description>
+		</task>
+		<task id="0x05">
+			<description>Cледующая</description>
+		</task>
+		<task id="0x06">
+			<description>Предыдущая</description>
+		</task>
+
+		<!-- *********************************** Common folders *********************************** -->
+		<task id="0x27">
+			<description>Мой компьютер</description>
+		</task>
+		<task id="0x48">
+			<description>Этот ПК</description>
+		</task>
+		<task id="0x22">
+			<description>Мои документы</description>
+		</task>
+		<task id="0x49">
+			<description>Документы</description>
+		</task>
+		<task id="0x24">
+			<description>Мои рисунки</description>
+		</task>
+		<task id="0x50">
+			<description>Рисунки</description>
+		</task>
+		<task id="0x23">
+			<description>Мои музыкальные записи</description>
+		</task>
+		<task id="0x54">
+			<description>Музыка</description>
+		</task>
+		<task id="0x26">
+			<description>Мое видео</description>
+		</task>
+		<task id="0x55">
+			<description>Видео</description>
+		</task>
+
+		<!-- *********************************** Open Web Page *********************************** -->
+		<task id="0x47">
+			<description>Моя домашняя страница</description>
+		</task>
+		<task id="0x33">
+			<description>Увеличить</description>
+		</task>
+		<task id="0x35">
+			<description>Уменьшить</description>
+		</task>
+		<task id="0x10010">
+			<description>Поворот влево</description>
+		</task>
+		<task id="0x1000F">
+			<description>Поворот вправо</description>
+		</task>
+		<task id="0x1000E">
+			<description>Назначенные</description>
+		</task>
+
+        <task id="0xFFFE">
+            <description>Отключено</description>
+        </task>     
+
+		<task id="0x37">
+			<description>Восстановить масштаб</description>
+		</task>
+		<task id="0x0b">
+			<description>Эл. почта</description>
+		</task>
+		<task id="0x2f">
+			<description>Спящий режим</description>
+		</task>
+		<task id="0x1a">
+			<description>Моя домашняя страница</description>
+		</task>
+		<task id="0x56">
+			<description>Домашняя страница</description>
+		</task>
+		<task id="0x1c">
+			<description>Свернуть все окна</description>
+		</task>
+		<task id="0x1b">
+			<description>Восстановить все окна</description>
+		</task>
+		<task id="0x91">
+			<description>Переключить экран</description>
+		</task>
+		<task id="0x93">
+			<description>Переключить экран</description>
+		</task>
+		<task id="0x43">
+			<description>Отображение/скрытие рабочего стола</description>
+		</task>
+		<task id="0x2d">
+			<description>Поиск</description>
+		</task>
+		<task id="0xb0">
+			<description>Поиск</description>
+		</task>
+		<task id="0xb1">
+			<description>Поиск</description>
+		</task>
+		<task id="0xba">
+			<description>Язык ввода</description>
+		</task>
+
+		<task id="0x47">
+			<description>Моя домашняя страница</description>
+		</task>
+
+		<task id="0x96">
+			<description>Переключение между приложениями</description>
+		</task>
+		<task id="0x97">
+			<description>Моя домашняя страница</description>
+		</task>
+		<task id="0x9b">
+             <description>Захват экрана</description>
+        </task>
+		<task id="0xb2">
+			<description>Моя домашняя страница</description>
+		</task>
+		<task id="0x98">
+			<description>Щелчок правой кнопкой мыши</description>
+		</task>
+		<task id="0x20">
+			<description>Щелчок правой кнопкой мыши</description>
+		</task>
+		<task id="0xb3">
+			<description>Щелчок правой кнопкой мыши</description>
+		</task>
+		<task id="0x99">
+			<description>Назад</description>
+		</task>
+		<task id="0xce">
+			<description>Назад</description>
+		</task>
+    <task id="0xc5">
+      <description>Новая вкладка браузера</description>
+    </task>
+    
+		<task id="0xA8">
+			<description>Кнопка жестов</description>
+		</task>
+		<task id="0xA9">
+			<description>Кнопка жестов</description>
+		</task>
+		<task id="0x9c">
+			<description>Кнопка жестов</description>
+		</task>
+		<task id="0xad">
+			<description>Кнопка жестов</description>
+		</task>
+
+		<task id="0x1002c">
+			<description>Кнопка жестов</description>
+		</task>
+
+		<task id="0x9d">
+			<description>Кнопка изменения режима колесика прокрутки</description>
+		</task>
+
+		<task id="0x71">
+			<description>аналоговый поворот вправо</description>
+		</task>
+
+		<task id="0x72">
+			<description>аналоговый поворот влево</description>
+		</task>
+
+		<task id="0x73">
+			<description>панорамирование влево</description>
+		</task>
+
+		<task id="0x74">
+			<description>панорамирование вправо</description>
+		</task>
+
+		<task id="0x75">
+			<description>панорамирование вверх</description>
+		</task>
+
+		<task id="0x76">
+			<description>панорамирование вниз</description>
+		</task>
+
+
+		<task id="0x3f">
+			<description>Прокрутка влево</description>
+		</task>
+
+		<task id="0x40">
+			<description>Прокрутка вправо</description>
+		</task>
+
+		<task id="0xc3">
+			<description>Меню приложений</description>
+		</task>
+
+		<task id="0xbf">
+			<description>Меню задач</description>
+		</task>
+
+		<task id="0xa3">
+			<description>Уменьшить яркость</description>
+		</task>
+
+		<task id="0xa4">
+			<description>Увеличить яркость</description>
+		</task>
+
+		<task id="0xc0">
+			<description>Центр команд</description>
+		</task>
+
+		<task id="0xc1">
+			<description>Уменьшить подсветку</description>
+		</task>
+
+		<task id="0xc2">
+			<description>Увеличить подсветку</description>
+		</task>
+		
+		<task id="0x10003">
+			<description>Режим гибернации</description>
+		</task>
+
+		<!-- task ids local to LogiOptions -->
+		<!-- *************************************  -->
+		<task id="0x10000">
+			<description>Назначение функций клавишам</description>
+		</task>
+		<task id="0x10001">
+			<description>Выход из системы</description>
+		</task>
+		<task id="0x10002">
+			<description>Завершение работы</description>
+		</task>
+		<task id="0x10003">
+			<description>Режим гибернации</description>
+		</task>
+		<task id="0x10004">
+			<description>Запустить приложение</description>
+		</task>
+		<task id="0x10007">
+			<description>Следующая композиция/Вперед</description>
+		</task>
+		<task id="0x10008">
+			<description>Открыть файл</description>
+		</task>
+		<task id="0x10009">
+			<description>Открыть папку</description>
+		</task>
+		<task id="0x1000A">
+			<description>Открыть веб-страницу</description>
+		</task>
+		<task id="0x1000B">
+			<description>Предыдущая композиция/Назад</description>
+		</task>
+		<task id="0x1000C">
+			<description>Двойной щелчок</description>
+		</task>
+		<task id="0x1000D">
+			<description>Сочетания клавиш в Windows 8</description>
+		</task>
+
+		<task id="0x10011">
+			<description>Панорамирование</description>
+		</task>
+		<task id="0x10012">
+			<description>Панорамирование</description>
+		</task>
+		<task id="0x10013">
+			<description>Панорамирование</description>
+		</task>
+		<task id="0x10014">
+			<description>Панорамирование</description>
+		</task>
+		<task id="0x1000E">
+			<description>Средняя кнопка</description>
+		</task>
+
+		<task id="0x10019">
+			<description>Начальный экран</description>
+		</task>
+
+		<task id="0x10020">
+			<description>Развернуть окно</description>
+		</task>
+
+		<task id="0x10021">
+			<description>Отображение/скрытие рабочего стола</description>
+		</task>
+		<task id="0x10022">
+			<description>Переключение между приложениями</description>
+		</task>
+
+		<task id="0x10026">
+			<description>Переключиться влево</description>
+		</task>
+
+		<task id="0x10027">
+			<description>Переключиться вправо</description>
+		</task>
+
+		<task id="0x10029">
+			<description>Увеличить</description>
+		</task>
+
+		<task id="0x10030">
+			<description>Увеличение громкости</description>
+		</task>
+
+		<task id="0x10031">
+			<description>Уменьшение громкости</description>
+		</task>
+
+		<task id="0x10032">
+			<description>Предыдущая</description>
+		</task>
+
+		<task id="0x10033">
+			<description>Cледующая</description>
+		</task>
+
+		<task id="0x10034">
+			<description>Воспроизведение/пауза</description>
+		</task>
+
+		<task id="0x10035">
+			<description>Меню кнопки "Пуск"</description>
+		</task>
+		<task id="0x10036">
+			<description>Easy-Switch</description>
+		</task>
+		<task id="0x10037">
+			<description>Чувствительность мыши</description>
+		</task>
+		<task id="0xc4">
+			<description>Точный режим</description>
+		</task>
+
+		<task id="0x10038">
+			<description>Развернуть окно</description>
+		</task>
+
+		<task id="0x10039">
+			<description>Клавиши-модификаторы</description>
+		</task>
+
+		<task id="0x10040">
+			<description>Дополнительное нажатие</description>
+		</task>
+
+		<task id="0x10041">
+			<description>Переключиться на плавную прокрутку</description>
+		</task>
+
+		<task id="0x10042">
+			<description>Новый рабочий стол</description>
+		</task>
+
+		<task id="0x10043">
+			<description>Закрыть рабочий стол</description>
+		</task>
+
+		<task id="0x10044">
+			<description>Рабочий стол (следующий)</description>
+		</task>
+
+		<task id="0x10045">
+			<description>Рабочий стол (предыдущий)</description>
+		</task>
+
+		<task id="0x10047">
+			<description>Меню "Пуск"</description>
+		</task>
+		<task id="0x10048">
+			<description>Отображение/скрытие рабочего стола</description>
+		</task>
+		<task id="0x10049">
+			<description>Рабочий стол (предыдущий)</description>
+		</task>
+		<task id="0x10050">
+			<description>Рабочий стол (следующий)</description>
+		</task>
+		<task id="0x10051">
+			<description>Представление задач</description>
+		</task>
+		<task id="0x10052">
+			<description>Центр поддержки</description>
+		</task>
+		<task id="0x10053">
+			<description>Представление задач</description>
+		</task>
+		<task id="0x10055">
+			<description>Кортана</description>
+		</task>
+	<task id="0x10056">
+	  <description>Представление задач</description>
+	</task>
+		<task id="0x10100">
+			<description>Развернуть окно</description>
+		</task>
+		<task id="0x10101">
+			<description>Отображение/скрытие рабочего стола</description>
+		</task>
+		<task id="0x10102">
+			<description>Моя домашняя страница</description>
+		</task>
+		<task id="0x10103">
+			<description>Запустить приложение</description>
+		</task>
+		<task id="0x10104">
+			<description>Переключение между приложениями</description>
+		</task>
+		<task id="0x10059">
+			<description>Громкость</description>
+		</task>
+		<task id="0x1005a">
+			<description>Переключение рабочих столов</description>
+		</task>
+		<task id="0x1005b">
+			<description>Яркость</description>
+		</task>
+		<task id="0x1005c">
+			<description>Управление мультимедиа</description>
+		</task>
+		<task id="0x1005d">
+			<description>Переключение приложений</description>
+		</task>
+		<task id="0x1005f">
+			<description>Переключение вкладок</description>
+		</task>
+    <!--task id="0x10060">
+			<description>Crown Desktop Switch</description>
+		</task-->
+		<task id="0x10061">
+			<description>Масштаб</description>
+		</task>
+		<task id="0x10062">
+			<description>Колесико-переключатель — навигация между страницами</description>
+		</task>
+		<task id="0x10063">
+			<description>Пользовательское сочетание клавиш</description>
+		</task>
+		<task id="0x10064">
+			<description>Изменить значение инструмента</description>
+		</task>
+		<task id="0x10065">
+			<description>Отменить/вернуть</description>
+		</task>
+    <task id="0x10110">
+      <description>Чувствительность трекбола</description>
+    </task>
+    <task id="0xcd">
+      <description>F1</description>
+    </task>
+    <task id="0xc6">
+      <description>F2</description>
+    </task>
+    <task id="0xc7">
+      <description>F3</description>
+    </task>
+    <task id="0xc8">
+      <description>F4</description>
+    </task>
+    <task id="0xc9">
+      <description>F5</description>
+    </task>
+    <task id="0xca">
+      <description>F6</description>
+    </task>
+    <task id="0xcb">
+      <description>F7</description>
+    </task>
+    <task id="0xcc">
+      <description>F8</description>
+    </task>
+
+
+  </taskids>
+	<gestureids>
+		<gesture id="0x21">
+			<description>Щелчок по касанию</description>
+		</gesture>
+		<gesture id="0x2c">
+			<description>Плавная прокрутка</description>
+		</gesture>
+		<gesture id="0x2d">
+			<description>Направление прокрутки</description>
+		</gesture>
+		<gesture id="0x2a">
+			<description>Горизонтальная прокрутка</description>
+		</gesture>
+		<gesture id="0x2b">
+			<description>Вертикальная прокрутка</description>
+		</gesture>
+		<gesture id="0x40">
+			<description>Переключение между приложениями</description>
+		</gesture>
+		<gesture id="0x41">
+			<description>Отображение чудо-кнопок</description>
+		</gesture>
+		<gesture id="0x43">
+			<description>Меню приложения</description>
+		</gesture>
+		<gesture id="0x54">
+			<description>Масштаб</description>
+		</gesture>
+		<gesture id="0x14">
+			<description>Скорость указателя</description>
+		</gesture>
+		<!-- new gestures -->
+		<gesture id="0x2e">
+			<description>Прокрутка колесиком для большого пальца</description>
+		</gesture>
+		<gesture id="0x64">
+			<description>Функция двойного касания для колесика для большого пальца</description>
+		</gesture>
+		<gesture id="0x27d3">
+			<description>переназначение функции SmartShift</description>
+		</gesture>
+		<gesture id="0x2762">
+			<description>переназначение кнопки 3</description>
+		</gesture>
+		<gesture id="0x27d4">
+			<description>переназначение кнопки жестов</description>
+		</gesture>
+	</gestureids>
+	<gesturetaskids>
+		<gesturetask id="0x0">
+			<description>Отключено</description>
+		</gesturetask>
+		<gesturetask id="0x1">
+			<description>Коснитесь одним или двумя пальцами</description>
+		</gesturetask>
+		<gesturetask id="0x2">
+			<description>Включено</description>
+		</gesturetask>
+		<gesturetask id="0x3">
+			<description>традиционное письмо</description>
+		</gesturetask>
+		<gesturetask id="0x4">
+			<description>Контент реагирует на касания</description>
+		</gesturetask>
+		<gesturetask id="0x5">
+			<description>Провести влево и вправо 2 пальцами</description>
+		</gesturetask>
+		<gesturetask id="0x6">
+			<description>Провести вверх и вниз 2 пальцами</description>
+		</gesturetask>
+		<gesturetask id="0x7">
+			<description>Провести от левого края 1 пальцем</description>
+		</gesturetask>
+		<gesturetask id="0x8">
+			<description>Провести от правого края 1 пальцем</description>
+		</gesturetask>
+		<gesturetask id="0x9">
+			<description>Провести от верхнего края 1 пальцем</description>
+		</gesturetask>
+		<gesturetask id="0xa">
+			<description>Развести или свести 2 пальца</description>
+		</gesturetask>
+		<gesturetask id="0xb">
+			<description>Скорость указателя</description>
+		</gesturetask>
+	</gesturetaskids>
+	<gestureactiongroups>
+		<actiongroup id="win8nav">
+			<description>Переход между окнами</description>
+		</actiongroup>
+		<actiongroup id="win7nav">
+			<description>Переход между окнами</description>
+		</actiongroup>
+		<actiongroup id="win8nav2">
+			<description>Управление окнами</description>
+		</actiongroup>
+		<actiongroup id="winarrangement">
+			<description>Упорядочить окна</description>
+		</actiongroup>
+		<actiongroup id="mediagestures">
+			<description>Элементы управления мультимедиа.</description>
+		</actiongroup>
+		<actiongroup id="panzoom">
+			<description>Панорамирование</description>
+		</actiongroup>
+		<actiongroup id="zoomrotate">
+			<description>Масштаб/Поворот</description>
+		</actiongroup>
+		<actiongroup id="custom">
+			<description>Настраиваемый</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelhorzscroll">
+			<description>Горизонтальная прокрутка</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelzoom">
+			<description>Увеличение и уменьшение</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelvolume">
+			<description>Увеличение или уменьшение громкости</description>
+		</actiongroup>
+		<actiongroup id="thumbwheeltabs">
+			<description>Следующая/предыдущая вкладка</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelnextprev">
+			<description>Следующий/Предыдущий</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelbackforward">
+			<description>Вперед/Назад</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelalttab">
+			<description>Переключение между приложениями</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelbrightness">
+			<description>Увеличить/уменьшить яркость </description>
+		</actiongroup>
+		<actiongroup id="thumbwheelbackforwardtouch">
+			<description>Сенсорное управление "Вперед/Назад"</description>
+		</actiongroup>
+		<actiongroup id="virtualdesktop">
+			<description>Виртуальные рабочие столы</description>
+		</actiongroup>
+	<actiongroup id="fn_virtualdesktop">
+      <description>Виртуальные рабочие столы</description>
+    </actiongroup>
+		<actiongroup id="thumbwheelvirtualdesktop">
+			<description>Переключение между рабочими столами</description>
+		</actiongroup>
+		<actiongroup id="thumbwheeldonothing">
+			<description>Нет</description>
+		</actiongroup>
+		<actiongroup id="touch">
+			<description>Сенсорное панорамирование </description>
+		</actiongroup>
+		<actiongroup id="ichitaro">
+			<description>Ichitaro2017</description>
+		</actiongroup>
+    <actiongroup id="disabled">
+        <description>Отключено</description>
+    </actiongroup>
+
+	</gestureactiongroups>
+</descriptions>

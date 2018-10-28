@@ -1,0 +1,92 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "size",
+            "value": "Размер"
+        },
+        {
+            "ID": "hardness",
+            "value": "Жесткость"
+        },
+        {
+            "ID": "strokeWeight",
+            "value": "Толщина обводки"
+        },
+        {
+            "ID": "opacity",
+            "value": "Непрозрачность"
+        },
+        {
+            "ID": "brightness",
+            "value": "Яркость"
+        },
+        {
+            "ID": "contrast",
+            "value": "Контрастность"
+        },
+        {
+            "ID": "saturation",
+            "value": "Насыщенность"
+        },
+        {
+            "ID": "flow",
+            "value": "Нажим"
+        },
+        {
+            "ID": "strength",
+            "value": "Интенсивность"
+        },
+        {
+            "ID": "tolerance",
+            "value": "Допуск"
+        },
+        {
+            "ID": "exposure",
+            "value": "Экспозиция"
+        },        
+        {
+            "ID": "textSize",
+            "value": "Размер"
+        },
+        {
+            "ID": "layertextSize",
+            "value": "Размер текста в слое"
+        },
+        {
+            "ID": "blendMode",
+            "value": "Режим наложения"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "Контекстное"
+        },
+        {
+            "ID": "savefile",
+            "value": "Сохранить файл"
+        },
+        {
+            "ID": "undoredo",
+            "value": "Отменить/Повторить"
+        },
+        {
+            "ID": "undo",
+            "value": "Отменить"
+        },
+        {
+            "ID": "redo",
+            "value": "Повторить"
+        },
+        {
+            "ID": "zoom",
+            "value": "Масштаб"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Назначение функций клавишам"
+        },
+        {
+            "ID": "playpause",
+            "value": "Воспроизведение/пауза"
+        }
+    ]
+}

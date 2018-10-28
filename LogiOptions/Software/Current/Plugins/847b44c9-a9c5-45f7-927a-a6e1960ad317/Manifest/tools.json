@@ -1,0 +1,1241 @@
+{
+    "GUID": "847b44c9-a9c5-45f7-927a-a6e1960ad317",
+    "tools": [        
+        {
+            "name": "TextFrame",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "textSize",
+                    "image_file_path": "textSize.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "leading",
+                    "image_file_path": "leading.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 2,
+                    "name": "tracking",
+                    "image_file_path": "tracking.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 3,
+                    "name": "colorFill",
+                    "image_file_path": "fillColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "ManuallyGrouped",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "strokeWeight",
+                    "image_file_path": "strokeWeight.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "scale",
+                    "image_file_path": "scale.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 2,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 3,
+                    "name": "colorFill",
+                    "image_file_path": "fillColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 4,
+                    "name": "colorStroke",
+                    "image_file_path": "strokeColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "TextFrameGroup",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "textSize",
+                    "image_file_path": "textSize.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "leading",
+                    "image_file_path": "leading.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 2,
+                    "name": "tracking",
+                    "image_file_path": "tracking.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 3,
+                    "name": "colorFill",
+                    "image_file_path": "fillColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "Text",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "textSize",
+                    "image_file_path": "textSize.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "leading",
+                    "image_file_path": "leading.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 2,
+                    "name": "tracking",
+                    "image_file_path": "tracking.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 3,
+                    "name": "colorFill",
+                    "image_file_path": "fillColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "Word",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "textSize",
+                    "image_file_path": "textSize.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "leading",
+                    "image_file_path": "leading.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 2,
+                    "name": "tracking",
+                    "image_file_path": "tracking.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 3,
+                    "name": "colorFill",
+                    "image_file_path": "fillColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "Line",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "textSize",
+                    "image_file_path": "textSize.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "leading",
+                    "image_file_path": "leading.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 2,
+                    "name": "tracking",
+                    "image_file_path": "tracking.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 3,
+                    "name": "colorFill",
+                    "image_file_path": "fillColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "Paragraph",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "textSize",
+                    "image_file_path": "textSize.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "leading",
+                    "image_file_path": "leading.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 2,
+                    "name": "tracking",
+                    "image_file_path": "tracking.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 3,
+                    "name": "colorFill",
+                    "image_file_path": "fillColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "Character",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "textSize",
+                    "image_file_path": "textSize.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "leading",
+                    "image_file_path": "leading.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 2,
+                    "name": "tracking",
+                    "image_file_path": "tracking.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 3,
+                    "name": "colorFill",
+                    "image_file_path": "fillColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "TextStyleRange",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "textSize",
+                    "image_file_path": "textSize.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "leading",
+                    "image_file_path": "leading.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 2,
+                    "name": "tracking",
+                    "image_file_path": "tracking.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 3,
+                    "name": "colorFill",
+                    "image_file_path": "fillColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "TextColumn",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "textSize",
+                    "image_file_path": "textSize.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "leading",
+                    "image_file_path": "leading.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 2,
+                    "name": "tracking",
+                    "image_file_path": "tracking.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 3,
+                    "name": "colorFill",
+                    "image_file_path": "fillColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "TextRange",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "textSize",
+                    "image_file_path": "textSize.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "leading",
+                    "image_file_path": "leading.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 2,
+                    "name": "tracking",
+                    "image_file_path": "tracking.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 3,
+                    "name": "colorFill",
+                    "image_file_path": "fillColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "CompoundPathItem",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "strokeWeight",
+                    "image_file_path": "strokeWeight.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "scale",
+                    "image_file_path": "scale.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 2,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 3,
+                    "name": "colorFill",
+                    "image_file_path": "fillColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 4,
+                    "name": "colorStroke",
+                    "image_file_path": "strokeColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "GraphItem",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "strokeWeight",
+                    "image_file_path": "strokeWeight.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "scale",
+                    "image_file_path": "scale.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 2,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 3,
+                    "name": "colorFill",
+                    "image_file_path": "fillColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 4,
+                    "name": "colorStroke",
+                    "image_file_path": "strokeColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "GroupItem",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "strokeWeight",
+                    "image_file_path": "strokeWeight.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "scale",
+                    "image_file_path": "scale.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 2,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 3,
+                    "name": "colorFill",
+                    "image_file_path": "fillColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 4,
+                    "name": "colorStroke",
+                    "image_file_path": "strokeColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "Cell",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "strokeWeight",
+                    "image_file_path": "strokeWeight.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "scale",
+                    "image_file_path": "scale.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 2,
+                    "name": "tint",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 3,
+                    "name": "colorFill",
+                    "image_file_path": "fillColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 4,
+                    "name": "colorStroke",
+                    "image_file_path": "strokeColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "LegacyTextItem",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "strokeWeight",
+                    "image_file_path": "strokeWeight.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "scale",
+                    "image_file_path": "scale.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 2,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 3,
+                    "name": "colorFill",
+                    "image_file_path": "fillColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 4,
+                    "name": "colorStroke",
+                    "image_file_path": "strokeColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "MeshItem",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "strokeWeight",
+                    "image_file_path": "strokeWeight.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "scale",
+                    "image_file_path": "scale.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 2,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 3,
+                    "name": "colorFill",
+                    "image_file_path": "fillColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 4,
+                    "name": "colorStroke",
+                    "image_file_path": "strokeColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "NonNativeItem",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "strokeWeight",
+                    "image_file_path": "strokeWeight.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "scale",
+                    "image_file_path": "scale.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 2,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 3,
+                    "name": "colorFill",
+                    "image_file_path": "fillColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 4,
+                    "name": "colorStroke",
+                    "image_file_path": "strokeColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "PathItem",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "strokeWeight",
+                    "image_file_path": "strokeWeight.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "scale",
+                    "image_file_path": "scale.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 2,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 3,
+                    "name": "colorFill",
+                    "image_file_path": "fillColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 4,
+                    "name": "colorStroke",
+                    "image_file_path": "strokeColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "PlacedItem",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "strokeWeight",
+                    "image_file_path": "strokeWeight.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "scale",
+                    "image_file_path": "scale.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 2,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 3,
+                    "name": "colorFill",
+                    "image_file_path": "fillColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 4,
+                    "name": "colorStroke",
+                    "image_file_path": "strokeColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "PluginItem",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "scale",
+                    "image_file_path": "scale.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "Table",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "scale",
+                    "image_file_path": "scale.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "Rectangle",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "strokeWeight",
+                    "image_file_path": "strokeWeight.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "scale",
+                    "image_file_path": "scale.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 2,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 3,
+                    "name": "colorFill",
+                    "image_file_path": "fillColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 4,
+                    "name": "colorStroke",
+                    "image_file_path": "strokeColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "Image",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "scale",
+                    "image_file_path": "scale.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "GraphicLine",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "strokeWeight",
+                    "image_file_path": "strokeWeight.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "scale",
+                    "image_file_path": "scale.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 2,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 3,
+                    "name": "colorStroke",
+                    "image_file_path": "strokeColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "Oval",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "strokeWeight",
+                    "image_file_path": "strokeWeight.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "scale",
+                    "image_file_path": "scale.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 2,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 3,
+                    "name": "colorFill",
+                    "image_file_path": "fillColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 4,
+                    "name": "colorStroke",
+                    "image_file_path": "strokeColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "Polygon",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "strokeWeight",
+                    "image_file_path": "strokeWeight.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "scale",
+                    "image_file_path": "scale.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 2,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 3,
+                    "name": "colorFill",
+                    "image_file_path": "fillColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 4,
+                    "name": "colorStroke",
+                    "image_file_path": "strokeColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "RasterItem",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "strokeWeight",
+                    "image_file_path": "strokeWeight.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "scale",
+                    "image_file_path": "scale.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 2,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 3,
+                    "name": "colorFill",
+                    "image_file_path": "fillColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 4,
+                    "name": "colorStroke",
+                    "image_file_path": "strokeColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "SymbolItem",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "strokeWeight",
+                    "image_file_path": "strokeWeight.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "scale",
+                    "image_file_path": "scale.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 2,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 3,
+                    "name": "colorFill",
+                    "image_file_path": "fillColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 4,
+                    "name": "colorStroke",
+                    "image_file_path": "strokeColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "Mixed",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "scale",
+                    "image_file_path": "scale.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "UserGrouped",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "scale",
+                    "image_file_path": "scale.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "Group",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "scale",
+                    "image_file_path": "scale.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "NoSelection",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "zoom",
+                    "image_file_path": "zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "undoRedo",
+                    "image_file_path": "undoRedo.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 2,
+                    "name": "pageNavigation",
+                    "image_file_path": "sheetNavigation.png",
+                    "enabled": true,
+                    "ratchet_enabled": true
+                }
+            ]
+        }
+    ],
+    "tasks": [
+        {
+            "name": "changetoolvalue",
+            "win_id": "0x10064",
+            "mac_id": 615
+        },
+        {
+            "name": "zoom",
+            "image_file_path": "zoom.png",
+            "tool_options": [],
+            "mac_id": 309,
+            "win_id": "0x10057"
+        },
+        {
+            "name": "textsize",
+            "image_file_path": "textsize.png",
+            "tool_options": [],
+            "mac_id": 310,
+            "win_id": "0x10058"
+        },
+        {
+            "name": "undoredo",
+            "image_file_path": "undoredo.png",
+            "rotate_left_text": "undo",
+            "rotate_left_image_file_path": "undo.png",
+            "rotate_right_text": "redo",
+            "rotate_right_image_file_path": "redo.png",
+            "tool_options": []
+        },
+        {
+            "name": "keystrokeassignment",
+            "image_file_path": "",
+            "mac_id": 73,
+            "win_id": "0x10000"
+        },
+		{
+            "name": "playpause",
+            "image_file_path": "",
+            "mac_id": 4,
+            "win_id": "0x0004"
+        }
+    ]
+}

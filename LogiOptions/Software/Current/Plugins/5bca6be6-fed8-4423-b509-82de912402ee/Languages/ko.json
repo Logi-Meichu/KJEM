@@ -1,0 +1,24 @@
+{
+    "LocalizedStrings": [
+          {
+              "ID": "volumeUpDown",
+              "value": "볼륨"
+          },
+          {
+              "ID": "nextPrevious",
+              "value": "이전/다음"
+          },
+          {
+              "ID": "SeekForwardBackward",
+              "value": "탐색"
+          },
+          {
+              "ID": "changetoolvalue",
+              "value": "Spotify 컨트롤"
+          },
+          {
+              "ID": "playpause",
+              "value": "재생/일시 정지"
+          }
+    ]
+}

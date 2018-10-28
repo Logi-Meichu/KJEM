@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="utf-8"?>
+<descriptions>
+	<taskids>
+
+		<!-- ******************************** frequently used windows tasks *********************************** -->
+		<task id="0x1d">
+			<description>Media Player</description>
+		</task>
+		<task id="0x44">
+			<description>잠금</description>
+		</task>
+		<task id="0x10001">
+			<description>로그아웃</description>
+		</task>
+		<task id="0x0c">
+			<description>창 닫기</description>
+		</task>
+		<task id="0x52">
+			<description>없음</description>
+		</task>
+		<task id="0x53">
+			<description>응용 프로그램 전환</description>
+		</task>
+		<task id="0x8">
+			<description>응용 프로그램 전환</description>
+		</task>
+		<task id="0x0e">
+			<description>이메일</description>
+		</task>
+		<task id="0x87">
+			<description>검색</description>
+		</task>
+		<task id="0x88">
+			<description>공유</description>
+		</task>
+		<task id="0x89">
+			<description>장치</description>
+		</task>
+		<task id="0x8a">
+			<description>설정</description>
+		</task>
+		<task id="0x7A">
+			<description>참 메뉴</description>
+		</task>
+		<task id="0x8E">
+			<description>바탕 화면 표시/숨기기</description>
+		</task>
+		<task id="0x79">
+			<description>응용 프로그램 메뉴</description>
+		</task>
+		<task id="0x90">
+			<description>시작 화면</description>
+		</task>
+		<task id="0x95">
+			<description>창 최대화</description>
+		</task>
+		<task id="0x94">
+			<description>창 최소화</description>
+		</task>
+		<task id="0x38">
+			<description>마우스 왼쪽 버튼으로 클릭</description>
+		</task>
+		<task id="0x39">
+			<description>마우스 오른쪽 버튼으로 클릭</description>
+		</task>
+		<task id="0x3A">
+			<description>가운데 버튼</description>
+		</task>
+
+		<!-- *********************************** back/forward *********************************** -->
+		<task id="0x3b">
+			<description>뒤로</description>
+		</task>
+		<task id="0x3c">
+			<description>뒤로</description>
+		</task>
+		<task id="0xab">
+			<description>뒤로</description>
+		</task>
+		<task id="0x3d">
+			<description>앞으로</description>
+		</task>
+		<task id="0x3e">
+			<description>앞으로</description>
+		</task>
+		<task id="0xac">
+			<description>앞으로</description>
+		</task>
+
+		<!-- *********************************** Edit features *********************************** -->
+		<task id="0x51">
+			<description>잘라내기</description>
+		</task>
+		<task id="0x4e">
+			<description>복사</description>
+		</task>
+		<task id="0x85">
+			<description>붙여넣기</description>
+		</task>
+
+		<!-- *********************************** Calculator File launcher *********************************** -->
+		<task id="0x0a">
+			<description>계산기</description>
+		</task>
+
+		<!-- *********************************** Volume & Media handlers *********************************** -->
+		<task id="0x01">
+			<description>볼륨 높이기</description>
+		</task>
+		<task id="0x02">
+			<description>볼륨 낮추기</description>
+		</task>
+		<task id="0x03">
+			<description>음소거</description>
+		</task>
+		<task id="0x04">
+			<description>재생/일시 중지</description>
+		</task>
+		<task id="0x07">
+			<description>중지</description>
+		</task>
+		<task id="0x05">
+			<description>다음</description>
+		</task>
+		<task id="0x06">
+			<description>이전</description>
+		</task>
+
+		<!-- *********************************** Common folders *********************************** -->
+		<task id="0x27">
+			<description>내 컴퓨터</description>
+		</task>
+		<task id="0x48">
+			<description>이 PC</description>
+		</task>
+		<task id="0x22">
+			<description>내 문서</description>
+		</task>
+		<task id="0x49">
+			<description>문서</description>
+		</task>
+		<task id="0x24">
+			<description>내 사진</description>
+		</task>
+		<task id="0x50">
+			<description>그림</description>
+		</task>
+		<task id="0x23">
+			<description>내 음악</description>
+		</task>
+		<task id="0x54">
+			<description>음악</description>
+		</task>
+		<task id="0x26">
+			<description>내 비디오</description>
+		</task>
+		<task id="0x55">
+			<description>비디오</description>
+		</task>
+
+		<!-- *********************************** Open Web Page *********************************** -->
+		<task id="0x47">
+			<description>내 홈</description>
+		</task>
+		<task id="0x33">
+			<description>확대</description>
+		</task>
+		<task id="0x35">
+			<description>축소</description>
+		</task>
+		<task id="0x10010">
+			<description>왼쪽 회전</description>
+		</task>
+		<task id="0x1000F">
+			<description>오른쪽 회전</description>
+		</task>
+		<task id="0x1000E">
+			<description>할당되지 않음</description>
+		</task>
+
+        <task id="0xFFFE">
+            <description>사용 안 함</description>
+        </task>     
+
+		<task id="0x37">
+			<description>확대/축소 재설정</description>
+		</task>
+		<task id="0x0b">
+			<description>이메일</description>
+		</task>
+		<task id="0x2f">
+			<description>절전</description>
+		</task>
+		<task id="0x1a">
+			<description>내 홈</description>
+		</task>
+		<task id="0x56">
+			<description>홈</description>
+		</task>
+		<task id="0x1c">
+			<description>모든 창 최소화</description>
+		</task>
+		<task id="0x1b">
+			<description>모든 창 복원</description>
+		</task>
+		<task id="0x91">
+			<description>화면 전환</description>
+		</task>
+		<task id="0x93">
+			<description>화면 전환</description>
+		</task>
+		<task id="0x43">
+			<description>바탕 화면 표시/숨기기</description>
+		</task>
+		<task id="0x2d">
+			<description>검색</description>
+		</task>
+		<task id="0xb0">
+			<description>검색</description>
+		</task>
+		<task id="0xb1">
+			<description>검색</description>
+		</task>
+		<task id="0xba">
+			<description>입력 언어</description>
+		</task>
+
+		<task id="0x47">
+			<description>내 홈</description>
+		</task>
+
+		<task id="0x96">
+			<description>응용 프로그램 전환</description>
+		</task>
+		<task id="0x97">
+			<description>내 홈</description>
+		</task>
+		<task id="0x9b">
+             <description>화면 캡처</description>
+        </task>
+		<task id="0xb2">
+			<description>내 홈</description>
+		</task>
+		<task id="0x98">
+			<description>마우스 오른쪽 버튼으로 클릭</description>
+		</task>
+		<task id="0x20">
+			<description>마우스 오른쪽 버튼으로 클릭</description>
+		</task>
+		<task id="0xb3">
+			<description>마우스 오른쪽 버튼으로 클릭</description>
+		</task>
+		<task id="0x99">
+			<description>뒤로</description>
+		</task>
+		<task id="0xce">
+			<description>뒤로</description>
+		</task>
+    <task id="0xc5">
+      <description>새 브라우저 탭</description>
+    </task>
+    
+		<task id="0xA8">
+			<description>제스처 버튼</description>
+		</task>
+		<task id="0xA9">
+			<description>제스처 버튼</description>
+		</task>
+		<task id="0x9c">
+			<description>제스처 버튼</description>
+		</task>
+		<task id="0xad">
+			<description>제스처 버튼</description>
+		</task>
+
+		<task id="0x1002c">
+			<description>제스처 버튼</description>
+		</task>
+
+		<task id="0x9d">
+			<description>모드 전환 버튼</description>
+		</task>
+
+		<task id="0x71">
+			<description>오른쪽 아날로그 회전</description>
+		</task>
+
+		<task id="0x72">
+			<description>왼쪽 아날로그 회전</description>
+		</task>
+
+		<task id="0x73">
+			<description>왼쪽으로 팬</description>
+		</task>
+
+		<task id="0x74">
+			<description>오른쪽으로 팬</description>
+		</task>
+
+		<task id="0x75">
+			<description>위로 팬</description>
+		</task>
+
+		<task id="0x76">
+			<description>아래로 팬</description>
+		</task>
+
+
+		<task id="0x3f">
+			<description>왼쪽으로 스크롤</description>
+		</task>
+
+		<task id="0x40">
+			<description>오른쪽으로 스크롤</description>
+		</task>
+
+		<task id="0xc3">
+			<description>응용 프로그램 메뉴</description>
+		</task>
+
+		<task id="0xbf">
+			<description>작업 보기</description>
+		</task>
+
+		<task id="0xa3">
+			<description>밝기 감소</description>
+		</task>
+
+		<task id="0xa4">
+			<description>밝기 증가</description>
+		</task>
+
+		<task id="0xc0">
+			<description>동작 센터</description>
+		</task>
+
+		<task id="0xc1">
+			<description>백라이트 감소</description>
+		</task>
+
+		<task id="0xc2">
+			<description>백라이트 증가</description>
+		</task>
+		
+		<task id="0x10003">
+			<description>최대 절전 모드</description>
+		</task>
+
+		<!-- task ids local to LogiOptions -->
+		<!-- *************************************  -->
+		<task id="0x10000">
+			<description>입력할 키 지정</description>
+		</task>
+		<task id="0x10001">
+			<description>로그오프</description>
+		</task>
+		<task id="0x10002">
+			<description>시스템 종료</description>
+		</task>
+		<task id="0x10003">
+			<description>최대 절전 모드</description>
+		</task>
+		<task id="0x10004">
+			<description>응용 프로그램 실행</description>
+		</task>
+		<task id="0x10007">
+			<description>다음 트랙/고속 감기</description>
+		</task>
+		<task id="0x10008">
+			<description>파일 열기</description>
+		</task>
+		<task id="0x10009">
+			<description>폴더 열기</description>
+		</task>
+		<task id="0x1000A">
+			<description>웹 페이지 열기</description>
+		</task>
+		<task id="0x1000B">
+			<description>이전 트랙/되감기</description>
+		</task>
+		<task id="0x1000C">
+			<description>두 번 클릭</description>
+		</task>
+		<task id="0x1000D">
+			<description>Windows 8 바로 가기</description>
+		</task>
+
+		<task id="0x10011">
+			<description>팬</description>
+		</task>
+		<task id="0x10012">
+			<description>팬</description>
+		</task>
+		<task id="0x10013">
+			<description>팬</description>
+		</task>
+		<task id="0x10014">
+			<description>팬</description>
+		</task>
+		<task id="0x1000E">
+			<description>가운데 버튼</description>
+		</task>
+
+		<task id="0x10019">
+			<description>시작 화면</description>
+		</task>
+
+		<task id="0x10020">
+			<description>창 최대화</description>
+		</task>
+
+		<task id="0x10021">
+			<description>바탕 화면 표시/숨기기</description>
+		</task>
+		<task id="0x10022">
+			<description>응용 프로그램 전환</description>
+		</task>
+
+		<task id="0x10026">
+			<description>왼쪽 스냅</description>
+		</task>
+
+		<task id="0x10027">
+			<description>오른쪽 스냅</description>
+		</task>
+
+		<task id="0x10029">
+			<description>확대</description>
+		</task>
+
+		<task id="0x10030">
+			<description>볼륨 높이기</description>
+		</task>
+
+		<task id="0x10031">
+			<description>볼륨 낮추기</description>
+		</task>
+
+		<task id="0x10032">
+			<description>이전</description>
+		</task>
+
+		<task id="0x10033">
+			<description>다음</description>
+		</task>
+
+		<task id="0x10034">
+			<description>재생/일시 중지</description>
+		</task>
+
+		<task id="0x10035">
+			<description>시작 메뉴</description>
+		</task>
+		<task id="0x10036">
+			<description>이지-스위치</description>
+		</task>
+		<task id="0x10037">
+			<description>마우스 민감도</description>
+		</task>
+		<task id="0xc4">
+			<description>정밀 모드</description>
+		</task>
+
+		<task id="0x10038">
+			<description>창 최대화</description>
+		</task>
+
+		<task id="0x10039">
+			<description>수정자 키</description>
+		</task>
+
+		<task id="0x10040">
+			<description>고급 클릭</description>
+		</task>
+
+		<task id="0x10041">
+			<description>매끄러운 스크롤 전환</description>
+		</task>
+
+		<task id="0x10042">
+			<description>새 바탕화면</description>
+		</task>
+
+		<task id="0x10043">
+			<description>바탕화면 닫기</description>
+		</task>
+
+		<task id="0x10044">
+			<description>바탕화면(다음)</description>
+		</task>
+
+		<task id="0x10045">
+			<description>바탕화면(이전)</description>
+		</task>
+
+		<task id="0x10047">
+			<description>시작 메뉴</description>
+		</task>
+		<task id="0x10048">
+			<description>바탕 화면 표시/숨기기</description>
+		</task>
+		<task id="0x10049">
+			<description>바탕화면(이전)</description>
+		</task>
+		<task id="0x10050">
+			<description>바탕화면(다음)</description>
+		</task>
+		<task id="0x10051">
+			<description>작업 보기</description>
+		</task>
+		<task id="0x10052">
+			<description>동작 센터</description>
+		</task>
+		<task id="0x10053">
+			<description>작업 보기</description>
+		</task>
+		<task id="0x10055">
+			<description>Cortana</description>
+		</task>
+	<task id="0x10056">
+	  <description>작업 보기</description>
+	</task>
+		<task id="0x10100">
+			<description>창 최대화</description>
+		</task>
+		<task id="0x10101">
+			<description>바탕 화면 표시/숨기기</description>
+		</task>
+		<task id="0x10102">
+			<description>내 홈</description>
+		</task>
+		<task id="0x10103">
+			<description>응용 프로그램 실행</description>
+		</task>
+		<task id="0x10104">
+			<description>응용 프로그램 전환</description>
+		</task>
+		<task id="0x10059">
+			<description>볼륨</description>
+		</task>
+		<task id="0x1005a">
+			<description>데스크톱 스위치</description>
+		</task>
+		<task id="0x1005b">
+			<description>밝기</description>
+		</task>
+		<task id="0x1005c">
+			<description>미디어 컨트롤</description>
+		</task>
+		<task id="0x1005d">
+			<description>응용 프로그램 전환</description>
+		</task>
+		<task id="0x1005f">
+			<description>탭 스위치</description>
+		</task>
+    <!--task id="0x10060">
+			<description>Crown Desktop Switch</description>
+		</task-->
+		<task id="0x10061">
+			<description>확대/축소</description>
+		</task>
+		<task id="0x10062">
+			<description>크라운 탐색 페이지</description>
+		</task>
+		<task id="0x10063">
+			<description>사용자 지정 키</description>
+		</task>
+		<task id="0x10064">
+			<description>도구 값 변경</description>
+		</task>
+		<task id="0x10065">
+			<description>실행 취소/다시 실행</description>
+		</task>
+    <task id="0x10110">
+      <description>트랙볼 민감도</description>
+    </task>
+    <task id="0xcd">
+      <description>F1</description>
+    </task>
+    <task id="0xc6">
+      <description>F2</description>
+    </task>
+    <task id="0xc7">
+      <description>F3</description>
+    </task>
+    <task id="0xc8">
+      <description>F4</description>
+    </task>
+    <task id="0xc9">
+      <description>F5</description>
+    </task>
+    <task id="0xca">
+      <description>F6</description>
+    </task>
+    <task id="0xcb">
+      <description>F7</description>
+    </task>
+    <task id="0xcc">
+      <description>F8</description>
+    </task>
+
+
+  </taskids>
+	<gestureids>
+		<gesture id="0x21">
+			<description>탭하여 클릭</description>
+		</gesture>
+		<gesture id="0x2c">
+			<description>부드러운 스크롤</description>
+		</gesture>
+		<gesture id="0x2d">
+			<description>스크롤 방향</description>
+		</gesture>
+		<gesture id="0x2a">
+			<description>가로 스크롤</description>
+		</gesture>
+		<gesture id="0x2b">
+			<description>세로 스크롤</description>
+		</gesture>
+		<gesture id="0x40">
+			<description>응용 프로그램 전환</description>
+		</gesture>
+		<gesture id="0x41">
+			<description>참 메뉴 표시</description>
+		</gesture>
+		<gesture id="0x43">
+			<description>응용 프로그램 메뉴</description>
+		</gesture>
+		<gesture id="0x54">
+			<description>확대/축소</description>
+		</gesture>
+		<gesture id="0x14">
+			<description>포인터 속도</description>
+		</gesture>
+		<!-- new gestures -->
+		<gesture id="0x2e">
+			<description>썸휠 스크롤</description>
+		</gesture>
+		<gesture id="0x64">
+			<description>썸휠 더블 탭</description>
+		</gesture>
+		<gesture id="0x27d3">
+			<description>SmartShift 다시 매핑</description>
+		</gesture>
+		<gesture id="0x2762">
+			<description>버튼 3 다시 매핑</description>
+		</gesture>
+		<gesture id="0x27d4">
+			<description>제스처 버튼 다시 매핑</description>
+		</gesture>
+	</gestureids>
+	<gesturetaskids>
+		<gesturetask id="0x0">
+			<description>사용 안 함</description>
+		</gesturetask>
+		<gesturetask id="0x1">
+			<description>손가락 1 ~ 2개로 탭하기</description>
+		</gesturetask>
+		<gesturetask id="0x2">
+			<description>사용</description>
+		</gesturetask>
+		<gesturetask id="0x3">
+			<description>일반</description>
+		</gesturetask>
+		<gesturetask id="0x4">
+			<description>콘텐츠 추적 손가락</description>
+		</gesturetask>
+		<gesturetask id="0x5">
+			<description>손가락 2개로 왼쪽/오른쪽으로 스와이프</description>
+		</gesturetask>
+		<gesturetask id="0x6">
+			<description>손가락 2개로 위/아래로 스와이프</description>
+		</gesturetask>
+		<gesturetask id="0x7">
+			<description>손가락 1개로 왼쪽 가장자리에서 스와이프</description>
+		</gesturetask>
+		<gesturetask id="0x8">
+			<description>손가락 1개로 오른쪽 가장자리에서 스와이프</description>
+		</gesturetask>
+		<gesturetask id="0x9">
+			<description>손가락 1개로 상단 가장자리에서 스와이프</description>
+		</gesturetask>
+		<gesturetask id="0xa">
+			<description>손가락 2개를 펴거나 모으기</description>
+		</gesturetask>
+		<gesturetask id="0xb">
+			<description>포인터 속도</description>
+		</gesturetask>
+	</gesturetaskids>
+	<gestureactiongroups>
+		<actiongroup id="win8nav">
+			<description>창 탐색</description>
+		</actiongroup>
+		<actiongroup id="win7nav">
+			<description>창 탐색</description>
+		</actiongroup>
+		<actiongroup id="win8nav2">
+			<description>Windows 관리</description>
+		</actiongroup>
+		<actiongroup id="winarrangement">
+			<description>창 정렬</description>
+		</actiongroup>
+		<actiongroup id="mediagestures">
+			<description>미디어 컨트롤</description>
+		</actiongroup>
+		<actiongroup id="panzoom">
+			<description>팬</description>
+		</actiongroup>
+		<actiongroup id="zoomrotate">
+			<description>확대/축소/회전</description>
+		</actiongroup>
+		<actiongroup id="custom">
+			<description>사용자 지정</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelhorzscroll">
+			<description>가로 스크롤</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelzoom">
+			<description>확대/축소</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelvolume">
+			<description>볼륨 높이기/낮추기</description>
+		</actiongroup>
+		<actiongroup id="thumbwheeltabs">
+			<description>다음/이전 탭</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelnextprev">
+			<description>다음/이전</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelbackforward">
+			<description>앞으로/뒤로</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelalttab">
+			<description>응용 프로그램 전환</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelbrightness">
+			<description>밝기 높이기/낮추기 </description>
+		</actiongroup>
+		<actiongroup id="thumbwheelbackforwardtouch">
+			<description>앞으로/뒤로 터치</description>
+		</actiongroup>
+		<actiongroup id="virtualdesktop">
+			<description>가상 바탕화면</description>
+		</actiongroup>
+	<actiongroup id="fn_virtualdesktop">
+      <description>가상 바탕화면</description>
+    </actiongroup>
+		<actiongroup id="thumbwheelvirtualdesktop">
+			<description>바탕화면 간 전환</description>
+		</actiongroup>
+		<actiongroup id="thumbwheeldonothing">
+			<description>없음</description>
+		</actiongroup>
+		<actiongroup id="touch">
+			<description>터치를 사용하여 팬 </description>
+		</actiongroup>
+		<actiongroup id="ichitaro">
+			<description>Ichitaro2017</description>
+		</actiongroup>
+    <actiongroup id="disabled">
+        <description>사용 안 함</description>
+    </actiongroup>
+
+	</gestureactiongroups>
+</descriptions>

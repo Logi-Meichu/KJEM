@@ -1,0 +1,100 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "Sisällönmukainen"
+        },
+        {
+            "ID": "savefile",
+            "value": "Tallenna tiedosto"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zoomaus"
+        },
+        {
+            "ID": "sheetNavigation",
+            "value": "Siirtyminen arkilla"
+        },
+        {
+            "ID": "horizontalScroll",
+            "value": "Vaakavieritys"
+        },
+        {
+            "ID": "createChart",
+            "value": "Luo kaavio"
+        },
+        {
+            "ID": "createTable",
+            "value": "Luo taulukko"
+        },
+        {
+            "ID": "tableStyle",
+            "value": "Taulukon tyyli"
+        },
+        {
+            "ID": "chartType",
+            "value": "Kaavion tyyli"
+        },
+        {
+            "ID": "quickLayout",
+            "value": "Pika-asettelu"
+        },
+        {
+            "ID": "changeColor",
+            "value": "Muuta väriä"
+        },
+        {
+            "ID": "chartStyle",
+            "value": "Kaavion tyyli"
+        },
+        {
+            "ID": "pieChart",
+            "value": "Ympyräkaavio"
+        },
+        {
+            "ID": "columnChart",
+            "value": "Pylväskaavio"
+        },
+        {
+            "ID": "barChart",
+            "value": "Palkkikaavio"
+        },
+        {
+            "ID": "areaChart",
+            "value": "Aluekaavio"
+        },
+        {
+            "ID": "stockChart",
+            "value": "Pörssikaavio"
+        },
+        {
+            "ID": "surfaceChart",
+            "value": "Pintakaavio"
+        },
+        {
+            "ID": "radarChart",
+            "value": "Säteittäinen kaavio"
+        },
+        {
+            "ID": "tableColor",
+            "value": "Taulukon väri"
+        },
+        {
+            "ID": "xyscatterChart",
+            "value": "Pistekaavio"
+        },
+        {
+            "ID": "lineChart",
+            "value": "Viivakaavio"
+        },
+        {
+            "ID": "comboChart",
+            "value": "Yhdistelmäkaavio"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Näppäinten määrittäminen"
+        }
+    ]
+}

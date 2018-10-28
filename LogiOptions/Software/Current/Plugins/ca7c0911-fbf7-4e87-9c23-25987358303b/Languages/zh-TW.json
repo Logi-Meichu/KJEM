@@ -1,0 +1,72 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "情境感知"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "按鍵動作指定"
+        },
+        {
+            "ID": "savefile",
+            "value": "儲存檔案"
+        },
+        {
+            "ID": "zoom",
+            "value": "縮放"
+        },
+        {
+            "ID": "theme",
+            "value": "主題樣式"
+        },
+        {
+            "ID": "color",
+            "value": "主題顏色"
+        },
+        {
+            "ID": "layout",
+            "value": "配置"
+        },
+        {
+            "ID": "font",
+            "value": "主題字型"
+        },
+        {
+            "ID": "fontSize",
+            "value": "大小"
+        },
+        {
+            "ID": "alignment",
+            "value": "對齊"
+        },
+        {
+            "ID": "fontWeight",
+            "value": "字重"
+        },
+        {
+            "ID": "size",
+            "value": "比率"
+        },
+        {
+            "ID": "rotate",
+            "value": "旋轉"
+        },
+        {
+            "ID": "tableStyle",
+            "value": "表格樣式"
+        },
+        {
+            "ID": "tableColor",
+            "value": "表格顏色"
+        },
+        {
+            "ID": "paragraphStyle",
+            "value": "段落樣式"
+        },
+        {
+            "ID": "wrapText",
+            "value": "繞排文字"
+        }
+    ]
+}

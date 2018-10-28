@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>move-active</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="10--Trava" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Options-Trava-OnOarding-Photoshop-1-" transform="translate(-354.000000, -97.000000)" fill="#00EAD0">
+            <g id="Group-2" transform="translate(354.000000, 97.000000)">
+                <path d="M11,9 L16,9 L16,11 L11,11 L11,16 L9,16 L9,11 L4,11 L4,9 L9,9 L9,4 L11,4 L11,9 Z M7,4 L10,0 L13,4 L7,4 Z M16,7 L20,10 L16,13 L16,7 Z M4,13 L6.2778623e-16,10 L4,7 L4,13 Z M13,16 L10,20 L7,16 L13,16 Z" id="move-active"></path>
+            </g>
+        </g>
+    </g>
+</svg>

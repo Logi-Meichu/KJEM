@@ -1,0 +1,70 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "상황별"
+        },
+		{
+            "ID": "customactions",
+            "value": "커스텀 작업"
+        },
+        {
+            "ID": "Zoom",
+            "value": "확대/축소"
+        },
+        {
+            "ID": "Temperature",
+            "value": "온도"
+        },
+        {
+            "ID": "Tint",
+            "value": "색조"
+        },
+		{
+            "ID": "Exposure",
+            "value": "노출"
+        },
+		{
+            "ID": "Contrast",
+            "value": "대비"
+        },
+        {
+            "ID": "Highlights",
+            "value": "밝은 영역"
+        },
+        {
+            "ID": "Shadows",
+            "value": "어두운 영역"
+        },
+        {
+            "ID": "Whites",
+            "value": "흰색 계열"
+        },
+        {
+            "ID": "Blacks",
+            "value": "검정 계열"
+        },
+		{
+            "ID": "Clarity",
+            "value": "부분 대비"
+        },
+        {
+            "ID": "Vibrance",
+            "value": "생동감"
+        },
+        {
+            "ID": "Saturation",
+            "value": "채도"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "입력할 키 지정"
+        },
+        {
+            "ID": "playpause",
+            "value": "재생/일시 중지"
+        }
+    ]
+}
+
+

@@ -1,0 +1,47 @@
+{
+    "GUID": "74350dfc-af50-4c6d-a794-713241725690",
+    "info": {
+        "name": "Adobe Illustrator CC",
+        "publisher": "Logitech Inc.",
+        "version": "1.0",
+        "win_name": "Illustrator.exe",
+        "mac_bundle": "Adobe Illustrator.app",
+        "mac_path": "/Applications/Adobe Illustrator CC 2018",
+        "mac_paths": [
+            {
+                "path": "/Applications/Adobe Illustrator CC 2017/Adobe Illustrator.app",
+                "mac_minimum_supported_version": "21.0.0",
+                "mac_maximum_supported_version": "21.*.*",
+                "name_suffix": "(2017)"
+            },
+            {
+                "path": "/Applications/Adobe Illustrator CC 2018/Adobe Illustrator.app",
+                "mac_minimum_supported_version": "22.0.0",
+                "mac_maximum_supported_version": "22.*.*",
+                "name_suffix": "(2018)"
+            }
+        ],
+        "win_minimum_supported_version": "21.0.0",
+        "win_maximum_supported_version": "23.0.0"
+    },
+    "crown": {
+        "rotate": {
+            "default_task": "changetoolvalue",
+            "tasks": [
+                "changetoolvalue"
+            ],
+            "short_list": [
+                "changetoolvalue"
+            ]
+        },
+        "press": {
+            "default_task": "playpause",
+            "tasks": [
+                "playpause"
+            ],
+            "short_list": [
+                "playpause"
+            ]
+        }
+    }
+}

@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringDictionary version="1.2">
+  <Strings>
+    <String key="WindowName">LogiOptions</String>
+    <String key="ApplicationName">Options</String>
+    <String key="MoreDetails">Meer instellingen</String>
+    <String key="FnInversion">F1 - F12 als standaardfunctietoetsen gebruiken</String>
+    <String key="KeyboardWinMode">Toetsenbord altijd in Windows-indeling houden</String>
+    <String key="Backlighting">Verlichting uitschakelen</String>
+    <String key="Customize">AANPASSEN</String>
+    <String key="CustomizeGestures">Bewegingen aanpassen</String>
+    <String key="GestureClickDetail">Klik op de bewegingsknop.</String>
+    <String key="GestureMotionDetail">Houd de bewegingsknop ingedrukt terwijl u de muis beweegt.</String>
+    <String key="GestureMotionDetail_Trackball">Houd de bewegingsknop ingedrukt terwijl u de trackball beweegt.</String>
+    <!--<String key="GestureButtonLearnMore">Learn more about gesture button</String>-->
+    <String key="LearnMore">MEER INFORMATIE</String> 
+    <String key="LaunchSetpoint">SetPoint starten</String>
+    <String key="DownloadSetpoint">SetPoint downloaden</String>
+    <String key="CrosslinkDevicesReminder">Dit bericht niet meer weergeven</String>
+    <String key="CrosslinkDevicesDialog">%BrandName% Options ondersteunt niet alle %BrandName%-apparaten die met uw systeem zijn verbonden.  Gebruik %BrandName% SetPoint-software om instellingen voor de volgende apparaten aan te passen:</String>
+    <String key="CommaSeparator">, </String>
+    <String key="AndSeparator"> en </String>
+
+    <String key="StringFragments:Device">apparaat</String>
+
+    <String key="DeviceList:NoDevices">Geen apparaten gedetecteerd</String>
+    <String key="DeviceList:NoDeviceDesc">Controleer of uw apparaten zijn verbonden en ingeschakeld.</String>
+    <String key="DeviceList:Removed">Verwijderd</String>
+    <String key="DeviceList:Enumuerate">Scannen...</String>
+    <String key="DeviceList:Devices">Apparaten</String>
+
+    <String key="Video:NoVideo">Video niet geïnstalleerd</String>
+    <String key="Video:VideoFailDialog">De apparaatvideo kan op dit moment niet worden gedownload, probeer het later opnieuw.</String>
+
+    <String key="Tooltip:BatteryUnknown">Onbekend</String>
+    <String key="Tooltip:BatteryCritical">Bijna leeg</String>
+    <String key="Tooltip:BatteryLow">Laag</String>
+    <String key="Tooltip:BatteryGood">Goed</String>
+    <String key="Tooltip:BatteryFull">Vol</String>
+    <String key="Tooltip:BatteryCharging">Bezig met opladen</String>
+    <String key="Tooltip:BatteryError">Fout bij opladen</String>
+    <String key="Tooltip:BatteryComplete">Opladen voltooid</String>
+    <String key="Tooltip:Connected">Verbonden</String>
+    <String key="Tooltip:NotConnected">Niet verbonden</String>
+
+    <!-- Device Settings Tabs -->
+    <String key="DeviceSettings:Keyboard">Toetsenbord</String>
+    <String key="DeviceSettings:Mouse">Muis</String>
+    <String key="DeviceSettings:Trackball">Trackball</String>
+    <String key="DeviceSettings:PointScroll">Aanwijzen en scrollen</String>
+    <String key="DeviceSettings:Gestures">Bewegingen</String>
+    <String key="DeviceSettings:Illumination">Verlichting</String>
+    <String key="DeviceSettings:FunctionKeys">Functietoetsen</String>
+    <String key="DeviceSettings:ShortcutKeys">Sneltoetsen</String>
+    <String key="DeviceSettings:EasySwitch">Easy-Switch</String>
+    <String key="DeviceSettings:Crown">Draaiknop</String>
+    <String key="DeviceSettings:Flow">Flow</String>
+    <String key="DeviceSettings:Beta">Bèta</String>
+
+    <String key="DeviceSettings:GestureById0x2e">Gevoeligheid duimwiel</String>
+
+    <String key="Buttons:MinimizeToolTip">Minimaliseren</String>
+    <String key="Buttons:CloseToolTip">Sluiten</String>
+    <String key="Buttons:More">MEER</String>
+    <String key="Buttons:Less">MINDER</String>
+    <String key="Buttons:RestoreDefaults">Standaardinstellingen</String>
+    <String key="Buttons:Restore">Herstellen</String>
+    <String key="Buttons:YourDevices">Uw apparaten</String>
+    <String key="Buttons:AddDevice">Apparaten toevoegen</String>
+    <String key="Buttons:Continue">Doorgaan</String>
+    <String key="Buttons:TryAgain">Opnieuw proberen</String>
+    <String key="Buttons:Cancel">Annuleren</String>
+    <String key="Buttons:Skip">Overslaan</String>
+    <String key="Buttons:Remind">Later installeren</String>
+    <String key="Buttons:Okay">OK</String>
+    <String key="Buttons:Ok">OK</String>
+    <String key="Buttons:FirmwareUpdate">Op firmware-update controleren</String>
+    <String key="Buttons:SoftwareUpdate">Op update controleren</String>
+    <String key="Buttons:LaunchUnifying">Unifying-software openen</String>
+    <String key="Buttons:FileBrowse">Bladeren...</String>
+    <String key="Buttons:VideoDownload">Video downloaden</String>
+    <String key="Buttons:PairAnother">Een ander apparaat koppelen</String>
+    <String key="Buttons:Done">Klaar</String>    
+    <String key="Buttons:Enable">INSCHAKELEN</String><!--NEW AFTER 4/10/2017-->
+    <String key="Buttons:Disable">UITSCHAKELEN</String>
+    <String key="Buttons:Retry">OPNIEUW</String>
+    <String key="Buttons:MoreSettings">MEER INSTELLINGEN</String><!--NEW 7/24/2017-->
+    
+    <String key="TaskSelect:RemoveHost">VERWIJDEREN</String>
+    <String key="TaskSelect:Keystroke">Toetsaanslag invoeren</String>
+    <String key="TaskSelect:FileLaunch">Bestandsnaam</String>
+    <String key="TaskSelect:FolderLaunch">Mapnaam</String>
+    <String key="TaskSelect:WebLaunch">Webadres</String>
+    <String key="TaskSelect:HostSwitch">Easy-Switch-bediening</String>
+    <String key="TaskSelect:DpiShift">Muisgevoeligheid instellen</String>
+    <String key="TaskSelect:DpiShiftTrackball">Gevoeligheid van trackball instellen</String>
+    <String key="TaskSelect:HorizontalScrollSpeed">Horizontale scrollsnelheid instellen</String>
+    <String key="TaskSelect:KeystrokeBlank">(Klik hier)</String>
+    <String key="TaskSelect:FileLaunchBlank">(Bestandsnaam invoeren)</String>
+    <String key="TaskSelect:FolderLaunchBlank">(Mapnaam invoeren)</String>
+    <String key="TaskSelect:WebLaunchBlank">(URL invoeren)</String>
+    <String key="TaskSelect:KeystrokeDesc">Klik in het witte vak hierboven en druk op een geldige toetsencombinatie om een snelkoppeling te maken.</String>
+    <String key="TaskSelect:FileLaunchDesc">Klik op de knop Bladeren om een bestand te selecteren, of typ het volledige pad naar het bestand in het witte vak hierboven.</String>
+    <String key="TaskSelect:FolderLaunchDesc">Klik op de knop Bladeren om een map te selecteren, of typ het volledige pad naar de map in het witte vak hierboven.</String>
+    <String key="TaskSelect:WebLaunchDesc">Typ de URL naar de gewenste website in het witte vak hierboven.</String>
+    <String key="TaskSelect:HostSwitchDesc">Druk op de knop om naar de volgende beschikbare host te schakelen.</String>
+    <String key="TaskSelect:DpiShiftDesc">Druk op de knop om tussen de standaard en aangepaste aanwijzersnelheid te schakelen.</String>
+    <String key="TaskSelect:HorizontalScrollSpeedDesc">Pas de horizontale scrollsnelheid aan met de schuifregelaar.</String>
+    <String key="TaskSelect:KeystrokeWaiting">(Toetsencombinatie indrukken)</String>
+    <String key="TaskSelect:DpiShiftMasterChannel">Standaard</String>
+    <String key="TaskSelect:DpiShiftCustom1Channel">Aangepast</String>
+    <String key="TaskSelect:HostSwitchNotAvail">Apparaat niet beschikbaar</String>
+    <String key="TaskSelect:HostSwitchInstruction">Schakel tussen 3 hosts.</String>
+    <String key="TaskSelect:HostSwitchLegend1">Huidige host</String>
+    <String key="TaskSelect:HostSwitchLegend2">Beschikbaar</String>
+    <String key="TaskSelect:HostSwitchLegend3">Niet beschikbaar</String>
+    <String key="TaskSelect:ThumbwheelScroll">Scrollen met duimwiel</String>
+    <String key="TaskSelect:InvertHorzScroll">Richting van horizontaal scrollen omdraaien</String>
+    <String key="TaskSelect:TiltScrollSpeed">Horizontale scrollsnelheid instellen</String>
+    <String key="TaskSelect:AdvancedClick">Geavanceerd klikken instellen</String>
+    <String key="TaskSelect:ModifierKeys">Speciale toetsen selecteren</String>
+    <String key="TaskSelect:ModKeyAlt">Alt</String>
+    <String key="TaskSelect:ModKeyCtl">Ctrl</String>
+    <String key="TaskSelect:ModKeyShf">Shift</String>
+    <String key="TaskSelect:ModKeyWin">Win</String>
+    <String key="TaskSelect:ModKeyJnr"> + </String>
+    <String key="TaskSelect:SelectClick">Kliktype selecteren</String>
+    <String key="TaskSelect:SingleClick">Klikken</String>
+    <String key="TaskSelect:DoubleClick">Dubbelklikken</String>
+    <String key="TaskSelect:TripleClick">Driedubbel klikken</String>
+    <String key="TaskSelect:RightClick">Rechtsklikken</String>
+    <String key="TaskSelect:MiddleClick">Klikken met middelste knop</String>
+    <String key="TaskSelect:SelectTools">Tools voor ontwikkelaars selecteren</String>
+    <String key="TaskSelect:SelectToolsHint">Afhankelijk van uw schermresolutie, ziet u mogelijk niet alle actieve tools in de overlay.</String>
+
+    <String key="More:ThisDevice">Dit apparaat</String>
+    <String key="More:Connectivity">Verbinding</String>
+    <String key="More:Software">Software</String>
+    <String key="More:About">Info</String>
+    <String key="More:NotifyCheckbox">Automatisch op updates controleren</String>
+    <String key="More:Notifications">Kennisgevingen</String>
+    <String key="More:NotificationText">Waarschuw me wanneer. (Kennisgevingen verschijnen kort op uw scherm.)</String>
+    <String key="More:NotificationsText">Stel mij op de hoogte wanneer het volgende gebeurt. (Kennisgevingen verschijnen kort op uw scherm.)</String>
+    <String key="More:NotifyBattLow">Batterij van apparaat bijna leeg</String>
+    <String key="More:NotifyCapsLock">Caps Lock wordt ingedrukt</String>
+    <String key="More:NotifyScrollLock">Scroll Lock wordt ingedrukt</String>
+    <String key="More:NotifyLockKey">Een lock-toets wordt ingedrukt</String>
+    <String key="More:DisabledKeys">Uitgeschakelde toetsen</String>
+    <String key="More:DisabledKeysText">Selecteer de toetsen die u wilt uitschakelen.</String>
+    <String key="More:KeysCapsLock">Caps Lock</String>
+    <String key="More:KeysScrollLock">Scroll Lock</String>
+    <String key="More:KeysInsert">Invoegen</String>
+    <String key="More:KeysWindows">Windows-/Start-toets</String>
+    <String key="More:KeysNumLock">Num Lock</String>
+    <String key="More:Unifying">Unifying</String>
+    <String key="More:UnifyingText">Er is een %BrandName% Unifying-ontvanger op deze computer aangesloten. U kunt maximaal zes compatibele draadloze muizen, toetsenborden of andere Unifying-apparaten koppelen aan één %BrandName% Unifying-ontvanger.</String>
+    <String key="More:LearnMore">Meer informatie</String>
+    <String key="More:OpenUnifying">Unifying-software openen</String>
+    <String key="More:Bluetooth">Bluetooth</String>
+    <String key="More:SoftwareVersion">Softwareversie: </String>
+    <String key="More:FirmwareVersion">Firmwareversie: </String>
+    <String key="More:CopyTrade">© 2018 %BrandName%. %BrandName%, Logi en andere %BrandName%-merken zijn het eigendom van %BrandName% en kunnen gedeponeerd zijn. Alle andere handelsmerken zijn het eigendom van hun respectieve eigenaren.</String>
+    <String key="More:Support">Ondersteuning</String>
+    <String key="More:SupportText">Ga naar onze ondersteuningssite voor hulp of documentatie, downloads en toegang tot gebruikersforums.</String>
+    <String key="More:DeveloperMode">Ontwikkelaarsmodus</String><!--NEW 1/11/2018-->
+    <String key="More:DeveloperModeText">Hiermee kunt u niet-ondertekende externe toepassingsprofielen installeren en gebruiken voor ontwikkelingsdoeleinden. Meer informatie over </String><!--NEW 1/11/2018-->
+    <String key="More:DeveloperModeLink">Options SDK</String><!--NEW 1/11/2018-->
+    <String key="More:DeveloperModeEnabled">ONTWIKKELAARSMODUS INGESCHAKELD</String><!--NEW 1/11/2018-->
+
+    <String key="UpdateStatus:Checking">Bezig met controleren op update...</String>
+    <String key="UpdateStatus:NoUpdateAvailable">Uw software is bijgewerkt</String>
+    <String key="UpdateStatus:DownloadInProgress">Update wordt gedownload…</String>
+    <String key="UpdateStatus:DownloadSuccess">Download voltooid</String>
+    <String key="UpdateStatus:DownloadFailure">Download mislukt</String>
+    <String key="UpdateStatus:InstallInProgress">Update wordt geïnstalleerd...</String>
+    <String key="UpdateStatus:InstallSuccess">Uw software is bijgewerkt</String>
+    <String key="UpdateStatus:InstallFailure">Kan niet installeren</String>
+    <String key="UpdateStatus:NoInternetConnection">Geen internetverbinding gedetecteerd, probeer het later opnieuw.</String>
+
+    <String key="Modal:RestoreDefaultsWarning">Instellingen voor dit apparaat worden teruggezet op hun standaardwaarden. Universele instellingen die van toepassing zijn op alle apparaten, worden niet teruggezet. Selecteer 'Doorgaan' om de standaardinstellingen te herstellen, of 'Annuleren' om uw huidige instellingen te behouden.</String>
+    <String key="Modal:InstallUpdates">Er is een update beschikbaar voor installatie. Selecteer 'Doorgaan' om de update nu te installeren, 'Later installeren' om herinnerd te worden wanneer u deze app de volgende keer opent, of toepassingsschakelaar 'Overslaan' om deze update te negeren.</String>
+    <String key="Modal:InteractiveUpdates">Er is een update beschikbaar voor installatie. Selecteer 'Doorgaan' om de update nu te installeren, of 'Later installeren' om herinnerd te worden wanneer u deze app de volgende keer opent.</String>
+    <String key="Modal:RelaunchUI">%BrandName% Options is bijgewerkt en wordt automatisch opnieuw gestart om nieuwe functies in te schakelen.</String>
+    <String key="Modal:ClearHostChannel">Hiermee wordt de geselecteerde host tijdelijk uit de Easy-Switch-functionaliteit verwijderd. Klik op %%Buttons:Continue%% om door te gaan of op %%Buttons:Cancel%% om te annuleren.</String>
+    <String key="Modal:UnknownFeatures">%BrandName% Options heeft onbekende functies aangetroffen in een of meer verbonden apparaten. Zorg dat %BrandName% Options up-to-date blijft met de nieuwste versie om deze functies juist te ondersteunen.</String>
+    <String key="Modal:ConfirmEnableDeveloperMode">Als u de ontwikkelaarsmodus inschakelt, kunt u toepassingsprofielen die niet door %BrandName% zijn goedgekeurd en ondertekend, toch installeren en gebruiken. Deze actie kan van invloed zijn op het gedrag van uw apparaten en toepassingen. Ondervindt u problemen, schakel dan de ontwikkelaarsmodus uit voordat u contact opneemt met de ondersteuning. 
+
+N.B. Analysegegevens worden automatisch ingeschakeld.</String><!--NEW 1/11/2018-->
+    <String key="Modal:ConfirmDisableDeveloperMode">Als u ontwikkelaarsmodus uitschakelt, kunt u toepassingsprofielen die niet door %BrandName% zijn goedgekeurd en ondertekend, niet installeren en gebruiken. Alle niet-ondertekende toepassingsprofielen die reeds zijn geïnstalleerd, worden uit de profielenlijst verwijderd.</String><!--NEW 1/11/2018-->
+    <String key="Modal:OnboardingSelectionError">Aan toepassingen kan slechts één profiel worden toegewezen. Selecteer één profiel in de lijst. Als u al een profiel heeft ingeschakeld, moet u het toepassingsprofiel eerst verwijderen uit Toepassingsspecifieke instellingen. Probeer het profiel vervolgens opnieuw te installeren.</String><!--NEW 1/11/2018-->
+
+    <String key="DFUState:DFU_WELCOME_PAGE_STEP0">Er is een firmware-update beschikbaar voor uw ==DeviceName==. Tijdens dit proces kan uw ==DeviceName== onbruikbaar zijn. Wilt u doorgaan?</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_PAIRED_STEP1">Controleren op gekoppelde apparaten...</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_PAIRED_STEP1_WAITING">Uw ==DeviceName== is niet gekoppeld. Koppel het nu of probeer later opnieuw.</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_ACTIVE_STEP2">Controleren of apparaat actief is...</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_ACTIVE_STEP2_WAITING">Kan uw ==DeviceName== niet detecteren. Controleer of het apparaat is ingeschakeld en werkt.</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_BATTERY_OK_STEP3">Batterijniveau controleren...</String>
+    <String key="DFUState:DFU_PREREQ_FW_VERSION_CHECK_STEP3_PLUS">Firmwareversies controleren...</String>
+    <String key="DFUState:DFU_ENTER_DFU_MODE_STEP4">Apparaat wordt in firmware-updatemodus geplaatst...</String>
+    <String key="DFUState:DFU_ENTER_DFU_MODE_STEP4_WAITING">Schakel uw ==DeviceName== uit en weer in om de update te installeren. Zodra de update start, mag u uw apparaat niet meer uitschakelen of ontkoppelen tot de update is voltooid.</String>
+    <String key="DFUState:DFU_SEND_FIRST_DFU_PACKET_STEP5">Firmware-update wordt geïnitialiseerd...</String>
+    <String key="DFUState:DFU_PACKET_STEP5_RESPONSE_WAITING">De firmware van uw ==DeviceName== wordt bijgewerkt</String>
+    <String key="DFUState:DFU_ABORT_INTERNAL_ERROR">Er is een fout opgetreden tijdens het updateproces. Probeer de update opnieuw te installeren.</String>
+    <String key="DFUState:DFU_ABORT_LOW_BATTERY_ERROR">De update kan niet worden geïnstalleerd omdat het batterijniveau van uw ==DeviceName== te laag is. Vervang de batterijen of laad ze op en probeer de update opnieuw te installeren.</String>
+    <String key="DFUState:DFU_ABORT_START_FAILED_ERROR">Er is een fout opgetreden tijdens het updateproces. Probeer de update opnieuw te installeren.</String>
+    <String key="DFUState:DFU_SUCCESS">De firmware van uw ==DeviceName== is bijgewerkt!</String>
+    <String key="DFUState:DFU_ABORT">Er is een onbekend probleem opgetreden waardoor de firmware-update is afgebroken. Probeer het later nog eens.</String>
+    <String key="DFUState:DFU_DONE">Uw ==DeviceName== is nu klaar voor gebruik.</String>
+    <String key="DFUState:DFU_ABORT_FW_VERSION_UPTO_DATE">De firmware van uw apparaat is al bijgewerkt.</String>
+    <String key="DFUState:DFU_BLE_MODE_NOT_SUPPORTED">Uw ==DeviceName== kan niet worden bijgewerkt wanneer het is gekoppeld met Bluetooth. Zorg dat het apparaat is gekoppeld met een Unifying-ontvanger en probeer het opnieuw. Dank u wel.</String>
+    <String key="DFUState:DFU_EXIT_FROM_WELCOME_PAGE"/>
+    <String key="DFUState:Unknown">Er is een onbekende DFU-status bereikt:</String>
+
+    <String key="GenericFeatures:ProgramControls">Programmeerbare knoppen</String>
+    <String key="GenericFeatures:UnsupportedFeatures">Niet-ondersteunde functies</String>
+
+    <String key="MouseFeatures:MiddleButton">Middelste knop</String>
+    <String key="MouseFeatures:PointerSpeed">Aanwijzersnelheid</String>
+    <String key="MouseFeatures:ScrollDirection">Richting van scrollwiel</String>
+    <String key="MouseFeatures:SmoothScroll">Soepel scrollen</String>
+    <String key="MouseFeatures:SmartShift">SmartShift</String>
+    <String key="MouseFeatures:SmartShiftThreshold">SmartShift-gevoeligheid</String>
+    <String key="MouseFeatures:DefaultWheelMode">Vaste scrollwielmodus</String>
+    <String key="MouseFeatures:SwapLeftRight">De linker-/rechterknoppen wisselen</String>
+    <String key="MouseFeatures:SmartShiftHintOff">Vaste modus is inactief. (Schakel SmartShift uit en bevestig dat moduswijziging niet aan een knop is toegewezen.)</String>
+    <String key="MouseFeatures:SmartShiftHintOn">Vaste modus is actief. </String>
+    <String key="MouseFeatures:Enabled">Ingeschakeld</String>
+    <String key="MouseFeatures:Disabled">Uitgeschakeld</String>
+    <String key="MouseFeatures:Traditional">Traditioneel</String>
+    <String key="MouseFeatures:Inverted">Omgekeerd</String>
+    <String key="MouseFeatures:Default">Standaard</String>
+    <String key="MouseFeatures:Ratchet">Kliksgewijs</String>
+    <String key="MouseFeatures:Freespin">Vrij draaien</String>
+    <String key="MouseFeatures:HorScroll">Richting van duimwiel</String>
+    <String key="MouseFeatures:NotAssigned">Niet toegewezen</String>
+    <String key="MouseFeatures:Backlight">Verlichting uitschakelen na</String>
+    <String key="MouseFeatures:10Sec">10 seconden</String>
+    <String key="MouseFeatures:20Sec">20 seconden</String>
+    <String key="MouseFeatures:30Sec">30 seconden</String>
+    <String key="MouseFeatures:1Min">1 minuut</String>
+    <String key="MouseFeatures:5Min">5 minuten</String>
+    <String key="MouseFeatures:10Min">10 minuten</String>
+    <String key="MouseFeatures:Illumination">Verlichting activeren</String>
+    <String key="MouseFeatures:HandDetection">bij handdetectie</String>
+    <String key="MouseFeatures:StartTyping">wanneer ik begin met typen</String>
+
+    <String key="AddDevice">Een apparaat toevoegen</String>
+    <String key="AddDevice:UnifyingHeadline">Een Unifying-toestel instellen</String>
+    <String key="AddDevice:WirelessHeadline">Een draadloos apparaat instellen</String>
+    <String key="AddDevice:UnifyingDescription">Koppel tot zes compatibele draadloze muizen en toetsenborden aan één %BrandName% Unifying-ontvanger.</String>
+    <String key="AddDevice:WirelessDescription">Koppel tot zes compatibele draadloze muizen en toetsenborden aan één %BrandName% Unifying-ontvanger, of een draadloze muis of een draadloos toetsenbord aan een %BrandName%-nano-ontvanger.</String>
+    <String key="AddDevice:LtdOnlyDescription">Koppel een draadloze muis of draadloos toetsenbord.</String>
+    <String key="AddDevice:UnifyingButton">Unifying-apparaat toevoegen</String>
+    <String key="AddDevice:WirelessButton">Draadloos apparaat toevoegen</String>
+    <String key="AddDevice:AdvancedButton">Geavanceerde Unifying-app</String>
+    <String key="AddDevice:NoUnifyingHeadline">Geen Unifying-ontvanger</String>
+    <String key="AddDevice:NoUnifyingDescription">Voeg een apparaat toe door een Unifying-ontvanger aan uw computer aan te sluiten en enkele minuten te wachten tot de knop 'Unifying-apparaat toevoegen' beschikbaar wordt.</String>
+    <String key="AddDevice:BluetoothHeadline">Een Bluetooth-apparaat instellen</String>
+    <String key="AddDevice:BluetoothDescription">Voeg een Bluetooth-apparaat toe via het koppelingsprogramma in Windows.</String>
+    <String key="AddDevice:BluetoothButton">Bluetooth-apparaat toevoegen</String>
+    <String key="AddDevice:NoBluetoothHeadline">Geen Bluetooth-ontvanger</String>
+    <String key="AddDevice:BluetoothOffHeadline">Bluetooth-ontvanger is uitgeschakeld</String>
+    <String key="AddDevice:DevicesDetected">Gedetecteerde apparaten</String>
+    <String key="AddDevice:NoDevicesDetected">Geen apparaten gedetecteerd</String>
+    <String key="AddDevice:BluetoothSmartCapable">Uw pc biedt ondersteuning voor Bluetooth Smart-apparaten.</String>
+    <String key="AddDevice:BluetoothSmartIncapable">Uw pc biedt geen ondersteuning voor Bluetooth Smart-apparaten.</String>
+
+    <!-- DJCU components -->
+    <String key="DJCU:ConnectTitle">Het apparaat dat u met uw computer wilt verbinden, opnieuw starten</String>
+    <String key="DJCU:Connect1">1. Zoek de aan-uitschakelaar (hieronder afgebeeld).</String>
+    <String key="DJCU:Connect2">2. Zet de schakelaar op OFF en dan weer op ON. (Wacht vervolgens tot het apparaat is gekoppeld.)</String>
+    <String key="DJCU:Connect3">(Tip: de schakelaar bevindt zich aan de onderkant of in de rechterbovenhoek van het apparaat.)</String>
+    <String key="DJCU:Connect4">* Sommige %BrandName%-apparaten zijn niet compatibel met deze draadloze ontvanger.</String>
+
+    <String key="DJCU:TimeoutTitle">Koppelen mislukt</String>
+    <String key="DJCU:Timeout1">We zijn er niet in geslaagd om uw apparaat in de verwachte tijd te koppelen.</String>
+    <String key="DJCU:Timeout2">Klik op ‘%%Buttons:TryAgain%%’ om het koppelingsproces opnieuw te starten.</String>
+    <String key="DJCU:Timeout3">Of klik op ‘%%Buttons:Cancel%%’ als u dit apparaat niet wilt gebruiken.</String>
+    <String key="DJCU:Timeout4">Klik hier voor informatie over het oplossen van problemen.</String>
+
+    <String key="DJCU:ReceiversFullTitle">Alle draadloze ontvangers zijn vol</String>
+    <String key="DJCU:ReceiversFull1">Er zijn geen beschikbare ingangen om een extra Unifying- of draadloos apparaat aan te sluiten tussen uw huidige ontvangers.</String>
+    <String key="DJCU:ReceiversFull2">Als u nog een apparaat wilt verbinden, moet u een nieuwe Unifying-ontvanger aansluiten.</String>
+
+    <String key="DJCU:MultiReceiverTitle">We hebben meerdere aangesloten draadloze ontvangers gedetecteerd</String>
+    <String key="DJCU:MultiReceiver1">Als u een koppeling met een specifieke ontvanger tot stand wilt brengen, ontkoppelt u alle Unifying-ontvangers van uw computer, behalve de ontvanger die u wilt gebruiken.</String>
+    <String key="DJCU:MultiReceiver2">Wilt u dat wij een beschikbare ontvanger voor koppeling kiezen, klik dan gewoon op ‘%%Buttons:Continue%%’.</String>
+
+    <String key="DJCU:OtpErrorTitle">Fout met apparaat of ontvanger</String>
+    <String key="DJCU:OtpError1">Het apparaat dat of de ontvanger die u probeert te koppelen, is te vaak gekoppeld en kan niet meer worden gekoppeld.</String>
+
+    <String key="DJCU:IncompatibleDeviceTitle">Apparaat is niet compatibel</String>
+    <String key="DJCU:IncompatibleDevice1">Uw apparaat kan niet worden gekoppeld. Het apparaat is niet compatibel met de ontvanger. Gebruik de ontvanger die met uw apparaat werd geleverd.</String>
+
+    <String key="DJCU:PairSuccessTitle">Koppelen voltooid</String>
+    <String key="DJCU:PairSuccess1">Uw %DeviceName% is gekoppeld.</String>
+
+    <!-- Easy-Switch HostInfo Types (feature 0x1814) -->
+    <!-- public enum HostInfoHostTypes { Unset = 0, Unknown = 1, Windows = 2, Win7 = 3, Win8 = 4, Win10 = 5, MacOS = 6, Mac107 = 7, Mac108 = 8, Mac109 = 9 } -->
+    <String key="HostInfo:Unset">Geen host</String>
+    <String key="HostInfo:Unknown">Onbekend hosttype</String>
+    <String key="HostInfo:Windows">Windows</String>
+    <String key="HostInfo:Win7">Windows 7</String>
+    <String key="HostInfo:Win8">Windows 8</String>
+    <String key="HostInfo:Win10">Windows 10</String>
+    <String key="HostInfo:MacOS">Mac OS</String>
+    <String key="HostInfo:Mac107">Mac OSX 10.7</String>
+    <String key="HostInfo:Mac108">Mac OSX 10.8</String>
+    <String key="HostInfo:Mac109">Mac OSX 10.9</String>
+
+    <!-- MP HostInfo Types (features 0x4531 and 0x1815) -->
+    <!-- public enum Feature4351Platforms { Unknown = 0, Windows = 1, WinEmb = 2, Linux = 3, Chrome = 4, Android = 5, MacOS = 6, IOS = 7 } -->
+    <String key="MPHostInfo:None">Niet gekoppeld</String>
+    <String key="MPHostInfo:Unknown">Onbekend</String>
+    <String key="MPHostInfo:Windows">Windows</String>
+    <String key="MPHostInfo:WinEmb">Windows IoT</String>
+    <String key="MPHostInfo:Linux">Linux</String>
+    <String key="MPHostInfo:Chrome">Chrome</String>
+    <String key="MPHostInfo:Android">Android</String>
+    <String key="MPHostInfo:MacOS">Mac OS</String>
+    <String key="MPHostInfo:IOS">iOS</String>
+
+    <!-- App profiles Strings -->
+    <String key="AppProfAddApp">Toepassing toevoegen</String>
+    <!--<String key="AppProfAddAppTT">Click to add a new application profile for this device</String>
+     <String key="AppProfBrowseTT">Click to add a program manually using a file browser</String>-->
+    <String key="AppProfDeleteWarning">Hiermee worden de aangepaste instellingen voor ==ApplicationName== permanent verwijderd. Selecteer Doorgaan om te verwijderen of Annuleren om uw huidige aangepaste instellingen te behouden.</String>
+    <String key="AppProfDefaultSettings">Alle toepassingen</String>
+    <!--<String key="AppProfDefaultSettingsTT">Click to update All Applications settings</String>-->
+    <String key="AppProfRestoreProfileWarning">Instellingen voor ==ApplicationName== worden teruggezet op de instellingen voor 'Alle toepassingen'. Selecteer Doorgaan om te herstellen of Annuleren om uw huidige aangepaste instellingen te behouden.</String>
+    <String key="AppProfRestoreProfileWarningCraft">Instellingen voor ==ApplicationName== worden hersteld naar de standaard Craft-profielinstellingen. Selecteer Doorgaan om te herstellen of Annuleren om uw huidige aangepaste instellingen te behouden.</String><!--NEW-->
+    <String key="AppProfToggleText">Toepassingsspecifieke instellingen</String>
+    <String key="AppProfDetailHeading">Maak aangepaste instellingen voor specifieke toepassingen</String>
+    <String key="AppProfDetailDescription">Met Toepassingsspecifieke instellingen kunt u knoppen en acties aanpassen voor uw favoriete toepassingen. Dit is niet van invloed op uw huidige instellingen voor 'Alle toepassingen' en u kunt deze functie op elk gewenst moment in- of uitschakelen zonder uw aangepaste instellingen kwijt te raken.</String>
+    <String key="AppProfOther">Anders...</String>
+    <String key="AppProfAddAppHeader">Een toepassing selecteren</String>
+
+    <String key="Flow:ConfigurationError">Fout in %BrandName% Flow-configuratiebestand. Zet de muis uit/aan en start %BrandName% Options opnieuw.</String>
+    <String key="Flow:LearnMore">Meer informatie</String>
+    <String key="Flow:MoreOptions">Meer opties</String>
+    <String key="Flow:ManualSetUp">Handmatige installatie</String>
+    <String key="Flow:LinkKeyboard">Toetsenbord koppelen</String>
+    <String key="Flow:CopyPaste">Kopiëren en plakken</String>
+    <String key="Flow:ScreenCorners">Schermhoeken</String>
+    <!--<String key="Flow:CannotFlow">Cannot Flow</String>
+    <String key="Flow:CanFlow">Can Flow</String>-->
+    <String key="Flow:SwitchBetweenComputers">Tussen computers schakelen</String>
+    <String key="Flow:HoldCtrlAndMove">Ctrl ingedrukt, beweeg cursor naar de rand</String>
+    <String key="Flow:MoveToEdge">Cursor naar rand bewegen</String>
+
+    <String key="Flow:SettingUpFlowHeader">%BRANDNAME% FLOW WORDT GEÏNSTALLEERD...</String>
+    <String key="Flow:SettingUpFlowSearching">Bezig met zoeken naar computer(s)</String>
+    <String key="Flow:SettingUpFlowFound">Computer gevonden</String>
+    <String key="Flow:SettingUpFlow">Bezig met instellen van computer(s)</String>
+    <String key="Flow:SettingUpFlowNote">Dit proces kan een minuut duren</String>
+    <String key="Flow:SettingUpFlowManual">Andere computernaam of IP-adres invoeren</String>
+    <String key="Flow:SettingUpFlowSuccess">%BrandName% Flow is geïnstalleerd en klaar voor gebruik.</String>
+    <String key="Flow:SettingUpFlowManualFailed">Kan geen andere computers vinden of hiermee verbinding maken. Controleer of:
+ - %BrandName% Options geïnstalleerd is op andere computer(s)
+ - Uw muis is gekoppeld aan uw computer(s)
+ - Uw computers zich op hetzelfde netwerk bevinden
+Controleer eerst het bovenstaande en probeer Flow vervolgens in te schakelen vanaf uw andere computers.</String> 
+    <String key="Flow:SettingUpFlowOtherMachine">Ik heb geprobeerd Flow op mijn andere computer(s) in te schakelen.</String>
+      <String key="Flow:ShowNotificationIcon">Taakbalkpictogram weergeven</String>
+    <String key="Flow:RemoveFlowHost">Deze computer wordt verwijderd en u kunt de computer niet met %BrandName% Flow gebruiken tot u deze weer toevoegt. Selecteer Doorgaan om te verwijderen of Annuleren om de computer te behouden.</String>
+    <String key="Flow:RestoreFlowDefaults">De %BrandName% Flow-instellingen worden hersteld. U kunt Flow niet op deze computer gebruiken tenzij u het opnieuw inschakelt of toevoegt via een andere computer waarop Flow is geïnstalleerd. Selecteer Doorgaan om te herstellen of Annuleren om uw huidige instellingen te behouden.</String>
+    <String key="Flow:FeedbackButton">Feedback</String>
+    <String key="Flow:FeedbackFormHint">Voer hier uw feedback in...</String>
+
+    <String key="Flow:WelcomeTitle">WELKOM BIJ %BRANDNAME% FLOW</String>
+    <String key="Flow:WelcomeDescription1">Schakel naadloos tussen computers door de muiscursor naar de rand van het scherm te bewegen. Zo kunt u snel tekst, afbeeldingen en bestanden kopiëren en plakken.</String>
+    <String key="Flow:WelcomeHowToSetup">DE SET-UP UITVOEREN</String>
+    <String key="Flow:WelcomeEnabledFlow">FLOW INSCHAKELEN</String>
+
+      <String key="Flow:WelcomeTitlePart1">Vergeet niet ons te laten weten wat u ervan vindt via de knop </String>
+    <String key="Flow:feedback">FEEDBACK</String>
+    <String key="Flow:WelcomeTitlePart2"> </String>
+    <String key="Flow:Enable">Flow inschakelen</String>
+    <String key="Flow:LogitechFlow">%BrandName% Flow</String>
+    <String key="Flow:TutorialSlide1">Koppel uw muis aan uw computers.</String>
+    <String key="Flow:TutorialSlide2">Zorg ervoor dat uw computers zich op hetzelfde netwerk bevinden.</String>
+    <String key="Flow:TutorialSlide3">Download en installeer %BrandName% Options op uw computers.</String>
+
+    <String key="Flow:TutorialSlide4">Dat is alles! %BrandName% Flow moet nu klaar zijn voor gebruik.</String>
+    
+    <String key="Flow:DiscoveryFailedUnableToEstablish">SCHAKEL %BRANDNAME% FLOW OP ANDERE COMPUTERS IN</String>
+    <String key="Flow:DiscoveryFailedFollowTheseSteps1">%BrandName% Flow heeft niet automatisch andere computers op het netwerk kunnen vinden.</String>
+    <String key="Flow:DiscoveryFailedFollowTheseSteps2">Controleer of u een actieve internetverbinding heeft en de onderstaande stappen heeft gevolgd.</String>
+    <String key="Flow:DiscoveryFailed:DownloadAndInstall">DE NIEUWSTE VERSIE VAN %BRANDNAME% OPTIONS DOWNLOADEN EN INSTALLEREN</String>
+    <String key="Flow:DiscoveryFailed:Pair">UW MUIS AAN ANDERE COMPUTERS KOPPELEN</String>
+    <String key="Flow:DiscoveryFailed:ConnectSameNetwork">UW COMPUTERS MET HETZEFLDE NETWERK VERBINDEN</String>
+    <String key="Flow:DiscoveryFailed:EnabledOnAll">%BRANDNAME% FLOW OP ALLE COMPUTERS INSCHAKELEN</String>
+    <String key="Flow:DiscoveryFailed:TroubleshootingLink">Probleemoplossing</String>
+    <String key="Flow:DiscoverySucceeded:Success">GESLAAGD</String>
+    <String key="Flow:DiscoverySucceeded:Continue">DOORGAAN</String>
+    <String key="Buttons:CancelALLCAPS">ANNULEREN</String>
+
+    <!--Ichitaro-->
+    <String key="Ichitaro:AppName">Ichitaro2017</String>
+    <!--End Ichitaro-->
+
+    <!--Duolink-->
+    <String key="Duolink:ToggleDefault">STANDAARD</String>
+    <String key="Duolink:ToggleFn">DUOLINK</String> <!--MODIFIED 10/10/2017-->
+    <String key="Duolink:ArrowHover">Fn + handbeweging</String>
+    <String key="Duolink:DeviceListSelectInfo">Met de Fn-toets op het toetsenbord kunt u de functionaliteit van uw %BrandName%-muis uitbreiden. Klik op de muis die u wilt configureren.</String>
+    <String key="Duolink:TutorialText">Met DuoLink kunt u uw muisknoppen verschillende actiesets laten uitvoeren wanneer u de *Fn*-toets ingedrukt houdt. U kunt de muis ook verplaatsen terwijl u de *Fn*-toets ingedrukt houdt om verschillende handbewegingen uit te voeren.</String>
+    <String key="Duolink:TutorialFn">Fn</String>
+    <String key="Duolink:FnGestureMontionDetail">Houd de Fn-toets op uw toetsenbord ingedrukt terwijl u de muis verplaatst</String>
+    <String key="Duolink:NoDevicesAddDevices">Geen Duolink-apparaten gevonden. Klik hier om toe te voegen.</String>
+    <!--End Duolink-->
+    
+    <!--Analytics-->
+    <String key="Analytics:HelpImprove">Help %BrandName% onze producten en services te verbeteren door automatisch anonieme diagnose- en gebruiksgegevens te verzenden. Meer informatie over het</String>
+    <String key="Analytics:PrivacyPolicy"> privacybeleid van Logitech</String>
+    <String key="Analytics:HelpImproveCheckBox">Help %BrandName% automatisch onze producten en services te verbeteren</String>
+    <String key="Analytics:Analytics">Analysegegevens</String>
+
+    <String key="Device:Unknown">Onbekend %BrandName%-apparaat</String>
+  
+    <!--Craft-->
+    <String key="Craft:Turn">Draaien</String>
+    <String key="Craft:Press">Indrukken</String>
+    <String key="Craft:PressAndTurn">Indrukken en draaien</String>
+    <String key="Craft:NameYourFunction">Aangepaste functie een naam geven</String>
+    <String key="Craft:ExUndoRedo">Bijv.: Ongedaan maken/Opnieuw</String>
+    <String key="Craft:TurnRight">Naar rechts draaien</String>
+    <String key="Craft:TurnLeft">Naar links draaien</String>
+    <String key="Craft:Ratchet">Kliksgewijs</String>
+    <String key="Craft:MaxCharactersX">Max. tekens: %d</String>
+    
+    <String key="Craft:ButtonInstallProfiles">PROFIELEN INSTALLEREN</String>
+    <String key="Craft:ApplicationsWithProfiles">Apps met Craft-profielen</String>
+    <String key="Craft:OtherApplications">Andere toepassingen</String>
+    <String key="Craft:PressAndTurnTooltip">U kunt deze functie alleen wijzigen in de instellingen voor Alle toepassingen</String>
+    
+    <String key="Craft:ButtonContinueWithoutInstalling">DOORGAAN ZONDER PROFIELEN TE INSTALLEREN</String>
+    <String key="Craft:ButtonBackToOptions">TERUG NAAR OPTIONS</String>    
+    <String key="Craft:OnboardingWelcome">WELKOM BIJ CRAFT</String>
+    <String key="Craft:OnboardingWelcomeDescription">Complete creatieve controle voor u</String>
+    <String key="Craft:OnboardingSearch">NAAR GEOPTIMALISEERDE APPS ZOEKEN</String>
+    <String key="Craft:OnboardingSearchDescription">Bezig met zoeken naar apps die zijn geoptimaliseerd voor Craft op deze computer</String>
+    <String key="Craft:OnboardingNoOptimizedApps">GEEN GEOPTIMALISEERDE APP OP UW COMPUTER</String>
+    <String key="Craft:OnboardingNoOptimizedAppsDescription">Het lijkt erop dat er op deze computer geen apps zijn geïnstalleerd die voor Craft zijn geoptimaliseerd</String>
+    <String key="Craft:OnboardingNoOptimizedApps2">GEEN APP GEOPTIMALISEERD VOOR CRAFT OP UW COMPUTER</String>
+    <String key="Craft:OnboardingNoOptimizedAppsDescription2">We hebben op uw computer geen app gevonden die is geoptimaliseerd voor Craft... :(</String>
+    <String key="Craft:OnboardingNoOptimizedAppsDescription3">We hebben op uw computer geen app gevonden die is geoptimaliseerd voor Craft.</String><!--NEW 8/2/2017-->
+    <String key="Craft:OnboardingOneOptimizedApp">1 APP GEOPTIMALISEERD VOOR CRAFT GEVONDEN</String>
+    <String key="Craft:OnboardingOneOptimizedApps">%d APPS GEOPTIMALISEERD VOOR CRAFT GEVONDEN</String>
+    <String key="Craft:OnboardingOneOptimizedAppDescription">De resterende apps die voor Craft zijn geoptimaliseerd, lijken niet op deze computer geïnstalleerd te zijn</String>
+    <String key="Craft:OnboardingXOptimizedApps">ER ZIJN %d GEOPTIMALISEERDE APPS GEÏNSTALLEERD</String>
+    <String key="Craft:OnboardingXOptimizedAppsDescription">Selectie maken om geoptimaliseerde profielen voor elke gebruikte app te installeren</String>
+    <String key="Craft:OnboardingProfilesInstalledDescription">Zo te zien zijn er al profielen voor die apps geïnstalleerd</String>
+    <String key="Craft:OnboardingInstallingProfiles">PROFIELEN WORDEN GEÏNSTALLEERD</String>
+    <String key="Craft:OnboardingInstallingProfilesDescription">Profielen worden op uw computer geïnstalleerd</String>
+    <String key="Craft:OnboardingInstallingProfilesProblem">PROBLEEM BIJ INSTALLEREN VAN PROFIELEN</String>
+    <String key="Craft:OnboardingInstallingProfilesPlugins">PROBLEEM BIJ INSTALLEREN VAN PLUG-INS</String>
+    <String key="Craft:OnboardingInstallingProfilesProblemDescription">Ga naar de pagina voor probleemoplossing op onze website</String>
+    <String key="Craft:OnboardingInstallingProfilesDone">PROFIELEN GEÏNSTALLEERD</String>
+    <String key="Craft:OnboardingInstallingProfilesDoneDescription">Start de geoptimaliseerde apps opnieuw om het installatieproces te voltooien</String>
+    <String key="Craft:OnboardingWatchTutorial">STUDIELES KIJKEN</String>
+    <String key="Craft:OnboardingWatchTutorials">STUDIELESSEN KIJKEN</String>
+    <String key="Craft:OnboardingWatchTutorialDescription">Kom te weten hoe de draaiknop uw workflow revolutionair verandert in elke geoptimaliseerde app</String>
+    <String key="Craft:OnboardingWatchTutorialDescription2">Kom te weten hoe de u de draaiknop in elke geoptimaliseerde app gebruikt</String>
+    <String key="Craft:OnboardingDone">U KUNT AAN DE SLAG</String>
+    <String key="Craft:OnboardingDoneDescription">Craft is geoptimaliseerd voor de apps die u het meest gebruikt</String>
+    <String key="Craft:OnboardingSelectedNewApps">U HEEFT (EEN) NIEUWE APP(S) GESELECTEERD</String>
+    <String key="Craft:OnboardingSelectedNewAppsDescription">Klik op de knop om (een) profiel(en) te installeren</String>
+    <String key="Craft:OnboardingUnsignedPlugin">(Niet-ondertekend)</String><!--NEW 1/11/2018-->
+
+    <String key="Craft:RestoreDefaults">Instellingen voor ==ApplicationName== worden hersteld naar de standaard Craft-profielinstellingen. Selecteer Doorgaan om te herstellen of Annuleren om uw huidige aangepaste instellingen te behouden.</String><!--NEW 8/8/2017-->
+    <!--End Craft-->
+  
+  </Strings>
+</StringDictionary>

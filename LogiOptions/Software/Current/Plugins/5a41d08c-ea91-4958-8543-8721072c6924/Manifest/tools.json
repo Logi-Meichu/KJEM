@@ -1,0 +1,79 @@
+{
+    "GUID": "5a41d08c-ea91-4958-8543-8721072c6924",
+    "tools": [
+        {
+            "name": "Sequence",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "moveframe",
+                    "image_file_path": "timelineNavigation.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "jogwheel",
+                    "image_file_path": "jogWheel.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "zoomTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "undoRedo",
+                    "task": "undoRedo",
+                    "image_file_path": "undoRedo.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "builtin_action": true
+                }
+            ]
+        }
+    ],
+    "tasks": [
+        {
+            "name": "changetoolvalue",
+            "win_id": "0x10064",
+            "mac_id": 615
+        },
+        {
+            "name": "zoom",
+            "image_file_path": "zoom.png",
+            "tool_options": [],
+            "win_id": "0x10057"
+        },
+        {
+            "name": "textsize",
+            "image_file_path": "textsize.png",
+            "tool_options": [],
+            "mac_id": 310,
+            "win_id": "0x10058"
+        },
+        {
+            "name": "undoredo",
+            "image_file_path": "undoRedo.png",
+            "win_id": "0x10065",
+            "mac_id": 311
+        },
+        {
+            "name": "keystrokeassignment",
+            "image_file_path": "",
+            "mac_id": 73,
+            "win_id": "0x10000"
+        },
+	{
+            "name": "playpause",
+            "mac_id": 4,
+            "win_id": "0x0004"
+        }
+    ]
+}

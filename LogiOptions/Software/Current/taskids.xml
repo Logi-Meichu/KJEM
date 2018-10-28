@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<taskids>
+  <language xml:lang="en-us" />
+  <tasks>
+    <task name="minimizewindow"      id="28"  Win7tasklist="fkeystasklist" Win8TaskList="" />
+    <task name="maximizewindow"      id="27"  tasklist="fkeystasklist" />
+    <task name="closewindow"         id="125" tasklist="fkeystasklist" />
+    <task name="switchscreen"        id="999" tasklist="fkeystasklist" />
+    <task name="showdesktop"         id="67"  tasklist="fkeystasklist" />
+    <task name="search"              id="45"  tasklist="fkeystasklist" />
+    <task name="home"                id="26"  tasklist="fkeystasklist" />
+    <task name="media"               id="29"  tasklist="fkeystasklist" />
+    <task name="prevtrack"           id="6"    />
+    <task name="play"                id="4"    />
+    <task name="nexttrack"           id="5"    />
+    <task name="play"                id="4"    />
+    <task name="switchapp"           id="8"    />
+    <task Name="volume_up_repeat"    id="1"    />
+    <task Name="volume_down_repeat"  id="2"    />
+    <task Name="mute"                id="3"    />
+    <task Name="leftbutton"          id="56"   />
+    <task Name="rightbutton"         id="57"   />
+    <task name="search"              id="177"  tasklist="fkeystasklist" />
+    <task name="home"                id="213"  tasklist="fkeystasklist" />
+        
+  </tasks>
+</taskids>

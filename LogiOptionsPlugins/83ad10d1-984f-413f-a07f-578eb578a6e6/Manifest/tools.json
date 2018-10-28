@@ -1,0 +1,63 @@
+{
+    "GUID": "83ad10d1-984f-413f-a07f-578eb578a6e6",
+    "tools": [
+		{
+            "name": "Slider",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "slider",
+                    "image_file_path": "horizontal.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "SpinCtrl",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "spinCtrl",
+                    "image_file_path": "numericUpDown.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+		{
+            "name": "Gauge",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "gauge",
+                    "image_file_path": "progressBar.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+				{
+                    "index": 1,
+                    "name": "gaugeRatchet",
+                    "image_file_path": "progressBar.png",
+                    "enabled": true,
+                    "ratchet_enabled": true
+                }
+            ]
+        }
+        {
+            "name": "TextContent",
+            "enabled": true,
+            "tool_options":[
+                {
+                    "index": 0,
+                    "name": "textcontent",
+                    "enabled": true,
+                    "ratchet_enabled": true
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+  "LocalizedStrings": [
+    {
+      "ID": "moveframe",
+      "value": "Περιήγηση στο χρονολόγιο"
+    },
+    {
+      "ID": "jogwheel",
+      "value": "Στρογγυλός επιλογέας"
+    },
+    {
+      "ID": "changetoolvalue",
+      "value": "Μενού περιβάλλοντος"
+    },
+    {
+      "ID": "undoRedo",
+      "value": "Αναίρεση/Επανάληψη"
+    },
+    {
+      "ID": "zoom",
+      "value": "Ζουμ"
+    },
+    {
+      "ID": "keystrokeassignment",
+      "value": "Αντιστοίχιση πατημάτων πλήκτρων"
+    },
+    {
+      "ID": "playpause",
+      "value": "Αναπαραγωγή / Παύση"
+    }
+  ]
+}

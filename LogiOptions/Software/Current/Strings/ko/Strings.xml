@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Source>
+	<StringSet>
+		<String ALIAS="IDS_SINGLE_DEVICE_LOWBATTERY_PREFIX">다음 장치의 배터리가 부족합니다:</String>
+        <String ALIAS="IDS_NO_APPS_SWITCH">전환할 앱 없음</String>
+        <String ALIAS="IDS_NO_HOSTS_SWITCH">전환할 호스트 없음</String>
+        <String ALIAS="IDS_HOSTS_SWITCH">호스트 전환됨</String>
+		<String ALIAS="IDS_APPLICATION_NAME">Logitech Options</String>
+
+        <!-- Lock notification -->
+		<String ALIAS="HELP_LOCK_CAPS_ON">Caps Lock 설정</String>
+		<String ALIAS="HELP_LOCK_CAPS_OFF">Caps Lock 해제</String>
+		<String ALIAS="HELP_LOCK_SCROLL_ON">Scroll Lock 설정</String>
+		<String ALIAS="HELP_LOCK_SCROLL_OFF">Scroll Lock 해제</String>
+		<String ALIAS="HELP_LOCK_NUMS_ON">Num Lock 설정</String>
+		<String ALIAS="HELP_LOCK_NUMS_OFF">Num Lock 해제</String>
+
+        <!-- Package Update notification -->
+		<String ALIAS="UPDATER_UPDATE_AVAILABLE_TITLE">업데이트 사용 가능</String>
+		<String ALIAS="UPDATER_UPDATE_AVAILABLE">Logitech Options에 대한 업데이트가 사용 가능합니다.</String>
+
+        <!-- Device Update notification -->
+        <String ALIAS="UPDATER_DEVICE_UPDATE_AVAILABLE_TITLE">사용 가능한 장치 업데이트</String>
+		<String ALIAS="UPDATER_DEVICE_UPDATE_AVAILABLE">장치에 사용 가능한 업데이트가 있습니다. 여기를 클릭하여 업데이트를 수행하십시오.</String>
+
+		<!-- Incorrect Keyboard Mode notification -->
+		<String ALIAS="INCORRECT_SELECTED_KEYBOARD_LAYOUT">Windows 레이아웃이 키보드에서 선택되지 않았습니다.</String>
+
+		<!-- Missing software components -->
+		<String ALIAS="MISSING_MAINAPP_FILES">Logitech Options에 중요한 파일이 누락되었습니다. 소프트웨어를 다시 설치하십시오.</String>
+
+    <!-- Tray icon notification -->
+    <String ALIAS="TRAYICON_FLOWOFF"> Logitech Flow 끄기</String>
+    <String ALIAS="TRAYICON_PREFERENCES"> 기본 설정 열기</String>
+    <String ALIAS="TRAYICON_FLOWON"> Logitech Flow 켜기</String>
+    <String ALIAS="TRAYICON_NETWORK_ISSUE"> 이 컴퓨터는 오프라인 상태입니다.</String>
+    <String ALIAS="TRAYICON_HOST_ISSUE"> %s을(를) 연결할 수 없습니다.</String>
+    <String ALIAS="TRAYICON_HELP"> Logitech Flow 도움말 열기</String>
+    <String ALIAS="TRAYICON_CANCEL_TRANSFER"> 전송 취소</String>
+    <String ALIAS="TRAYICON_TRANSFER_STATUS"> %d%% 전송 중 </String>
+    <String ALIAS="TRAYICON_TRANSFER_ERROR"> 전송 오류</String>
+
+    <!-- toast notification -->
+    <String ALIAS="TOAST_HOST_CONNECTED">%s이(가) Logitech Flow에 추가되었습니다.</String>
+    <String ALIAS="TOAST_NEW_FEATURES">Logitech 최신 혁신 기술을 사용해 보시겠습니까? 베타 사용자가 되려면 클릭하십시오.</String>
+    <String ALIAS="TOAST_NOTMATCH_FIRMWARE">%s 장치에 대해 펌웨어를 업그레이드해야 합니다.</String>
+
+    <!-- Craft notification -->
+    <String ALIAS="CRAFT_PLUGIN_NOT_INSTALLED_TITLE">Craft 프로필 사용 가능</String>
+    <String ALIAS="CRAFT_PLUGIN_NOT_INSTALLED_BODY">%s에 대해 사용 가능한 Craft 프로필이 있습니다.</String>
+    <String ALIAS="CRAFT_PLUGIN_READY_TO_USE_TITLE">Craft 프로필 설치 성공</String>
+    <String ALIAS="CRAFT_PLUGIN_READY_TO_USE_BODY">%s에 대해 새로운 Craft 프로필이 설치되었습니다.</String>
+    <String ALIAS="CRAFT_PLUGIN_APP_REQUIRE_RESTART_TITLE">%s을(를) 다시 시작하십시오.</String>
+    <String ALIAS="CRAFT_PLUGIN_APP_REQUIRE_RESTART_BODY">%s에 대해 Craft 프로필이 설치되었습니다. 이 프로필 사용을 시작하려면 응용 프로그램을 다시 시작하십시오.</String>
+
+  </StringSet>
+</Source>

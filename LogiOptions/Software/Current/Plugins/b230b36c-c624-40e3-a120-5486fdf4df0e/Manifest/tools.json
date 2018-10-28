@@ -1,0 +1,1378 @@
+{
+    "GUID": "b230b36c-c624-40e3-a120-5486fdf4df0e",
+    "tools": [
+        {
+            "name": "3DMaterialDropTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "zoom",
+                    "image_file_path": "zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "task": "zoom",
+                    "builtin_action": true
+                }
+            ]
+        },
+        {
+            "name": "3DMaterialSelectTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "zoom",
+                    "image_file_path": "zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                     "task": "zoom",
+                    "builtin_action": true
+                }
+            ]
+        },
+        {
+            "name": "addKnotTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "zoom",
+                    "image_file_path": "zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                     "task": "zoom",
+                    "builtin_action": true
+                }
+            ]
+        },
+        {
+            "name": "artboardTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "zoom",
+                    "image_file_path": "zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "task": "zoom",
+                    "builtin_action": true
+                }
+            ]
+        },
+        {
+            "name": "artBrushTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "size",
+                    "image_file_path": "size.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "hardness",
+                    "image_file_path": "hardness.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 2,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "backgroundEraserTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "size",
+                    "image_file_path": "size.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "hardness",
+                    "image_file_path": "hardness.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 2,
+                    "name": "tolerance",
+                    "image_file_path": "tolerance.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "blurTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "size",
+                    "image_file_path": "size.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "hardness",
+                    "image_file_path": "hardness.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 2,
+                    "name": "strength",
+                    "image_file_path": "strength.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "paintbrushTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "size",
+                    "image_file_path": "size.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "hardness",
+                    "image_file_path": "hardness.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 2,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 3,
+                    "name": "flow",
+                    "image_file_path": "flow.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "burnInTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "size",
+                    "image_file_path": "size.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "hardness",
+                    "image_file_path": "hardness.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 2,
+                    "name": "exposure",
+                    "image_file_path": "exposure.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "colorSamplerTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "zoom",
+                    "image_file_path": "zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "task": "zoom",
+                    "builtin_action": true
+                }
+            ]
+        },
+        {
+            "name": "cloneStampTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "size",
+                    "image_file_path": "size.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "hardness",
+                    "image_file_path": "hardness.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 2,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 3,
+                    "name": "flow",
+                    "image_file_path": "flow.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "colorReplacementBrushTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "size",
+                    "image_file_path": "size.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "hardness",
+                    "image_file_path": "hardness.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 2,
+                    "name": "tolerance",
+                    "image_file_path": "tolerance.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "recomposeSelection",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "zoom",
+                    "image_file_path": "zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "task": "zoom",
+                    "builtin_action": true
+                }
+            ]
+        },
+        {
+            "name": "convertKnotTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "zoom",
+                    "image_file_path": "zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "task": "zoom",
+                    "builtin_action": true
+                }
+            ]
+        },
+        {
+            "name": "countTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "zoom",
+                    "image_file_path": "zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "task": "zoom",
+                    "builtin_action": true
+                }
+            ]
+        },
+        {
+            "name": "cropTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "zoom",
+                    "image_file_path": "zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "task": "zoom",
+                    "builtin_action": true
+                }
+            ]
+        },
+        {
+            "name": "customShapeTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "zoom",
+                    "image_file_path": "zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "task": "zoom",
+                    "builtin_action": true
+                }
+            ]
+        },
+        {
+            "name": "deleteKnotTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "zoom",
+                    "image_file_path": "zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "task": "zoom",
+                    "builtin_action": true
+                }
+            ]
+        },
+        {
+            "name": "directSelectTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "zoom",
+                    "image_file_path": "zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "task": "zoom",
+                    "builtin_action": true
+                }
+            ]
+        },
+        {
+            "name": "dodgeTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "size",
+                    "image_file_path": "size.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "hardness",
+                    "image_file_path": "hardness.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 2,
+                    "name": "exposure",
+                    "image_file_path": "exposure.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "ellipseTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "zoom",
+                    "image_file_path": "zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "task": "zoom",
+                    "builtin_action": true
+                }
+            ]
+        },
+        {
+            "name": "marqueeEllipTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "brightness",
+                    "image_file_path": "brightness.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "contrast",
+                    "image_file_path": "contrast.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 2,
+                    "name": "saturation",
+                    "image_file_path": "saturation.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "eraserTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "size",
+                    "image_file_path": "size.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "hardness",
+                    "image_file_path": "hardness.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 2,
+                    "name": "flow",
+                    "image_file_path": "flow.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "eyedropperTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "zoom",
+                    "image_file_path": "Zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "task": "zoom",
+                    "builtin_action": true
+                }
+            ]
+        },
+        {
+            "name": "freeformPenTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "zoom",
+                    "image_file_path": "zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "task": "zoom",
+                    "builtin_action": true
+                }
+            ]
+        },
+        {
+            "name": "curvaturePenTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "zoom",
+                    "image_file_path": "zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "task": "zoom",
+                    "builtin_action": true
+                }
+            ]
+        },
+        {
+            "name": "gradientTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "handTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "zoom",
+                    "image_file_path": "zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "task": "zoom",
+                    "builtin_action": true
+                }
+            ]
+        },
+        {
+            "name": "magicEraserTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "magicStampTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "size",
+                    "image_file_path": "size.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "hardness",
+                    "image_file_path": "hardness.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "historyBrushTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "size",
+                    "image_file_path": "size.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "hardness",
+                    "image_file_path": "hardness.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 2,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 3,
+                    "name": "flow",
+                    "image_file_path": "flow.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "typeCreateOrEditTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "textSize",
+                    "image_file_path": "textSize.png",
+                    "enabled": true,
+                    "task": "textsize",
+                    "builtin_action": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "typeCreateMaskTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "textSize",
+                    "image_file_path": "textSize.png",
+                    "enabled": true,
+                    "task": "textsize",
+                    "builtin_action": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "lassoTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "brightness",
+                    "image_file_path": "brightness.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "contrast",
+                    "image_file_path": "contrast.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 2,
+                    "name": "saturation",
+                    "image_file_path": "saturation.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "lineTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "zoom",
+                    "image_file_path": "zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "task": "zoom",
+                    "builtin_action": true
+                }
+            ]
+        },
+        {
+            "name": "magicWandTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "zoom",
+                    "image_file_path": "zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "task": "zoom",
+                    "builtin_action": true
+                }
+            ]
+        },
+        {
+            "name": "magneticLassoTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "brightness",
+                    "image_file_path": "brightness.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "contrast",
+                    "image_file_path": "contrast.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 2,
+                    "name": "saturation",
+                    "image_file_path": "saturation.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "wetBrushTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "size",
+                    "image_file_path": "size.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "hardness",
+                    "image_file_path": "hardness.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 2,
+                    "name": "flow",
+                    "image_file_path": "flow.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "moveTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "brightness",
+                    "image_file_path": "brightness.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "contrast",
+                    "image_file_path": "contrast.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 2,
+                    "name": "saturation",
+                    "image_file_path": "saturation.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 3,
+                    "name": "blendMode",
+                    "image_file_path": "blendMode.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "textAnnotTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "zoom",
+                    "image_file_path": "zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "task": "zoom",
+                    "builtin_action": true
+                }
+            ]
+        },
+        {
+            "name": "bucketTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "pathComponentSelectTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "zoom",
+                    "image_file_path": "zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "task": "zoom",
+                    "builtin_action": true
+                }
+            ]
+        },
+        {
+            "name": "patchSelection",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "zoom",
+                    "image_file_path": "zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "task": "zoom",
+                    "builtin_action": true
+                }
+            ]
+        },
+        {
+            "name": "patternStampTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "size",
+                    "image_file_path": "size.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "hardness",
+                    "image_file_path": "hardness.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 2,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 3,
+                    "name": "flow",
+                    "image_file_path": "flow.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "perspectiveCropTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "zoom",
+                    "image_file_path": "zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "task": "zoom",
+                    "builtin_action": true
+                }
+            ]
+        },
+        {
+            "name": "penTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "zoom",
+                    "image_file_path": "zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "task": "zoom",
+                    "builtin_action": true
+                }
+            ]
+        },
+        {
+            "name": "pencilTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "size",
+                    "image_file_path": "size.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "hardness",
+                    "image_file_path": "hardness.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 2,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "polygonTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "zoom",
+                    "image_file_path": "zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "task": "zoom",
+                    "builtin_action": true
+                }
+            ]
+        },
+        {
+            "name": "polySelTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "brightness",
+                    "image_file_path": "brightness.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "contrast",
+                    "image_file_path": "contrast.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 2,
+                    "name": "saturation",
+                    "image_file_path": "saturation.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "quickSelectTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "size",
+                    "image_file_path": "size.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "hardness",
+                    "image_file_path": "hardness.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "rectangleTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "zoom",
+                    "image_file_path": "zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "task": "zoom",
+                    "builtin_action": true
+                }
+            ]
+        },
+        {
+            "name": "marqueeRectTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "brightness",
+                    "image_file_path": "brightness.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "contrast",
+                    "image_file_path": "contrast.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 2,
+                    "name": "saturation",
+                    "image_file_path": "saturation.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "redEyeTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "zoom",
+                    "image_file_path": "zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "task": "zoom",
+                    "builtin_action": true
+                }
+            ]
+        },
+        {
+            "name": "rulerTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "zoom",
+                    "image_file_path": "zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "task": "zoom",
+                    "builtin_action": true
+                }
+            ]
+        },
+        {
+            "name": "rotateTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "zoom",
+                    "image_file_path": "zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "task": "zoom",
+                    "builtin_action": true
+                }
+            ]
+        },
+        {
+            "name": "roundedRectangleTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "zoom",
+                    "image_file_path": "zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "task": "zoom",
+                    "builtin_action": true
+                }
+            ]
+        },
+        {
+            "name": "marqueeSingleRowTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "brightness",
+                    "image_file_path": "brightness.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "contrast",
+                    "image_file_path": "contrast.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 2,
+                    "name": "saturation",
+                    "image_file_path": "saturation.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "marqueeSingleColumnTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "brightness",
+                    "image_file_path": "brightness.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "contrast",
+                    "image_file_path": "contrast.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 2,
+                    "name": "saturation",
+                    "image_file_path": "saturation.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "sharpenTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "size",
+                    "image_file_path": "size.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "hardness",
+                    "image_file_path": "hardness.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 2,
+                    "name": "strength",
+                    "image_file_path": "strength.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "sliceTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "zoom",
+                    "image_file_path": "zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "task": "zoom",
+                    "builtin_action": true
+                }
+            ]
+        },
+        {
+            "name": "sliceSelectTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "zoom",
+                    "image_file_path": "zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "task": "zoom",
+                    "builtin_action": true
+                }
+            ]
+        },
+        {
+            "name": "smudgeTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "size",
+                    "image_file_path": "size.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "hardness",
+                    "image_file_path": "hardness.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 2,
+                    "name": "strength",
+                    "image_file_path": "strength.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "saturationTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "size",
+                    "image_file_path": "size.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "hardness",
+                    "image_file_path": "hardness.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 2,
+                    "name": "flow",
+                    "image_file_path": "flow.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "spotHealingBrushTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "size",
+                    "image_file_path": "size.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "hardness",
+                    "image_file_path": "hardness.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "typeVerticalCreateOrEditTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "textSize",
+                    "image_file_path": "textSize.png",
+                    "enabled": true,
+                    "task": "textsize",
+                    "builtin_action": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "typeVerticalCreateMaskTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "textSize",
+                    "image_file_path": "textSize.png",
+                    "enabled": true,
+                    "task": "textsize",
+                    "builtin_action": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "zoomTool",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "undoredo",
+                    "task": "undoredo",
+                    "image_file_path": "undoredo.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "builtin_action": true
+                }
+            ]
+        }
+    ],
+    "tasks": [
+        {
+            "name": "changetoolvalue",
+            "win_id": "0x10064",
+            "mac_id": 615
+        },
+        {
+            "name": "zoom",
+            "image_file_path": "zoom.png",
+            "mac_id": 309,
+            "win_id": "0x10057"
+        },
+        {
+            "name": "textsize",
+            "image_file_path": "textsize.png",
+            "mac_id": 310,
+            "win_id": "0x10058"
+        },
+        {
+            "name": "undoredo",
+            "image_file_path": "undoredo.png",
+            "win_id": "0x10065",
+            "mac_id": 311
+        },
+        {
+            "name": "keystrokeassignment",
+            "mac_id": 73,
+            "win_id": "0x10000"
+        },
+		{
+            "name": "playpause",
+            "mac_id": 4,
+            "win_id": "0x0004"
+        }       
+    ]
+}

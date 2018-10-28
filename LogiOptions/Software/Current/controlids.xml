@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<controlids>
+
+    <control id="0x0090" taskidlist="minimizeTaskidList" />
+    <control id="0x0091" taskidlist="maximizeTaskidList" />
+    <control id="0x000c" taskidlist="closeTaskidList" />
+    <control id="0x0095" taskidlist="switchscreenTaskidList" />
+    <control id="0x006E" taskidlist="showdesktopTaskidList" />
+    <control id="0x003E" taskidlist="searchTaskidList" />
+    <control id="0x0022" taskidlist="homeTaskidList" />
+    <control id="0x0028" taskidlist="mediaTaskidList" />
+    <control id="0x0008" taskidlist="switchappTaskidList" />
+    <control id="0x0040" taskidlist="sleepTaskidList" />
+    <control id="0x0050" taskidlist=""   />
+    <control id="0x0051" taskidlist=""   />
+    <control id="0x0052" taskidlist="middleButtonTaskList" actiongrouplist="win8NavList"  actiongroup7="win8nav2" actiongroup8="win8nav2" actiongroup="virtualdesktop" gestureidlist="othersGestureidList">
+        <fn_link taskid="0x04" taskidlist="middleButtonTaskList" actiongrouplist="win8NavList"  actiongroup7="win8nav2" actiongroup8="win8nav2" actiongroup="virtualdesktop" />
+    </control>
+    <control id="0x0052" device="6b018_3" taskidlist="middleButtonTaskList" actiongrouplist="ichitaroList" actiongroup7="ichitaro" actiongroup8="ichitaro" actiongroup="ichitaro" gestureidlist="othersGestureidList" />
+    <control id="0x0054" taskidlist="backTaskidList3"   />
+
+
+    <control id="0x00bb" taskidlist="homeTaskidList2"   />
+    <control id="0x00ba" taskidlist="switchappTaskidList2"   />
+    <control id="0x00bc" taskidlist="menuTaskidList"   />
+    <control id="0x004f" taskidlist="menuTaskidList2"   />
+
+   <control id="0x00bd" taskidlist="backTaskidList"   />
+   <control id="0x00be" reprogrammable="0" generic="1"   />
+  <!--control id="0x00bf" reprogrammable="0" generic="1"  taskidlist="screencaptureList" /-->
+  <control id="0x00bf" taskidlist="printscreenTaskidList"   />
+   <control id="0x00c2" taskidlist="lockScreenTaskidList"   />
+  <control id="0x006f" taskidlist="lockScreenTaskidList"   />
+   <control id="0x00c1" reprogrammable="0" generic="1"  />
+   <control id="0x00c0" reprogrammable="0" generic="1"  />
+
+    <control id="0x0053" taskidlist="backTaskidList3"  actiongrouplist="win8NavList"  actiongroup7="win8nav2" actiongroup8="win8nav2" actiongroup="virtualdesktop" gestureidlist="othersGestureidList">
+        <fn_link taskid="0x02" taskidlist="backTaskidList3"  actiongrouplist="win8NavList"  actiongroup7="win8nav2" actiongroup8="win8nav2" actiongroup="virtualdesktop" />
+    </control>
+
+	<control id="0x0053" device="6b018_3" taskidlist="backTaskidList3"  actiongrouplist="ichitaroList"  actiongroup7="ichitaro" actiongroup8="ichitaro" actiongroup="ichitaro" gestureidlist="othersGestureidList" />
+
+    <control id="0x0053" device="6b019" taskidlist="backTaskidList3" actiongrouplist="win8NavList" actiongroup7="win8nav2" actiongroup8="win8nav2" actiongroup="virtualdesktop" gestureidlist="othersGestureidList">
+        <fn_link taskid="0x1000b" taskidlist="backTaskidList3"  actiongrouplist="win8NavList"  actiongroup7="win8nav2" actiongroup8="win8nav2" actiongroup="virtualdesktop" />
+    </control>
+
+    <control id="0x0056" taskidlist="forwardTaskidList"  actiongrouplist="win8NavList"  actiongroup7="win8nav2" actiongroup8="win8nav2" actiongroup="virtualdesktop" gestureidlist="othersGestureidList">
+        <fn_link taskid="0x01" taskidlist="forwardTaskidList"  actiongrouplist="win8NavList"  actiongroup7="win8nav2" actiongroup8="win8nav2" actiongroup="virtualdesktop" gestureidlist="othersGestureidList" />
+    </control>
+
+	<control id="0x0056" device="6b018_3" taskidlist="forwardTaskidList" actiongrouplist="ichitaroList"  actiongroup7="ichitaro" actiongroup8="ichitaro" actiongroup="ichitaro" gestureidlist="othersGestureidList" />
+
+    <control id="0x0056" device="6b019" taskidlist="forwardTaskidList"  actiongrouplist="win8NavList"  actiongroup7="win8nav2" actiongroup8="win8nav2" actiongroup="virtualdesktop" gestureidlist="othersGestureidList">
+        <fn_link taskid="0x10007" taskidlist="forwardTaskidList"  actiongrouplist="win8NavList"  actiongroup7="win8nav2" actiongroup8="win8nav2" actiongroup="virtualdesktop" gestureidlist="othersGestureidList" />
+    </control>
+
+  <control id="0x00c3" taskidlist="gesturebuttonTaskidList"  actiongrouplist="win8NavList"  actiongroup7="win8nav2" actiongroup8="win8nav2" actiongroup="virtualdesktop" gestureidlist="othersGestureidList" >
+        <fn_link taskid="0xa9" taskidlist="gesturebuttonTaskidList"  actiongrouplist="win8NavList"  actiongroup7="win8nav2" actiongroup8="win8nav2" actiongroup="virtualdesktop" gestureidlist="othersGestureidList" />
+  </control>
+  <control id="0x00c4" taskidlist="manualshiftTaskidList"  actiongrouplist="win8NavList"  actiongroup7="win8nav2" actiongroup8="win8nav2" actiongroup="virtualdesktop" gestureidlist="othersGestureidList" >
+      <fn_link taskid="0x03" taskidlist="manualshiftTaskidList"  actiongrouplist="win8NavList"  actiongroup7="win8nav2" actiongroup8="win8nav2" actiongroup="virtualdesktop" gestureidlist="othersGestureidList"/>
+  </control>
+
+  <control id="0x00ce" taskidlist="backTaskidList4"  actiongrouplist="win8NavList"  actiongroup7="win8nav2" actiongroup8="win8nav2" actiongroup="virtualdesktop" gestureidlist="othersGestureidList" />
+    <control id="0x00cf" taskidlist="forwardTaskidList2"  actiongrouplist="win8NavList"  actiongroup7="win8nav2" actiongroup8="win8nav2" actiongroup="virtualdesktop" gestureidlist="othersGestureidList"/>
+
+    <control id="0x00cc" taskidlist="switchappMouseTaskidList" actiongrouplist="win8NavList"  actiongroup7="win8nav2" actiongroup8="win8nav2" actiongroup="virtualdesktop" gestureidlist="othersGestureidList"/>
+    <control id="0x00d0" taskidlist="switchappMouseTaskidList" actiongrouplist="win8NavList"  actiongroup7="win8nav2" actiongroup8="win8nav2" actiongroup="virtualdesktop" gestureidlist="othersGestureidList">
+        <fn_link taskid="0xad" taskidlist="switchappMouseTaskidList" actiongrouplist="win8NavList"  actiongroup7="win8nav2" actiongroup8="win8nav2" actiongroup="virtualdesktop" gestureidlist="othersGestureidList" />
+    </control>
+
+    <control id="0x005b" taskidlist="leftscrollTaskidList"  actiongrouplist="win8NavList"  actiongroup7="win8nav2" actiongroup8="win8nav2" actiongroup="virtualdesktop" gestureidlist="othersGestureidList" >
+        <fn_link taskid="0x06" />
+    </control>
+  	<control id="0x005b" device="6b018_3" taskidlist="leftscrollTaskidList" actiongrouplist="ichitaroList"  actiongroup7="ichitaro" actiongroup8="ichitaro" actiongroup="ichitaro" gestureidlist="othersGestureidList" />
+    <control id="0x005d" taskidlist="rightscrollTaskidList"   actiongrouplist="win8NavList"  actiongroup7="win8nav2" actiongroup8="win8nav2" actiongroup="virtualdesktop" gestureidlist="othersGestureidList" >
+        <fn_link taskid="0x05" />
+    </control>
+  	<control id="0x005d" device="6b018_3" taskidlist="rightscrollTaskidList" actiongrouplist="ichitaroList"  actiongroup7="ichitaro" actiongroup8="ichitaro" actiongroup="ichitaro" gestureidlist="othersGestureidList" />
+    <control id="0x00d4" taskidlist="searchTaskidList2" />
+    <control id="0x00d5" taskidlist="homeTaskidList3" />
+    <control id="0x00d6" taskidlist="menuTaskidList3" />
+    <control id="0x00d7">
+        <fn_link actiongrouplist="fn_win8NavList"  actiongroup7="winarrangement" actiongroup8="winarrangement" actiongroup="fn_virtualdesktop" gestureidlist="othersGestureidList" />
+    </control>
+  <!--control id="0x00bf" taskidlist="screencaptureList" />-->
+  <control id="0x000a" taskidlist="calculatorList" />
+  <control id="0x000e" taskidlist="emailList" />
+  <control id="0x00dd" taskidlist="selectlanguageList" />
+  <control id="0x00ed" taskidlist="trackballSensitivityTaskIdlist" >
+    <fn_link taskid="0x03" />
+  </control>
+  <control id="0x00d1" reprogrammable="0" generic="1"   />
+  <control id="0x00d2" reprogrammable="0" generic="1"   />
+  <control id="0x00d3" reprogrammable="0" generic="1"   />
+
+  <control id="0x00C7" taskidlist="brightnessDownTaskidlist"  />
+  <control id="0x00C8" taskidlist="brightnessUpTaskidlist"  />
+  <control id="0x00e0" taskidlist="taskviewTaskIdlist"  />
+  <control id="0x00e1" taskidlist="actionCenterTaskIdlist"/>
+  <control id="0x00e2" taskidlist="backlightdownTaskIdlist"/>
+  <control id="0x00e3" taskidlist="backlightupTaskIdlist"/>
+  <control id="0x00e4" taskidlist="previousTrackTaskIdlist"/>
+  <control id="0x00e5" taskidlist="playpauseTrackTaskIdlist"/>
+  <control id="0x00e6" taskidlist="nextTrackTaskIdlist"/>
+  <control id="0x00e7" taskidlist="muteTaskIdlist"/>
+  <control id="0x00e8" taskidlist="volDownTaskIdlist"/>
+  <control id="0x00e9" taskidlist="volUpTaskIdlist"/>
+  <control id="0x00ea" taskidlist="appMenuTaskIdlist"/>
+  <control id="0x0057" taskidlist="forwardTaskidList"/>
+  <control id="0x0049" taskidlist="zoomoutTaskidList"/>
+  <control id="0x0046" taskidlist="zoominTaskidList"/>
+  <control id="0x00EE" taskidlist="newtabTaskidList" />
+  <control id="0x00EF" taskidlist="fkeyTaskidList" />
+  <control id="0x00F0" taskidlist="fkeyTaskidList" />
+  <control id="0x00F1" taskidlist="fkeyTaskidList" />
+  <control id="0x00F2" taskidlist="fkeyTaskidList" />
+  <control id="0x00F3" taskidlist="fkeyTaskidList" />
+  <control id="0x00F4" taskidlist="fkeyTaskidList" />
+  <control id="0x00F5" taskidlist="fkeyTaskidList" />
+  <control id="0x00F6" taskidlist="fkeyTaskidList" />
+
+</controlids>

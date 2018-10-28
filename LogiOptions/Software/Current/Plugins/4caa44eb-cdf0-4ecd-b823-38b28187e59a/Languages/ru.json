@@ -1,0 +1,100 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "Контекстное"
+        },
+        {
+            "ID": "savefile",
+            "value": "Сохранить файл"
+        },
+        {
+            "ID": "zoom",
+            "value": "Масштаб"
+        },
+        {
+            "ID": "sheetNavigation",
+            "value": "Навигация по листам"
+        },
+        {
+            "ID": "horizontalScroll",
+            "value": "Горизонтальная прокрутка"
+        },
+        {
+            "ID": "createChart",
+            "value": "Создать диаграмму"
+        },
+        {
+            "ID": "createTable",
+            "value": "Создать таблицу"
+        },
+        {
+            "ID": "tableStyle",
+            "value": "Стиль таблицы"
+        },
+        {
+            "ID": "chartType",
+            "value": "Тип диаграммы"
+        },
+        {
+            "ID": "quickLayout",
+            "value": "Экспресс-макет"
+        },
+        {
+            "ID": "changeColor",
+            "value": "Изменить цвет"
+        },
+        {
+            "ID": "chartStyle",
+            "value": "Стиль диаграммы"
+        },
+        {
+            "ID": "pieChart",
+            "value": "Круговая диаграмма"
+        },
+        {
+            "ID": "columnChart",
+            "value": "Гистограмма"
+        },
+        {
+            "ID": "barChart",
+            "value": "Линейчатая диаграмма"
+        },
+        {
+            "ID": "areaChart",
+            "value": "Диаграмма с областями"
+        },
+        {
+            "ID": "stockChart",
+            "value": "Биржевая диаграмма"
+        },
+        {
+            "ID": "surfaceChart",
+            "value": "Поверхностная диаграмма"
+        },
+        {
+            "ID": "radarChart",
+            "value": "Лепестковая диаграмма"
+        },
+        {
+            "ID": "tableColor",
+            "value": "Цвет таблицы"
+        },
+        {
+            "ID": "xyscatterChart",
+            "value": "Точечная диаграмма"
+        },
+        {
+            "ID": "lineChart",
+            "value": "График"
+        },
+        {
+            "ID": "comboChart",
+            "value": "Комбинированная диаграмма"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Назначение функций клавишам"
+        }
+    ]
+}

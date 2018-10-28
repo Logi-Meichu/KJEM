@@ -1,0 +1,24 @@
+{
+    "LocalizedStrings": [
+          {
+              "ID": "volumeUpDown",
+              "value": "Äänenvoimakkuus"
+          },
+          {
+              "ID": "nextPrevious",
+              "value": "Edellinen / Seuraava"
+          },
+          {
+              "ID": "SeekForwardBackward",
+              "value": "Etsi"
+          },
+          {
+              "ID": "changetoolvalue",
+              "value": "Spotify-ohjaimet"
+          },
+          {
+              "ID": "playpause",
+              "value": "Toisto / tauko"
+          }
+    ]
+}

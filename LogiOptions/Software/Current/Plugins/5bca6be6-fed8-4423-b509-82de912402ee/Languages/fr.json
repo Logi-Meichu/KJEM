@@ -1,0 +1,24 @@
+{
+    "LocalizedStrings": [
+          {
+              "ID": "volumeUpDown",
+              "value": "Volume"
+          },
+          {
+              "ID": "nextPrevious",
+              "value": "Précédent/Suivant"
+          },
+          {
+              "ID": "SeekForwardBackward",
+              "value": "Rechercher"
+          },
+          {
+              "ID": "changetoolvalue",
+              "value": "Commandes Spotify"
+          },
+          {
+              "ID": "playpause",
+              "value": "Lecture/Pause"
+          }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "GUID": "ca7c0911-fbf7-4e87-9c23-25987358303b",
+    "info": {
+        "name": "Microsoft Word",
+        "publisher": "Logitech Inc.",
+        "version": "1.0",
+        "win_name": "WINWORD.EXE",
+        "mac_bundle": "Microsoft Word 2013.app",
+        "win_minimum_supported_version": "14.0.4763",
+        "win_maximum_supported_version": "2016"
+    },
+    "crown": {
+        "rotate": {
+            "default_task": "changetoolvalue",
+            "tasks": [
+                "changetoolvalue"
+            ],
+            "short_list": [
+                "changetoolvalue"
+            ]
+        },
+        "press": {
+            "default_task": "playpause",
+            "tasks": [
+                "playpause"
+            ],
+            "short_list": [
+                "playpause"
+            ]
+        }
+    }
+}

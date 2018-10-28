@@ -1,0 +1,32 @@
+{
+  "LocalizedStrings": [
+    {
+      "ID": "moveframe",
+      "value": "타임라인 내비게이션"
+    },
+    {
+      "ID": "jogwheel",
+      "value": "조그휠"
+    },
+    {
+      "ID": "changetoolvalue",
+      "value": "상황별"
+    },
+    {
+      "ID": "undoRedo",
+      "value": "실행 취소/다시 실행"
+    },
+    {
+      "ID": "zoom",
+      "value": "돋보기"
+    },
+    {
+      "ID": "keystrokeassignment",
+      "value": "입력할 키 지정"
+    },
+    {
+      "ID": "playpause",
+      "value": "재생/일시 정지"
+    }
+  ]
+}

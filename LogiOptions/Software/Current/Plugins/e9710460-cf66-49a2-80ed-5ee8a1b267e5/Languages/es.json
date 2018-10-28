@@ -1,0 +1,70 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "Contextual"
+        },
+		{
+            "ID": "customactions",
+            "value": "Acciones personalizadas"
+        },
+        {
+            "ID": "Zoom",
+            "value": "Zoom"
+        },
+        {
+            "ID": "Temperature",
+            "value": "Temperatura"
+        },
+        {
+            "ID": "Tint",
+            "value": "Matiz"
+        },
+		{
+            "ID": "Exposure",
+            "value": "Exposición"
+        },
+		{
+            "ID": "Contrast",
+            "value": "Contraste"
+        },
+        {
+            "ID": "Highlights",
+            "value": "Altas luces"
+        },
+        {
+            "ID": "Shadows",
+            "value": "Sombras"
+        },
+        {
+            "ID": "Whites",
+            "value": "Blancos"
+        },
+        {
+            "ID": "Blacks",
+            "value": "Negros"
+        },
+		{
+            "ID": "Clarity",
+            "value": "Claridad"
+        },
+        {
+            "ID": "Vibrance",
+            "value": "Intensidad"
+        },
+        {
+            "ID": "Saturation",
+            "value": "Saturación"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Asignación de teclas"
+        },
+        {
+            "ID": "playpause",
+            "value": "Reproducir/Pausa"
+        }
+    ]
+}
+
+

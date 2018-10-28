@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringDictionary version="1.2">
+  <Strings>
+    <String key="WindowName">LogiOptions</String>
+    <String key="ApplicationName">Options</String>
+    <String key="MoreDetails">更多設定</String>
+    <String key="FnInversion">使用 F1 - F12 作為標準功能鍵</String>
+    <String key="KeyboardWinMode">始終保持為 Windows 鍵盤配置</String>
+    <String key="Backlighting">停用背光</String>
+    <String key="Customize">自訂</String>
+    <String key="CustomizeGestures">自訂手勢</String>
+    <String key="GestureClickDetail">按一下手勢按鈕。</String>
+    <String key="GestureMotionDetail">移動滑鼠時按住手勢按鈕不放。</String>
+    <String key="GestureMotionDetail_Trackball">移動軌跡球時按住手勢按鈕不放。</String>
+    <!--<String key="GestureButtonLearnMore">Learn more about gesture button</String>-->
+    <String key="LearnMore">深入瞭解</String> 
+    <String key="LaunchSetpoint">啟動 SetPoint</String>
+    <String key="DownloadSetpoint">下載 SetPoint</String>
+    <String key="CrosslinkDevicesReminder">不再顯示此訊息</String>
+    <String key="CrosslinkDevicesDialog">%BrandName% Options 不支援連線到您系統的所有 %BrandName% 裝置。  請使用 %BrandName% SetPoint 軟體以自訂下列裝置的設定：</String>
+    <String key="CommaSeparator">, </String>
+    <String key="AndSeparator"> 與 </String>
+
+    <String key="StringFragments:Device">裝置</String>
+
+    <String key="DeviceList:NoDevices">未偵測到裝置</String>
+    <String key="DeviceList:NoDeviceDesc">請確認您的裝置已連線且電源已開啟。</String>
+    <String key="DeviceList:Removed">已移除</String>
+    <String key="DeviceList:Enumuerate">正在掃描...</String>
+    <String key="DeviceList:Devices">裝置</String>
+
+    <String key="Video:NoVideo">未安裝視訊</String>
+    <String key="Video:VideoFailDialog">目前無法下載此裝置的視訊，請稍後再試一次。</String>
+
+    <String key="Tooltip:BatteryUnknown">未知</String>
+    <String key="Tooltip:BatteryCritical">嚴重不足</String>
+    <String key="Tooltip:BatteryLow">偏低</String>
+    <String key="Tooltip:BatteryGood">良好</String>
+    <String key="Tooltip:BatteryFull">飽滿</String>
+    <String key="Tooltip:BatteryCharging">正在充電</String>
+    <String key="Tooltip:BatteryError">充電時發生錯誤</String>
+    <String key="Tooltip:BatteryComplete">充電完成</String>
+    <String key="Tooltip:Connected">已連線</String>
+    <String key="Tooltip:NotConnected">未連線</String>
+
+    <!-- Device Settings Tabs -->
+    <String key="DeviceSettings:Keyboard">鍵盤</String>
+    <String key="DeviceSettings:Mouse">滑鼠</String>
+    <String key="DeviceSettings:Trackball">軌跡球</String>
+    <String key="DeviceSettings:PointScroll">指向與捲動</String>
+    <String key="DeviceSettings:Gestures">手勢</String>
+    <String key="DeviceSettings:Illumination">照明</String>
+    <String key="DeviceSettings:FunctionKeys">功能鍵</String>
+    <String key="DeviceSettings:ShortcutKeys">快捷鍵</String>
+    <String key="DeviceSettings:EasySwitch">Easy-Switch</String>
+    <String key="DeviceSettings:Crown">多功能轉鈕</String>
+    <String key="DeviceSettings:Flow">Flow</String>
+    <String key="DeviceSettings:Beta">測試</String>
+
+    <String key="DeviceSettings:GestureById0x2e">拇指輪靈敏度</String>
+
+    <String key="Buttons:MinimizeToolTip">最小化</String>
+    <String key="Buttons:CloseToolTip">關閉</String>
+    <String key="Buttons:More">更多</String>
+    <String key="Buttons:Less">更少</String>
+    <String key="Buttons:RestoreDefaults">復原到預設值</String>
+    <String key="Buttons:Restore">還原</String>
+    <String key="Buttons:YourDevices">您的裝置</String>
+    <String key="Buttons:AddDevice">新增裝置</String>
+    <String key="Buttons:Continue">繼續</String>
+    <String key="Buttons:TryAgain">重試</String>
+    <String key="Buttons:Cancel">取消</String>
+    <String key="Buttons:Skip">跳過</String>
+    <String key="Buttons:Remind">稍後安裝</String>
+    <String key="Buttons:Okay">確定</String>
+    <String key="Buttons:Ok">確定</String>
+    <String key="Buttons:FirmwareUpdate">檢查韌體更新</String>
+    <String key="Buttons:SoftwareUpdate">檢查更新</String>
+    <String key="Buttons:LaunchUnifying">開啟 Unifying 軟體</String>
+    <String key="Buttons:FileBrowse">瀏覽...</String>
+    <String key="Buttons:VideoDownload">下載視訊</String>
+    <String key="Buttons:PairAnother">配對另一個裝置</String>
+    <String key="Buttons:Done">完成</String>    
+    <String key="Buttons:Enable">啟用</String><!--NEW AFTER 4/10/2017-->
+    <String key="Buttons:Disable">停用</String>
+    <String key="Buttons:Retry">重試</String>
+    <String key="Buttons:MoreSettings">更多選項</String><!--NEW 7/24/2017-->
+    
+    <String key="TaskSelect:RemoveHost">移除</String>
+    <String key="TaskSelect:Keystroke">輸入按鍵</String>
+    <String key="TaskSelect:FileLaunch">檔案名稱</String>
+    <String key="TaskSelect:FolderLaunch">資料夾名稱</String>
+    <String key="TaskSelect:WebLaunch">網頁地址</String>
+    <String key="TaskSelect:HostSwitch">Easy-Switch 控制</String>
+    <String key="TaskSelect:DpiShift">設定滑鼠靈敏度</String>
+    <String key="TaskSelect:DpiShiftTrackball">設定軌跡球靈敏度</String>
+    <String key="TaskSelect:HorizontalScrollSpeed">設定水平捲動速度</String>
+    <String key="TaskSelect:KeystrokeBlank">(按一下這裡)</String>
+    <String key="TaskSelect:FileLaunchBlank">(輸入檔案名稱)</String>
+    <String key="TaskSelect:FolderLaunchBlank">(輸入資料夾名稱)</String>
+    <String key="TaskSelect:WebLaunchBlank">(輸入 URL)</String>
+    <String key="TaskSelect:KeystrokeDesc">在上方的白色方塊中按一下，然後按下有效的按鍵組合以建立快捷鍵。</String>
+    <String key="TaskSelect:FileLaunchDesc">按一下「瀏覽」按鈕以選擇檔案，或是在上方的白色方塊中鍵入完整的檔案路徑。</String>
+    <String key="TaskSelect:FolderLaunchDesc">按一下「瀏覽」按鈕以選擇資料夾，或是在上方的白色方塊中鍵入完整的資料夾路徑。</String>
+    <String key="TaskSelect:WebLaunchDesc">在上方的白色方塊中輸入所要網站的 URL。</String>
+    <String key="TaskSelect:HostSwitchDesc">按下按鈕可切換到下一個可用的主機。</String>
+    <String key="TaskSelect:DpiShiftDesc">按下按鈕可在主要與自訂游標速度間切換。</String>
+    <String key="TaskSelect:HorizontalScrollSpeedDesc">使用此滑桿可調整水平捲動速度設定。</String>
+    <String key="TaskSelect:KeystrokeWaiting">(按下組合鍵)</String>
+    <String key="TaskSelect:DpiShiftMasterChannel">主要</String>
+    <String key="TaskSelect:DpiShiftCustom1Channel">自訂</String>
+    <String key="TaskSelect:HostSwitchNotAvail">裝置不可用</String>
+    <String key="TaskSelect:HostSwitchInstruction">最高可在 3 個主機間切換。</String>
+    <String key="TaskSelect:HostSwitchLegend1">目前的主機</String>
+    <String key="TaskSelect:HostSwitchLegend2">可通話</String>
+    <String key="TaskSelect:HostSwitchLegend3">不可用</String>
+    <String key="TaskSelect:ThumbwheelScroll">拇指輪捲動</String>
+    <String key="TaskSelect:InvertHorzScroll">反轉水平捲動方向</String>
+    <String key="TaskSelect:TiltScrollSpeed">設定水平捲動速度</String>
+    <String key="TaskSelect:AdvancedClick">設定進階點按</String>
+    <String key="TaskSelect:ModifierKeys">選擇輔助按鍵</String>
+    <String key="TaskSelect:ModKeyAlt">Alt</String>
+    <String key="TaskSelect:ModKeyCtl">Ctrl</String>
+    <String key="TaskSelect:ModKeyShf">Shift</String>
+    <String key="TaskSelect:ModKeyWin">Win</String>
+    <String key="TaskSelect:ModKeyJnr"> + </String>
+    <String key="TaskSelect:SelectClick">選擇點按類型</String>
+    <String key="TaskSelect:SingleClick">點按</String>
+    <String key="TaskSelect:DoubleClick">連按兩下</String>
+    <String key="TaskSelect:TripleClick">連按三下</String>
+    <String key="TaskSelect:RightClick">按滑鼠右鍵</String>
+    <String key="TaskSelect:MiddleClick">按下中間鍵</String>
+    <String key="TaskSelect:SelectTools">選擇開發工具</String>
+    <String key="TaskSelect:SelectToolsHint">視您的螢幕解析度而定，您也許不能查看到疊層中所有的可用工具。</String>
+
+    <String key="More:ThisDevice">此裝置</String>
+    <String key="More:Connectivity">連線</String>
+    <String key="More:Software">軟體</String>
+    <String key="More:About">關於</String>
+    <String key="More:NotifyCheckbox">自動檢查更新</String>
+    <String key="More:Notifications">通知</String>
+    <String key="More:NotificationText">發生下列狀況時通知我。 (通知會短暫出現在您的螢幕上。)</String>
+    <String key="More:NotificationsText">當有下列情況之一發生時通知我。 (通知會短暫出現在您的螢幕上。)</String>
+    <String key="More:NotifyBattLow">裝置電池電量過低</String>
+    <String key="More:NotifyCapsLock">按下 Caps Lock 鍵</String>
+    <String key="More:NotifyScrollLock">按下 Scroll Lock 鍵</String>
+    <String key="More:NotifyLockKey">按下鎖定鍵</String>
+    <String key="More:DisabledKeys">停用的按鍵</String>
+    <String key="More:DisabledKeysText">檢查您要停用的按鍵。</String>
+    <String key="More:KeysCapsLock">Caps Lock</String>
+    <String key="More:KeysScrollLock">Scroll Lock</String>
+    <String key="More:KeysInsert">插入</String>
+    <String key="More:KeysWindows">Windows/開始鍵</String>
+    <String key="More:KeysNumLock">Num Lock</String>
+    <String key="More:Unifying">Unifying</String>
+    <String key="More:UnifyingText">%BrandName% Unifying 接收器已插入到此電腦上。 您最多可以將六個相容的無線滑鼠、鍵盤或其他 Unifying 裝置與一個 %BrandName% Unifying 接收器進行配對。</String>
+    <String key="More:LearnMore">深入瞭解</String>
+    <String key="More:OpenUnifying">開啟 Unifying 軟體</String>
+    <String key="More:Bluetooth">藍牙</String>
+    <String key="More:SoftwareVersion">軟體版本： </String>
+    <String key="More:FirmwareVersion">韌體版本： </String>
+    <String key="More:CopyTrade">© 2018 %BrandName%。 %BrandName%、Logi 和其他 %BrandName% 標誌均屬 %BrandName% 所有，並或已註冊。 其他商標仍由各該商標所有人擁有其權利。</String>
+    <String key="More:Support">支援</String>
+    <String key="More:SupportText">請造訪我們的支援網站以取得協助，或是尋找說明文件、下載項目與存取使用者論壇。</String>
+    <String key="More:DeveloperMode">開發者模式</String><!--NEW 1/11/2018-->
+    <String key="More:DeveloperModeText">讓您可以安裝與使用未簽署的第三方應用程式設定檔，以供開發用途使用。 深入瞭解 </String><!--NEW 1/11/2018-->
+    <String key="More:DeveloperModeLink">Options SDK</String><!--NEW 1/11/2018-->
+    <String key="More:DeveloperModeEnabled">開發者模式已啟用</String><!--NEW 1/11/2018-->
+
+    <String key="UpdateStatus:Checking">正在檢查更新...</String>
+    <String key="UpdateStatus:NoUpdateAvailable">軟體為最新狀態</String>
+    <String key="UpdateStatus:DownloadInProgress">正在下載更新...</String>
+    <String key="UpdateStatus:DownloadSuccess">下載完成</String>
+    <String key="UpdateStatus:DownloadFailure">無法下載</String>
+    <String key="UpdateStatus:InstallInProgress">正在安裝更新...</String>
+    <String key="UpdateStatus:InstallSuccess">軟體為最新狀態</String>
+    <String key="UpdateStatus:InstallFailure">無法安裝</String>
+    <String key="UpdateStatus:NoInternetConnection">沒有偵測到網際網路連線，請稍後再試一次。</String>
+
+    <String key="Modal:RestoreDefaultsWarning">這裝置的設定會恢復為其預設值。 適用於所有裝置的通用設定無法復原。 選擇「繼續」可恢復預設值，或是選擇「取消」以保持目前的設定。</String>
+    <String key="Modal:InstallUpdates">更新已準備就緒可以安裝。 選擇「繼續」可立即安裝更新，選擇「稍後安裝」會在下次開啟此應用程式時收到提醒，或是選擇「跳過」略過此更新。</String>
+    <String key="Modal:InteractiveUpdates">更新已準備就緒可以安裝。 選擇「繼續」可立即安裝更新，或是選擇「稍後安裝」以在下次開啟此應用程式時收到提醒。</String>
+    <String key="Modal:RelaunchUI">%BrandName% Options 已更新且會自動重新啟動以啟用新功能。</String>
+    <String key="Modal:ClearHostChannel">這會從 Easy-Switch 功能中暫時移除選取的主機。 按一下 %%Buttons:Continue%% 以繼續或按一下 %%Buttons:Cancel%% 以中止。</String>
+    <String key="Modal:UnknownFeatures">%BrandName% Options 在一或多個連線的裝置上找到不明的功能。 為了對其提供正確的支援，請確認 %BrandName% Options 是保持最新版本狀態。</String>
+    <String key="Modal:ConfirmEnableDeveloperMode">透過啟用開發者模式，也可安裝與使用未經 %BrandName% 認可與簽署的應用程式設定檔。 這個動作會影響您裝置和應用程式的行為。 如果您遭遇到問題，請在與我們的支援部門聯絡之前，先停用開發者模式。 
+
+注意：會自動開啟分析。</String><!--NEW 1/11/2018-->
+    <String key="Modal:ConfirmDisableDeveloperMode">透過停用開發者模式，將不能安裝未經 %BrandName% 認可與簽署的新應用程式設定檔。 會從應用程式設定檔清單中，移除任何已安裝的未簽署應用程式設定檔。</String><!--NEW 1/11/2018-->
+    <String key="Modal:OnboardingSelectionError">應用程式只可以有一個指定給它們的設定檔，請從清單中選擇一個設定檔。 如果您已經有已啟用的設定檔，請確定先從「應用程式特定設定」中移除該應用程式設定檔，然後再次嘗試安裝該設定檔。</String><!--NEW 1/11/2018-->
+
+    <String key="DFUState:DFU_WELCOME_PAGE_STEP0">您的 ==DeviceName== 有可用的韌體更新。 在此程序期間您的 ==DeviceName== 可能會無法使用。 您要繼續嗎？</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_PAIRED_STEP1">正在檢查已配對的裝置...</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_PAIRED_STEP1_WAITING">您的 ==DeviceName== 似乎並未完成配對，請立即配對或稍後再試一次。</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_ACTIVE_STEP2">正在確認裝置目前是否可用...</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_ACTIVE_STEP2_WAITING">無法偵測到您的 ==DeviceName==。 請確認其已開啟電源並運作中。</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_BATTERY_OK_STEP3">正在檢查電池充電狀態...</String>
+    <String key="DFUState:DFU_PREREQ_FW_VERSION_CHECK_STEP3_PLUS">正在檢查韌體版本...</String>
+    <String key="DFUState:DFU_ENTER_DFU_MODE_STEP4">正在使裝置進入韌體更新模式...</String>
+    <String key="DFUState:DFU_ENTER_DFU_MODE_STEP4_WAITING">若要安裝更新，請關閉您 ==DeviceName== 的電源然後再開啟電源。 當更新程序開始之後，請勿關閉裝置電源或中斷連線，直到更新完成為止。</String>
+    <String key="DFUState:DFU_SEND_FIRST_DFU_PACKET_STEP5">正在初始化韌體更新程序...</String>
+    <String key="DFUState:DFU_PACKET_STEP5_RESPONSE_WAITING">正在更新您 ==DeviceName== 的韌體</String>
+    <String key="DFUState:DFU_ABORT_INTERNAL_ERROR">更新程序期間發生錯誤。 請再次嘗試安裝更新。</String>
+    <String key="DFUState:DFU_ABORT_LOW_BATTERY_ERROR">無法安裝更新，因為您 ==DeviceName== 的電池電量太低。 請對電池充電或是更換電池，然後再次嘗試安裝更新。</String>
+    <String key="DFUState:DFU_ABORT_START_FAILED_ERROR">更新程序期間發生錯誤。 請再次嘗試安裝更新。</String>
+    <String key="DFUState:DFU_SUCCESS">您 ==DeviceName== 的韌體已成功更新！</String>
+    <String key="DFUState:DFU_ABORT">不明錯誤導致韌體更新中止。 請稍後再試一次。</String>
+    <String key="DFUState:DFU_DONE">您的 ==DeviceName== 現在已準備就緒可以使用。</String>
+    <String key="DFUState:DFU_ABORT_FW_VERSION_UPTO_DATE">您的裝置韌體已是最新狀態。</String>
+    <String key="DFUState:DFU_BLE_MODE_NOT_SUPPORTED">您的 ==DeviceName== 在與藍牙配對期間無法更新。 請確認其已與 Unifying 接收器配對然後再試一次。 謝謝。</String>
+    <String key="DFUState:DFU_EXIT_FROM_WELCOME_PAGE"/>
+    <String key="DFUState:Unknown">到達不明的 DFU 狀態：</String>
+
+    <String key="GenericFeatures:ProgramControls">可自訂控制鍵</String>
+    <String key="GenericFeatures:UnsupportedFeatures">不支援的功能</String>
+
+    <String key="MouseFeatures:MiddleButton">中間按鈕</String>
+    <String key="MouseFeatures:PointerSpeed">指標速度</String>
+    <String key="MouseFeatures:ScrollDirection">滾輪方向</String>
+    <String key="MouseFeatures:SmoothScroll">平滑捲動</String>
+    <String key="MouseFeatures:SmartShift">SmartShift</String>
+    <String key="MouseFeatures:SmartShiftThreshold">SmartShift 靈敏度</String>
+    <String key="MouseFeatures:DefaultWheelMode">固定滾輪模式</String>
+    <String key="MouseFeatures:SwapLeftRight">切換左/右按鈕</String>
+    <String key="MouseFeatures:SmartShiftHintOff">固定模式未啟用。 (停用 SmartShift 並確認模式切換功能並未指定給任何按鈕。)</String>
+    <String key="MouseFeatures:SmartShiftHintOn">固定模式已啟用。 </String>
+    <String key="MouseFeatures:Enabled">已啟用</String>
+    <String key="MouseFeatures:Disabled">已停用</String>
+    <String key="MouseFeatures:Traditional">傳統</String>
+    <String key="MouseFeatures:Inverted">已反轉</String>
+    <String key="MouseFeatures:Default">預設值</String>
+    <String key="MouseFeatures:Ratchet">分段</String>
+    <String key="MouseFeatures:Freespin">自由轉動</String>
+    <String key="MouseFeatures:HorScroll">拇指輪方向</String>
+    <String key="MouseFeatures:NotAssigned">未指定</String>
+    <String key="MouseFeatures:Backlight">在經過下列時間後關閉照明</String>
+    <String key="MouseFeatures:10Sec">10 秒</String>
+    <String key="MouseFeatures:20Sec">20 秒</String>
+    <String key="MouseFeatures:30Sec">30 秒</String>
+    <String key="MouseFeatures:1Min">1 分鐘</String>
+    <String key="MouseFeatures:5Min">5 分鐘</String>
+    <String key="MouseFeatures:10Min">10 分鐘</String>
+    <String key="MouseFeatures:Illumination">啟用照明</String>
+    <String key="MouseFeatures:HandDetection">使用手部偵測</String>
+    <String key="MouseFeatures:StartTyping">開始打字時</String>
+
+    <String key="AddDevice">新增裝置</String>
+    <String key="AddDevice:UnifyingHeadline">設定 Unifying 裝置</String>
+    <String key="AddDevice:WirelessHeadline">設定無線裝置</String>
+    <String key="AddDevice:UnifyingDescription">一個 %BrandName% Unifying 接收器最多可與六個相容的無線滑鼠與鍵盤配對。</String>
+    <String key="AddDevice:WirelessDescription">最多可將六個相容的無線滑鼠與鍵盤與一個 %BrandName% Unifying 接收器配對，或將一個無線滑鼠或鍵盤與 %BrandName% 超小型接收器配對。</String>
+    <String key="AddDevice:LtdOnlyDescription">配對一個無線滑鼠或鍵盤。</String>
+    <String key="AddDevice:UnifyingButton">新增 Unifying 裝置</String>
+    <String key="AddDevice:WirelessButton">新增無線裝置</String>
+    <String key="AddDevice:AdvancedButton">進階 Unifying 應用程式</String>
+    <String key="AddDevice:NoUnifyingHeadline">沒有 Unifying 接收器</String>
+    <String key="AddDevice:NoUnifyingDescription">若要新增裝置，請將 Unifying 接收器插入到電腦上，然後等待幾秒鐘使「新增 Unifying 裝置」按鈕成為可用狀態。</String>
+    <String key="AddDevice:BluetoothHeadline">設定藍牙裝置</String>
+    <String key="AddDevice:BluetoothDescription">在 Windows 中使用配對公用程式新增藍牙裝置。</String>
+    <String key="AddDevice:BluetoothButton">新增藍牙裝置</String>
+    <String key="AddDevice:NoBluetoothHeadline">沒有藍牙接收器</String>
+    <String key="AddDevice:BluetoothOffHeadline">藍牙接收器關閉</String>
+    <String key="AddDevice:DevicesDetected">已偵測到的裝置</String>
+    <String key="AddDevice:NoDevicesDetected">未偵測到裝置</String>
+    <String key="AddDevice:BluetoothSmartCapable">您的個人電腦支援智慧藍牙裝置。</String>
+    <String key="AddDevice:BluetoothSmartIncapable">您的個人電腦不支援智慧藍牙裝置。</String>
+
+    <!-- DJCU components -->
+    <String key="DJCU:ConnectTitle">請重新啟動您要連線到電腦的裝置</String>
+    <String key="DJCU:Connect1">1. 找到關閉-開啟滑桿 (如下圖所示)。</String>
+    <String key="DJCU:Connect2">2. 將滑桿移到關閉位置，然後移到開啟位置。 (之後請等待裝置完成配對)。</String>
+    <String key="DJCU:Connect3">(提示：滑桿是位於您裝置的右上角或右上角下方。)</String>
+    <String key="DJCU:Connect4">* 某些 %BrandName% 裝置與此無線接收器不相容。</String>
+
+    <String key="DJCU:TimeoutTitle">抱歉，配對失敗</String>
+    <String key="DJCU:Timeout1">目前我們無法與您的裝置配對。</String>
+    <String key="DJCU:Timeout2">請按一下 「%%Buttons:TryAgain%%」以重新啟動配對程序。</String>
+    <String key="DJCU:Timeout3">或如果您不想使用此裝置，請按一下「%%Buttons:Cancel%%」。</String>
+    <String key="DJCU:Timeout4">按一下這裡以取得疑難排解資訊。</String>
+
+    <String key="DJCU:ReceiversFullTitle">所有無線接收器可配對的裝置已滿</String>
+    <String key="DJCU:ReceiversFull1">目前的接受器中，沒有可用來連線到其他 Unifying 或無線裝置的空間。</String>
+    <String key="DJCU:ReceiversFull2">若要連線到其他裝置，您必須插入新的 Unifying 接收器。</String>
+
+    <String key="DJCU:MultiReceiverTitle">發現有多個無線接收器插入。</String>
+    <String key="DJCU:MultiReceiver1">如果您要與特定接收器配對，除了您想要用來配對的接收器以外，請取下您電腦上的所有其他接收器。</String>
+    <String key="DJCU:MultiReceiver2">如果您是想要讓我們挑選任意接收器以進行配對，請按一下「%%Buttons:Continue%%」。</String>
+
+    <String key="DJCU:OtpErrorTitle">裝置或接收器失效</String>
+    <String key="DJCU:OtpError1">您要進行配對的裝置或接收器已配對多次，無法再進行配對。</String>
+
+    <String key="DJCU:IncompatibleDeviceTitle">裝置不相容</String>
+    <String key="DJCU:IncompatibleDevice1">我們無法與您的裝置配對。 此裝置與接收器不相容。 請使用隨同您裝置提供的接收器。</String>
+
+    <String key="DJCU:PairSuccessTitle">配對已完成</String>
+    <String key="DJCU:PairSuccess1">您的 %DeviceName% 已成功完成配對。</String>
+
+    <!-- Easy-Switch HostInfo Types (feature 0x1814) -->
+    <!-- public enum HostInfoHostTypes { Unset = 0, Unknown = 1, Windows = 2, Win7 = 3, Win8 = 4, Win10 = 5, MacOS = 6, Mac107 = 7, Mac108 = 8, Mac109 = 9 } -->
+    <String key="HostInfo:Unset">沒有主機</String>
+    <String key="HostInfo:Unknown">未知的主機類型</String>
+    <String key="HostInfo:Windows">Windows</String>
+    <String key="HostInfo:Win7">Windows 7</String>
+    <String key="HostInfo:Win8">Windows 8</String>
+    <String key="HostInfo:Win10">Windows 10</String>
+    <String key="HostInfo:MacOS">Mac OS</String>
+    <String key="HostInfo:Mac107">Mac OSX 10.7</String>
+    <String key="HostInfo:Mac108">Mac OSX 10.8</String>
+    <String key="HostInfo:Mac109">Mac OSX 10.9</String>
+
+    <!-- MP HostInfo Types (features 0x4531 and 0x1815) -->
+    <!-- public enum Feature4351Platforms { Unknown = 0, Windows = 1, WinEmb = 2, Linux = 3, Chrome = 4, Android = 5, MacOS = 6, IOS = 7 } -->
+    <String key="MPHostInfo:None">未配對</String>
+    <String key="MPHostInfo:Unknown">未知</String>
+    <String key="MPHostInfo:Windows">Windows</String>
+    <String key="MPHostInfo:WinEmb">Windows IoT</String>
+    <String key="MPHostInfo:Linux">Linux</String>
+    <String key="MPHostInfo:Chrome">Chrome</String>
+    <String key="MPHostInfo:Android">Android</String>
+    <String key="MPHostInfo:MacOS">Mac OS</String>
+    <String key="MPHostInfo:IOS">iOS</String>
+
+    <!-- App profiles Strings -->
+    <String key="AppProfAddApp">新增應用程式</String>
+    <!--<String key="AppProfAddAppTT">Click to add a new application profile for this device</String>
+     <String key="AppProfBrowseTT">Click to add a program manually using a file browser</String>-->
+    <String key="AppProfDeleteWarning">這會永遠移除 ==ApplicationName== 的自訂設定。 選擇「繼續」以移除，或選擇「取消」以保持您的自訂設定。</String>
+    <String key="AppProfDefaultSettings">所有應用程式</String>
+    <!--<String key="AppProfDefaultSettingsTT">Click to update All Applications settings</String>-->
+    <String key="AppProfRestoreProfileWarning">==ApplicationName== 的設定將會還原為「所有應用程式」設定。 選擇「繼續」以還原，或選擇「取消」以保持您的自訂設定。</String>
+    <String key="AppProfRestoreProfileWarningCraft">「==ApplicationName==」的設定將會恢復為預設的 Craft 設定檔設定。 選擇「繼續」以還原，或選擇「取消」以保持您的自訂設定。</String><!--NEW-->
+    <String key="AppProfToggleText">應用程式特定設定</String>
+    <String key="AppProfDetailHeading">針對特定應用程式建立自訂設定</String>
+    <String key="AppProfDetailDescription">透過「應用程式自訂設定」，您可以針對您喜愛的應用程式自訂按鈕與動作。 您目前的「所有應用程式」設定不會受到影響，且您可以隨時啟用或停用此功能，而不會失去您的自訂設定。</String>
+    <String key="AppProfOther">其他...</String>
+    <String key="AppProfAddAppHeader">選擇一個應用程式</String>
+
+    <String key="Flow:ConfigurationError">%BrandName% Flow 組態檔案錯誤，請開啟/關閉滑鼠電源，然後重新啟動 %BrandName% Options。</String>
+    <String key="Flow:LearnMore">深入瞭解</String>
+    <String key="Flow:MoreOptions">更多選項</String>
+    <String key="Flow:ManualSetUp">手動設定</String>
+    <String key="Flow:LinkKeyboard">連結鍵盤</String>
+    <String key="Flow:CopyPaste">複製與貼上</String>
+    <String key="Flow:ScreenCorners">螢幕角落</String>
+    <!--<String key="Flow:CannotFlow">Cannot Flow</String>
+    <String key="Flow:CanFlow">Can Flow</String>-->
+    <String key="Flow:SwitchBetweenComputers">在電腦間切換</String>
+    <String key="Flow:HoldCtrlAndMove">按住 Ctrl 鍵並移動到邊緣</String>
+    <String key="Flow:MoveToEdge">移動到邊緣</String>
+
+    <String key="Flow:SettingUpFlowHeader">正在設定 %BrandName% Flow...</String>
+    <String key="Flow:SettingUpFlowSearching">正在搜尋電腦</String>
+    <String key="Flow:SettingUpFlowFound">已找到電腦</String>
+    <String key="Flow:SettingUpFlow">正在設定電腦</String>
+    <String key="Flow:SettingUpFlowNote">此程序可能需花多達一分鐘時間</String>
+    <String key="Flow:SettingUpFlowManual">輸入其他電腦名稱或 IP 位址</String>
+    <String key="Flow:SettingUpFlowSuccess">%BrandName% Flow 已設定完成可以使用。</String>
+    <String key="Flow:SettingUpFlowManualFailed">找不到或無法建立與其他電腦的連線。 請確認：
+ - %BrandName% Options 已安裝在其他電腦上
+ - 您的滑鼠已和您的電腦配對
+ - 您的電腦是在相同網路上
+請確認上述各項，然後嘗試從您的其他電腦上啟用 Flow 功能。</String> 
+    <String key="Flow:SettingUpFlowOtherMachine">我已嘗試在其他電腦上啟用 Flow 功能。</String>
+      <String key="Flow:ShowNotificationIcon">顯示工作列圖示</String>
+    <String key="Flow:RemoveFlowHost">您將要移除此電腦，且除非將其再次加入，否則將不能透過 %BrandName% Flow 使用該電腦。 選擇「繼續」以移除，或選擇「取消」以保留。</String>
+    <String key="Flow:RestoreFlowDefaults">%BrandName% Flow 設定已復原。 您將無法在此電腦上使用 Flow，除非您再次將其啟用，或從另一部啟用 Flow 的電腦將其加入。 選擇「繼續」以還原，或選擇「取消」以保留目前的設定。</String>
+    <String key="Flow:FeedbackButton">回饋</String>
+    <String key="Flow:FeedbackFormHint">請在這裡輸入您的回饋...</String>
+
+    <String key="Flow:WelcomeTitle">歡迎使用 %BRANDNAME% FLOW</String>
+    <String key="Flow:WelcomeDescription1">透過將游標移動到螢幕邊緣，順暢地在電腦間切換，並在電腦之間快速複製貼上文字、影像和檔案。</String>
+    <String key="Flow:WelcomeHowToSetup">設定方式</String>
+    <String key="Flow:WelcomeEnabledFlow">啟用 FLOW</String>
+
+      <String key="Flow:WelcomeTitlePart1">請記得告訴我們您對下列軟體的使用體驗： </String>
+    <String key="Flow:feedback">回饋</String>
+    <String key="Flow:WelcomeTitlePart2"> 按鈕</String>
+    <String key="Flow:Enable">啟用 Flow</String>
+    <String key="Flow:LogitechFlow">%BrandName% Flow</String>
+    <String key="Flow:TutorialSlide1">將您的滑鼠與電腦配對。</String>
+    <String key="Flow:TutorialSlide2">確認您的電腦是在相同網路上。</String>
+    <String key="Flow:TutorialSlide3">下載並在您的電腦上安裝 %BrandName% Options。</String>
+
+    <String key="Flow:TutorialSlide4">就是這樣！ 您應該準備好可以使用 %BrandName% Flow 了。</String>
+    
+    <String key="Flow:DiscoveryFailedUnableToEstablish">請在其他電腦上啟用 %BRANDNAME% FLOW 功能</String>
+    <String key="Flow:DiscoveryFailedFollowTheseSteps1">%BrandName% Flow 無法在網路上自動找到其他電腦。</String>
+    <String key="Flow:DiscoveryFailedFollowTheseSteps2">請確認您有網際網路連線，且已遵循完成下列步驟。</String>
+    <String key="Flow:DiscoveryFailed:DownloadAndInstall">下載並安裝最新版本的 %BRANDNAME% OPTIONS</String>
+    <String key="Flow:DiscoveryFailed:Pair">將您的滑鼠與其他電腦配對</String>
+    <String key="Flow:DiscoveryFailed:ConnectSameNetwork">將您的電腦都連線到相同網路</String>
+    <String key="Flow:DiscoveryFailed:EnabledOnAll">在所有電腦上啟用 %BRANDNAME% FLOW 功能</String>
+    <String key="Flow:DiscoveryFailed:TroubleshootingLink">疑難排解</String>
+    <String key="Flow:DiscoverySucceeded:Success">成功</String>
+    <String key="Flow:DiscoverySucceeded:Continue">繼續</String>
+    <String key="Buttons:CancelALLCAPS">取消</String>
+
+    <!--Ichitaro-->
+    <String key="Ichitaro:AppName">Ichitaro2017</String>
+    <!--End Ichitaro-->
+
+    <!--Duolink-->
+    <String key="Duolink:ToggleDefault">預設值</String>
+    <String key="Duolink:ToggleFn">DUOLINK</String> <!--MODIFIED 10/10/2017-->
+    <String key="Duolink:ArrowHover">Fn + 手勢</String>
+    <String key="Duolink:DeviceListSelectInfo">鍵盤上的 Fn 鍵讓您可以擴充您羅技滑鼠的功能。 按一下您要設定的滑鼠。</String>
+    <String key="Duolink:TutorialText">DuoLink 讓您的滑鼠按鍵可以在按住 *Fn* 鍵時擁有不同的動作組合。 您也可以在按下 *Fn* 鍵時移動滑鼠來執行不同的手勢。</String>
+    <String key="Duolink:TutorialFn">Fn</String>
+    <String key="Duolink:FnGestureMontionDetail">按住鍵盤上的 Fn 鍵，同時移動滑鼠</String>
+    <String key="Duolink:NoDevicesAddDevices">找不到 Duolink 裝置。 按一下這裡以新增。</String>
+    <!--End Duolink-->
+    
+    <!--Analytics-->
+    <String key="Analytics:HelpImprove">透過自動傳送匿名診斷與使用資料，協助 %BrandName% 改進其產品與服務。 深入瞭解 %BrandName% 的</String>
+    <String key="Analytics:PrivacyPolicy"> 隱私政策</String>
+    <String key="Analytics:HelpImproveCheckBox">自動協助 %BrandName% 改進其產品與服務</String>
+    <String key="Analytics:Analytics">分析</String>
+
+    <String key="Device:Unknown">未知的 %BrandName% 裝置</String>
+  
+    <!--Craft-->
+    <String key="Craft:Turn">轉動</String>
+    <String key="Craft:Press">按下</String>
+    <String key="Craft:PressAndTurn">按下並轉動</String>
+    <String key="Craft:NameYourFunction">為您的自訂功能命名</String>
+    <String key="Craft:ExUndoRedo">例如：復原 / 重做</String>
+    <String key="Craft:TurnRight">右轉</String>
+    <String key="Craft:TurnLeft">左轉</String>
+    <String key="Craft:Ratchet">分段</String>
+    <String key="Craft:MaxCharactersX">最大字元數：%d</String>
+    
+    <String key="Craft:ButtonInstallProfiles">安裝設定檔</String>
+    <String key="Craft:ApplicationsWithProfiles">具有 Craft 設定檔的應用程式</String>
+    <String key="Craft:OtherApplications">用於其他應用程式</String>
+    <String key="Craft:PressAndTurnTooltip">您只可以在「所有應用程式」設定中變更此功能</String>
+    
+    <String key="Craft:ButtonContinueWithoutInstalling">繼續而不安裝設定檔</String>
+    <String key="Craft:ButtonBackToOptions">回到 OPTIONS</String>    
+    <String key="Craft:OnboardingWelcome">歡迎使用 CRAFT</String>
+    <String key="Craft:OnboardingWelcomeDescription">完成創意控制</String>
+    <String key="Craft:OnboardingSearch">正在搜尋最佳化應用程式</String>
+    <String key="Craft:OnboardingSearchDescription">現在正在此電腦上搜尋已針對 Craft 最佳化的應用程式</String>
+    <String key="Craft:OnboardingNoOptimizedApps">您電腦上沒有最佳化的應用程式</String>
+    <String key="Craft:OnboardingNoOptimizedAppsDescription">此電腦上似乎並沒有安裝 Craft 最佳化應用程式</String>
+    <String key="Craft:OnboardingNoOptimizedApps2">您電腦上沒有針對 CRAFT 最佳化的應用程式</String>
+    <String key="Craft:OnboardingNoOptimizedAppsDescription2">在您的電腦上找不到任何針對 Craft 最佳化的應用程式... :(</String>
+    <String key="Craft:OnboardingNoOptimizedAppsDescription3">在您的電腦上找不到任何針對 Craft 最佳化的應用程式。</String><!--NEW 8/2/2017-->
+    <String key="Craft:OnboardingOneOptimizedApp">我們找到 1 個 CRAFT 最佳化應用程式</String>
+    <String key="Craft:OnboardingOneOptimizedApps">找到針對 CRAFT 最佳化的 %d 應用程式</String>
+    <String key="Craft:OnboardingOneOptimizedAppDescription">剩下的 Craft 最佳化應用程式似乎並未安裝在此電腦上</String>
+    <String key="Craft:OnboardingXOptimizedApps">您已安裝 %d 個最佳化應用程式</String>
+    <String key="Craft:OnboardingXOptimizedAppsDescription">對於您使用之每個應用程式選擇要安裝的最佳化設定檔</String>
+    <String key="Craft:OnboardingProfilesInstalledDescription">這些應用程式的設定檔似乎已安裝</String>
+    <String key="Craft:OnboardingInstallingProfiles">正在安裝設定檔</String>
+    <String key="Craft:OnboardingInstallingProfilesDescription">設定檔正安裝到您電腦上</String>
+    <String key="Craft:OnboardingInstallingProfilesProblem">安裝設定檔時發生問題</String>
+    <String key="Craft:OnboardingInstallingProfilesPlugins">安裝外掛程式時發生問題</String>
+    <String key="Craft:OnboardingInstallingProfilesProblemDescription">請查看我們網站上的疑難排解說明</String>
+    <String key="Craft:OnboardingInstallingProfilesDone">設定檔已安裝</String>
+    <String key="Craft:OnboardingInstallingProfilesDoneDescription">重新啟動最佳化應用程式以完成安裝程序</String>
+    <String key="Craft:OnboardingWatchTutorial">觀看教學影片</String>
+    <String key="Craft:OnboardingWatchTutorials">觀看教學影片</String>
+    <String key="Craft:OnboardingWatchTutorialDescription">瞭解多功能轉鈕在每個最佳化應用程式中如何帶來創新突破</String>
+    <String key="Craft:OnboardingWatchTutorialDescription2">瞭解在每個最佳化應用程式中如何使用多功能轉鈕</String>
+    <String key="Craft:OnboardingDone">您已完成所有工作</String>
+    <String key="Craft:OnboardingDoneDescription">Craft 已針對您最常使用的應用程式最佳化</String>
+    <String key="Craft:OnboardingSelectedNewApps">您剛已選擇了新應用程式</String>
+    <String key="Craft:OnboardingSelectedNewAppsDescription">請按一下按鈕以安裝設定檔</String>
+    <String key="Craft:OnboardingUnsignedPlugin">(未簽署)</String><!--NEW 1/11/2018-->
+
+    <String key="Craft:RestoreDefaults">==ApplicationName== 的設定將會恢復為預設的 Craft 設定檔設定。 選擇「繼續」以還原，或選擇「取消」以保持您的自訂設定。</String><!--NEW 8/8/2017-->
+    <!--End Craft-->
+  
+  </Strings>
+</StringDictionary>

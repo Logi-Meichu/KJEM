@@ -1,0 +1,64 @@
+{
+  "LocalizedStrings": [
+    {
+      "ID": "changetoolvalue",
+      "value": "Контекстное"
+    },
+    {
+      "ID": "keystrokeassignment",
+      "value": "Назначение функций клавишам"
+    },
+    {
+      "ID": "savefile",
+      "value": "Сохранить файл"
+    },
+    {
+      "ID": "zoom",
+      "value": "Масштаб"
+    },
+    {
+      "ID": "theme",
+      "value": "Стиль темы"
+    },
+    {
+      "ID": "colour",
+      "value": "Цвет темы"
+    },
+    {
+      "ID": "layout",
+      "value": "Макет"
+    },
+    {
+      "ID": "font",
+      "value": "Шрифт темы"
+    },
+    {
+      "ID": "textSize",
+      "value": "Размер"
+    },
+    {
+      "ID": "alignment",
+      "value": "Выровнять"
+    },
+    {
+      "ID": "fontWeight",
+      "value": "Толщина шрифта"
+    },
+    {
+      "ID": "size",
+      "value": "Масштаб"
+    },
+    {
+      "ID": "rotate",
+      "value": "Повернуть"
+    },
+    {
+      "ID": "tableStyle",
+      "value": "Стиль таблицы"
+    },
+    {
+      "ID": "tableColor",
+      "value": "Цвет таблицы"
+    }
+  ]
+}

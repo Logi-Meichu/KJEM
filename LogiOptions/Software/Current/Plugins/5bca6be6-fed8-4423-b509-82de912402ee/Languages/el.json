@@ -1,0 +1,24 @@
+{
+    "LocalizedStrings": [
+          {
+              "ID": "volumeUpDown",
+              "value": "Ένταση ήχου"
+          },
+          {
+              "ID": "nextPrevious",
+              "value": "Προηγούμενο/ Επόμενο"
+          },
+          {
+              "ID": "SeekForwardBackward",
+              "value": "Αναζήτηση"
+          },
+          {
+              "ID": "changetoolvalue",
+              "value": "Στοιχεία ελέγχου Spotify"
+          },
+          {
+              "ID": "playpause",
+              "value": "Αναπαραγωγή/Παύση"
+          }
+    ]
+}

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Source>
+	<StringSet>
+		<String ALIAS="IDS_SINGLE_DEVICE_LOWBATTERY_PREFIX">次のデバイスのバッテリー残量がもうすぐなくなります:</String>
+        <String ALIAS="IDS_NO_APPS_SWITCH">切り替えるアプリがありません</String>
+        <String ALIAS="IDS_NO_HOSTS_SWITCH">切り替えるホストがありません</String>
+        <String ALIAS="IDS_HOSTS_SWITCH">ホストが切り替えられました</String>
+		<String ALIAS="IDS_APPLICATION_NAME">Logicool Options</String>
+
+        <!-- Lock notification -->
+		<String ALIAS="HELP_LOCK_CAPS_ON">Caps Lock オン</String>
+		<String ALIAS="HELP_LOCK_CAPS_OFF">Caps Lock オフ</String>
+		<String ALIAS="HELP_LOCK_SCROLL_ON">Scroll Lock オン</String>
+		<String ALIAS="HELP_LOCK_SCROLL_OFF">Scroll Lock オフ</String>
+		<String ALIAS="HELP_LOCK_NUMS_ON">Num Lock オン</String>
+		<String ALIAS="HELP_LOCK_NUMS_OFF">Num Lock オフ</String>
+
+        <!-- Package Update notification -->
+		<String ALIAS="UPDATER_UPDATE_AVAILABLE_TITLE">更新が利用可能です</String>
+		<String ALIAS="UPDATER_UPDATE_AVAILABLE">Logicool Options の更新が利用可能です。</String>
+
+        <!-- Device Update notification -->
+        <String ALIAS="UPDATER_DEVICE_UPDATE_AVAILABLE_TITLE">デバイスの更新が利用可能です</String>
+		<String ALIAS="UPDATER_DEVICE_UPDATE_AVAILABLE">お使いのデバイスの更新が利用可能です。ここをクリックして、更新を実行してください。</String>
+
+		<!-- Incorrect Keyboard Mode notification -->
+		<String ALIAS="INCORRECT_SELECTED_KEYBOARD_LAYOUT">キーボード上で Windows レイアウトが選択されていません。</String>
+
+		<!-- Missing software components -->
+		<String ALIAS="MISSING_MAINAPP_FILES">Logicool Options に重要なファイルがありません。ソフトウェアを再度インストールしてください。</String>
+
+    <!-- Tray icon notification -->
+    <String ALIAS="TRAYICON_FLOWOFF"> Logicool Flow をオフにする</String>
+    <String ALIAS="TRAYICON_PREFERENCES"> 環境設定を開く</String>
+    <String ALIAS="TRAYICON_FLOWON"> Logicool Flow をオンにする</String>
+    <String ALIAS="TRAYICON_NETWORK_ISSUE"> このコンピュータはオフラインです</String>
+    <String ALIAS="TRAYICON_HOST_ISSUE"> %s に到達できません</String>
+    <String ALIAS="TRAYICON_HELP"> Logicool Flow のヘルプを開く</String>
+    <String ALIAS="TRAYICON_CANCEL_TRANSFER"> 転送をキャンセル</String>
+    <String ALIAS="TRAYICON_TRANSFER_STATUS"> 転送しています  %d%% </String>
+    <String ALIAS="TRAYICON_TRANSFER_ERROR"> 転送エラー</String>
+
+    <!-- toast notification -->
+    <String ALIAS="TOAST_HOST_CONNECTED">%s が Logicool Flow に追加されました。</String>
+    <String ALIAS="TOAST_NEW_FEATURES">Logicool の最新イノベーションを試したいですか? クリックしてベータユーザーになりましょう。</String>
+    <String ALIAS="TOAST_NOTMATCH_FIRMWARE">お使いのデバイス %s のファームウェアをアップグレードする必要があります。</String>
+
+    <!-- Craft notification -->
+    <String ALIAS="CRAFT_PLUGIN_NOT_INSTALLED_TITLE">Craft プロファイルが利用可能です</String>
+    <String ALIAS="CRAFT_PLUGIN_NOT_INSTALLED_BODY">%s に利用可能な Craft プロファイルがあります。</String>
+    <String ALIAS="CRAFT_PLUGIN_READY_TO_USE_TITLE">Craft プロファイルがインストールされました</String>
+    <String ALIAS="CRAFT_PLUGIN_READY_TO_USE_BODY">%s 用の新しい Craft プロファイルがインストールされました。</String>
+    <String ALIAS="CRAFT_PLUGIN_APP_REQUIRE_RESTART_TITLE">%s を再起動してください</String>
+    <String ALIAS="CRAFT_PLUGIN_APP_REQUIRE_RESTART_BODY">%s 用の Craft プロファイルがインストールされました。このプロファイルの使用を開始するにはアプリケーションを再起動してください。</String>
+
+  </StringSet>
+</Source>

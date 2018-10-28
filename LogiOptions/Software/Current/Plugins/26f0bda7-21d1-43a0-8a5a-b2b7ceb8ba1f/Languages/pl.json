@@ -1,0 +1,48 @@
+{
+  "LocalizedStrings": [
+    {
+      "ID": "keystrokeassignment",
+      "value": "Przypisanie sekwencji klawiszy"
+    },
+    {
+      "ID": "changetoolvalue",
+      "value": "Kontekstowo"
+    },
+    {
+      "ID": "crownbrowsertextsize",
+      "value": "Zmiana rozmiaru tekstu lub karty"
+    },
+    {
+      "ID": "crowntabscommand",
+      "value": "Przełączanie kart"
+    },
+    {
+      "ID": "textSize",
+      "value": "Rozmiar"
+    },
+    {
+      "ID": "imageSize",
+      "value": "Rozmiar"
+    },
+    {
+      "ID": "tabSwitch",
+      "value": "Nawigacja po karcie"
+    },
+    {
+      "ID": "zoom",
+      "value": "Powiększenie"
+    },
+    {
+      "ID": "sheetNavigation",
+      "value": "Nawigacja po arkuszu"
+    },
+    {
+      "ID": "horizontalScroll",
+      "value": "Przewijanie w poziomie"
+    },
+    {
+      "ID": "playpause",
+      "value": "Odtwórz/wstrzymaj"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Source>
+	<StringSet>
+		<String ALIAS="IDS_SINGLE_DEVICE_LOWBATTERY_PREFIX">O nível das pilhas do dispositivo a seguir está muito baixo:</String>
+        <String ALIAS="IDS_NO_APPS_SWITCH">Nenhum aplicativo para alternar</String>
+        <String ALIAS="IDS_NO_HOSTS_SWITCH">Sem hosts para alternar</String>
+        <String ALIAS="IDS_HOSTS_SWITCH">Host alternado</String>
+		<String ALIAS="IDS_APPLICATION_NAME">Logitech Options</String>
+
+        <!-- Lock notification -->
+		<String ALIAS="HELP_LOCK_CAPS_ON">Caps Lock ativada</String>
+		<String ALIAS="HELP_LOCK_CAPS_OFF">Caps Lock desativada</String>
+		<String ALIAS="HELP_LOCK_SCROLL_ON">Scroll Lock ativada</String>
+		<String ALIAS="HELP_LOCK_SCROLL_OFF">Scroll Lock desativada</String>
+		<String ALIAS="HELP_LOCK_NUMS_ON">Num Lock ativada</String>
+		<String ALIAS="HELP_LOCK_NUMS_OFF">Num Lock desativada</String>
+
+        <!-- Package Update notification -->
+		<String ALIAS="UPDATER_UPDATE_AVAILABLE_TITLE">Atualização disponível</String>
+		<String ALIAS="UPDATER_UPDATE_AVAILABLE">Uma atualização está disponível em Logitech Options.</String>
+
+        <!-- Device Update notification -->
+        <String ALIAS="UPDATER_DEVICE_UPDATE_AVAILABLE_TITLE">Atualização do dispositivo disponível</String>
+		<String ALIAS="UPDATER_DEVICE_UPDATE_AVAILABLE">Existe uma atualização disponível para o(s) seu(s) dispositivo(s). Clique aqui para executar a atualização.</String>
+
+		<!-- Incorrect Keyboard Mode notification -->
+		<String ALIAS="INCORRECT_SELECTED_KEYBOARD_LAYOUT">O layout Windows não está selecionado no teclado.</String>
+
+		<!-- Missing software components -->
+		<String ALIAS="MISSING_MAINAPP_FILES">Faltam arquivos críticos no Logitech Options. Reinstale o software.</String>
+
+    <!-- Tray icon notification -->
+    <String ALIAS="TRAYICON_FLOWOFF"> Desativar o Logitech Flow</String>
+    <String ALIAS="TRAYICON_PREFERENCES"> Abrir Preferências</String>
+    <String ALIAS="TRAYICON_FLOWON"> Ativar o Logitech Flow</String>
+    <String ALIAS="TRAYICON_NETWORK_ISSUE"> Este computador está off-line</String>
+    <String ALIAS="TRAYICON_HOST_ISSUE"> %s não é alcançável</String>
+    <String ALIAS="TRAYICON_HELP"> Abrir a Ajuda do Logitech Flow</String>
+    <String ALIAS="TRAYICON_CANCEL_TRANSFER"> Cancelar transferência</String>
+    <String ALIAS="TRAYICON_TRANSFER_STATUS"> Transferindo  %d%% </String>
+    <String ALIAS="TRAYICON_TRANSFER_ERROR"> Erro de transferência</String>
+
+    <!-- toast notification -->
+    <String ALIAS="TOAST_HOST_CONNECTED">%s adicionado ao Logitech Flow.</String>
+    <String ALIAS="TOAST_NEW_FEATURES">Deseja testar a inovação mais recente da Logitech? Clique para se tornar um usuário beta.</String>
+    <String ALIAS="TOAST_NOTMATCH_FIRMWARE">O Firmware do dispositivo %s precisa de um upgrade.</String>
+
+    <!-- Craft notification -->
+    <String ALIAS="CRAFT_PLUGIN_NOT_INSTALLED_TITLE">Perfil do Craft disponível</String>
+    <String ALIAS="CRAFT_PLUGIN_NOT_INSTALLED_BODY">Há um perfil do Craft disponível para %s.</String>
+    <String ALIAS="CRAFT_PLUGIN_READY_TO_USE_TITLE">Perfil do Craft instalado</String>
+    <String ALIAS="CRAFT_PLUGIN_READY_TO_USE_BODY">Um novo perfil do Craft foi instalado para %s.</String>
+    <String ALIAS="CRAFT_PLUGIN_APP_REQUIRE_RESTART_TITLE">Reinicie o %s</String>
+    <String ALIAS="CRAFT_PLUGIN_APP_REQUIRE_RESTART_BODY">Perfil do Craft instalado para %s. Reinicie o aplicativo para começar a usar este perfil.</String>
+
+  </StringSet>
+</Source>

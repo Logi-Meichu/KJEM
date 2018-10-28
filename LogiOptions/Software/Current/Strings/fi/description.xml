@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="utf-8"?>
+<descriptions>
+	<taskids>
+
+		<!-- ******************************** frequently used windows tasks *********************************** -->
+		<task id="0x1d">
+			<description>Mediasoitin</description>
+		</task>
+		<task id="0x44">
+			<description>Lukitse</description>
+		</task>
+		<task id="0x10001">
+			<description>Kirjaudu ulos</description>
+		</task>
+		<task id="0x0c">
+			<description>Sulje ikkuna</description>
+		</task>
+		<task id="0x52">
+			<description>Ei mitään</description>
+		</task>
+		<task id="0x53">
+			<description>Vaihda sovellusta</description>
+		</task>
+		<task id="0x8">
+			<description>Vaihda sovellusta</description>
+		</task>
+		<task id="0x0e">
+			<description>Sähköposti</description>
+		</task>
+		<task id="0x87">
+			<description>Hae</description>
+		</task>
+		<task id="0x88">
+			<description>Jaa</description>
+		</task>
+		<task id="0x89">
+			<description>Laitteet</description>
+		</task>
+		<task id="0x8a">
+			<description>Asetukset</description>
+		</task>
+		<task id="0x7A">
+			<description>Oikopolut</description>
+		</task>
+		<task id="0x8E">
+			<description>Näytä/piilota työpöytä</description>
+		</task>
+		<task id="0x79">
+			<description>Sovellusvalikko</description>
+		</task>
+		<task id="0x90">
+			<description>Aloitusnäyttö</description>
+		</task>
+		<task id="0x95">
+			<description>Suurenna ikkuna</description>
+		</task>
+		<task id="0x94">
+			<description>Pienennä ikkuna</description>
+		</task>
+		<task id="0x38">
+			<description>Napsautus vasemmalla</description>
+		</task>
+		<task id="0x39">
+			<description>Napsautus oikealla</description>
+		</task>
+		<task id="0x3A">
+			<description>Keskipainike</description>
+		</task>
+
+		<!-- *********************************** back/forward *********************************** -->
+		<task id="0x3b">
+			<description>Takaisin</description>
+		</task>
+		<task id="0x3c">
+			<description>Takaisin</description>
+		</task>
+		<task id="0xab">
+			<description>Takaisin</description>
+		</task>
+		<task id="0x3d">
+			<description>Eteenpäin</description>
+		</task>
+		<task id="0x3e">
+			<description>Eteenpäin</description>
+		</task>
+		<task id="0xac">
+			<description>Eteenpäin</description>
+		</task>
+
+		<!-- *********************************** Edit features *********************************** -->
+		<task id="0x51">
+			<description>Leikkaa</description>
+		</task>
+		<task id="0x4e">
+			<description>Kopioi</description>
+		</task>
+		<task id="0x85">
+			<description>Liitä</description>
+		</task>
+
+		<!-- *********************************** Calculator File launcher *********************************** -->
+		<task id="0x0a">
+			<description>Laskin</description>
+		</task>
+
+		<!-- *********************************** Volume & Media handlers *********************************** -->
+		<task id="0x01">
+			<description>Äänenvoimakkuuden lisäys</description>
+		</task>
+		<task id="0x02">
+			<description>Äänenvoimakkuuden vähennys</description>
+		</task>
+		<task id="0x03">
+			<description>Mykistys</description>
+		</task>
+		<task id="0x04">
+			<description>Toista/Tauko</description>
+		</task>
+		<task id="0x07">
+			<description>Pysäytä</description>
+		</task>
+		<task id="0x05">
+			<description>Seuraava</description>
+		</task>
+		<task id="0x06">
+			<description>Edellinen</description>
+		</task>
+
+		<!-- *********************************** Common folders *********************************** -->
+		<task id="0x27">
+			<description>Oma tietokone</description>
+		</task>
+		<task id="0x48">
+			<description>Tämä tietokone</description>
+		</task>
+		<task id="0x22">
+			<description>Omat tiedostot</description>
+		</task>
+		<task id="0x49">
+			<description>Asiakirja</description>
+		</task>
+		<task id="0x24">
+			<description>Omat kuvat</description>
+		</task>
+		<task id="0x50">
+			<description>Kuvat</description>
+		</task>
+		<task id="0x23">
+			<description>Oma musiikki</description>
+		</task>
+		<task id="0x54">
+			<description>Musiikki</description>
+		</task>
+		<task id="0x26">
+			<description>Omat videot</description>
+		</task>
+		<task id="0x55">
+			<description>Videot</description>
+		</task>
+
+		<!-- *********************************** Open Web Page *********************************** -->
+		<task id="0x47">
+			<description>Kotisivu</description>
+		</task>
+		<task id="0x33">
+			<description>Lähennä</description>
+		</task>
+		<task id="0x35">
+			<description>Loitonna</description>
+		</task>
+		<task id="0x10010">
+			<description>Pyöritä vasemmalle</description>
+		</task>
+		<task id="0x1000F">
+			<description>Pyöritä oikealle</description>
+		</task>
+		<task id="0x1000E">
+			<description>Ei toimintoa</description>
+		</task>
+
+        <task id="0xFFFE">
+            <description>Ei käytössä</description>
+        </task>     
+
+		<task id="0x37">
+			<description>Zoomin palautus</description>
+		</task>
+		<task id="0x0b">
+			<description>Sähköposti</description>
+		</task>
+		<task id="0x2f">
+			<description>Lepotila</description>
+		</task>
+		<task id="0x1a">
+			<description>Kotisivu</description>
+		</task>
+		<task id="0x56">
+			<description>Koti</description>
+		</task>
+		<task id="0x1c">
+			<description>Pienennä kaikki ikkunat</description>
+		</task>
+		<task id="0x1b">
+			<description>Palauta kaikki ikkunat</description>
+		</task>
+		<task id="0x91">
+			<description>Vaihda näyttöä</description>
+		</task>
+		<task id="0x93">
+			<description>Vaihda näyttöä</description>
+		</task>
+		<task id="0x43">
+			<description>Näytä/piilota työpöytä</description>
+		</task>
+		<task id="0x2d">
+			<description>Hae</description>
+		</task>
+		<task id="0xb0">
+			<description>Hae</description>
+		</task>
+		<task id="0xb1">
+			<description>Hae</description>
+		</task>
+		<task id="0xba">
+			<description>Syöttökieli</description>
+		</task>
+
+		<task id="0x47">
+			<description>Kotisivu</description>
+		</task>
+
+		<task id="0x96">
+			<description>Vaihda sovellusta</description>
+		</task>
+		<task id="0x97">
+			<description>Kotisivu</description>
+		</task>
+		<task id="0x9b">
+             <description>Näyttökuva</description>
+        </task>
+		<task id="0xb2">
+			<description>Kotisivu</description>
+		</task>
+		<task id="0x98">
+			<description>Napsautus oikealla</description>
+		</task>
+		<task id="0x20">
+			<description>Napsautus oikealla</description>
+		</task>
+		<task id="0xb3">
+			<description>Napsautus oikealla</description>
+		</task>
+		<task id="0x99">
+			<description>Takaisin</description>
+		</task>
+		<task id="0xce">
+			<description>Takaisin</description>
+		</task>
+    <task id="0xc5">
+      <description>Uusi välilehti selaimessa</description>
+    </task>
+    
+		<task id="0xA8">
+			<description>Elepainike</description>
+		</task>
+		<task id="0xA9">
+			<description>Elepainike</description>
+		</task>
+		<task id="0x9c">
+			<description>Elepainike</description>
+		</task>
+		<task id="0xad">
+			<description>Elepainike</description>
+		</task>
+
+		<task id="0x1002c">
+			<description>Elepainike</description>
+		</task>
+
+		<task id="0x9d">
+			<description>Tilanvaihdin</description>
+		</task>
+
+		<task id="0x71">
+			<description>analoginen kierto oikealle</description>
+		</task>
+
+		<task id="0x72">
+			<description>analoginen kierto vasemmalle</description>
+		</task>
+
+		<task id="0x73">
+			<description>panorointi vasemmalle</description>
+		</task>
+
+		<task id="0x74">
+			<description>panorointi oikealle</description>
+		</task>
+
+		<task id="0x75">
+			<description>panorointi ylös</description>
+		</task>
+
+		<task id="0x76">
+			<description>panorointi alas</description>
+		</task>
+
+
+		<task id="0x3f">
+			<description>Vieritys vasemmalle</description>
+		</task>
+
+		<task id="0x40">
+			<description>Vieritys oikealle</description>
+		</task>
+
+		<task id="0xc3">
+			<description>Sovellusvalikko</description>
+		</task>
+
+		<task id="0xbf">
+			<description>Tehtävänäkymä</description>
+		</task>
+
+		<task id="0xa3">
+			<description>Kirkkaus alas</description>
+		</task>
+
+		<task id="0xa4">
+			<description>Kirkkaus ylös</description>
+		</task>
+
+		<task id="0xc0">
+			<description>Toimintokeskus</description>
+		</task>
+
+		<task id="0xc1">
+			<description>Taustavalon vähennys</description>
+		</task>
+
+		<task id="0xc2">
+			<description>Taustavalon lisääminen</description>
+		</task>
+		
+		<task id="0x10003">
+			<description>Virransäästötila</description>
+		</task>
+
+		<!-- task ids local to LogiOptions -->
+		<!-- *************************************  -->
+		<task id="0x10000">
+			<description>Näppäinten määrittäminen</description>
+		</task>
+		<task id="0x10001">
+			<description>Kirjaudu ulos</description>
+		</task>
+		<task id="0x10002">
+			<description>Sammuta</description>
+		</task>
+		<task id="0x10003">
+			<description>Virransäästötila</description>
+		</task>
+		<task id="0x10004">
+			<description>Käynnistä sovellus</description>
+		</task>
+		<task id="0x10007">
+			<description>Seuraava raita / Eteenpäinkelaus</description>
+		</task>
+		<task id="0x10008">
+			<description>Avaa tiedosto</description>
+		</task>
+		<task id="0x10009">
+			<description>Avaa kansio</description>
+		</task>
+		<task id="0x1000A">
+			<description>Avaa verkkosivu</description>
+		</task>
+		<task id="0x1000B">
+			<description>Edellinen raita / Taaksepäinkelaus</description>
+		</task>
+		<task id="0x1000C">
+			<description>Kaksoisnapsautus</description>
+		</task>
+		<task id="0x1000D">
+			<description>Windows 8:n pikakuvakkeet</description>
+		</task>
+
+		<task id="0x10011">
+			<description>Panorointi</description>
+		</task>
+		<task id="0x10012">
+			<description>Panorointi</description>
+		</task>
+		<task id="0x10013">
+			<description>Panorointi</description>
+		</task>
+		<task id="0x10014">
+			<description>Panorointi</description>
+		</task>
+		<task id="0x1000E">
+			<description>Keskipainike</description>
+		</task>
+
+		<task id="0x10019">
+			<description>Aloitusnäyttö</description>
+		</task>
+
+		<task id="0x10020">
+			<description>Suurenna ikkuna</description>
+		</task>
+
+		<task id="0x10021">
+			<description>Näytä/piilota työpöytä</description>
+		</task>
+		<task id="0x10022">
+			<description>Vaihda sovellusta</description>
+		</task>
+
+		<task id="0x10026">
+			<description>Kohdista vasemmalle</description>
+		</task>
+
+		<task id="0x10027">
+			<description>Kohdista oikealle</description>
+		</task>
+
+		<task id="0x10029">
+			<description>Lähennä</description>
+		</task>
+
+		<task id="0x10030">
+			<description>Äänenvoimakkuuden lisäys</description>
+		</task>
+
+		<task id="0x10031">
+			<description>Äänenvoimakkuuden vähennys</description>
+		</task>
+
+		<task id="0x10032">
+			<description>Edellinen</description>
+		</task>
+
+		<task id="0x10033">
+			<description>Seuraava</description>
+		</task>
+
+		<task id="0x10034">
+			<description>Toista/Tauko</description>
+		</task>
+
+		<task id="0x10035">
+			<description>Käynnistä-valikko</description>
+		</task>
+		<task id="0x10036">
+			<description>Easy-Switch</description>
+		</task>
+		<task id="0x10037">
+			<description>Hiiren herkkyys</description>
+		</task>
+		<task id="0xc4">
+			<description>Tarkkuustila</description>
+		</task>
+
+		<task id="0x10038">
+			<description>Suurenna ikkuna</description>
+		</task>
+
+		<task id="0x10039">
+			<description>Määritinpainikkeet</description>
+		</task>
+
+		<task id="0x10040">
+			<description>Kehittynyt napsautus</description>
+		</task>
+
+		<task id="0x10041">
+			<description>Ota tasainen selaus käyttöön tai poista se käytöstä</description>
+		</task>
+
+		<task id="0x10042">
+			<description>Uusi työpöytä</description>
+		</task>
+
+		<task id="0x10043">
+			<description>Sulje työpöytä</description>
+		</task>
+
+		<task id="0x10044">
+			<description>Työpöytä (seuraava)</description>
+		</task>
+
+		<task id="0x10045">
+			<description>Työpöytä (edellinen)</description>
+		</task>
+
+		<task id="0x10047">
+			<description>Käynnistä-valikko</description>
+		</task>
+		<task id="0x10048">
+			<description>Näytä/piilota työpöytä</description>
+		</task>
+		<task id="0x10049">
+			<description>Työpöytä (edellinen)</description>
+		</task>
+		<task id="0x10050">
+			<description>Työpöytä (seuraava)</description>
+		</task>
+		<task id="0x10051">
+			<description>Tehtävänäkymä</description>
+		</task>
+		<task id="0x10052">
+			<description>Toimintokeskus</description>
+		</task>
+		<task id="0x10053">
+			<description>Tehtävänäkymä</description>
+		</task>
+		<task id="0x10055">
+			<description>Cortana</description>
+		</task>
+	<task id="0x10056">
+	  <description>Tehtävänäkymä</description>
+	</task>
+		<task id="0x10100">
+			<description>Suurenna ikkuna</description>
+		</task>
+		<task id="0x10101">
+			<description>Näytä/piilota työpöytä</description>
+		</task>
+		<task id="0x10102">
+			<description>Kotisivu</description>
+		</task>
+		<task id="0x10103">
+			<description>Käynnistä sovellus</description>
+		</task>
+		<task id="0x10104">
+			<description>Vaihda sovellusta</description>
+		</task>
+		<task id="0x10059">
+			<description>Äänenvoimakkuus</description>
+		</task>
+		<task id="0x1005a">
+			<description>Työpöydän vaihto</description>
+		</task>
+		<task id="0x1005b">
+			<description>Kirkkaus</description>
+		</task>
+		<task id="0x1005c">
+			<description>Median hallinta</description>
+		</task>
+		<task id="0x1005d">
+			<description>Vaihda sovellusta</description>
+		</task>
+		<task id="0x1005f">
+			<description>Välilehden vaihto</description>
+		</task>
+    <!--task id="0x10060">
+			<description>Crown Desktop Switch</description>
+		</task-->
+		<task id="0x10061">
+			<description>Zoomaus</description>
+		</task>
+		<task id="0x10062">
+			<description>Kruunun siirry sivuilla</description>
+		</task>
+		<task id="0x10063">
+			<description>Mukautettu näppäin</description>
+		</task>
+		<task id="0x10064">
+			<description>Muuta työkalun arvoa</description>
+		</task>
+		<task id="0x10065">
+			<description>Kumoa / tee uudelleen</description>
+		</task>
+    <task id="0x10110">
+      <description>Ohjauspallon herkkyys</description>
+    </task>
+    <task id="0xcd">
+      <description>F1</description>
+    </task>
+    <task id="0xc6">
+      <description>F2</description>
+    </task>
+    <task id="0xc7">
+      <description>F3</description>
+    </task>
+    <task id="0xc8">
+      <description>F4</description>
+    </task>
+    <task id="0xc9">
+      <description>F5</description>
+    </task>
+    <task id="0xca">
+      <description>F6</description>
+    </task>
+    <task id="0xcb">
+      <description>F7</description>
+    </task>
+    <task id="0xcc">
+      <description>F8</description>
+    </task>
+
+
+  </taskids>
+	<gestureids>
+		<gesture id="0x21">
+			<description>Napsauta napauttamalla</description>
+		</gesture>
+		<gesture id="0x2c">
+			<description>Tasainen vieritys</description>
+		</gesture>
+		<gesture id="0x2d">
+			<description>Vierityssuunta</description>
+		</gesture>
+		<gesture id="0x2a">
+			<description>Vaakavieritys</description>
+		</gesture>
+		<gesture id="0x2b">
+			<description>Pystyvieritys</description>
+		</gesture>
+		<gesture id="0x40">
+			<description>Vaihda sovellusta</description>
+		</gesture>
+		<gesture id="0x41">
+			<description>Näytä Oikopolut</description>
+		</gesture>
+		<gesture id="0x43">
+			<description>Sovellusvalikko</description>
+		</gesture>
+		<gesture id="0x54">
+			<description>Zoomaus</description>
+		</gesture>
+		<gesture id="0x14">
+			<description>Osoittimen nopeus</description>
+		</gesture>
+		<!-- new gestures -->
+		<gesture id="0x2e">
+			<description>Peukalorullan vieritys</description>
+		</gesture>
+		<gesture id="0x64">
+			<description>Peukalorullan kaksoisnapautus</description>
+		</gesture>
+		<gesture id="0x27d3">
+			<description>SmartShift-uudelleenmääritys</description>
+		</gesture>
+		<gesture id="0x2762">
+			<description>painikkeen 3 uudelleenmääritys</description>
+		</gesture>
+		<gesture id="0x27d4">
+			<description>elepainikkeen uudelleenmääritys</description>
+		</gesture>
+	</gestureids>
+	<gesturetaskids>
+		<gesturetask id="0x0">
+			<description>Ei käytössä</description>
+		</gesturetask>
+		<gesturetask id="0x1">
+			<description>Napautus yhdellä tai kahdella sormella</description>
+		</gesturetask>
+		<gesturetask id="0x2">
+			<description>Käytössä</description>
+		</gesturetask>
+		<gesturetask id="0x3">
+			<description>Perinteinen</description>
+		</gesturetask>
+		<gesturetask id="0x4">
+			<description>Sisältöraidat ja sormet</description>
+		</gesturetask>
+		<gesturetask id="0x5">
+			<description>Pyyhkäisy vasemmalle ja oikealle (2 sormea)</description>
+		</gesturetask>
+		<gesturetask id="0x6">
+			<description>Pyyhkäisy ylös ja alas (2 sormea)</description>
+		</gesturetask>
+		<gesturetask id="0x7">
+			<description>Pyyhkäisy vasemmasta reunasta (1 sormi)</description>
+		</gesturetask>
+		<gesturetask id="0x8">
+			<description>Pyyhkäisy oikeasta reunasta (1 sormi)</description>
+		</gesturetask>
+		<gesturetask id="0x9">
+			<description>Pyyhkäisy yläreunasta (1 sormi)</description>
+		</gesturetask>
+		<gesturetask id="0xa">
+			<description>Levitä tai nipistä (2 sormea)</description>
+		</gesturetask>
+		<gesturetask id="0xb">
+			<description>Osoittimen nopeus</description>
+		</gesturetask>
+	</gesturetaskids>
+	<gestureactiongroups>
+		<actiongroup id="win8nav">
+			<description>Selaa Windows-käyttöjärjestelmää</description>
+		</actiongroup>
+		<actiongroup id="win7nav">
+			<description>Selaa Windows-käyttöjärjestelmää</description>
+		</actiongroup>
+		<actiongroup id="win8nav2">
+			<description>Windowsin hallinta</description>
+		</actiongroup>
+		<actiongroup id="winarrangement">
+			<description>Järjestele ikkunoita</description>
+		</actiongroup>
+		<actiongroup id="mediagestures">
+			<description>Medianäppäimet</description>
+		</actiongroup>
+		<actiongroup id="panzoom">
+			<description>Panorointi</description>
+		</actiongroup>
+		<actiongroup id="zoomrotate">
+			<description>Zoomaa/kierrä</description>
+		</actiongroup>
+		<actiongroup id="custom">
+			<description>Mukautettu</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelhorzscroll">
+			<description>Vaakavieritys</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelzoom">
+			<description>Lähentäminen ja loitontaminen</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelvolume">
+			<description>Äänenvoimakkuuden säätö</description>
+		</actiongroup>
+		<actiongroup id="thumbwheeltabs">
+			<description>Seuraava/edellinen välilehti</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelnextprev">
+			<description>Seuraava/edellinen</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelbackforward">
+			<description>Eteenpäin/Takaisin</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelalttab">
+			<description>Vaihda sovellusta</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelbrightness">
+			<description>Lisää/vähennä kirkkautta </description>
+		</actiongroup>
+		<actiongroup id="thumbwheelbackforwardtouch">
+			<description>Eteenpäin/takaisin kosketuksella</description>
+		</actiongroup>
+		<actiongroup id="virtualdesktop">
+			<description>Virtuaaliset työpöydät</description>
+		</actiongroup>
+	<actiongroup id="fn_virtualdesktop">
+      <description>Virtuaaliset työpöydät</description>
+    </actiongroup>
+		<actiongroup id="thumbwheelvirtualdesktop">
+			<description>Vaihtele työpöytien välillä</description>
+		</actiongroup>
+		<actiongroup id="thumbwheeldonothing">
+			<description>Ei mitään</description>
+		</actiongroup>
+		<actiongroup id="touch">
+			<description>Panorointi kosketuksella </description>
+		</actiongroup>
+		<actiongroup id="ichitaro">
+			<description>Ichitaro2017</description>
+		</actiongroup>
+    <actiongroup id="disabled">
+        <description>Ei käytössä</description>
+    </actiongroup>
+
+	</gestureactiongroups>
+</descriptions>

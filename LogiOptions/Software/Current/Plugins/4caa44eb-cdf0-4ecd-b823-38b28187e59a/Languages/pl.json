@@ -1,0 +1,100 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "Kontekstowo"
+        },
+        {
+            "ID": "savefile",
+            "value": "Zapisz plik"
+        },
+        {
+            "ID": "zoom",
+            "value": "Powiększenie"
+        },
+        {
+            "ID": "sheetNavigation",
+            "value": "Nawigacja po arkuszu"
+        },
+        {
+            "ID": "horizontalScroll",
+            "value": "Przewijanie w poziomie"
+        },
+        {
+            "ID": "createChart",
+            "value": "Utwórz wykres"
+        },
+        {
+            "ID": "createTable",
+            "value": "Utwórz tabelę"
+        },
+        {
+            "ID": "tableStyle",
+            "value": "Styl tabeli"
+        },
+        {
+            "ID": "chartType",
+            "value": "Typ wykresu"
+        },
+        {
+            "ID": "quickLayout",
+            "value": "Szybki układ"
+        },
+        {
+            "ID": "changeColor",
+            "value": "Zmień kolor"
+        },
+        {
+            "ID": "chartStyle",
+            "value": "Styl wykresu"
+        },
+        {
+            "ID": "pieChart",
+            "value": "Wykres kołowy"
+        },
+        {
+            "ID": "columnChart",
+            "value": "Wykres kolumnowy"
+        },
+        {
+            "ID": "barChart",
+            "value": "Wykres słupkowy"
+        },
+        {
+            "ID": "areaChart",
+            "value": "Wykres warstwowy"
+        },
+        {
+            "ID": "stockChart",
+            "value": "Wykres giełdowy"
+        },
+        {
+            "ID": "surfaceChart",
+            "value": "Wykres powierzchniowy"
+        },
+        {
+            "ID": "radarChart",
+            "value": "Wykres radarowy"
+        },
+        {
+            "ID": "tableColor",
+            "value": "Kolor tabeli"
+        },
+        {
+            "ID": "xyscatterChart",
+            "value": "Wykres punktowy"
+        },
+        {
+            "ID": "lineChart",
+            "value": "Wykres liniowy"
+        },
+        {
+            "ID": "comboChart",
+            "value": "Wykres kombi"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Przypisanie sekwencji klawiszy"
+        }
+    ]
+}

@@ -1,0 +1,412 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "crownbrightness",
+            "value": "Helligkeit"
+        },
+        {
+            "ID": "crownvolume",
+            "value": "Lautstärke"
+        },
+        {
+            "ID": "crownmediacontrol",
+            "value": "Multimedia-Steuerung"
+        },
+        {
+            "ID": "crownexposeappswitch",
+            "value": "Zwischen Anwendungen umschalten"
+        },
+        {
+            "ID": "crowntabscommand",
+            "value": "Registerkarte wechseln"
+        },
+        {
+            "ID": "crownswitchdesktop",
+            "value": "Benutzeroberfläche wechseln"
+        },
+        {
+            "ID": "crownzoom",
+            "value": "Zoom"
+        },
+        {
+            "ID": "crownnavigatepages",
+            "value": "Seiten navigieren"
+        },
+        {
+            "ID": "crowncustomkeyleftright",
+            "value": "Benutzerdefinierte Taste"
+        },
+        {
+            "ID": "crownhscroll",
+            "value": "Horizontaler Bildlauf"
+        },
+		{
+            "ID": "brightness",
+            "value": "Helligkeit"
+        },
+        {
+            "ID": "volume",
+            "value": "Lautstärke"
+        },
+        {
+            "ID": "mediaplayer",
+            "value": "Multimedia-Player"
+        },
+        {
+            "ID": "appswitch",
+            "value": "Zwischen Anwendungen umschalten"
+        },
+        {
+            "ID": "tabsswitch",
+            "value": "Registerkarte wechseln"
+        },
+        {
+            "ID": "desktopswitch",
+            "value": "Benutzeroberfläche wechseln"
+        },
+        {
+            "ID": "crowndesktopswitch",
+            "value": "Benutzeroberfläche wechseln"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zoom"
+        },
+        {
+            "ID": "gesturebutton",
+            "value": "Gesten-Schalter"
+        },
+        {
+            "ID": "modeshiftbutton",
+            "value": "Modus-Schalter"
+        },
+        {
+            "ID": "advancedclick",
+            "value": "Erweiterter Klick"
+        },
+        {
+            "ID": "applicationmenu",
+            "value": "Anwendungsmenü"
+        },
+        {
+            "ID": "back",
+            "value": "Zurück"
+        },
+        {
+            "ID": "calculator",
+            "value": "Rechner"
+        },
+        {
+            "ID": "charms",
+            "value": "Charms-Leiste"
+        },
+        {
+            "ID": "closewindow",
+            "value": "Fenster schließen"
+        },
+        {
+            "ID": "copy",
+            "value": "Kopieren"
+        },
+        {
+            "ID": "cut",
+            "value": "Ausschneiden"
+        },
+        {
+            "ID": "devices",
+            "value": "Geräte"
+        },
+        {
+            "ID": "documents",
+            "value": "Dokumente"
+        },
+        {
+            "ID": "doubleclick",
+            "value": "Doppelklick"
+        },
+        {
+            "ID": "email",
+            "value": "E-Mail"
+        },
+        {
+            "ID": "forward",
+            "value": "Vorwärts"
+        },
+        {
+            "ID": "home",
+            "value": "Startseite"
+        },
+        {
+            "ID": "myhome",
+            "value": "Startseite"
+        },
+        {
+            "ID": "mymusic",
+            "value": "Eigene Musik"
+        },
+        {
+            "ID": "inputlanguage",
+            "value": "Eingabesprache"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Tastenanschlag-Zuweisung"
+        },
+        {
+            "ID": "launchapplication",
+            "value": "Anwendung starten"
+        },
+        {
+            "ID": "leftclick",
+            "value": "Linksklick"
+        },
+        {
+            "ID": "lock",
+            "value": "Sperren"
+        },
+        {
+            "ID": "maximizewindow",
+            "value": "Fenster maximieren"
+        },
+        {
+            "ID": "middlebutton",
+            "value": "Mittlere Taste"
+        },
+        {
+            "ID": "minimizewindow",
+            "value": "Fenster minimieren"
+        },
+        {
+            "ID": "modifierkeys",
+            "value": "Modifier-Tasten"
+        },
+        {
+            "ID": "mousesensitivity",
+            "value": "Mausempfindlichkeit"
+        },
+        {
+            "ID": "music",
+            "value": "Musik"
+        },
+        {
+            "ID": "mute",
+            "value": "Stummschaltung"
+        },
+        {
+            "ID": "mycomputer",
+            "value": "Arbeitsplatz"
+        },
+        {
+            "ID": "mydocuments",
+            "value": "Eigene Dateien"
+        },
+        {
+            "ID": "myvideos",
+            "value": "Eigene Videos"
+        },
+        {
+            "ID": "next",
+            "value": "Nächste"
+        },
+        {
+            "ID": "nextprevious",
+            "value": "Weiter/Zurück"
+        },
+        {
+            "ID": "nexttrackfastforward",
+            "value": "Nächster Titel/Vorspulen"
+        },
+        {
+            "ID": "openfile",
+            "value": "Datei öffnen"
+        },
+        {
+            "ID": "openfolder",
+            "value": "Ordner öffnen"
+        },
+        {
+            "ID": "openwebpage",
+            "value": "Website öffnen"
+        },
+        {
+            "ID": "paste",
+            "value": "Einfügen"
+        },
+        {
+            "ID": "mypictures",
+            "value": "Eigene Bilder"
+        },
+        {
+            "ID": "pictures",
+            "value": "Bilder"
+        },
+        {
+            "ID": "playpause",
+            "value": "Wiedergabe/Anhalten"
+        },
+        {
+            "ID": "previous",
+            "value": "Vorherige"
+        },
+        {
+            "ID": "previoustrackrewind",
+            "value": "Vorheriger Titel/Zurückspulen"
+        },
+        {
+            "ID": "rightclick",
+            "value": "Rechtsklick"
+        },
+        {
+            "ID": "scrollleft",
+            "value": "Nach links scrollen"
+        },
+        {
+            "ID": "scrollright",
+            "value": "Nach rechts scrollen"
+        },
+        {
+            "ID": "search",
+            "value": "Suchen"
+        },
+        {
+            "ID": "settings",
+            "value": "Einstellungen"
+        },
+        {
+            "ID": "share",
+            "value": "Teilen"
+        },
+        {
+            "ID": "showhidedesktop",
+            "value": "Desktop anzeigen/verbergen"
+        },
+        {
+            "ID": "shutdown",
+            "value": "Herunterfahren"
+        },
+        {
+            "ID": "signout",
+            "value": "Abmelden"
+        },
+        {
+            "ID": "sleep",
+            "value": "Energie sparen"
+        },
+        {
+            "ID": "startscreen",
+            "value": "Startbildschirm"
+        },
+        {
+            "ID": "stop",
+            "value": "Stopp"
+        },
+        {
+            "ID": "switchscreen",
+            "value": "Bildschirm umschalten"
+        },
+        {
+            "ID": "thispc",
+            "value": "Dieser PC"
+        },
+        {
+            "ID": "togglesmoothscrolling",
+            "value": "Flüssige Bildläufe umschalten"
+        },
+        {
+            "ID": "videos",
+            "value": "Videos"
+        },
+        {
+            "ID": "volumedown",
+            "value": "Lautstärke -"
+        },
+        {
+            "ID": "volumeup",
+            "value": "Lautstärke +"
+        },
+        {
+            "ID": "zoomin",
+            "value": "Vergrößern"
+        },
+        {
+            "ID": "zoomout",
+            "value": "Verkleinern"
+        },
+        {
+            "ID": "zoomreset",
+            "value": "Zoom zurücksetzen"
+        },
+        {
+            "ID": "none",
+            "value": "Kein"
+        },
+        {
+            "ID": "switchleft",
+            "value": "Nach links wechseln"
+        },
+        {
+            "ID": "switchright",
+            "value": "Nach rechts wechseln"
+        },
+        {
+            "ID": "previouspage",
+            "value": "Vorherige Seite"
+        },
+        {
+            "ID": "nextpage",
+            "value": "Nächste Seite"
+        },
+        {
+            "ID": "navigatepages",
+            "value": "Seiten navigieren"
+        },
+        {
+            "ID": "customkey",
+            "value": "Benutzerdefinierte Taste"
+        },
+        {
+            "ID": "navigatebetweenapps",
+            "value": "Apps navigieren"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "Kontextabhängig"
+        },
+        {
+            "ID": "crownbrowsertextsize",
+            "value": "Textgröße oder Registerkartenwechsel"
+        },
+        {
+            "ID": "createvirtualdesktop",
+            "value": "Neuer Desktop"
+        },
+        {
+            "ID": "clonevirtualdesktop",
+            "value": "Desktop schließen"
+        },
+        {
+            "ID": "nextvirtualdesktop",
+            "value": "Desktop (vorwärts)"
+        },
+        {
+            "ID": "previousvirtualdesktop",
+            "value": "Desktop (zurück)"
+        },
+        {
+            "ID": "teskview",
+            "value": "Funktionsansicht"
+        },
+        {
+            "ID": "teskview10",
+            "value": "Funktionsansicht"
+        },
+        {
+            "ID": "cortana",
+            "value": "Cortana"
+        },
+        {
+            "ID": "actioncenter",
+            "value": "Zentrieren-Aktion"
+        }
+    ]
+}

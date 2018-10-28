@@ -1,0 +1,40 @@
+{
+    "GUID": "e9710460-cf66-49a2-80ed-5ee8a1b267e5",
+    "info": {
+        "name": "Adobe Lightroom Classic CC",
+        "publisher": "Logitech Inc.",
+        "version": "1.0",
+        "win_name": "Lightroom.exe",
+        "mac_bundle": "Adobe Lightroom Classic CC.app",
+        "mac_paths": [
+            {
+                "path": "/Applications/Adobe Lightroom Classic CC/Adobe Lightroom Classic CC.app",
+                "mac_minimum_supported_version": "7.0.0",
+                "mac_maximum_supported_version": "7.*.*",
+                "name_suffix": ""
+            }
+        ],
+        "win_minimum_supported_version": "7.0.0",
+        "win_maximum_supported_version": "7.*.*"
+    },
+    "crown": {
+        "rotate": {
+            "default_task": "changetoolvalue",
+            "tasks": [
+                "changetoolvalue"
+            ],
+            "short_list": [
+				"changetoolvalue"
+            ]
+        },
+        "press": {
+            "default_task": "playpause",
+            "tasks": [
+                "playpause"
+            ],
+            "short_list": [
+                "playpause"
+            ]
+        }
+    }
+}

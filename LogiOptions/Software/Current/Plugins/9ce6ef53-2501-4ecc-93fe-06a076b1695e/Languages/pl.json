@@ -1,0 +1,412 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "crownbrightness",
+            "value": "Jasność"
+        },
+        {
+            "ID": "crownvolume",
+            "value": "Głośność"
+        },
+        {
+            "ID": "crownmediacontrol",
+            "value": "Sterowanie multimediami"
+        },
+        {
+            "ID": "crownexposeappswitch",
+            "value": "Przełącz aplikacje"
+        },
+        {
+            "ID": "crowntabscommand",
+            "value": "Przełączanie kart"
+        },
+        {
+            "ID": "crownswitchdesktop",
+            "value": "Przełączanie pulpitów"
+        },
+        {
+            "ID": "crownzoom",
+            "value": "Powiększenie"
+        },
+        {
+            "ID": "crownnavigatepages",
+            "value": "Nawigacja po stronach"
+        },
+        {
+            "ID": "crowncustomkeyleftright",
+            "value": "Klawisz niestandardowy"
+        },
+        {
+            "ID": "crownhscroll",
+            "value": "Przewijanie w poziomie"
+        },
+		{
+            "ID": "brightness",
+            "value": "Jasność"
+        },
+        {
+            "ID": "volume",
+            "value": "Głośność"
+        },
+        {
+            "ID": "mediaplayer",
+            "value": "Odtwarzacz multimediów"
+        },
+        {
+            "ID": "appswitch",
+            "value": "Przełącz aplikacje"
+        },
+        {
+            "ID": "tabsswitch",
+            "value": "Przełączanie kart"
+        },
+        {
+            "ID": "desktopswitch",
+            "value": "Przełączanie pulpitów"
+        },
+        {
+            "ID": "crowndesktopswitch",
+            "value": "Przełączanie pulpitów"
+        },
+        {
+            "ID": "zoom",
+            "value": "Powiększenie"
+        },
+        {
+            "ID": "gesturebutton",
+            "value": "Przycisk gestów"
+        },
+        {
+            "ID": "modeshiftbutton",
+            "value": "Przycisk zmiany trybu"
+        },
+        {
+            "ID": "advancedclick",
+            "value": "Zaawansowane kliknięcie"
+        },
+        {
+            "ID": "applicationmenu",
+            "value": "Menu aplikacji"
+        },
+        {
+            "ID": "back",
+            "value": "Wstecz"
+        },
+        {
+            "ID": "calculator",
+            "value": "Kalkulator"
+        },
+        {
+            "ID": "charms",
+            "value": "Paski funkcji"
+        },
+        {
+            "ID": "closewindow",
+            "value": "Zamknij okno"
+        },
+        {
+            "ID": "copy",
+            "value": "Kopiuj"
+        },
+        {
+            "ID": "cut",
+            "value": "Wytnij"
+        },
+        {
+            "ID": "devices",
+            "value": "Urządzenia"
+        },
+        {
+            "ID": "documents",
+            "value": "Dokumenty"
+        },
+        {
+            "ID": "doubleclick",
+            "value": "Dwukrotne kliknięcie"
+        },
+        {
+            "ID": "email",
+            "value": "E-mail"
+        },
+        {
+            "ID": "forward",
+            "value": "Dalej"
+        },
+        {
+            "ID": "home",
+            "value": "Strona główna"
+        },
+        {
+            "ID": "myhome",
+            "value": "Moja strona główna"
+        },
+        {
+            "ID": "mymusic",
+            "value": "Moja muzyka"
+        },
+        {
+            "ID": "inputlanguage",
+            "value": "Język wprowadzania"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Przypisanie sekwencji klawiszy"
+        },
+        {
+            "ID": "launchapplication",
+            "value": "Uruchom aplikację"
+        },
+        {
+            "ID": "leftclick",
+            "value": "Kliknięcie lewym przyciskiem myszy"
+        },
+        {
+            "ID": "lock",
+            "value": "Zablokuj"
+        },
+        {
+            "ID": "maximizewindow",
+            "value": "Maksymalizuj okno"
+        },
+        {
+            "ID": "middlebutton",
+            "value": "Środkowy przycisk"
+        },
+        {
+            "ID": "minimizewindow",
+            "value": "Minimalizuj okno"
+        },
+        {
+            "ID": "modifierkeys",
+            "value": "Klawisze modyfikatorów"
+        },
+        {
+            "ID": "mousesensitivity",
+            "value": "Czułość myszy"
+        },
+        {
+            "ID": "music",
+            "value": "Muzyka"
+        },
+        {
+            "ID": "mute",
+            "value": "Wycisz"
+        },
+        {
+            "ID": "mycomputer",
+            "value": "Mój komputer"
+        },
+        {
+            "ID": "mydocuments",
+            "value": "Moje dokumenty"
+        },
+        {
+            "ID": "myvideos",
+            "value": "Moje filmy"
+        },
+        {
+            "ID": "next",
+            "value": "Następny"
+        },
+        {
+            "ID": "nextprevious",
+            "value": "Następny/poprzedni"
+        },
+        {
+            "ID": "nexttrackfastforward",
+            "value": "Następny utwór/Przew. do przodu"
+        },
+        {
+            "ID": "openfile",
+            "value": "Otwórz plik"
+        },
+        {
+            "ID": "openfolder",
+            "value": "Otwórz folder"
+        },
+        {
+            "ID": "openwebpage",
+            "value": "Otwórz stronę internetową"
+        },
+        {
+            "ID": "paste",
+            "value": "Wklej"
+        },
+        {
+            "ID": "mypictures",
+            "value": "Moje obrazy"
+        },
+        {
+            "ID": "pictures",
+            "value": "Obrazy"
+        },
+        {
+            "ID": "playpause",
+            "value": "Odtwórz/Wstrzymaj"
+        },
+        {
+            "ID": "previous",
+            "value": "Poprzedni"
+        },
+        {
+            "ID": "previoustrackrewind",
+            "value": "Poprzedni utwór / przewijanie do tyłu"
+        },
+        {
+            "ID": "rightclick",
+            "value": "Kliknięcie prawym przyciskiem myszy"
+        },
+        {
+            "ID": "scrollleft",
+            "value": "Przewiń w lewo"
+        },
+        {
+            "ID": "scrollright",
+            "value": "Przewiń w prawo"
+        },
+        {
+            "ID": "search",
+            "value": "Wyszukiwanie"
+        },
+        {
+            "ID": "settings",
+            "value": "Ustawienia"
+        },
+        {
+            "ID": "share",
+            "value": "Udostępnianie"
+        },
+        {
+            "ID": "showhidedesktop",
+            "value": "Pokaż/ukryj pulpit"
+        },
+        {
+            "ID": "shutdown",
+            "value": "Wyłącz"
+        },
+        {
+            "ID": "signout",
+            "value": "Wyloguj się"
+        },
+        {
+            "ID": "sleep",
+            "value": "Uśpij"
+        },
+        {
+            "ID": "startscreen",
+            "value": "Ekran startowy"
+        },
+        {
+            "ID": "stop",
+            "value": "Zatrzymaj"
+        },
+        {
+            "ID": "switchscreen",
+            "value": "Przełącz ekran"
+        },
+        {
+            "ID": "thispc",
+            "value": "Ten komputer"
+        },
+        {
+            "ID": "togglesmoothscrolling",
+            "value": "Przełącz płynne przewijanie"
+        },
+        {
+            "ID": "videos",
+            "value": "Wideo"
+        },
+        {
+            "ID": "volumedown",
+            "value": "Zmniejszanie głośności"
+        },
+        {
+            "ID": "volumeup",
+            "value": "Zwiększanie głośności"
+        },
+        {
+            "ID": "zoomin",
+            "value": "Powiększ"
+        },
+        {
+            "ID": "zoomout",
+            "value": "Pomniejsz"
+        },
+        {
+            "ID": "zoomreset",
+            "value": "Resetuj powiększenie"
+        },
+        {
+            "ID": "none",
+            "value": "Brak"
+        },
+        {
+            "ID": "switchleft",
+            "value": "Przełącz w lewo"
+        },
+        {
+            "ID": "switchright",
+            "value": "Przełącz w prawo"
+        },
+        {
+            "ID": "previouspage",
+            "value": "Poprzednia strona"
+        },
+        {
+            "ID": "nextpage",
+            "value": "Następna strona"
+        },
+        {
+            "ID": "navigatepages",
+            "value": "Nawigacja po stronach"
+        },
+        {
+            "ID": "customkey",
+            "value": "Klawisz niestandardowy"
+        },
+        {
+            "ID": "navigatebetweenapps",
+            "value": "Nawigacja między aplikacjami"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "Kontekstowo"
+        },
+        {
+            "ID": "crownbrowsertextsize",
+            "value": "Zmiana rozmiaru tekstu lub karty"
+        },
+        {
+            "ID": "createvirtualdesktop",
+            "value": "Nowy pulpit"
+        },
+        {
+            "ID": "clonevirtualdesktop",
+            "value": "Zamknij pulpit"
+        },
+        {
+            "ID": "nextvirtualdesktop",
+            "value": "Pulpit (następny)"
+        },
+        {
+            "ID": "previousvirtualdesktop",
+            "value": "Pulpit (poprzedni)"
+        },
+        {
+            "ID": "teskview",
+            "value": "Widok zadań"
+        },
+        {
+            "ID": "teskview10",
+            "value": "Widok zadań"
+        },
+        {
+            "ID": "cortana",
+            "value": "Cortana"
+        },
+        {
+            "ID": "actioncenter",
+            "value": "Centrum akcji"
+        }
+    ]
+}

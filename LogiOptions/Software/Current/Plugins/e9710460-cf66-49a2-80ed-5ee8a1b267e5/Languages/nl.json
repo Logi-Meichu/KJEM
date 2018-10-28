@@ -1,0 +1,70 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "Contextueel"
+        },
+		{
+            "ID": "customactions",
+            "value": "Aangepaste acties"
+        },
+        {
+            "ID": "Zoom",
+            "value": "Zoomen"
+        },
+        {
+            "ID": "Temperature",
+            "value": "Temperatuur"
+        },
+        {
+            "ID": "Tint",
+            "value": "Kleurtoon"
+        },
+		{
+            "ID": "Exposure",
+            "value": "Belichting"
+        },
+		{
+            "ID": "Contrast",
+            "value": "Contrast"
+        },
+        {
+            "ID": "Highlights",
+            "value": "Hooglichten"
+        },
+        {
+            "ID": "Shadows",
+            "value": "Schaduwen"
+        },
+        {
+            "ID": "Whites",
+            "value": "Witte tinten"
+        },
+        {
+            "ID": "Blacks",
+            "value": "Zwarte tinten"
+        },
+		{
+            "ID": "Clarity",
+            "value": "Helderheid"
+        },
+        {
+            "ID": "Vibrance",
+            "value": "Levendigheid"
+        },
+        {
+            "ID": "Saturation",
+            "value": "Verzadiging"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Toetsaanslagen toewijzen"
+        },
+        {
+            "ID": "playpause",
+            "value": "Afspelen/pauzeren"
+        }
+    ]
+}
+
+

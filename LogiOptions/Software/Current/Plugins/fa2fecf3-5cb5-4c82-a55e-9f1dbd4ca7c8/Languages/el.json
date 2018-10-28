@@ -1,0 +1,20 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "Στοιχεία ελέγχου για VLC"
+        },
+		{
+            "ID": "nextPrevious",
+            "value": "Προηγούμενο/ Επόμενο"
+        },
+		{
+            "ID": "ShortSeek",
+            "value": "Αναζήτηση"
+        },
+        {
+            "ID": "volumeUpDown",
+            "value": "Ένταση ήχου"
+        }
+    ]
+}

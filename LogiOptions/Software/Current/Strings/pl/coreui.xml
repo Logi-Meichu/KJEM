@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringDictionary version="1.2">
+  <Strings>
+    <String key="WindowName">LogiOptions</String>
+    <String key="ApplicationName">Options</String>
+    <String key="MoreDetails">Więcej ustawień</String>
+    <String key="FnInversion">Użyj klawiszy F1 - F12 jako standardowych klawiszy funkcyjnych</String>
+    <String key="KeyboardWinMode">Zawsze zachowuj układ klawiatury systemu Windows</String>
+    <String key="Backlighting">Wyłącz podświetlenie</String>
+    <String key="Customize">DOSTOSUJ</String>
+    <String key="CustomizeGestures">Dostosuj gesty</String>
+    <String key="GestureClickDetail">Kliknij przycisk gestów.</String>
+    <String key="GestureMotionDetail">Przytrzymaj przycisk gestów podczas przesuwania myszy.</String>
+    <String key="GestureMotionDetail_Trackball">Przytrzymaj przycisk gestów podczas przesuwania trackballa.</String>
+    <!--<String key="GestureButtonLearnMore">Learn more about gesture button</String>-->
+    <String key="LearnMore">DOWIEDZ SIĘ WIĘCEJ</String> 
+    <String key="LaunchSetpoint">Uruchom oprogramowania SetPoint</String>
+    <String key="DownloadSetpoint">Pobierz oprogramowanie SetPoint</String>
+    <String key="CrosslinkDevicesReminder">Nie pokazuj tego komunikatu ponownie</String>
+    <String key="CrosslinkDevicesDialog">Oprogramowanie %BrandName% Options nie obsługuje wszystkich urządzeń firmy %BrandName% podłączonych do systemu.  Użyj oprogramowania %BrandName% SetPoint, aby dostosować ustawienia następujących urządzeń:</String>
+    <String key="CommaSeparator">, </String>
+    <String key="AndSeparator"> i </String>
+
+    <String key="StringFragments:Device">urządzenie</String>
+
+    <String key="DeviceList:NoDevices">Nie wykryto urządzeń</String>
+    <String key="DeviceList:NoDeviceDesc">Upewnij się, że urządzenia są podłączone i włączone.</String>
+    <String key="DeviceList:Removed">Usunięto</String>
+    <String key="DeviceList:Enumuerate">Przeszukiwanie...</String>
+    <String key="DeviceList:Devices">Urządzenia</String>
+
+    <String key="Video:NoVideo">Nie zainstalowano filmu</String>
+    <String key="Video:VideoFailDialog">W tym momencie nie można pobrać filmu dla urządzenia. Spróbuj ponownie później.</String>
+
+    <String key="Tooltip:BatteryUnknown">Nieznany</String>
+    <String key="Tooltip:BatteryCritical">Krytyczny</String>
+    <String key="Tooltip:BatteryLow">Niski</String>
+    <String key="Tooltip:BatteryGood">Dobry</String>
+    <String key="Tooltip:BatteryFull">Pełny</String>
+    <String key="Tooltip:BatteryCharging">Ładowanie</String>
+    <String key="Tooltip:BatteryError">Błąd ładowania</String>
+    <String key="Tooltip:BatteryComplete">Zakończono ładowanie</String>
+    <String key="Tooltip:Connected">Połączono</String>
+    <String key="Tooltip:NotConnected">Niepołączony</String>
+
+    <!-- Device Settings Tabs -->
+    <String key="DeviceSettings:Keyboard">Klawiatura</String>
+    <String key="DeviceSettings:Mouse">Mysz</String>
+    <String key="DeviceSettings:Trackball">Trackball</String>
+    <String key="DeviceSettings:PointScroll">Wskazywanie i przewijanie</String>
+    <String key="DeviceSettings:Gestures">Gesty</String>
+    <String key="DeviceSettings:Illumination">Podświetlenie</String>
+    <String key="DeviceSettings:FunctionKeys">Klawisze funkcyjne</String>
+    <String key="DeviceSettings:ShortcutKeys">Klawisze skrótów</String>
+    <String key="DeviceSettings:EasySwitch">Easy-Switch</String>
+    <String key="DeviceSettings:Crown">Korona</String>
+    <String key="DeviceSettings:Flow">Flow</String>
+    <String key="DeviceSettings:Beta">Beta</String>
+
+    <String key="DeviceSettings:GestureById0x2e">Czułość kółka obsługiwanego kciukiem</String>
+
+    <String key="Buttons:MinimizeToolTip">Minimalizuj</String>
+    <String key="Buttons:CloseToolTip">Zamknij</String>
+    <String key="Buttons:More">WIĘCEJ</String>
+    <String key="Buttons:Less">MNIEJ</String>
+    <String key="Buttons:RestoreDefaults">Przywróć domyślne</String>
+    <String key="Buttons:Restore">Przywróć</String>
+    <String key="Buttons:YourDevices">Twoje urządzenia</String>
+    <String key="Buttons:AddDevice">Dodaj urządzenia</String>
+    <String key="Buttons:Continue">Kontynuuj</String>
+    <String key="Buttons:TryAgain">Spróbuj ponownie</String>
+    <String key="Buttons:Cancel">Anuluj</String>
+    <String key="Buttons:Skip">Pomiń</String>
+    <String key="Buttons:Remind">Zainstaluj później</String>
+    <String key="Buttons:Okay">OK</String>
+    <String key="Buttons:Ok">OK</String>
+    <String key="Buttons:FirmwareUpdate">Sprawdź aktualizacje oprogramowania układowego</String>
+    <String key="Buttons:SoftwareUpdate">Sprawdź dostępność aktualizacji</String>
+    <String key="Buttons:LaunchUnifying">Otwórz oprogramowanie Unifying</String>
+    <String key="Buttons:FileBrowse">Przeglądaj...</String>
+    <String key="Buttons:VideoDownload">Pobierz film</String>
+    <String key="Buttons:PairAnother">Skojarz inne urządzenie</String>
+    <String key="Buttons:Done">Gotowe</String>    
+    <String key="Buttons:Enable">WŁĄCZ</String><!--NEW AFTER 4/10/2017-->
+    <String key="Buttons:Disable">WYŁĄCZ</String>
+    <String key="Buttons:Retry">PONÓW PRÓBĘ</String>
+    <String key="Buttons:MoreSettings">WIĘCEJ USTAWIEŃ</String><!--NEW 7/24/2017-->
+    
+    <String key="TaskSelect:RemoveHost">USUŃ</String>
+    <String key="TaskSelect:Keystroke">Wprowadź sekwencję klawiszy</String>
+    <String key="TaskSelect:FileLaunch">Nazwa pliku</String>
+    <String key="TaskSelect:FolderLaunch">Nazwa folderu</String>
+    <String key="TaskSelect:WebLaunch">Adres internetowy</String>
+    <String key="TaskSelect:HostSwitch">Sterowanie funkcją Easy-Switch</String>
+    <String key="TaskSelect:DpiShift">Ustaw czułość myszy</String>
+    <String key="TaskSelect:DpiShiftTrackball">Ustaw czułość trackballa</String>
+    <String key="TaskSelect:HorizontalScrollSpeed">Ustaw szybkość przewijania w poziomie</String>
+    <String key="TaskSelect:KeystrokeBlank">(Kliknij tutaj)</String>
+    <String key="TaskSelect:FileLaunchBlank">(Wprowadź nazwę pliku)</String>
+    <String key="TaskSelect:FolderLaunchBlank">(Wprowadź nazwę folderu)</String>
+    <String key="TaskSelect:WebLaunchBlank">(Wprowadź adres URL)</String>
+    <String key="TaskSelect:KeystrokeDesc">Kliknij białe pole powyżej i naciśnij prawidłową kombinację klawiszy, aby utworzyć skrót.</String>
+    <String key="TaskSelect:FileLaunchDesc">Kliknij przycisk Przeglądaj, aby wybrać plik, lub wpisz pełną ścieżkę do pliku w białym polu powyżej.</String>
+    <String key="TaskSelect:FolderLaunchDesc">Kliknij przycisk Przeglądaj, aby wybrać folder, lub wpisz pełną ścieżkę do folderu w białym polu powyżej.</String>
+    <String key="TaskSelect:WebLaunchDesc">Wprowadź adres URL żądanej witryny internetowej w białym polu powyżej.</String>
+    <String key="TaskSelect:HostSwitchDesc">Naciśnij przycisk, aby przełączyć na następnego dostępnego hosta.</String>
+    <String key="TaskSelect:DpiShiftDesc">Naciśnij przycisk, aby przełączyć między główną a niestandardową szybkością wskaźnika.</String>
+    <String key="TaskSelect:HorizontalScrollSpeedDesc">Użyj suwaka, aby dostosować ustawienie szybkości przewijania w poziomie.</String>
+    <String key="TaskSelect:KeystrokeWaiting">(Naciśnij kombinację klawiszy)</String>
+    <String key="TaskSelect:DpiShiftMasterChannel">Główna</String>
+    <String key="TaskSelect:DpiShiftCustom1Channel">Niestandardowe</String>
+    <String key="TaskSelect:HostSwitchNotAvail">Urządzenie niedostępne</String>
+    <String key="TaskSelect:HostSwitchInstruction">Przełączaj między maksymalnie 3 hostami.</String>
+    <String key="TaskSelect:HostSwitchLegend1">Bieżący host</String>
+    <String key="TaskSelect:HostSwitchLegend2">Dostępny</String>
+    <String key="TaskSelect:HostSwitchLegend3">Niedostępny</String>
+    <String key="TaskSelect:ThumbwheelScroll">Kółko obsługiwane kciukiem</String>
+    <String key="TaskSelect:InvertHorzScroll">Odwróć kierunek przewijania w poziomie</String>
+    <String key="TaskSelect:TiltScrollSpeed">Ustaw szybkość przewijania w poziomie</String>
+    <String key="TaskSelect:AdvancedClick">Skonfiguruj zaawansowane kliknięcie</String>
+    <String key="TaskSelect:ModifierKeys">Wybierz modyfikatory</String>
+    <String key="TaskSelect:ModKeyAlt">Alt</String>
+    <String key="TaskSelect:ModKeyCtl">Ctrl</String>
+    <String key="TaskSelect:ModKeyShf">Shift</String>
+    <String key="TaskSelect:ModKeyWin">Win</String>
+    <String key="TaskSelect:ModKeyJnr"> + </String>
+    <String key="TaskSelect:SelectClick">Wybierz typ kliknięcia</String>
+    <String key="TaskSelect:SingleClick">Kliknięcie</String>
+    <String key="TaskSelect:DoubleClick">Dwukrotne kliknięcie</String>
+    <String key="TaskSelect:TripleClick">Potrójne kliknięcie</String>
+    <String key="TaskSelect:RightClick">Kliknięcie prawym przyciskiem myszy</String>
+    <String key="TaskSelect:MiddleClick">Kliknięcie środkowym przyciskiem</String>
+    <String key="TaskSelect:SelectTools">Wybierz narzędzia dla programistów</String>
+    <String key="TaskSelect:SelectToolsHint">W zależności od rozdzielczości ekranu nie wszystkie aktywne narzędzia się wyświetlać w nakładce.</String>
+
+    <String key="More:ThisDevice">To urządzenie</String>
+    <String key="More:Connectivity">Łączność</String>
+    <String key="More:Software">Oprogramowanie</String>
+    <String key="More:About">Informacje</String>
+    <String key="More:NotifyCheckbox">Automatycznie sprawdzaj aktualizacje</String>
+    <String key="More:Notifications">Powiadomienia</String>
+    <String key="More:NotificationText">Powiadom mnie o następujących zdarzeniach. (Powiadomienia będą wyświetlane krótko na ekranie).</String>
+    <String key="More:NotificationsText">Powiadom mnie w przypadku wystąpienia jednego z poniższych zdarzeń. (Powiadomienia będą wyświetlane krótko na ekranie).</String>
+    <String key="More:NotifyBattLow">Baterie urządzenia są rozładowane</String>
+    <String key="More:NotifyCapsLock">Naciśnięto klawisz Caps Lock</String>
+    <String key="More:NotifyScrollLock">Naciśnięto klawisz Scroll Lock</String>
+    <String key="More:NotifyLockKey">Naciśnięto klawisz blokady</String>
+    <String key="More:DisabledKeys">Wyłączone klawisze</String>
+    <String key="More:DisabledKeysText">Zaznacz klawisze, które chcesz wyłączyć.</String>
+    <String key="More:KeysCapsLock">Caps Lock</String>
+    <String key="More:KeysScrollLock">Scroll Lock</String>
+    <String key="More:KeysInsert">Insert</String>
+    <String key="More:KeysWindows">Klawisz z logo Windows/Start</String>
+    <String key="More:KeysNumLock">Num Lock</String>
+    <String key="More:Unifying">Unifying</String>
+    <String key="More:UnifyingText">Do tego komputera jest podłączony odbiornik %BrandName% Unifying. Z jednym odbiornikiem %BrandName% Unifying możesz sparować maksymalnie sześć zgodnych myszy bezprzewodowych, klawiatur lub innych urządzeń Unifying.</String>
+    <String key="More:LearnMore">Więcej informacji</String>
+    <String key="More:OpenUnifying">Otwórz oprogramowanie Unifying</String>
+    <String key="More:Bluetooth">Bluetooth</String>
+    <String key="More:SoftwareVersion">Wersja oprogramowania: </String>
+    <String key="More:FirmwareVersion">Wersja oprogramowania układowego: </String>
+    <String key="More:CopyTrade">© 2018 %BrandName%. %BrandName%, Logi i inne znaki marki %BrandName% są własnością firmy %BrandName% i mogą być zastrzeżone. Wszystkie inne znaki towarowe należą do odpowiednich właścicieli.</String>
+    <String key="More:Support">Pomoc techniczna</String>
+    <String key="More:SupportText">Odwiedź witrynę pomocy technicznej, aby otrzymać wsparcie, znaleźć dokumentację i pliki do pobrania lub uzyskać dostęp do forów użytkowników.</String>
+    <String key="More:DeveloperMode">Tryb programisty</String><!--NEW 1/11/2018-->
+    <String key="More:DeveloperModeText">Umożliwia instalację i użycie niepodpisanych profili aplikacji innych firm na potrzeby projektowania. Dowiedz się więcej o zestawie </String><!--NEW 1/11/2018-->
+    <String key="More:DeveloperModeLink">Options SDK</String><!--NEW 1/11/2018-->
+    <String key="More:DeveloperModeEnabled">TRYB PROGRAMISTY WŁĄCZONY</String><!--NEW 1/11/2018-->
+
+    <String key="UpdateStatus:Checking">Sprawdzanie aktualizacji...</String>
+    <String key="UpdateStatus:NoUpdateAvailable">Oprogramowanie jest aktualne</String>
+    <String key="UpdateStatus:DownloadInProgress">Pobieranie aktualizacji...</String>
+    <String key="UpdateStatus:DownloadSuccess">Zakończono pobieranie</String>
+    <String key="UpdateStatus:DownloadFailure">Pobieranie nie powiodło się</String>
+    <String key="UpdateStatus:InstallInProgress">Instalowanie aktualizacji...</String>
+    <String key="UpdateStatus:InstallSuccess">Oprogramowanie jest aktualne</String>
+    <String key="UpdateStatus:InstallFailure">Instalacja nie powiodła się</String>
+    <String key="UpdateStatus:NoInternetConnection">Nie wykryto połączenia internetowego, spróbuj ponownie później.</String>
+
+    <String key="Modal:RestoreDefaultsWarning">Zostaną przywrócone domyślne wartości ustawień tego urządzenia. Uniwersalne ustawienia, które mają zastosowanie do wszystkich urządzeń, nie zostaną przywrócone. Kliknij przycisk Kontynuuj, aby przywrócić ustawienia domyślne, lub przycisk Anuluj, aby zachować bieżące ustawienia.</String>
+    <String key="Modal:InstallUpdates">Aktualizacja jest gotowa do zainstalowania. Kliknij przycisk Kontynuuj, aby zainstalować aktualizację teraz, przycisk Zainstaluj później, aby wyświetlić przypomnienie po następnym uruchomieniu tej aplikacji, lub przycisk Pomiń, aby zignorować tę aktualizację.</String>
+    <String key="Modal:InteractiveUpdates">Aktualizacja jest gotowa do zainstalowania. Kliknij przycisk Kontynuuj, aby zainstalować aktualizację teraz, lub przycisk Zainstaluj później, aby wyświetlić przypomnienie po następnym uruchomieniu tej aplikacji.</String>
+    <String key="Modal:RelaunchUI">Aplikacja %BrandName% Options została zaktualizowana i automatycznie uruchomi się ponownie, aby włączyć nowe funkcje.</String>
+    <String key="Modal:ClearHostChannel">Spowoduje to tymczasowe usunięcie wybranego hosta z funkcji Easy-Switch. Kliknij przycisk %%Buttons:Continue%%, aby kontynuować, lub przycisk %%Buttons:Cancel%%, aby przerwać.</String>
+    <String key="Modal:UnknownFeatures">Oprogramowanie %BrandName% Options znalazło nieznane funkcje w co najmniej jednym podłączonym urządzeniu. Aby zapewnić ich prawidłową obsługę, zaktualizuj oprogramowanie %BrandName% Options do najnowszej wersji.</String>
+    <String key="Modal:ConfirmEnableDeveloperMode">Włączenie trybu programisty umożliwia instalowanie i użycie profili aplikacji, które nie zostały zatwierdzone i podpisane przez firmę %BrandName%. Ta czynność może mieć wpływ na zachowanie urządzeń i aplikacji. W przypadku napotkania problemów przed skontaktowaniem się z naszym działem pomocy technicznej wyłącz tryb programisty. 
+
+UWAGA: analiza zostanie automatycznie włączona.</String><!--NEW 1/11/2018-->
+    <String key="Modal:ConfirmDisableDeveloperMode">Wyłączenie trybu programisty uniemożliwia instalowanie nowych profili aplikacji, które nie zostały zatwierdzone i podpisane przez firmę %BrandName%. Wszystkie niepodpisane profile aplikacji, które już zainstalowano, zostaną usunięte z listy profili.</String><!--NEW 1/11/2018-->
+    <String key="Modal:OnboardingSelectionError">Do aplikacji może być przypisany tylko jeden profil. Wybierz z listy jeden profil. Jeśli włączono już profil, usuń najpierw profil aplikacji z sekcji „Ustawienia specyficzne dla aplikacji”, a następnie ponownie go zainstaluj.</String><!--NEW 1/11/2018-->
+
+    <String key="DFUState:DFU_WELCOME_PAGE_STEP0">Dostępna jest aktualizacja oprogramowania układowego urządzenia ==DeviceName==. Podczas tego procesu urządzenie ==DeviceName== może być niedostępne w celu użycia. Czy chcesz kontynuować?</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_PAIRED_STEP1">Sprawdzanie sparowanego urządzenia...</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_PAIRED_STEP1_WAITING">Urządzenie ==DeviceName== prawdopodobnie nie jest sparowane; sparuj je teraz lub spróbuj ponownie później.</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_ACTIVE_STEP2">Potwierdzanie, że urządzenie jest aktywne...</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_ACTIVE_STEP2_WAITING">Nie można wykryć urządzenia ==DeviceName==. Upewnij się, że urządzenie jest włączone i działa.</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_BATTERY_OK_STEP3">Sprawdzanie stanu naładowania baterii...</String>
+    <String key="DFUState:DFU_PREREQ_FW_VERSION_CHECK_STEP3_PLUS">Sprawdzanie wersji oprogramowania układowego...</String>
+    <String key="DFUState:DFU_ENTER_DFU_MODE_STEP4">Przełączanie urządzenia w tryb aktualizacji oprogramowania układowego...</String>
+    <String key="DFUState:DFU_ENTER_DFU_MODE_STEP4_WAITING">Aby zainstalować aktualizację, wyłącz urządzenie ==DeviceName== i włącz je ponownie. Po rozpoczęciu aktualizacji nie wyłączaj urządzenia ani nie odłączaj go aż do zakończenia procesu.</String>
+    <String key="DFUState:DFU_SEND_FIRST_DFU_PACKET_STEP5">Inicjowanie aktualizacji oprogramowania układowego...</String>
+    <String key="DFUState:DFU_PACKET_STEP5_RESPONSE_WAITING">Aktualizowanie oprogramowania układowego urządzenia ==DeviceName==</String>
+    <String key="DFUState:DFU_ABORT_INTERNAL_ERROR">Wystąpił błąd podczas procesu aktualizacji. Spróbuj ponownie zainstalować aktualizację.</String>
+    <String key="DFUState:DFU_ABORT_LOW_BATTERY_ERROR">Nie można zainstalować aktualizacji ze względu na zbyt niski poziom naładowania baterii urządzenia ==DeviceName==. Naładuj lub wymień baterie, a następnie ponów próbę zainstalowania aktualizacji.</String>
+    <String key="DFUState:DFU_ABORT_START_FAILED_ERROR">Wystąpił błąd podczas procesu aktualizacji. Spróbuj ponownie zainstalować aktualizację.</String>
+    <String key="DFUState:DFU_SUCCESS">Oprogramowanie układowe urządzenia ==DeviceName== zostało pomyślnie zaktualizowane!</String>
+    <String key="DFUState:DFU_ABORT">Nieznany problem spowodował przerwanie aktualizacji oprogramowania sprzętowego. Spróbuj ponownie później.</String>
+    <String key="DFUState:DFU_DONE">Urządzenie ==DeviceName== jest teraz gotowe do użycia.</String>
+    <String key="DFUState:DFU_ABORT_FW_VERSION_UPTO_DATE">Oprogramowanie układowe urządzenia jest już aktualne.</String>
+    <String key="DFUState:DFU_BLE_MODE_NOT_SUPPORTED">Nie można zaktualizować urządzenia ==DeviceName==, gdy jest sparowane z interfejsem Bluetooth. Upewnij się, że urządzenie jest sparowane z odbiornikiem Unifying, i spróbuj ponownie. Dziękujemy.</String>
+    <String key="DFUState:DFU_EXIT_FROM_WELCOME_PAGE"/>
+    <String key="DFUState:Unknown">Osiągnięto nieznany stan DFU:</String>
+
+    <String key="GenericFeatures:ProgramControls">Programowalne elementy sterujące</String>
+    <String key="GenericFeatures:UnsupportedFeatures">Nieobsługiwane funkcje</String>
+
+    <String key="MouseFeatures:MiddleButton">Środkowy przycisk</String>
+    <String key="MouseFeatures:PointerSpeed">Szybkość wskaźnika</String>
+    <String key="MouseFeatures:ScrollDirection">Kierunek kółka przewijania</String>
+    <String key="MouseFeatures:SmoothScroll">Płynne przewijanie</String>
+    <String key="MouseFeatures:SmartShift">SmartShift</String>
+    <String key="MouseFeatures:SmartShiftThreshold">Czułość funkcji SmartShift</String>
+    <String key="MouseFeatures:DefaultWheelMode">Ustalony tryb kółka przewijania</String>
+    <String key="MouseFeatures:SwapLeftRight">Zamień lewy/prawy przycisk</String>
+    <String key="MouseFeatures:SmartShiftHintOff">Ustalony tryb jest nieaktywny. (Wyłącz funkcję SmartShift i upewnij się, że przełączanie trybu nie jest przypisane do żadnego przycisku).</String>
+    <String key="MouseFeatures:SmartShiftHintOn">Ustalony tryb jest aktywny. </String>
+    <String key="MouseFeatures:Enabled">Włączone</String>
+    <String key="MouseFeatures:Disabled">Wyłączone</String>
+    <String key="MouseFeatures:Traditional">Tradycyjne</String>
+    <String key="MouseFeatures:Inverted">Odwrócone</String>
+    <String key="MouseFeatures:Default">Domyślnie</String>
+    <String key="MouseFeatures:Ratchet">Zapadkowy</String>
+    <String key="MouseFeatures:Freespin">Swobodny</String>
+    <String key="MouseFeatures:HorScroll">Kierunek kółko kciukiem</String>
+    <String key="MouseFeatures:NotAssigned">Nieprzypisane</String>
+    <String key="MouseFeatures:Backlight">Wyłącz podświetlenie po upływie</String>
+    <String key="MouseFeatures:10Sec">10 sekundach</String>
+    <String key="MouseFeatures:20Sec">20 sekundach</String>
+    <String key="MouseFeatures:30Sec">30 sekundach</String>
+    <String key="MouseFeatures:1Min">1 minucie</String>
+    <String key="MouseFeatures:5Min">5 minutach</String>
+    <String key="MouseFeatures:10Min">10 minutach</String>
+    <String key="MouseFeatures:Illumination">Aktywuj podświetlenie</String>
+    <String key="MouseFeatures:HandDetection">po wykryciu dłoni</String>
+    <String key="MouseFeatures:StartTyping">kiedy zacznę pisać</String>
+
+    <String key="AddDevice">Dodawanie urządzenia</String>
+    <String key="AddDevice:UnifyingHeadline">Skonfiguruj urządzenie Unifying</String>
+    <String key="AddDevice:WirelessHeadline">Skonfiguruj urządzenie bezprzewodowe</String>
+    <String key="AddDevice:UnifyingDescription">Sparuj maksymalnie sześć zgodnych myszy bezprzewodowych i klawiatur z jednym odbiornikiem %BrandName% Unifying.</String>
+    <String key="AddDevice:WirelessDescription">Sparuj maksymalnie sześć zgodnych myszy bezprzewodowych i klawiatur z jednym odbiornikiem %BrandName% Unifying bądź mysz lub klawiaturę bezprzewodową z nanoodbiornikiem %BrandName%.</String>
+    <String key="AddDevice:LtdOnlyDescription">Sparuj mysz lub klawiaturę bezprzewodową.</String>
+    <String key="AddDevice:UnifyingButton">Dodaj urządzenie Unifying</String>
+    <String key="AddDevice:WirelessButton">Dodaj urządzenie bezprzewodowe</String>
+    <String key="AddDevice:AdvancedButton">Zaawansowana aplikacja Unifying</String>
+    <String key="AddDevice:NoUnifyingHeadline">Brak odbiornika Unifying</String>
+    <String key="AddDevice:NoUnifyingDescription">Aby dodać urządzenie, podłącz odbiornik Unifying do komputera i poczekaj kilka sekund, aż przycisk 'Dodaj urządzenie Unifying' stanie się dostępny.</String>
+    <String key="AddDevice:BluetoothHeadline">Skonfiguruj urządzenie Bluetooth</String>
+    <String key="AddDevice:BluetoothDescription">Dodaj urządzenie Bluetooth przy użyciu narzędzia parowania w systemie Windows.</String>
+    <String key="AddDevice:BluetoothButton">Dodaj urządzenie Bluetooth</String>
+    <String key="AddDevice:NoBluetoothHeadline">Brak odbiornika Bluetooth</String>
+    <String key="AddDevice:BluetoothOffHeadline">Wyłączony odbiornik Bluetooth</String>
+    <String key="AddDevice:DevicesDetected">Wykryto urządzenia</String>
+    <String key="AddDevice:NoDevicesDetected">Nie wykryto urządzeń</String>
+    <String key="AddDevice:BluetoothSmartCapable">Komputer obsługuje urządzenia Bluetooth Smart.</String>
+    <String key="AddDevice:BluetoothSmartIncapable">Komputer nie obsługuje urządzeń Bluetooth Smart.</String>
+
+    <!-- DJCU components -->
+    <String key="DJCU:ConnectTitle">Ponownie uruchom urządzenie, które chcesz połączyć z komputerem</String>
+    <String key="DJCU:Connect1">1. Znajdź suwak OFF-ON (ilustracja poniżej).</String>
+    <String key="DJCU:Connect2">2. Przesuń suwak do pozycji OFF, a następnie do pozycji ON. (Następnie poczekaj, aż urządzenie zostanie sparowane).</String>
+    <String key="DJCU:Connect3">(Wskazówka: Suwak może znajdować się pod spodem urządzenia lub w jego prawym górnym rogu).</String>
+    <String key="DJCU:Connect4">* Niektóre urządzenia firmy %BrandName% są niezgodne z tym odbiornikiem bezprzewodowym.</String>
+
+    <String key="DJCU:TimeoutTitle">Niestety, parowanie nie powiodło się</String>
+    <String key="DJCU:Timeout1">Nie udało się sparować urządzenia w oczekiwanym czasie.</String>
+    <String key="DJCU:Timeout2">Kliknij przycisk ‘%%Buttons:TryAgain%%’, aby ponownie uruchomić proces parowania.</String>
+    <String key="DJCU:Timeout3">Jeśli nie chcesz używać tego urządzenia, kliknij przycisk ‘%%Buttons:Cancel%%’.</String>
+    <String key="DJCU:Timeout4">Kliknij tutaj, aby uzyskać informacje dotyczące rozwiązywania problemów.</String>
+
+    <String key="DJCU:ReceiversFullTitle">Wszystkie odbiorniki bezprzewodowe są zapełnione</String>
+    <String key="DJCU:ReceiversFull1">Brak dostępnych gniazd w istniejących odbiornikach w celu podłączenia dodatkowego urządzenia Unifying lub bezprzewodowego.</String>
+    <String key="DJCU:ReceiversFull2">Aby podłączyć inne urządzenie, musisz podłączyć nowy odbiornik Unifying.</String>
+
+    <String key="DJCU:MultiReceiverTitle">Znaleziono wiele podłączonych odbiorników bezprzewodowych</String>
+    <String key="DJCU:MultiReceiver1">Aby sparować z określonym odbiornikiem, odłącz od komputera wszystkie odbiorniki Unifying z wyjątkiem tego, który próbujesz sparować.</String>
+    <String key="DJCU:MultiReceiver2">Jeśli chcesz, aby został wybrany dowolny dostępny odbiornik w celu sparowania, po prostu kliknij przycisk ‘%%Buttons:Continue%%’.</String>
+
+    <String key="DJCU:OtpErrorTitle">Niepowodzenie urządzenia lub odbiornika</String>
+    <String key="DJCU:OtpError1">Urządzenie lub odbiornik, które próbujesz sparować, zostały sparowane zbyt wiele razy i nie można już ich sparować.</String>
+
+    <String key="DJCU:IncompatibleDeviceTitle">Niezgodne urządzenie</String>
+    <String key="DJCU:IncompatibleDevice1">Nie można sparować urządzenia. Urządzenie jest niezgodne z odbiornikiem. Użyj odbiornika dostarczonego z urządzeniem.</String>
+
+    <String key="DJCU:PairSuccessTitle">Zakończono parowanie</String>
+    <String key="DJCU:PairSuccess1">Urządzenie %DeviceName% zostało pomyślnie sparowane.</String>
+
+    <!-- Easy-Switch HostInfo Types (feature 0x1814) -->
+    <!-- public enum HostInfoHostTypes { Unset = 0, Unknown = 1, Windows = 2, Win7 = 3, Win8 = 4, Win10 = 5, MacOS = 6, Mac107 = 7, Mac108 = 8, Mac109 = 9 } -->
+    <String key="HostInfo:Unset">Brak hosta</String>
+    <String key="HostInfo:Unknown">Nieznany typ hosta</String>
+    <String key="HostInfo:Windows">Windows</String>
+    <String key="HostInfo:Win7">Windows 7</String>
+    <String key="HostInfo:Win8">Windows 8</String>
+    <String key="HostInfo:Win10">Windows 10</String>
+    <String key="HostInfo:MacOS">Mac OS</String>
+    <String key="HostInfo:Mac107">Mac OS X 10.7</String>
+    <String key="HostInfo:Mac108">Mac OS X 10.8</String>
+    <String key="HostInfo:Mac109">Mac OS X 10.9</String>
+
+    <!-- MP HostInfo Types (features 0x4531 and 0x1815) -->
+    <!-- public enum Feature4351Platforms { Unknown = 0, Windows = 1, WinEmb = 2, Linux = 3, Chrome = 4, Android = 5, MacOS = 6, IOS = 7 } -->
+    <String key="MPHostInfo:None">Niesparowane</String>
+    <String key="MPHostInfo:Unknown">Nieznany</String>
+    <String key="MPHostInfo:Windows">Windows</String>
+    <String key="MPHostInfo:WinEmb">Windows IoT</String>
+    <String key="MPHostInfo:Linux">Linux</String>
+    <String key="MPHostInfo:Chrome">Chrome</String>
+    <String key="MPHostInfo:Android">Android</String>
+    <String key="MPHostInfo:MacOS">Mac OS</String>
+    <String key="MPHostInfo:IOS">iOS</String>
+
+    <!-- App profiles Strings -->
+    <String key="AppProfAddApp">Dodaj aplikację</String>
+    <!--<String key="AppProfAddAppTT">Click to add a new application profile for this device</String>
+     <String key="AppProfBrowseTT">Click to add a program manually using a file browser</String>-->
+    <String key="AppProfDeleteWarning">Spowoduje to trwałe usunięcie ustawień niestandardowych dla aplikacji ==ApplicationName==. Kliknij przycisk Kontynuuj, aby usunąć, lub przycisk Anuluj, aby zachować ustawienia niestandardowe.</String>
+    <String key="AppProfDefaultSettings">Wszystkie aplikacje</String>
+    <!--<String key="AppProfDefaultSettingsTT">Click to update All Applications settings</String>-->
+    <String key="AppProfRestoreProfileWarning">Ustawienia aplikacji ==ApplicationName== zostaną przywrócone w ustawieniach „Wszystkie aplikacje”. Kliknij przycisk Kontynuuj, aby przywrócić, lub przycisk Anuluj, aby zachować ustawienia niestandardowe.</String>
+    <String key="AppProfRestoreProfileWarningCraft">Ustawienia aplikacj '==ApplicationName==' zostaną przywrócone do domyślnych ustawień profilu Craft. Kliknij przycisk Kontynuuj, aby przywrócić, lub przycisk Anuluj, aby zachować ustawienia niestandardowe.</String><!--NEW-->
+    <String key="AppProfToggleText">Ustawienia specyficzne dla aplikacji</String>
+    <String key="AppProfDetailHeading">Utwórz ustawienia niestandardowe dla określonych aplikacji</String>
+    <String key="AppProfDetailDescription">Korzystając z ustawień specyficznych dla aplikacji, możesz dostosować przyciski i działania dla ulubionych aplikacji. Nie będzie to miało wpływu na bieżące ustawienia „Wszystkie aplikacje”. W dowolnym momencie można włączyć lub wyłączyć tę funkcję bez utraty ustawień niestandardowych.</String>
+    <String key="AppProfOther">Inne...</String>
+    <String key="AppProfAddAppHeader">Wybierz aplikację</String>
+
+    <String key="Flow:ConfigurationError">Błąd pliku konfiguracyjnego %BrandName% Flow, wyłącz i włącz ponownie mysz oraz uruchom ponownie aplikację %BrandName% Options.</String>
+    <String key="Flow:LearnMore">Więcej informacji</String>
+    <String key="Flow:MoreOptions">Więcej opcji</String>
+    <String key="Flow:ManualSetUp">Ręczna konfiguracja</String>
+    <String key="Flow:LinkKeyboard">Połącz klawiaturę</String>
+    <String key="Flow:CopyPaste">Skopiuj i wklej</String>
+    <String key="Flow:ScreenCorners">Narożniki ekranu</String>
+    <!--<String key="Flow:CannotFlow">Cannot Flow</String>
+    <String key="Flow:CanFlow">Can Flow</String>-->
+    <String key="Flow:SwitchBetweenComputers">Przełącz między komputerami</String>
+    <String key="Flow:HoldCtrlAndMove">Przytrzymaj klawisz Ctrl, przesuń do krawędzi</String>
+    <String key="Flow:MoveToEdge">Przesuń do krawędzi</String>
+
+    <String key="Flow:SettingUpFlowHeader">KONFIGUROWANIE FUNKCJI %BRANDNAME% FLOW...</String>
+    <String key="Flow:SettingUpFlowSearching">Wyszukiwanie komputerów</String>
+    <String key="Flow:SettingUpFlowFound">Znaleziono komputer</String>
+    <String key="Flow:SettingUpFlow">Konfigurowanie komputerów</String>
+    <String key="Flow:SettingUpFlowNote">Ten proces może zająć jedną minutę</String>
+    <String key="Flow:SettingUpFlowManual">Wprowadź nazwę lub adres IP innego komputera</String>
+    <String key="Flow:SettingUpFlowSuccess">Funkcja %BrandName% Flow została skonfigurowana i jest gotowa do użycia.</String>
+    <String key="Flow:SettingUpFlowManualFailed">Nie można znaleźć innych komputerów lub nawiązać z nimi połączenia. Upewnij się, że:
+ - oprogramowanie %BrandName% Options jest zainstalowane na innych komputerach
+ - mysz jest sparowana z komputerami
+ - komputery znajdują się w tej samej sieci.
+Potwierdź powyższe, a następnie spróbuj włączyć funkcję Flow na innych komputerach.</String> 
+    <String key="Flow:SettingUpFlowOtherMachine">Wykonano próbę włączenia funkcji Flow na innych komputerach.</String>
+      <String key="Flow:ShowNotificationIcon">Pokaż ikonę na pasku zadań</String>
+    <String key="Flow:RemoveFlowHost">Spowoduje to usunięcie tego komputera. Nie będzie można używać go z funkcją %BrandName% Flow do momentu ponownego dodania. Kliknij przycisk Kontynuuj, aby usunąć, lub przycisk Anuluj, aby zachować.</String>
+    <String key="Flow:RestoreFlowDefaults">Ustawienia %BrandName% Flow zostaną przywrócone. Nie będzie możliwe użycie funkcji Flow na tym komputerze do momentu ponownego włączenia go lub dodania go na innym komputerze z obsługą funkcji Flow. Kliknij przycisk Kontynuuj, aby przywrócić, lub przycisk Anuluj, aby zachować bieżące ustawienia.</String>
+    <String key="Flow:FeedbackButton">Opinie</String>
+    <String key="Flow:FeedbackFormHint">Wprowadź swoje opinie tutaj...</String>
+
+    <String key="Flow:WelcomeTitle">%BRANDNAME% FLOW — ZAPRASZAMY!</String>
+    <String key="Flow:WelcomeDescription1">Przełączaj się płynnie między komputerami, przesuwając kursor do krawędzi ekranu, oraz szybko kopiuj i wklejaj tekst, obrazy i pliki między nimi.</String>
+    <String key="Flow:WelcomeHowToSetup">SPOSÓB KONFIGURACJI</String>
+    <String key="Flow:WelcomeEnabledFlow">WŁĄCZ FUNKCJĘ FLOW</String>
+
+      <String key="Flow:WelcomeTitlePart1">Pamiętaj, aby przedstawić nam swoje wrażenia przy użyciu przycisku </String>
+    <String key="Flow:feedback">OPINIE</String>
+    <String key="Flow:WelcomeTitlePart2"> </String>
+    <String key="Flow:Enable">Włącz funkcję Flow</String>
+    <String key="Flow:LogitechFlow">%BrandName% Flow</String>
+    <String key="Flow:TutorialSlide1">Sparuj mysz z komputerami.</String>
+    <String key="Flow:TutorialSlide2">Upewnij się, że komputery znajdują się w tej samej sieci.</String>
+    <String key="Flow:TutorialSlide3">Pobierz i zainstaluj na komputerach aplikację %BrandName% Options.</String>
+
+    <String key="Flow:TutorialSlide4">To wszystko! Teraz będzie można używać funkcji %BrandName% Flow.</String>
+    
+    <String key="Flow:DiscoveryFailedUnableToEstablish">WŁĄCZ FUNKCJĘ %BRANDNAME% FLOW NA INNYCH KOMPUTERACH</String>
+    <String key="Flow:DiscoveryFailedFollowTheseSteps1">Funkcja %BrandName% Flow nie mogła znaleźć automatycznie innych komputerów w sieci.</String>
+    <String key="Flow:DiscoveryFailedFollowTheseSteps2">Upewnij się, że masz połączenie internetowe i że wykonano poniższe czynności.</String>
+    <String key="Flow:DiscoveryFailed:DownloadAndInstall">POBIERZ I ZAINSTALUJ NAJNOWSZĄ WERSJĘ OPROGRAMOWANIA %BRANDNAME% OPTIONS</String>
+    <String key="Flow:DiscoveryFailed:Pair">SPARUJ MYSZ Z INNYMI KOMPUTERAMI</String>
+    <String key="Flow:DiscoveryFailed:ConnectSameNetwork">PODŁĄCZ KOMPUTERY DO TEJ SAMEJ SIECI</String>
+    <String key="Flow:DiscoveryFailed:EnabledOnAll">WŁĄCZ FUNKCJĘ %BRANDNAME% FLOW NA WSZYSTKICH KOMPUTERACH</String>
+    <String key="Flow:DiscoveryFailed:TroubleshootingLink">Rozwiązywanie problemów</String>
+    <String key="Flow:DiscoverySucceeded:Success">POWODZENIE</String>
+    <String key="Flow:DiscoverySucceeded:Continue">KONTYNUUJ</String>
+    <String key="Buttons:CancelALLCAPS">ANULUJ</String>
+
+    <!--Ichitaro-->
+    <String key="Ichitaro:AppName">Ichitaro2017</String>
+    <!--End Ichitaro-->
+
+    <!--Duolink-->
+    <String key="Duolink:ToggleDefault">DOMYŚLNIE</String>
+    <String key="Duolink:ToggleFn">DUOLINK</String> <!--MODIFIED 10/10/2017-->
+    <String key="Duolink:ArrowHover">Fn + gest</String>
+    <String key="Duolink:DeviceListSelectInfo">Naciskając klawisz Fn na klawiaturze, możesz korzystać z dodatkowych funkcji myszy firmy %BrandName%. Kliknij mysz, którą chcesz skonfigurować.</String>
+    <String key="Duolink:TutorialText">Dzięki funkcji DuoLink przyciski myszy mogą mieć inne funkcje, gdy przytrzymasz klawisz *Fn*. Możesz też wykonywać inne gesty, przesuwając myszą i jednocześnie przytrzymując klawisz *Fn*.</String>
+    <String key="Duolink:TutorialFn">Fn</String>
+    <String key="Duolink:FnGestureMontionDetail">Podczas przesuwania myszy przytrzymaj klawisz Fn na klawiaturze</String>
+    <String key="Duolink:NoDevicesAddDevices">Nie znaleziono urządzeń Duolink. Kliknij tutaj, aby je dodać.</String>
+    <!--End Duolink-->
+    
+    <!--Analytics-->
+    <String key="Analytics:HelpImprove">Pomóż firmie %BrandName% ulepszać produkty i usługi, automatycznie wysyłając anonimowe dane diagnostyczne i dotyczące użycia. Dowiedz się więcej o</String>
+    <String key="Analytics:PrivacyPolicy"> zasadach ochrony prywatności firmy %BrandName%</String>
+    <String key="Analytics:HelpImproveCheckBox">Pomóż firmie %BrandName% ulepszać produkty i usługi, automatycznie</String>
+    <String key="Analytics:Analytics">Analiza</String>
+
+    <String key="Device:Unknown">Nieznane urządzenie %BrandName%</String>
+  
+    <!--Craft-->
+    <String key="Craft:Turn">Obróć</String>
+    <String key="Craft:Press">Naciśnij</String>
+    <String key="Craft:PressAndTurn">Naciśnij i obróć</String>
+    <String key="Craft:NameYourFunction">Nazwij funkcję niestandardową</String>
+    <String key="Craft:ExUndoRedo">Przykład: Cofnij/ponów</String>
+    <String key="Craft:TurnRight">Obróć w prawo</String>
+    <String key="Craft:TurnLeft">Obróć w lewo</String>
+    <String key="Craft:Ratchet">Zapadkowy</String>
+    <String key="Craft:MaxCharactersX">Maks. liczba znaków: %d</String>
+    
+    <String key="Craft:ButtonInstallProfiles">INSTALUJ PROFILE</String>
+    <String key="Craft:ApplicationsWithProfiles">Aplikacje z profilami Craft</String>
+    <String key="Craft:OtherApplications">Inne aplikacje</String>
+    <String key="Craft:PressAndTurnTooltip">Tę funkcję można zmienić tylko w ustawieniach „Wszystkie aplikacje”</String>
+    
+    <String key="Craft:ButtonContinueWithoutInstalling">KONTYNUUJ BEZ INSTALOWANIA PROFILI</String>
+    <String key="Craft:ButtonBackToOptions">POWRÓT DO OPROGRAMOWANIA OPTIONS</String>    
+    <String key="Craft:OnboardingWelcome">CRAFT — ZAPRASZAMY!</String>
+    <String key="Craft:OnboardingWelcomeDescription">Przejmij pełną, kreatywną kontrolę</String>
+    <String key="Craft:OnboardingSearch">WYSZUKIWANIE ZOPTYMALIZOWANYCH APLIKACJI</String>
+    <String key="Craft:OnboardingSearchDescription">Trwa wyszukiwanie na komputerze aplikacji zoptymalizowanych pod kątem funkcji Craft</String>
+    <String key="Craft:OnboardingNoOptimizedApps">BRAK ZOPTYMALIZOWANYCH APLIKACJI NA TYM KOMPUTERZE</String>
+    <String key="Craft:OnboardingNoOptimizedAppsDescription">Wygląda na to, że na tym komputerze nie zainstalowano żadnych aplikacji zoptymalizowanych pod kątem funkcji Craft</String>
+    <String key="Craft:OnboardingNoOptimizedApps2">BRAK APLIKACJI ZOPTYMALIZOWANYCH POD KĄTEM FUNKCJI CRAFT NA TYM KOMPUTERZE</String>
+    <String key="Craft:OnboardingNoOptimizedAppsDescription2">Na tym komputerze nie znaleziono żadnych aplikacji zoptymalizowanych pod kątem funkcji Craft... :(</String>
+    <String key="Craft:OnboardingNoOptimizedAppsDescription3">Na tym komputerze nie znaleziono żadnych aplikacji zoptymalizowanych pod kątem funkcji Craft.</String><!--NEW 8/2/2017-->
+    <String key="Craft:OnboardingOneOptimizedApp">ZNALEZIONO 1 APLIKACJĘ ZOPTYMALIZOWANĄ POD KĄTEM FUNKCJI CRAFT</String>
+    <String key="Craft:OnboardingOneOptimizedApps">ZNALEZIONO APLIKACJE ZOPTYMALIZOWANE POD KĄTEM FUNKCJI CRAFT: %d</String>
+    <String key="Craft:OnboardingOneOptimizedAppDescription">Pozostałych aplikacje zoptymalizowanych pod kątem funkcji Craft nie zainstalowano na tym komputerze</String>
+    <String key="Craft:OnboardingXOptimizedApps">ZNALEZIONO NASTĘPUJĄCĄ LICZBĘ ZOPTYMALIZOWANYCH APLIKACJI : %d</String>
+    <String key="Craft:OnboardingXOptimizedAppsDescription">Wybierz, aby zainstalować zoptymalizowane profile wszystkich używanych aplikacji</String>
+    <String key="Craft:OnboardingProfilesInstalledDescription">Wygląda na to, że profile tych aplikacji zostały już zainstalowane</String>
+    <String key="Craft:OnboardingInstallingProfiles">INSTALOWANIE PROFILI</String>
+    <String key="Craft:OnboardingInstallingProfilesDescription">Trwa instalowanie profili na komputerze</String>
+    <String key="Craft:OnboardingInstallingProfilesProblem">PROBLEM PODCZAS INSTALOWANIA PROFILI</String>
+    <String key="Craft:OnboardingInstallingProfilesPlugins">PROBLEM PODCZAS INSTALOWANIA DODATKÓW PLUG-IN</String>
+    <String key="Craft:OnboardingInstallingProfilesProblemDescription">Wypróbuj procedury rozwiązywania problemów w naszej witrynie</String>
+    <String key="Craft:OnboardingInstallingProfilesDone">ZAINSTALOWANO PROFILE</String>
+    <String key="Craft:OnboardingInstallingProfilesDoneDescription">Uruchom ponownie zoptymalizowane aplikacje, aby zakończyć proces instalacji</String>
+    <String key="Craft:OnboardingWatchTutorial">OBEJRZYJ SAMOUCZEK</String>
+    <String key="Craft:OnboardingWatchTutorials">OBEJRZYJ SAMOUCZKI</String>
+    <String key="Craft:OnboardingWatchTutorialDescription">Dowiedz się, jak korona rewolucjonizuje wydajność pracy w poszczególnych zoptymalizowanych aplikacjach</String>
+    <String key="Craft:OnboardingWatchTutorialDescription2">Poznaj sposób użycia korony w poszczególnych zoptymalizowanych aplikacjach</String>
+    <String key="Craft:OnboardingDone">WSZYSTKO GOTOWE</String>
+    <String key="Craft:OnboardingDoneDescription">Zoptymalizowano funkcję Craft pod kątem najczęściej używanych aplikacji</String>
+    <String key="Craft:OnboardingSelectedNewApps">WYBRANO NOWE APLIKACJE</String>
+    <String key="Craft:OnboardingSelectedNewAppsDescription">Kliknij przycisk, aby zainstalować profile</String>
+    <String key="Craft:OnboardingUnsignedPlugin">(Niepodpisany)</String><!--NEW 1/11/2018-->
+
+    <String key="Craft:RestoreDefaults">Ustawienia aplikacji ==ApplicationName== zostaną przywrócone do domyślnych ustawień profilu Craft. Kliknij przycisk Kontynuuj, aby przywrócić, lub przycisk Anuluj, aby zachować ustawienia niestandardowe.</String><!--NEW 8/8/2017-->
+    <!--End Craft-->
+  
+  </Strings>
+</StringDictionary>

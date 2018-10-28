@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="utf-8"?>
+<descriptions>
+	<taskids>
+
+		<!-- ******************************** frequently used windows tasks *********************************** -->
+		<task id="0x1d">
+			<description>Medieafspiller</description>
+		</task>
+		<task id="0x44">
+			<description>Lås</description>
+		</task>
+		<task id="0x10001">
+			<description>Log af</description>
+		</task>
+		<task id="0x0c">
+			<description>Luk vindue</description>
+		</task>
+		<task id="0x52">
+			<description>Ingen</description>
+		</task>
+		<task id="0x53">
+			<description>Skift mellem programmer</description>
+		</task>
+		<task id="0x8">
+			<description>Skift mellem programmer</description>
+		</task>
+		<task id="0x0e">
+			<description>E-mail</description>
+		</task>
+		<task id="0x87">
+			<description>Søg</description>
+		</task>
+		<task id="0x88">
+			<description>Del</description>
+		</task>
+		<task id="0x89">
+			<description>Enheder</description>
+		</task>
+		<task id="0x8a">
+			<description>Indstil</description>
+		</task>
+		<task id="0x7A">
+			<description>Amuletter</description>
+		</task>
+		<task id="0x8E">
+			<description>Vis/skjul skrivebord</description>
+		</task>
+		<task id="0x79">
+			<description>Programmenu</description>
+		</task>
+		<task id="0x90">
+			<description>Startskærmbillede</description>
+		</task>
+		<task id="0x95">
+			<description>Maksimer vindue</description>
+		</task>
+		<task id="0x94">
+			<description>Minimer vindue</description>
+		</task>
+		<task id="0x38">
+			<description>Venstreklik</description>
+		</task>
+		<task id="0x39">
+			<description>Højreklik</description>
+		</task>
+		<task id="0x3A">
+			<description>Midterste knap</description>
+		</task>
+
+		<!-- *********************************** back/forward *********************************** -->
+		<task id="0x3b">
+			<description>Tilbage</description>
+		</task>
+		<task id="0x3c">
+			<description>Tilbage</description>
+		</task>
+		<task id="0xab">
+			<description>Tilbage</description>
+		</task>
+		<task id="0x3d">
+			<description>Frem</description>
+		</task>
+		<task id="0x3e">
+			<description>Frem</description>
+		</task>
+		<task id="0xac">
+			<description>Frem</description>
+		</task>
+
+		<!-- *********************************** Edit features *********************************** -->
+		<task id="0x51">
+			<description>Klip</description>
+		</task>
+		<task id="0x4e">
+			<description>Kopiér</description>
+		</task>
+		<task id="0x85">
+			<description>Sæt ind</description>
+		</task>
+
+		<!-- *********************************** Calculator File launcher *********************************** -->
+		<task id="0x0a">
+			<description>Lommeregner</description>
+		</task>
+
+		<!-- *********************************** Volume & Media handlers *********************************** -->
+		<task id="0x01">
+			<description>Skru op</description>
+		</task>
+		<task id="0x02">
+			<description>Skru ned</description>
+		</task>
+		<task id="0x03">
+			<description>Slå lyden fra</description>
+		</task>
+		<task id="0x04">
+			<description>Afspil/pause</description>
+		</task>
+		<task id="0x07">
+			<description>Stop</description>
+		</task>
+		<task id="0x05">
+			<description>Næste</description>
+		</task>
+		<task id="0x06">
+			<description>Forrige</description>
+		</task>
+
+		<!-- *********************************** Common folders *********************************** -->
+		<task id="0x27">
+			<description>Min computer</description>
+		</task>
+		<task id="0x48">
+			<description>Denne pc</description>
+		</task>
+		<task id="0x22">
+			<description>Mine dokumenter</description>
+		</task>
+		<task id="0x49">
+			<description>Dokumenter</description>
+		</task>
+		<task id="0x24">
+			<description>Mine billeder</description>
+		</task>
+		<task id="0x50">
+			<description>Billeder</description>
+		</task>
+		<task id="0x23">
+			<description>Min musik</description>
+		</task>
+		<task id="0x54">
+			<description>Musik</description>
+		</task>
+		<task id="0x26">
+			<description>Mine videoer</description>
+		</task>
+		<task id="0x55">
+			<description>Videoer</description>
+		</task>
+
+		<!-- *********************************** Open Web Page *********************************** -->
+		<task id="0x47">
+			<description>Min startside</description>
+		</task>
+		<task id="0x33">
+			<description>Zoom ind</description>
+		</task>
+		<task id="0x35">
+			<description>Zoom ud</description>
+		</task>
+		<task id="0x10010">
+			<description>Roter mod venstre</description>
+		</task>
+		<task id="0x1000F">
+			<description>Roter mod højre</description>
+		</task>
+		<task id="0x1000E">
+			<description>Ikke tildelt</description>
+		</task>
+
+        <task id="0xFFFE">
+            <description>Deaktiveret</description>
+        </task>     
+
+		<task id="0x37">
+			<description>Nulstil zoom</description>
+		</task>
+		<task id="0x0b">
+			<description>E-mail</description>
+		</task>
+		<task id="0x2f">
+			<description>Dvale</description>
+		</task>
+		<task id="0x1a">
+			<description>Min startside</description>
+		</task>
+		<task id="0x56">
+			<description>Startside</description>
+		</task>
+		<task id="0x1c">
+			<description>Minimer alle vinduer</description>
+		</task>
+		<task id="0x1b">
+			<description>Gendan alle vinduer</description>
+		</task>
+		<task id="0x91">
+			<description>Skift skærm</description>
+		</task>
+		<task id="0x93">
+			<description>Skift skærm</description>
+		</task>
+		<task id="0x43">
+			<description>Vis/skjul skrivebord</description>
+		</task>
+		<task id="0x2d">
+			<description>Søg</description>
+		</task>
+		<task id="0xb0">
+			<description>Søg</description>
+		</task>
+		<task id="0xb1">
+			<description>Søg</description>
+		</task>
+		<task id="0xba">
+			<description>Sprog</description>
+		</task>
+
+		<task id="0x47">
+			<description>Min startside</description>
+		</task>
+
+		<task id="0x96">
+			<description>Skift mellem programmer</description>
+		</task>
+		<task id="0x97">
+			<description>Min startside</description>
+		</task>
+		<task id="0x9b">
+             <description>Skærmbillede</description>
+        </task>
+		<task id="0xb2">
+			<description>Min startside</description>
+		</task>
+		<task id="0x98">
+			<description>Højreklik</description>
+		</task>
+		<task id="0x20">
+			<description>Højreklik</description>
+		</task>
+		<task id="0xb3">
+			<description>Højreklik</description>
+		</task>
+		<task id="0x99">
+			<description>Tilbage</description>
+		</task>
+		<task id="0xce">
+			<description>Tilbage</description>
+		</task>
+    <task id="0xc5">
+      <description>Ny browserfane</description>
+    </task>
+    
+		<task id="0xA8">
+			<description>Bevægelsesknap</description>
+		</task>
+		<task id="0xA9">
+			<description>Bevægelsesknap</description>
+		</task>
+		<task id="0x9c">
+			<description>Bevægelsesknap</description>
+		</task>
+		<task id="0xad">
+			<description>Bevægelsesknap</description>
+		</task>
+
+		<task id="0x1002c">
+			<description>Bevægelsesknap</description>
+		</task>
+
+		<task id="0x9d">
+			<description>Tilstandsskiftknap</description>
+		</task>
+
+		<task id="0x71">
+			<description>roter til højre (analog)</description>
+		</task>
+
+		<task id="0x72">
+			<description>roter til venstre (analog)</description>
+		</task>
+
+		<task id="0x73">
+			<description>panorer til venstre</description>
+		</task>
+
+		<task id="0x74">
+			<description>panorer til højre</description>
+		</task>
+
+		<task id="0x75">
+			<description>panorer op</description>
+		</task>
+
+		<task id="0x76">
+			<description>panorer ned</description>
+		</task>
+
+
+		<task id="0x3f">
+			<description>Scrol til venstre</description>
+		</task>
+
+		<task id="0x40">
+			<description>Scrol til højre</description>
+		</task>
+
+		<task id="0xc3">
+			<description>Programmenu</description>
+		</task>
+
+		<task id="0xbf">
+			<description>Opgavevisning</description>
+		</task>
+
+		<task id="0xa3">
+			<description>Lysstyrke ned</description>
+		</task>
+
+		<task id="0xa4">
+			<description>Lysstyrke op</description>
+		</task>
+
+		<task id="0xc0">
+			<description>Løsningscenter</description>
+		</task>
+
+		<task id="0xc1">
+			<description>Skru ned for bagbelysning</description>
+		</task>
+
+		<task id="0xc2">
+			<description>Skru op for bagbelysning</description>
+		</task>
+		
+		<task id="0x10003">
+			<description>Dvale</description>
+		</task>
+
+		<!-- task ids local to LogiOptions -->
+		<!-- *************************************  -->
+		<task id="0x10000">
+			<description>Tildeling af tastefunktioner</description>
+		</task>
+		<task id="0x10001">
+			<description>Log af</description>
+		</task>
+		<task id="0x10002">
+			<description>Luk ned</description>
+		</task>
+		<task id="0x10003">
+			<description>Dvale</description>
+		</task>
+		<task id="0x10004">
+			<description>Start programmet</description>
+		</task>
+		<task id="0x10007">
+			<description>Næste nummer/spol frem</description>
+		</task>
+		<task id="0x10008">
+			<description>Åbn fil</description>
+		</task>
+		<task id="0x10009">
+			<description>Åbn mappe</description>
+		</task>
+		<task id="0x1000A">
+			<description>Åbn webside</description>
+		</task>
+		<task id="0x1000B">
+			<description>Forrige nummer/spol tilbage</description>
+		</task>
+		<task id="0x1000C">
+			<description>Dobbeltklik</description>
+		</task>
+		<task id="0x1000D">
+			<description>Windows 8-genveje</description>
+		</task>
+
+		<task id="0x10011">
+			<description>Panorer</description>
+		</task>
+		<task id="0x10012">
+			<description>Panorer</description>
+		</task>
+		<task id="0x10013">
+			<description>Panorer</description>
+		</task>
+		<task id="0x10014">
+			<description>Panorer</description>
+		</task>
+		<task id="0x1000E">
+			<description>Midterste knap</description>
+		</task>
+
+		<task id="0x10019">
+			<description>Startskærmbillede</description>
+		</task>
+
+		<task id="0x10020">
+			<description>Maksimer vindue</description>
+		</task>
+
+		<task id="0x10021">
+			<description>Vis/skjul skrivebord</description>
+		</task>
+		<task id="0x10022">
+			<description>Skift mellem programmer</description>
+		</task>
+
+		<task id="0x10026">
+			<description>Fastgør til venstre</description>
+		</task>
+
+		<task id="0x10027">
+			<description>Fastgør til højre</description>
+		</task>
+
+		<task id="0x10029">
+			<description>Zoom ind</description>
+		</task>
+
+		<task id="0x10030">
+			<description>Skru op</description>
+		</task>
+
+		<task id="0x10031">
+			<description>Skru ned</description>
+		</task>
+
+		<task id="0x10032">
+			<description>Forrige</description>
+		</task>
+
+		<task id="0x10033">
+			<description>Næste</description>
+		</task>
+
+		<task id="0x10034">
+			<description>Afspil/pause</description>
+		</task>
+
+		<task id="0x10035">
+			<description>Menuen Start</description>
+		</task>
+		<task id="0x10036">
+			<description>Easy-Switch</description>
+		</task>
+		<task id="0x10037">
+			<description>Musens følsomhed</description>
+		</task>
+		<task id="0xc4">
+			<description>Præcisionstilstand</description>
+		</task>
+
+		<task id="0x10038">
+			<description>Maksimer vindue</description>
+		</task>
+
+		<task id="0x10039">
+			<description>Modifikatornøgler</description>
+		</task>
+
+		<task id="0x10040">
+			<description>Avanceret klikfunktion</description>
+		</task>
+
+		<task id="0x10041">
+			<description>Skift til jævn scrolning</description>
+		</task>
+
+		<task id="0x10042">
+			<description>Ny stationær computer</description>
+		</task>
+
+		<task id="0x10043">
+			<description>Luk stationær computer</description>
+		</task>
+
+		<task id="0x10044">
+			<description>Skrivebord (næste)</description>
+		</task>
+
+		<task id="0x10045">
+			<description>Skrivebord (forrige)</description>
+		</task>
+
+		<task id="0x10047">
+			<description>Menuen Start</description>
+		</task>
+		<task id="0x10048">
+			<description>Vis/skjul skrivebord</description>
+		</task>
+		<task id="0x10049">
+			<description>Skrivebord (forrige)</description>
+		</task>
+		<task id="0x10050">
+			<description>Skrivebord (næste)</description>
+		</task>
+		<task id="0x10051">
+			<description>Opgavevisning</description>
+		</task>
+		<task id="0x10052">
+			<description>Løsningscenter</description>
+		</task>
+		<task id="0x10053">
+			<description>Opgavevisning</description>
+		</task>
+		<task id="0x10055">
+			<description>Cortana</description>
+		</task>
+	<task id="0x10056">
+	  <description>Opgavevisning</description>
+	</task>
+		<task id="0x10100">
+			<description>Maksimer vindue</description>
+		</task>
+		<task id="0x10101">
+			<description>Vis/skjul skrivebord</description>
+		</task>
+		<task id="0x10102">
+			<description>Min startside</description>
+		</task>
+		<task id="0x10103">
+			<description>Start programmet</description>
+		</task>
+		<task id="0x10104">
+			<description>Skift mellem programmer</description>
+		</task>
+		<task id="0x10059">
+			<description>Lydstyrke</description>
+		</task>
+		<task id="0x1005a">
+			<description>Skift skrivebord</description>
+		</task>
+		<task id="0x1005b">
+			<description>Lysstyrke</description>
+		</task>
+		<task id="0x1005c">
+			<description>Mediekontrol</description>
+		</task>
+		<task id="0x1005d">
+			<description>Skift mellem programmer</description>
+		</task>
+		<task id="0x1005f">
+			<description>Faneskift</description>
+		</task>
+    <!--task id="0x10060">
+			<description>Crown Desktop Switch</description>
+		</task-->
+		<task id="0x10061">
+			<description>Zoom</description>
+		</task>
+		<task id="0x10062">
+			<description>Naviger på sider på Crown</description>
+		</task>
+		<task id="0x10063">
+			<description>Tilpasset tast</description>
+		</task>
+		<task id="0x10064">
+			<description>Skift værktøjsværdi</description>
+		</task>
+		<task id="0x10065">
+			<description>Fortryd/annuller fortryd</description>
+		</task>
+    <task id="0x10110">
+      <description>Trackball-følsomhed</description>
+    </task>
+    <task id="0xcd">
+      <description>F1</description>
+    </task>
+    <task id="0xc6">
+      <description>F2</description>
+    </task>
+    <task id="0xc7">
+      <description>F3</description>
+    </task>
+    <task id="0xc8">
+      <description>F4</description>
+    </task>
+    <task id="0xc9">
+      <description>F5</description>
+    </task>
+    <task id="0xca">
+      <description>F6</description>
+    </task>
+    <task id="0xcb">
+      <description>F7</description>
+    </task>
+    <task id="0xcc">
+      <description>F8</description>
+    </task>
+
+
+  </taskids>
+	<gestureids>
+		<gesture id="0x21">
+			<description>Tryk for at klikke</description>
+		</gesture>
+		<gesture id="0x2c">
+			<description>Jævn rulning</description>
+		</gesture>
+		<gesture id="0x2d">
+			<description>Rulleretning</description>
+		</gesture>
+		<gesture id="0x2a">
+			<description>Vandret rulning</description>
+		</gesture>
+		<gesture id="0x2b">
+			<description>Lodret rulning</description>
+		</gesture>
+		<gesture id="0x40">
+			<description>Skift mellem programmer</description>
+		</gesture>
+		<gesture id="0x41">
+			<description>Vis amuletter</description>
+		</gesture>
+		<gesture id="0x43">
+			<description>Programmenu</description>
+		</gesture>
+		<gesture id="0x54">
+			<description>Zoom</description>
+		</gesture>
+		<gesture id="0x14">
+			<description>Markørhastighed</description>
+		</gesture>
+		<!-- new gestures -->
+		<gesture id="0x2e">
+			<description>Scrolning med tommelfingerhjul</description>
+		</gesture>
+		<gesture id="0x64">
+			<description>Dobbelttryk med tommelfingerhjul</description>
+		</gesture>
+		<gesture id="0x27d3">
+			<description>SmartShift-tildeling</description>
+		</gesture>
+		<gesture id="0x2762">
+			<description>knap 3-tildeling</description>
+		</gesture>
+		<gesture id="0x27d4">
+			<description>bevægelsesknaptildeling</description>
+		</gesture>
+	</gestureids>
+	<gesturetaskids>
+		<gesturetask id="0x0">
+			<description>Deaktiveret</description>
+		</gesturetask>
+		<gesturetask id="0x1">
+			<description>Tryk med en eller to fingre</description>
+		</gesturetask>
+		<gesturetask id="0x2">
+			<description>Aktiveret</description>
+		</gesturetask>
+		<gesturetask id="0x3">
+			<description>Traditionel</description>
+		</gesturetask>
+		<gesturetask id="0x4">
+			<description>Indholdet følger fingrene</description>
+		</gesturetask>
+		<gesturetask id="0x5">
+			<description>Svip til venstre og højre med to fingre</description>
+		</gesturetask>
+		<gesturetask id="0x6">
+			<description>Svip op og ned med to fingre</description>
+		</gesturetask>
+		<gesturetask id="0x7">
+			<description>Svip fra venstre kant med én finger</description>
+		</gesturetask>
+		<gesturetask id="0x8">
+			<description>Svip fra højre kant med én finger</description>
+		</gesturetask>
+		<gesturetask id="0x9">
+			<description>Svip fra øverste kant med én finger</description>
+		</gesturetask>
+		<gesturetask id="0xa">
+			<description>Spred eller knib sammen med to fingre</description>
+		</gesturetask>
+		<gesturetask id="0xb">
+			<description>Markørhastighed</description>
+		</gesturetask>
+	</gesturetaskids>
+	<gestureactiongroups>
+		<actiongroup id="win8nav">
+			<description>Navigation i vinduer</description>
+		</actiongroup>
+		<actiongroup id="win7nav">
+			<description>Navigation i vinduer</description>
+		</actiongroup>
+		<actiongroup id="win8nav2">
+			<description>Administration af vinduer</description>
+		</actiongroup>
+		<actiongroup id="winarrangement">
+			<description>Arranger vinduer</description>
+		</actiongroup>
+		<actiongroup id="mediagestures">
+			<description>Medieknapper</description>
+		</actiongroup>
+		<actiongroup id="panzoom">
+			<description>Panorer</description>
+		</actiongroup>
+		<actiongroup id="zoomrotate">
+			<description>Zoom/roter</description>
+		</actiongroup>
+		<actiongroup id="custom">
+			<description>Tilpasset</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelhorzscroll">
+			<description>Vandret rulning</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelzoom">
+			<description>Zoom ind/ud</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelvolume">
+			<description>Skru op/ned for lydstyrken</description>
+		</actiongroup>
+		<actiongroup id="thumbwheeltabs">
+			<description>Fanerne Næste/Forrige</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelnextprev">
+			<description>Næste/Forrige</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelbackforward">
+			<description>Tilbage/Fremad</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelalttab">
+			<description>Skift mellem programmer</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelbrightness">
+			<description>Øg/reducer lysstyrken </description>
+		</actiongroup>
+		<actiongroup id="thumbwheelbackforwardtouch">
+			<description>Frem/tilbage-tryk</description>
+		</actiongroup>
+		<actiongroup id="virtualdesktop">
+			<description>Virtuelle skrivebord</description>
+		</actiongroup>
+	<actiongroup id="fn_virtualdesktop">
+      <description>Virtuelle skrivebord</description>
+    </actiongroup>
+		<actiongroup id="thumbwheelvirtualdesktop">
+			<description>Skift mellem stationære computere</description>
+		</actiongroup>
+		<actiongroup id="thumbwheeldonothing">
+			<description>Ingen</description>
+		</actiongroup>
+		<actiongroup id="touch">
+			<description>Panorer ved at trykke </description>
+		</actiongroup>
+		<actiongroup id="ichitaro">
+			<description>Ichitaro2017</description>
+		</actiongroup>
+    <actiongroup id="disabled">
+        <description>Deaktiveret</description>
+    </actiongroup>
+
+	</gestureactiongroups>
+</descriptions>

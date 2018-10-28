@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="16px" viewBox="0 0 21 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>iconHorizontal</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M13.8720568,8.6 L20.408969,24 L18.122,24 L16.494,20.04 L10.004,20.04 L8.398,24 L6.11,24 L12.49,8.6 L13.8720568,8.6 Z M19.4724117,16.675 L18.2403654,13.7724808 L20.5,8.5 L21.925,8.5 L26.425,19 L24.31,19 L23.32,16.675 L19.4724117,16.675 Z M13.26,12.23 L10.884,17.95 L15.636,17.95 L13.26,12.23 Z M21.205,11.77 L19.87,14.875 L22.54,14.875 L21.205,11.77 Z" id="path-1"></path>
+    </defs>
+    <g id="10--Trava" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Options-Trava-OnOarding-Word-4" transform="translate(-490.000000, -221.000000)">
+            <g id="Overlay" transform="translate(472.000000, 200.000000)">
+                <g id="Icons/Trava/Word/FontSize" transform="translate(12.000000, 13.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Combined-Shape"></g>
+                    <g id="Colors/Khole" mask="url(#mask-2)" fill-rule="evenodd" fill="#2F3132">
+                        <rect id="Rectangle-3" x="0" y="0" width="32" height="32"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

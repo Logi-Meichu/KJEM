@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringDictionary version="1.2">
+  <Strings>
+    <String key="WindowName">LogiOptions</String>
+    <String key="ApplicationName">Options</String>
+    <String key="MoreDetails">Flere innstillinger</String>
+    <String key="FnInversion">Bruk F1–F12 som standard funksjonstaster</String>
+    <String key="KeyboardWinMode">Behold alltid tastaturet i Windows-layout</String>
+    <String key="Backlighting">Deaktiver bakbelysning</String>
+    <String key="Customize">TILPASS</String>
+    <String key="CustomizeGestures">Tilpass bevegelser</String>
+    <String key="GestureClickDetail">Klikk på bevegelse-knappen.</String>
+    <String key="GestureMotionDetail">Hold nede bevegelse-knappen mens du beveger musen.</String>
+    <String key="GestureMotionDetail_Trackball">Hold nede bevegelse-knappen mens du beveger styrekulen.</String>
+    <!--<String key="GestureButtonLearnMore">Learn more about gesture button</String>-->
+    <String key="LearnMore">MER INFORMASJON</String> 
+    <String key="LaunchSetpoint">Start SetPoint</String>
+    <String key="DownloadSetpoint">Last ned SetPoint</String>
+    <String key="CrosslinkDevicesReminder">Ikke vis denne meldingen igjen</String>
+    <String key="CrosslinkDevicesDialog">%BrandName% Options støtter ikke alle %BrandName%-enhetene som er tilkoblet systemet ditt.  Bruk programvaren %BrandName% SetPoint til å tilpasse innstillingene for følgende enheter:</String>
+    <String key="CommaSeparator">, </String>
+    <String key="AndSeparator"> og </String>
+
+    <String key="StringFragments:Device">Enhet</String>
+
+    <String key="DeviceList:NoDevices">Finner ingen enheter</String>
+    <String key="DeviceList:NoDeviceDesc">Kontroller at enhetene er tilkoblet og påslått.</String>
+    <String key="DeviceList:Removed">Fjernet</String>
+    <String key="DeviceList:Enumuerate">Søker ...</String>
+    <String key="DeviceList:Devices">Enheter</String>
+
+    <String key="Video:NoVideo">Video er ikke installert</String>
+    <String key="Video:VideoFailDialog">Enhetsvideoen kunne ikke lastes ned akkurat nå, prøv igjen senere.</String>
+
+    <String key="Tooltip:BatteryUnknown">Ukjent</String>
+    <String key="Tooltip:BatteryCritical">Kritisk</String>
+    <String key="Tooltip:BatteryLow">Lavt</String>
+    <String key="Tooltip:BatteryGood">Godt</String>
+    <String key="Tooltip:BatteryFull">Høyt</String>
+    <String key="Tooltip:BatteryCharging">Lader</String>
+    <String key="Tooltip:BatteryError">Ladefeil</String>
+    <String key="Tooltip:BatteryComplete">Lading fullført</String>
+    <String key="Tooltip:Connected">Tilkoblet</String>
+    <String key="Tooltip:NotConnected">Ikke tilkoblet</String>
+
+    <!-- Device Settings Tabs -->
+    <String key="DeviceSettings:Keyboard">Tastatur</String>
+    <String key="DeviceSettings:Mouse">Mus</String>
+    <String key="DeviceSettings:Trackball">Styrekule</String>
+    <String key="DeviceSettings:PointScroll">Pek og rull</String>
+    <String key="DeviceSettings:Gestures">Bevegelser</String>
+    <String key="DeviceSettings:Illumination">Belysning</String>
+    <String key="DeviceSettings:FunctionKeys">Funksjonstaster</String>
+    <String key="DeviceSettings:ShortcutKeys">Hurtigtaster</String>
+    <String key="DeviceSettings:EasySwitch">Easy-Switch</String>
+    <String key="DeviceSettings:Crown">Krone</String>
+    <String key="DeviceSettings:Flow">Flow</String>
+    <String key="DeviceSettings:Beta">Beta</String>
+
+    <String key="DeviceSettings:GestureById0x2e">Tommelhjulets følsomhet</String>
+
+    <String key="Buttons:MinimizeToolTip">Minimer</String>
+    <String key="Buttons:CloseToolTip">Lukk</String>
+    <String key="Buttons:More">MER</String>
+    <String key="Buttons:Less">MINDRE</String>
+    <String key="Buttons:RestoreDefaults">Standardinnstillinger</String>
+    <String key="Buttons:Restore">Gjenopprett</String>
+    <String key="Buttons:YourDevices">Dine enheter</String>
+    <String key="Buttons:AddDevice">Legg til enheter</String>
+    <String key="Buttons:Continue">Fortsett</String>
+    <String key="Buttons:TryAgain">Prøv på nytt</String>
+    <String key="Buttons:Cancel">Avbryt</String>
+    <String key="Buttons:Skip">Hopp over</String>
+    <String key="Buttons:Remind">Installer senere</String>
+    <String key="Buttons:Okay">OK</String>
+    <String key="Buttons:Ok">OK</String>
+    <String key="Buttons:FirmwareUpdate">Søk etter fastvareoppdateringer</String>
+    <String key="Buttons:SoftwareUpdate">Se etter oppdatering</String>
+    <String key="Buttons:LaunchUnifying">Åpne Unifying-programmet</String>
+    <String key="Buttons:FileBrowse">Bla gjennom ...</String>
+    <String key="Buttons:VideoDownload">Last ned video</String>
+    <String key="Buttons:PairAnother">Opprett parvis tilkobling med en annen enhet</String>
+    <String key="Buttons:Done">Fullført</String>    
+    <String key="Buttons:Enable">AKTIVER</String><!--NEW AFTER 4/10/2017-->
+    <String key="Buttons:Disable">DEAKTIVER</String>
+    <String key="Buttons:Retry">PRØV PÅ NYTT</String>
+    <String key="Buttons:MoreSettings">FLERE INNSTILLINGER</String><!--NEW 7/24/2017-->
+    
+    <String key="TaskSelect:RemoveHost">FJERN</String>
+    <String key="TaskSelect:Keystroke">Angi tastetrykk</String>
+    <String key="TaskSelect:FileLaunch">Filnavn</String>
+    <String key="TaskSelect:FolderLaunch">Mappenavn</String>
+    <String key="TaskSelect:WebLaunch">Nettadresse</String>
+    <String key="TaskSelect:HostSwitch">Easy-Switch-kontroll</String>
+    <String key="TaskSelect:DpiShift">Angi musens følsomhet</String>
+    <String key="TaskSelect:DpiShiftTrackball">Angi styrekulens følsomhet</String>
+    <String key="TaskSelect:HorizontalScrollSpeed">Velg vannrett rullehastighet</String>
+    <String key="TaskSelect:KeystrokeBlank">(Klikk her)</String>
+    <String key="TaskSelect:FileLaunchBlank">(Angi filnavn)</String>
+    <String key="TaskSelect:FolderLaunchBlank">(Angi mappenavn)</String>
+    <String key="TaskSelect:WebLaunchBlank">(Angi URL)</String>
+    <String key="TaskSelect:KeystrokeDesc">Klikk i den hvite boksen ovenfor, og trykk på en gyldig tastekombinasjon for å opprette en snarvei.</String>
+    <String key="TaskSelect:FileLaunchDesc">Klikk på Bla gjennom-knappen for å velge en fil, eller skriv inn filbanen i den hvite boksen ovenfor.</String>
+    <String key="TaskSelect:FolderLaunchDesc">Klikk på Bla gjennom-knappen for å velge en mappe, eller skriv inn mappebanen i den hvite boksen ovenfor.</String>
+    <String key="TaskSelect:WebLaunchDesc">Skriv inn URL-adressen til ønsket nettsted i den hvite boksen ovenfor.</String>
+    <String key="TaskSelect:HostSwitchDesc">Trykk på knappen for å bytte til den neste tilgjengelige verten.</String>
+    <String key="TaskSelect:DpiShiftDesc">Trykk på knappen for å veksle mellom standard og tilpassede pekehastigheter.</String>
+    <String key="TaskSelect:HorizontalScrollSpeedDesc">Bruk glidebryteren til å justere innstillingen for vannrett rullehastighet.</String>
+    <String key="TaskSelect:KeystrokeWaiting">(Trykk på tastekombinasjon)</String>
+    <String key="TaskSelect:DpiShiftMasterChannel">Standard</String>
+    <String key="TaskSelect:DpiShiftCustom1Channel">Egendefinert</String>
+    <String key="TaskSelect:HostSwitchNotAvail">Enhet ikke tilgjengelig</String>
+    <String key="TaskSelect:HostSwitchInstruction">Veksle mellom opptil 3 verter.</String>
+    <String key="TaskSelect:HostSwitchLegend1">Gjeldende vert</String>
+    <String key="TaskSelect:HostSwitchLegend2">Tilgjengelig</String>
+    <String key="TaskSelect:HostSwitchLegend3">Ikke tilgjengelig</String>
+    <String key="TaskSelect:ThumbwheelScroll">Tommelhjulrulling</String>
+    <String key="TaskSelect:InvertHorzScroll">Inverter vannrett rulleretning</String>
+    <String key="TaskSelect:TiltScrollSpeed">Velg vannrett rullehastighet</String>
+    <String key="TaskSelect:AdvancedClick">Konfigurer avansert klikking</String>
+    <String key="TaskSelect:ModifierKeys">Velg modifiserer(e)</String>
+    <String key="TaskSelect:ModKeyAlt">Alt</String>
+    <String key="TaskSelect:ModKeyCtl">Ctrl</String>
+    <String key="TaskSelect:ModKeyShf">Skift</String>
+    <String key="TaskSelect:ModKeyWin">Win</String>
+    <String key="TaskSelect:ModKeyJnr"> + </String>
+    <String key="TaskSelect:SelectClick">Velg klikk-type</String>
+    <String key="TaskSelect:SingleClick">Klikk</String>
+    <String key="TaskSelect:DoubleClick">Dobbeltklikk</String>
+    <String key="TaskSelect:TripleClick">Trippeltklikk</String>
+    <String key="TaskSelect:RightClick">Høyreklikk</String>
+    <String key="TaskSelect:MiddleClick">Midtklikk</String>
+    <String key="TaskSelect:SelectTools">Velg utviklerverktøy</String>
+    <String key="TaskSelect:SelectToolsHint">Avhengig av skjermoppløsningen vil du eventuelt ikke se alle aktive verktøy i overlegget.</String>
+
+    <String key="More:ThisDevice">Denne enheten</String>
+    <String key="More:Connectivity">Tilkobling</String>
+    <String key="More:Software">Programvare</String>
+    <String key="More:About">Om</String>
+    <String key="More:NotifyCheckbox">Søk etter oppdateringer automatisk</String>
+    <String key="More:Notifications">Varslinger</String>
+    <String key="More:NotificationText">Varsle meg når følgende skjer. (Varslinger vises en kort stund på skjermen.)</String>
+    <String key="More:NotificationsText">Varsle meg når ett av følgende inntreffer. (Varslinger vises en kort stund på skjermen.)</String>
+    <String key="More:NotifyBattLow">Batterinivået for enheten er lavt</String>
+    <String key="More:NotifyCapsLock">Caps Lock-tasten er nedtrykket</String>
+    <String key="More:NotifyScrollLock">Scroll Lock-tasten er nedtrykket</String>
+    <String key="More:NotifyLockKey">En låsetast er nedtrykket</String>
+    <String key="More:DisabledKeys">Deaktiverte taster</String>
+    <String key="More:DisabledKeysText">Merk av tastene du vil deaktivere.</String>
+    <String key="More:KeysCapsLock">Caps Lock</String>
+    <String key="More:KeysScrollLock">Scroll Lock</String>
+    <String key="More:KeysInsert">Insert</String>
+    <String key="More:KeysWindows">Windows/Start-tast</String>
+    <String key="More:KeysNumLock">Num Lock</String>
+    <String key="More:Unifying">Unifying</String>
+    <String key="More:UnifyingText">En %BrandName% Unifying-mottaker er tilkoblet denne datamaskinen. Du kan opprette en parvis tilkobling mellom opptil seks kompatible trådløse mus, tastatur og andre Unifying-enheter og en enkelt %BrandName% Unifying-mottaker.</String>
+    <String key="More:LearnMore">Les mer</String>
+    <String key="More:OpenUnifying">Åpne Unifying-programmet</String>
+    <String key="More:Bluetooth">Bluetooth</String>
+    <String key="More:SoftwareVersion">Programvareversjon: </String>
+    <String key="More:FirmwareVersion">Fastvareversjon: </String>
+    <String key="More:CopyTrade">© 2018 %BrandName%. %BrandName%, Logi og andre %BrandName%-merker tilhører %BrandName% og kan være registrert. Alle andre varemerker tilhører sine respektive eiere.</String>
+    <String key="More:Support">Støtte</String>
+    <String key="More:SupportText">Gå til kundestøttesiden for å få hjelp eller finne dokumentasjon, nedlastinger og få tilgang til brukerfora.</String>
+    <String key="More:DeveloperMode">Utviklermodus</String><!--NEW 1/11/2018-->
+    <String key="More:DeveloperModeText">Tillater at du installerer og bruker usignerte profiler fra tredjepartsprogrammer til utviklingsformål. Finn ut mer om </String><!--NEW 1/11/2018-->
+    <String key="More:DeveloperModeLink">Options SDK</String><!--NEW 1/11/2018-->
+    <String key="More:DeveloperModeEnabled">UTVIKLERMODUS AKTIVERT</String><!--NEW 1/11/2018-->
+
+    <String key="UpdateStatus:Checking">Søker etter oppdatering ...</String>
+    <String key="UpdateStatus:NoUpdateAvailable">Programvaren er oppdatert</String>
+    <String key="UpdateStatus:DownloadInProgress">Laster ned oppdatering ...</String>
+    <String key="UpdateStatus:DownloadSuccess">Nedlasting fullført</String>
+    <String key="UpdateStatus:DownloadFailure">Kan ikke laste ned</String>
+    <String key="UpdateStatus:InstallInProgress">Installerer oppdatering ...</String>
+    <String key="UpdateStatus:InstallSuccess">Programvaren er oppdatert</String>
+    <String key="UpdateStatus:InstallFailure">Kan ikke installere</String>
+    <String key="UpdateStatus:NoInternetConnection">Finner ingen Internett-tilkobling. Prøv på nytt senere.</String>
+
+    <String key="Modal:RestoreDefaultsWarning">Innstillingene for denne enheten gjenopprettes til standardverdiene. Universalinnstillinger som gjelder for alle enheter gjenopprettes ikke. Velg Fortsett for å gjenopprette standardinnstillingene, eller Avbryt for å beholde gjeldende innstillinger.</String>
+    <String key="Modal:InstallUpdates">En oppdatering er klar for installasjon. Velg Fortsett for å installere oppdateringen nå, Installer senere for å bli påminnet om det neste gang du starter programmet, eller Hopp over for å ignorere denne oppdateringen.</String>
+    <String key="Modal:InteractiveUpdates">En oppdatering er klar for installasjon. Velg Fortsett for å installere oppdateringen nå, eller Installer senere for å bli påminnet om det neste gang du starter programmet.</String>
+    <String key="Modal:RelaunchUI">%BrandName% Options er oppdatert og vil automatisk starte på nytt for å aktivere nye funksjoner.</String>
+    <String key="Modal:ClearHostChannel">Dette vil midlertidig fjerne den valgte verten fra Easy-Switch-funksjonen. Klikk på %%Buttons:Continue%% for å fortsette eller på %%Buttons:Cancel%% for å avbryte.</String>
+    <String key="Modal:UnknownFeatures">%BrandName% Options fant ukjente funksjoner i én eller flere av de tilkoblede enhetene. For å kunne støtte dem må du sørge for å holde %BrandName% Options oppdatert med den nyeste versjonen.</String>
+    <String key="Modal:ConfirmEnableDeveloperMode">Hvis du aktiverer utviklermodus, kan du installere og bruke programprofiler som ikke er godkjent og signert av %BrandName%. Denne handlingen kan påvirke virkemåten til enhetene og programmene dine. Hvis du får problemer, deaktiverer du utviklermodus før du kontakter vår kundestøtte. 
+
+MERK: Analyser aktiveres automatisk.</String><!--NEW 1/11/2018-->
+    <String key="Modal:ConfirmDisableDeveloperMode">Hvis du deaktiverer utviklermodus, kan du ikke installere nye programprofiler som ikke er godkjent og signert av %BrandName%. Eventuelle usignerte programprofiler som allerede er installert, fjernes fra profillisten.</String><!--NEW 1/11/2018-->
+    <String key="Modal:OnboardingSelectionError">Programmer kan kun være tilordnet én profil, så velg en enkelt profil fra listen. Hvis du allerede har aktivert en profil, må du passe på at du fjerner programprofilen fra Programspesifikke innstillinger først. Deretter prøver du å installere profilen på nytt.</String><!--NEW 1/11/2018-->
+
+    <String key="DFUState:DFU_WELCOME_PAGE_STEP0">En fastvareoppdatering er tilgjengelig for ==DeviceName==. I løpet av denne prosessen kan ==DeviceName== bli utilgjengelig for bruk. Vil du fortsette?</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_PAIRED_STEP1">Søker etter parvis tilkoblede enheter ...</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_PAIRED_STEP1_WAITING">==DeviceName== er ikke parvis tilkoblet. Opprett en parvis tilkobling nå eller prøv på nytt senere.</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_ACTIVE_STEP2">Kontrollerer at enheten er aktiv ...</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_ACTIVE_STEP2_WAITING">Finner ikke ==DeviceName==. Kontroller at den er påslått og at den fungerer.</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_BATTERY_OK_STEP3">Sjekker batteristatus ...</String>
+    <String key="DFUState:DFU_PREREQ_FW_VERSION_CHECK_STEP3_PLUS">Sjekker fastvareversjoner ...</String>
+    <String key="DFUState:DFU_ENTER_DFU_MODE_STEP4">Setter enheten i modus for fastvareoppdatering ...</String>
+    <String key="DFUState:DFU_ENTER_DFU_MODE_STEP4_WAITING">Skru ==DeviceName== av og deretter på igjen for å installere oppdateringen. Etter at oppdateringen har startet, må du vente til den er fullført før du slår av enheten eller koble den fra.</String>
+    <String key="DFUState:DFU_SEND_FIRST_DFU_PACKET_STEP5">Forbereder fastvareoppdatering ...</String>
+    <String key="DFUState:DFU_PACKET_STEP5_RESPONSE_WAITING">Oppdaterer fastvaren for ==DeviceName==</String>
+    <String key="DFUState:DFU_ABORT_INTERNAL_ERROR">En feil har oppstått under oppdateringsprosessen. Prøv å installere oppdateringen på nytt.</String>
+    <String key="DFUState:DFU_ABORT_LOW_BATTERY_ERROR">Denne oppdateringen kan ikke installeres fordi batterinivået på ==DeviceName== er for lavt. Prøv å lade batteriene eller bytte dem ut. Deretter prøver du å installere oppdateringen på nytt.</String>
+    <String key="DFUState:DFU_ABORT_START_FAILED_ERROR">En feil har oppstått under oppdateringsprosessen. Prøv å installere oppdateringen på nytt.</String>
+    <String key="DFUState:DFU_SUCCESS">Fastvaren for ==DeviceName== er oppdatert.</String>
+    <String key="DFUState:DFU_ABORT">En ukjent feil har ført til at fastvareoppdateringen ble avbrutt. Prøv på nytt senere.</String>
+    <String key="DFUState:DFU_DONE">==DeviceName== er nå klar til bruk.</String>
+    <String key="DFUState:DFU_ABORT_FW_VERSION_UPTO_DATE">Enhetens fastvare er allerede oppdatert.</String>
+    <String key="DFUState:DFU_BLE_MODE_NOT_SUPPORTED">==DeviceName== kan ikke oppdateres når den er parvis tilkoblet via Bluetooth. Kontroller at den er parvis tilkoblet en Unifying-mottaker, og prøv på nytt. Takk.</String>
+    <String key="DFUState:DFU_EXIT_FROM_WELCOME_PAGE"/>
+    <String key="DFUState:Unknown">En ukjent DFU-status har oppstått:</String>
+
+    <String key="GenericFeatures:ProgramControls">Programmerbare kontroller</String>
+    <String key="GenericFeatures:UnsupportedFeatures">Ustøttede funksjoner</String>
+
+    <String key="MouseFeatures:MiddleButton">Midtknapp</String>
+    <String key="MouseFeatures:PointerSpeed">Pekerhastighet</String>
+    <String key="MouseFeatures:ScrollDirection">Rullehjulretning</String>
+    <String key="MouseFeatures:SmoothScroll">Jevn rulling</String>
+    <String key="MouseFeatures:SmartShift">SmartShift</String>
+    <String key="MouseFeatures:SmartShiftThreshold">SmartShift-følsomhet</String>
+    <String key="MouseFeatures:DefaultWheelMode">Fast rullehjulmodus</String>
+    <String key="MouseFeatures:SwapLeftRight">Bytt mellom høyre/venstre knapper</String>
+    <String key="MouseFeatures:SmartShiftHintOff">Fast modus er ikke aktivert. (Deaktiver SmartShift og bekreft at modusbytte ikke er tildelt en knapp.)</String>
+    <String key="MouseFeatures:SmartShiftHintOn">Fast modus er aktiv. </String>
+    <String key="MouseFeatures:Enabled">Aktivert</String>
+    <String key="MouseFeatures:Disabled">Deaktivert</String>
+    <String key="MouseFeatures:Traditional">Tradisjonell</String>
+    <String key="MouseFeatures:Inverted">Invertert</String>
+    <String key="MouseFeatures:Default">Standard</String>
+    <String key="MouseFeatures:Ratchet">Skrolle</String>
+    <String key="MouseFeatures:Freespin">Freespin</String>
+    <String key="MouseFeatures:HorScroll">Tommelhjulretning</String>
+    <String key="MouseFeatures:NotAssigned">Ikke tildelt</String>
+    <String key="MouseFeatures:Backlight">Slå av belysning etter</String>
+    <String key="MouseFeatures:10Sec">10 sekunder</String>
+    <String key="MouseFeatures:20Sec">20 sekunder</String>
+    <String key="MouseFeatures:30Sec">30 sekunder</String>
+    <String key="MouseFeatures:1Min">1 minutt</String>
+    <String key="MouseFeatures:5Min">5 minutter</String>
+    <String key="MouseFeatures:10Min">10 minutter</String>
+    <String key="MouseFeatures:Illumination">Aktiver belysning</String>
+    <String key="MouseFeatures:HandDetection">med håndgjenkjenning</String>
+    <String key="MouseFeatures:StartTyping">når jeg begynner å skrive</String>
+
+    <String key="AddDevice">Legg til en komponent</String>
+    <String key="AddDevice:UnifyingHeadline">Konfigurer en Unifying-enhet</String>
+    <String key="AddDevice:WirelessHeadline">Konfigurer en trådløs enhet</String>
+    <String key="AddDevice:UnifyingDescription">Opprett en parvis tilkobling mellom opptil seks kompatible trådløse mus og tastatur og én enkelt %BrandName% Unifying-mottaker.</String>
+    <String key="AddDevice:WirelessDescription">Opprett en parvis tilkobling mellom opptil seks kompatible trådløse mus og tastatur og én enkelt %BrandName% Unifying-mottaker, eller mellom en trådløs mus eller et tastatur og en %BrandName%-nanomottaker.</String>
+    <String key="AddDevice:LtdOnlyDescription">Opprett en parvis tilkobling med en trådløs mus eller et trådløst tastatur.</String>
+    <String key="AddDevice:UnifyingButton">Legg til Unifying-enhet</String>
+    <String key="AddDevice:WirelessButton">Legg til en trådløs enhet</String>
+    <String key="AddDevice:AdvancedButton">Avansert Unifying-app</String>
+    <String key="AddDevice:NoUnifyingHeadline">Ingen Unifying-mottaker</String>
+    <String key="AddDevice:NoUnifyingDescription">Når du vil legge til en enhet, kobler du en Unifying-mottaker til datamaskinen og venter et par sekunder til du ser knappen 'Legg til Unifying-enhet'.</String>
+    <String key="AddDevice:BluetoothHeadline">Konfigurer en Bluetooth-enhet</String>
+    <String key="AddDevice:BluetoothDescription">Legg til en Bluetooth-enhet ved hjelp av parvis tilkobling i Windows.</String>
+    <String key="AddDevice:BluetoothButton">Legg til Bluetooth-enhet</String>
+    <String key="AddDevice:NoBluetoothHeadline">Ingen Bluetooth-mottaker</String>
+    <String key="AddDevice:BluetoothOffHeadline">Bluetooth-mottaker avslått</String>
+    <String key="AddDevice:DevicesDetected">Oppdagede enheter</String>
+    <String key="AddDevice:NoDevicesDetected">Finner ingen enheter</String>
+    <String key="AddDevice:BluetoothSmartCapable">PC-en din støtter Bluetooth Smart-enheter.</String>
+    <String key="AddDevice:BluetoothSmartIncapable">PC-en din støtter ikke Bluetooth Smart-enheter.</String>
+
+    <!-- DJCU components -->
+    <String key="DJCU:ConnectTitle">Start enheten du vil koble til datamaskinen, på nytt</String>
+    <String key="DJCU:Connect1">1. Finn glidebryteren for PÅ-AV (se bildet under).</String>
+    <String key="DJCU:Connect2">2. Flytt glidebryteren til AV og deretter til PÅ. (Vent til enheten er parvis tilkoblet).</String>
+    <String key="DJCU:Connect3">(Tips: Glidebryteren er enten plassert under eller øverst til høyre på enheten.)</String>
+    <String key="DJCU:Connect4">* Noen %BrandName%-enheter er ikke kompatible med denne trådløse mottakeren.</String>
+
+    <String key="DJCU:TimeoutTitle">Beklager, parvis tilkobling mislyktes</String>
+    <String key="DJCU:Timeout1">Vi kunne ikke opprette en parvis tilkobling med enheten på forventet tid.</String>
+    <String key="DJCU:Timeout2">Klikk på %%Buttons:TryAgain%% for å starte prosessen på nytt.</String>
+    <String key="DJCU:Timeout3">Eller klikk på %%Buttons:Cancel%% hvis du ikke vil bruke denne enheten.</String>
+    <String key="DJCU:Timeout4">Klikk her for feilsøkingsinformasjon.</String>
+
+    <String key="DJCU:ReceiversFullTitle">Alle trådløse mottakere er fulle</String>
+    <String key="DJCU:ReceiversFull1">Det finnes ingen tilgjengelige spor for tilkobling av en ekstra Unifying-enhet eller trådløs enhet blant de gjeldende mottakerne.</String>
+    <String key="DJCU:ReceiversFull2">Hvis du vil koble til en annen enhet, må du koble til en ny Unifying-mottaker.</String>
+
+    <String key="DJCU:MultiReceiverTitle">Vi fant flere tilkoblede trådløse mottakere.</String>
+    <String key="DJCU:MultiReceiver1">Hvis du vil opprette en parvis tilkobling med én bestemt mottaker, må du koble alle Unifying-mottakerne fra datamaskinen, unntatt mottakeren du vil opprette en parvis tilkobling med.</String>
+    <String key="DJCU:MultiReceiver2">Hvis du vil at vi skal velge en tilgjengelig mottaker for parvis tilkobling, klikker du bare på %%Buttons:Continue%%.</String>
+
+    <String key="DJCU:OtpErrorTitle">Enhets- eller mottakerfeil</String>
+    <String key="DJCU:OtpError1">Enheten eller mottakeren du prøvde å opprette en parvis tilkobling med, har vært parvis tilkoblet for mange ganger og kan ikke lenger brukes til dette.</String>
+
+    <String key="DJCU:IncompatibleDeviceTitle">Enheten er inkompatibel</String>
+    <String key="DJCU:IncompatibleDevice1">Vi kunne ikke opprette en parvis tilkobling med enheten. Enheten er ikke kompatibel med mottakeren. Bruk mottakeren som fulgte med enheten.</String>
+
+    <String key="DJCU:PairSuccessTitle">Parvis tilkobling fullført</String>
+    <String key="DJCU:PairSuccess1">%DeviceName% er parvis tilkoblet.</String>
+
+    <!-- Easy-Switch HostInfo Types (feature 0x1814) -->
+    <!-- public enum HostInfoHostTypes { Unset = 0, Unknown = 1, Windows = 2, Win7 = 3, Win8 = 4, Win10 = 5, MacOS = 6, Mac107 = 7, Mac108 = 8, Mac109 = 9 } -->
+    <String key="HostInfo:Unset">Ingen vert</String>
+    <String key="HostInfo:Unknown">Ukjent vertstype</String>
+    <String key="HostInfo:Windows">Windows</String>
+    <String key="HostInfo:Win7">Windows 7</String>
+    <String key="HostInfo:Win8">Windows 8</String>
+    <String key="HostInfo:Win10">Windows 10</String>
+    <String key="HostInfo:MacOS">Mac OS</String>
+    <String key="HostInfo:Mac107">Mac OSX 10.7</String>
+    <String key="HostInfo:Mac108">Mac OSX 10.8</String>
+    <String key="HostInfo:Mac109">Mac OSX 10.9</String>
+
+    <!-- MP HostInfo Types (features 0x4531 and 0x1815) -->
+    <!-- public enum Feature4351Platforms { Unknown = 0, Windows = 1, WinEmb = 2, Linux = 3, Chrome = 4, Android = 5, MacOS = 6, IOS = 7 } -->
+    <String key="MPHostInfo:None">Ikke parvis tilkoblet</String>
+    <String key="MPHostInfo:Unknown">Ukjent</String>
+    <String key="MPHostInfo:Windows">Windows</String>
+    <String key="MPHostInfo:WinEmb">Windows IoT</String>
+    <String key="MPHostInfo:Linux">Linux</String>
+    <String key="MPHostInfo:Chrome">Chrome</String>
+    <String key="MPHostInfo:Android">Android</String>
+    <String key="MPHostInfo:MacOS">Mac OS</String>
+    <String key="MPHostInfo:IOS">iOS</String>
+
+    <!-- App profiles Strings -->
+    <String key="AppProfAddApp">Legg til program</String>
+    <!--<String key="AppProfAddAppTT">Click to add a new application profile for this device</String>
+     <String key="AppProfBrowseTT">Click to add a program manually using a file browser</String>-->
+    <String key="AppProfDeleteWarning">Dette vil slette de egendefinerte innstillingene for ==ApplicationName==. Velg Fortsett for å fjerne de egendefinerte innstillingene eller Avbryt for å beholde dem.</String>
+    <String key="AppProfDefaultSettings">Alle programmer</String>
+    <!--<String key="AppProfDefaultSettingsTT">Click to update All Applications settings</String>-->
+    <String key="AppProfRestoreProfileWarning">Innstillingene for ==ApplicationName== tilbakestilles til innstillingene for 'Alle programmer'. Velg Fortsett for å gjenopprette de egendefinerte innstillingene eller Avbryt for å beholde dem.</String>
+    <String key="AppProfRestoreProfileWarningCraft">Innstillingene for '==ApplicationName==' tilbakestilles til standard profilinnstillinger for Craft. Velg Fortsett for å gjenopprette de egendefinerte innstillingene eller Avbryt for å beholde dem.</String><!--NEW-->
+    <String key="AppProfToggleText">Programspesifikke innstillinger</String>
+    <String key="AppProfDetailHeading">Opprett egendefinerte innstillinger for spesifikke programmer</String>
+    <String key="AppProfDetailDescription">Med Programspesifikke innstillinger kan du egendefinere knapper og handlinger for favorittprogrammene dine. Dine gjeldende innstillinger for 'Alle programmer' påvirkes ikke, og du kan når som helst aktivere eller deaktivere denne funksjonen uten å miste de egendefinerte innstillingene.</String>
+    <String key="AppProfOther">Annet ...</String>
+    <String key="AppProfAddAppHeader">Velg et program</String>
+
+    <String key="Flow:ConfigurationError">Feil i konfigurasjonsfilen til %BrandName% Flow. Slå musen av og på igjen, og start %BrandName% Options på nytt.</String>
+    <String key="Flow:LearnMore">Les mer</String>
+    <String key="Flow:MoreOptions">Flere alternativer</String>
+    <String key="Flow:ManualSetUp">Manuell konfigurasjon</String>
+    <String key="Flow:LinkKeyboard">Koble til tastatur</String>
+    <String key="Flow:CopyPaste">Kopier og lim inn</String>
+    <String key="Flow:ScreenCorners">Skjermhjørner</String>
+    <!--<String key="Flow:CannotFlow">Cannot Flow</String>
+    <String key="Flow:CanFlow">Can Flow</String>-->
+    <String key="Flow:SwitchBetweenComputers">Bytt mellom datamaskiner</String>
+    <String key="Flow:HoldCtrlAndMove">Hold nede Ctrl og flytt til kanten</String>
+    <String key="Flow:MoveToEdge">Flytt til kanten</String>
+
+    <String key="Flow:SettingUpFlowHeader">KONFIGURERE %BRANDNAME% FLOW ...</String>
+    <String key="Flow:SettingUpFlowSearching">Søker etter datamaskiner</String>
+    <String key="Flow:SettingUpFlowFound">Datamaskin funnet</String>
+    <String key="Flow:SettingUpFlow">Konfigurere datamaskin(er)</String>
+    <String key="Flow:SettingUpFlowNote">Denne prosessen kan ta opptil ett minutt</String>
+    <String key="Flow:SettingUpFlowManual">Angi et annet datamaskinnavn eller en annen IP-adresse</String>
+    <String key="Flow:SettingUpFlowSuccess">%BrandName% Flow er nå konfigurert og klart til bruk.</String>
+    <String key="Flow:SettingUpFlowManualFailed">Finner ikke eller kan ikke opprette en tilkobling til andre datamaskiner. Kontroller at
+ - %BrandName% Options er installert på de andre datamaskinene
+ - musen er parvis tilkoblet datamaskinen(e)
+ - datamaskinene er i samme nettverk
+Bekreft forutsetningene ovenfor, og prøv deretter å aktivere Flow fra de andre datamaskinene.</String> 
+    <String key="Flow:SettingUpFlowOtherMachine">Jeg har forsøkt å aktivere Flow på de andre datamaskinene.</String>
+      <String key="Flow:ShowNotificationIcon">Vis oppgavelinjeikon</String>
+    <String key="Flow:RemoveFlowHost">Du vil fjerne denne datamaskinen og må legge den til på nytt for å kunne bruke den med %BrandName% Flow igjen. Velg Fortsett for å fjerne den eller Avbryt for å beholde den.</String>
+    <String key="Flow:RestoreFlowDefaults">Innstillingene for %BrandName% Flow gjenopprettes. Du kan ikke bruke Flow på denne datamaskinen med mindre du aktiverer det på nytt eller legger det til fra en annen datamaskin med Flow aktivert. Velg Fortsett for å gjenopprette de gjeldende innstillingene eller Avbryt for å beholde dem.</String>
+    <String key="Flow:FeedbackButton">Tilbakemelding</String>
+    <String key="Flow:FeedbackFormHint">Skriv inn tilbakemeldingen her ...</String>
+
+    <String key="Flow:WelcomeTitle">VELKOMMEN TIL %BRANDNAME% FLOW</String>
+    <String key="Flow:WelcomeDescription1">Bytt sømløst mellom datamaskiner ved å flytte markøren til kanten av skjermen. Deretter kan du raskt kopiere og lime inn tekst, bilder og filer mellom dem.</String>
+    <String key="Flow:WelcomeHowToSetup">OPPSETT</String>
+    <String key="Flow:WelcomeEnabledFlow">AKTIVER FLOW</String>
+
+      <String key="Flow:WelcomeTitlePart1">Husk å gi oss din mening ved å bruke </String>
+    <String key="Flow:feedback">TILBAKEMELDING-</String>
+    <String key="Flow:WelcomeTitlePart2"> knappen</String>
+    <String key="Flow:Enable">Aktiver Flow</String>
+    <String key="Flow:LogitechFlow">%BrandName% Flow</String>
+    <String key="Flow:TutorialSlide1">Opprett en parvis tilkobling mellom musen og datamaskinene.</String>
+    <String key="Flow:TutorialSlide2">Kontroller at datamaskinene er i samme nettverk.</String>
+    <String key="Flow:TutorialSlide3">Last ned og installer %BrandName% Options på datamaskinene.</String>
+
+    <String key="Flow:TutorialSlide4">Du er ferdig! Du kan nå begynne å bruke %BrandName% Flow.</String>
+    
+    <String key="Flow:DiscoveryFailedUnableToEstablish">AKTIVER %BRANDNAME% FLOW PÅ DE ANDRE DATAMASKINENE</String>
+    <String key="Flow:DiscoveryFailedFollowTheseSteps1">%BrandName% Flow fant ikke andre datamaskiner i nettverket.</String>
+    <String key="Flow:DiscoveryFailedFollowTheseSteps2">Kontroller at du er tilkoblet Internett og følg trinnene nedenfor.</String>
+    <String key="Flow:DiscoveryFailed:DownloadAndInstall">LAST NED OG INSTALLER DEN NYESTE VERSJONEN AV %BRANDNAME% OPTIONS</String>
+    <String key="Flow:DiscoveryFailed:Pair">OPPRETT EN PARVIS TILKOPLING MELLOM MUSEN OG ANDRE DATAMASKINER</String>
+    <String key="Flow:DiscoveryFailed:ConnectSameNetwork">KOPLE DATAMASKINENE DINE TIL DET SAMME NETTVERKET</String>
+    <String key="Flow:DiscoveryFailed:EnabledOnAll">AKTIVER %BRANDNAME% FLOW PÅ ALLE DATAMASKINER</String>
+    <String key="Flow:DiscoveryFailed:TroubleshootingLink">Feilsøking</String>
+    <String key="Flow:DiscoverySucceeded:Success">FULLFØRT</String>
+    <String key="Flow:DiscoverySucceeded:Continue">FORTSETT</String>
+    <String key="Buttons:CancelALLCAPS">AVBRYT</String>
+
+    <!--Ichitaro-->
+    <String key="Ichitaro:AppName">Ichitaro2017</String>
+    <!--End Ichitaro-->
+
+    <!--Duolink-->
+    <String key="Duolink:ToggleDefault">STANDARD</String>
+    <String key="Duolink:ToggleFn">DUOLINK</String> <!--MODIFIED 10/10/2017-->
+    <String key="Duolink:ArrowHover">Fn + bevegelse</String>
+    <String key="Duolink:DeviceListSelectInfo">Fn-tasten på tastaturet lar deg utvide funksjonene til %BrandName%-musen. Klikk på musen du vil konfigurere.</String>
+    <String key="Duolink:TutorialText">DuoLink gir museknappene et annet handlingssett når du holder inne *Fn*-tasten. Du kan også bevege musen med *Fn*-tasten nede for å utføre ulike bevegelser.</String>
+    <String key="Duolink:TutorialFn">Fn</String>
+    <String key="Duolink:FnGestureMontionDetail">Hold inne Fn-tasten på tastaturet mens du beveger musen</String>
+    <String key="Duolink:NoDevicesAddDevices">Finner ingen Duolink-enheter Klikk her for å legge til.</String>
+    <!--End Duolink-->
+    
+    <!--Analytics-->
+    <String key="Analytics:HelpImprove">Hjelp %BrandName% med å forbedre produktene og tjenestene sine ved å sende anonym diagnostikk og bruksdata automatisk. Finn ut mer om %BrandName%'s</String>
+    <String key="Analytics:PrivacyPolicy"> personvernerklæring</String>
+    <String key="Analytics:HelpImproveCheckBox">Hjelp %BrandName% med å forbedre produktene og tjenestene sine automatisk</String>
+    <String key="Analytics:Analytics">Analyse</String>
+
+    <String key="Device:Unknown">Ukjent %BrandName%-enhet</String>
+  
+    <!--Craft-->
+    <String key="Craft:Turn">Drei</String>
+    <String key="Craft:Press">Trykk</String>
+    <String key="Craft:PressAndTurn">Trykk på og drei</String>
+    <String key="Craft:NameYourFunction">Gi et navn til den tilpassede funksjonen</String>
+    <String key="Craft:ExUndoRedo">Eksempel: Angre / Gjør om</String>
+    <String key="Craft:TurnRight">Drei til høyre</String>
+    <String key="Craft:TurnLeft">Drei til venstre</String>
+    <String key="Craft:Ratchet">Skrolle</String>
+    <String key="Craft:MaxCharactersX">Maks. antall tegn: %d</String>
+    
+    <String key="Craft:ButtonInstallProfiles">INSTALLER PROFILER</String>
+    <String key="Craft:ApplicationsWithProfiles">Programmer med Craft-profiler</String>
+    <String key="Craft:OtherApplications">Andre programmer</String>
+    <String key="Craft:PressAndTurnTooltip">Du kan kun endre denne funksjonen i innstillingene for 'Alle programmer'</String>
+    
+    <String key="Craft:ButtonContinueWithoutInstalling">FORTSETT UTEN Å INSTALLERE PROFILER</String>
+    <String key="Craft:ButtonBackToOptions">TILBAKE TIL OPTIONS</String>    
+    <String key="Craft:OnboardingWelcome">VELKOMMEN TIL CRAFT</String>
+    <String key="Craft:OnboardingWelcomeDescription">Få full kreativ kontroll</String>
+    <String key="Craft:OnboardingSearch">SØKER ETTER OPTIMALISERTE APPER</String>
+    <String key="Craft:OnboardingSearchDescription">Søker nå etter Craft-optimaliserte apper på denne datamaskinen</String>
+    <String key="Craft:OnboardingNoOptimizedApps">INGEN OPTIMALISERTE APPER PÅ DATAMASKINEN</String>
+    <String key="Craft:OnboardingNoOptimizedAppsDescription">Ingen Craft-optimaliserte programmer er installert på denne datamaskinen</String>
+    <String key="Craft:OnboardingNoOptimizedApps2">INGEN CRAFT-OPTIMALISERTE APPER PÅ DATAMASKINEN</String>
+    <String key="Craft:OnboardingNoOptimizedAppsDescription2">Vi finner ingen Craft-optimaliserte apper på datamaskinen ... :(</String>
+    <String key="Craft:OnboardingNoOptimizedAppsDescription3">Vi finner ingen Craft-optimaliserte apper på datamaskinen.</String><!--NEW 8/2/2017-->
+    <String key="Craft:OnboardingOneOptimizedApp">VI FANT 1 APP OPTIMALISERT FOR CRAFT</String>
+    <String key="Craft:OnboardingOneOptimizedApps">VI FANT %d APPER OPTIMALISERT FOR CRAFT</String>
+    <String key="Craft:OnboardingOneOptimizedAppDescription">De gjenstående Craft-optimaliserte programmene er ikke installert på datamaskinen</String>
+    <String key="Craft:OnboardingXOptimizedApps">%d OPTIMALISERTE APPER ER INSTALLERT</String>
+    <String key="Craft:OnboardingXOptimizedAppsDescription">Velg for å installere optimaliserte profiler for alle appene du bruker</String>
+    <String key="Craft:OnboardingProfilesInstalledDescription">Profiler for disse programmene er allerede installert</String>
+    <String key="Craft:OnboardingInstallingProfiles">INSTALLERER PROFILER</String>
+    <String key="Craft:OnboardingInstallingProfilesDescription">Installasjon av profiler på datamaskinen pågår</String>
+    <String key="Craft:OnboardingInstallingProfilesProblem">PROBLEMER MED Å INSTALLERE PROFILER</String>
+    <String key="Craft:OnboardingInstallingProfilesPlugins">PROBLEMER MED Å INSTALLERE PLUGIN-MODULER</String>
+    <String key="Craft:OnboardingInstallingProfilesProblemDescription">Sjekk feilsøking på nettstedet vårt</String>
+    <String key="Craft:OnboardingInstallingProfilesDone">PROFILER INSTALLERT</String>
+    <String key="Craft:OnboardingInstallingProfilesDoneDescription">Start de optimaliserte appene på nytt for å fullføre installasjonsprosessen</String>
+    <String key="Craft:OnboardingWatchTutorial">SE OPPLÆRING</String>
+    <String key="Craft:OnboardingWatchTutorials">SE OPPLÆRINGER</String>
+    <String key="Craft:OnboardingWatchTutorialDescription">Finn ut hvordan kronen revolusjonerer arbeidsflyten din i alle optimaliserte apper</String>
+    <String key="Craft:OnboardingWatchTutorialDescription2">Finn ut hvordan du bruker kronen i alle optimaliserte apper</String>
+    <String key="Craft:OnboardingDone">DU ER KLAR TIL Å SETTE I GANG</String>
+    <String key="Craft:OnboardingDoneDescription">Craft er optimalisert for appene du bruker mest</String>
+    <String key="Craft:OnboardingSelectedNewApps">DU VALGTE NETTOPP EN NY APP / NYE APPER</String>
+    <String key="Craft:OnboardingSelectedNewAppsDescription">Klikk på knappen for å installere en eller flere profiler</String>
+    <String key="Craft:OnboardingUnsignedPlugin">(Usignert)</String><!--NEW 1/11/2018-->
+
+    <String key="Craft:RestoreDefaults">Innstillingene for ==ApplicationName== tilbakestilles til standard profilinnstillinger for Craft. Velg Fortsett for å gjenopprette de egendefinerte innstillingene eller Avbryt for å beholde dem.</String><!--NEW 8/8/2017-->
+    <!--End Craft-->
+  
+  </Strings>
+</StringDictionary>

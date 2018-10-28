@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="utf-8"?>
+<descriptions>
+	<taskids>
+
+		<!-- ******************************** frequently used windows tasks *********************************** -->
+		<task id="0x1d">
+			<description>Leitor de multimédia</description>
+		</task>
+		<task id="0x44">
+			<description>Bloquear</description>
+		</task>
+		<task id="0x10001">
+			<description>Terminar sessão</description>
+		</task>
+		<task id="0x0c">
+			<description>Fechar janela</description>
+		</task>
+		<task id="0x52">
+			<description>Nenhuma acção</description>
+		</task>
+		<task id="0x53">
+			<description>Mudar de aplicação</description>
+		</task>
+		<task id="0x8">
+			<description>Mudar de aplicação</description>
+		</task>
+		<task id="0x0e">
+			<description>Correio electrónico</description>
+		</task>
+		<task id="0x87">
+			<description>Procurar</description>
+		</task>
+		<task id="0x88">
+			<description>Partilhar</description>
+		</task>
+		<task id="0x89">
+			<description>Dispositivos</description>
+		</task>
+		<task id="0x8a">
+			<description>Definições</description>
+		</task>
+		<task id="0x7A">
+			<description>Atalhos</description>
+		</task>
+		<task id="0x8E">
+			<description>Mostrar/ocultar ambiente de trabalho</description>
+		</task>
+		<task id="0x79">
+			<description>Menu da aplicação</description>
+		</task>
+		<task id="0x90">
+			<description>Ecrã Iniciar</description>
+		</task>
+		<task id="0x95">
+			<description>Maximizar janela</description>
+		</task>
+		<task id="0x94">
+			<description>Minimizar janela</description>
+		</task>
+		<task id="0x38">
+			<description>Clique esquerdo</description>
+		</task>
+		<task id="0x39">
+			<description>Clique direito</description>
+		</task>
+		<task id="0x3A">
+			<description>Botão Central</description>
+		</task>
+
+		<!-- *********************************** back/forward *********************************** -->
+		<task id="0x3b">
+			<description>Retroceder</description>
+		</task>
+		<task id="0x3c">
+			<description>Retroceder</description>
+		</task>
+		<task id="0xab">
+			<description>Retroceder</description>
+		</task>
+		<task id="0x3d">
+			<description>Avançar</description>
+		</task>
+		<task id="0x3e">
+			<description>Avançar</description>
+		</task>
+		<task id="0xac">
+			<description>Avançar</description>
+		</task>
+
+		<!-- *********************************** Edit features *********************************** -->
+		<task id="0x51">
+			<description>Cortar</description>
+		</task>
+		<task id="0x4e">
+			<description>Copiar</description>
+		</task>
+		<task id="0x85">
+			<description>Colar</description>
+		</task>
+
+		<!-- *********************************** Calculator File launcher *********************************** -->
+		<task id="0x0a">
+			<description>Calculadora</description>
+		</task>
+
+		<!-- *********************************** Volume & Media handlers *********************************** -->
+		<task id="0x01">
+			<description>Aumentar volume</description>
+		</task>
+		<task id="0x02">
+			<description>Diminuir volume</description>
+		</task>
+		<task id="0x03">
+			<description>Sem som</description>
+		</task>
+		<task id="0x04">
+			<description>Reproduzir/Pausa</description>
+		</task>
+		<task id="0x07">
+			<description>Parar</description>
+		</task>
+		<task id="0x05">
+			<description>Seguinte</description>
+		</task>
+		<task id="0x06">
+			<description>Anterior</description>
+		</task>
+
+		<!-- *********************************** Common folders *********************************** -->
+		<task id="0x27">
+			<description>O meu computador</description>
+		</task>
+		<task id="0x48">
+			<description>Este PC</description>
+		</task>
+		<task id="0x22">
+			<description>Os meus documentos</description>
+		</task>
+		<task id="0x49">
+			<description>Documentos</description>
+		</task>
+		<task id="0x24">
+			<description>As minhas imagens</description>
+		</task>
+		<task id="0x50">
+			<description>Imagens</description>
+		</task>
+		<task id="0x23">
+			<description>A minha música</description>
+		</task>
+		<task id="0x54">
+			<description>Música</description>
+		</task>
+		<task id="0x26">
+			<description>Os meus vídeos</description>
+		</task>
+		<task id="0x55">
+			<description>Vídeos</description>
+		</task>
+
+		<!-- *********************************** Open Web Page *********************************** -->
+		<task id="0x47">
+			<description>A minha página inicial</description>
+		</task>
+		<task id="0x33">
+			<description>Ampliar</description>
+		</task>
+		<task id="0x35">
+			<description>Reduzir</description>
+		</task>
+		<task id="0x10010">
+			<description>Rodar para a esquerda</description>
+		</task>
+		<task id="0x1000F">
+			<description>Rodar para a direita</description>
+		</task>
+		<task id="0x1000E">
+			<description>Não atribuído</description>
+		</task>
+
+        <task id="0xFFFE">
+            <description>Desactivado</description>
+        </task>     
+
+		<task id="0x37">
+			<description>Repor zoom</description>
+		</task>
+		<task id="0x0b">
+			<description>Correio electrónico</description>
+		</task>
+		<task id="0x2f">
+			<description>Suspender</description>
+		</task>
+		<task id="0x1a">
+			<description>A minha página inicial</description>
+		</task>
+		<task id="0x56">
+			<description>Início</description>
+		</task>
+		<task id="0x1c">
+			<description>Minimizar todas as janelas</description>
+		</task>
+		<task id="0x1b">
+			<description>Restaurar todas as janelas</description>
+		</task>
+		<task id="0x91">
+			<description>Mudar de ecrã</description>
+		</task>
+		<task id="0x93">
+			<description>Mudar de ecrã</description>
+		</task>
+		<task id="0x43">
+			<description>Mostrar/ocultar ambiente de trabalho</description>
+		</task>
+		<task id="0x2d">
+			<description>Procurar</description>
+		</task>
+		<task id="0xb0">
+			<description>Procurar</description>
+		</task>
+		<task id="0xb1">
+			<description>Procurar</description>
+		</task>
+		<task id="0xba">
+			<description>Idioma de entrada</description>
+		</task>
+
+		<task id="0x47">
+			<description>A minha página inicial</description>
+		</task>
+
+		<task id="0x96">
+			<description>Mudar de aplicação</description>
+		</task>
+		<task id="0x97">
+			<description>A minha página inicial</description>
+		</task>
+		<task id="0x9b">
+             <description>Captura de ecrã</description>
+        </task>
+		<task id="0xb2">
+			<description>A minha página inicial</description>
+		</task>
+		<task id="0x98">
+			<description>Clique direito</description>
+		</task>
+		<task id="0x20">
+			<description>Clique direito</description>
+		</task>
+		<task id="0xb3">
+			<description>Clique direito</description>
+		</task>
+		<task id="0x99">
+			<description>Retroceder</description>
+		</task>
+		<task id="0xce">
+			<description>Retroceder</description>
+		</task>
+    <task id="0xc5">
+      <description>Novo separador do browser</description>
+    </task>
+    
+		<task id="0xA8">
+			<description>Botão de gestos</description>
+		</task>
+		<task id="0xA9">
+			<description>Botão de gestos</description>
+		</task>
+		<task id="0x9c">
+			<description>Botão de gestos</description>
+		</task>
+		<task id="0xad">
+			<description>Botão de gestos</description>
+		</task>
+
+		<task id="0x1002c">
+			<description>Botão de gestos</description>
+		</task>
+
+		<task id="0x9d">
+			<description>Botão de mudança de modo</description>
+		</task>
+
+		<task id="0x71">
+			<description>rodar para a direita com analógico</description>
+		</task>
+
+		<task id="0x72">
+			<description>rodar para a esquerda com analógico</description>
+		</task>
+
+		<task id="0x73">
+			<description>deslocar para a esquerda</description>
+		</task>
+
+		<task id="0x74">
+			<description>deslocar para a direita</description>
+		</task>
+
+		<task id="0x75">
+			<description>deslocar para cima</description>
+		</task>
+
+		<task id="0x76">
+			<description>deslocar para baixo</description>
+		</task>
+
+
+		<task id="0x3f">
+			<description>Deslocar para a esquerda</description>
+		</task>
+
+		<task id="0x40">
+			<description>Deslocar para a direita</description>
+		</task>
+
+		<task id="0xc3">
+			<description>Menu das aplicações</description>
+		</task>
+
+		<task id="0xbf">
+			<description>Vista de tarefas</description>
+		</task>
+
+		<task id="0xa3">
+			<description>Diminuir brilho</description>
+		</task>
+
+		<task id="0xa4">
+			<description>Aumentar brilho</description>
+		</task>
+
+		<task id="0xc0">
+			<description>Centro de acção</description>
+		</task>
+
+		<task id="0xc1">
+			<description>Diminuir retroiluminação</description>
+		</task>
+
+		<task id="0xc2">
+			<description>Aumentar retroiluminação</description>
+		</task>
+		
+		<task id="0x10003">
+			<description>Hibernar</description>
+		</task>
+
+		<!-- task ids local to LogiOptions -->
+		<!-- *************************************  -->
+		<task id="0x10000">
+			<description>Atribuição de batimento de tecla</description>
+		</task>
+		<task id="0x10001">
+			<description>Terminar sessão</description>
+		</task>
+		<task id="0x10002">
+			<description>Encerrar</description>
+		</task>
+		<task id="0x10003">
+			<description>Hibernar</description>
+		</task>
+		<task id="0x10004">
+			<description>Iniciar aplicação</description>
+		</task>
+		<task id="0x10007">
+			<description>Faixa seguinte/Avanço rápido</description>
+		</task>
+		<task id="0x10008">
+			<description>Abrir ficheiro</description>
+		</task>
+		<task id="0x10009">
+			<description>Abrir pasta</description>
+		</task>
+		<task id="0x1000A">
+			<description>Abrir página da Web</description>
+		</task>
+		<task id="0x1000B">
+			<description>Faixa anterior/Retroceder</description>
+		</task>
+		<task id="0x1000C">
+			<description>Duplo clique</description>
+		</task>
+		<task id="0x1000D">
+			<description>Atalhos do Windows 8</description>
+		</task>
+
+		<task id="0x10011">
+			<description>Deslocamento</description>
+		</task>
+		<task id="0x10012">
+			<description>Deslocamento</description>
+		</task>
+		<task id="0x10013">
+			<description>Deslocamento</description>
+		</task>
+		<task id="0x10014">
+			<description>Deslocamento</description>
+		</task>
+		<task id="0x1000E">
+			<description>Botão central</description>
+		</task>
+
+		<task id="0x10019">
+			<description>Ecrã Iniciar</description>
+		</task>
+
+		<task id="0x10020">
+			<description>Maximizar janela</description>
+		</task>
+
+		<task id="0x10021">
+			<description>Mostrar/ocultar ambiente de trabalho</description>
+		</task>
+		<task id="0x10022">
+			<description>Mudar de aplicação</description>
+		</task>
+
+		<task id="0x10026">
+			<description>Ajustar à esquerda</description>
+		</task>
+
+		<task id="0x10027">
+			<description>Ajustar à direita</description>
+		</task>
+
+		<task id="0x10029">
+			<description>Ampliar</description>
+		</task>
+
+		<task id="0x10030">
+			<description>Aumentar volume</description>
+		</task>
+
+		<task id="0x10031">
+			<description>Diminuir volume</description>
+		</task>
+
+		<task id="0x10032">
+			<description>Anterior</description>
+		</task>
+
+		<task id="0x10033">
+			<description>Seguinte</description>
+		</task>
+
+		<task id="0x10034">
+			<description>Reproduzir/Pausa</description>
+		</task>
+
+		<task id="0x10035">
+			<description>Menu Iniciar</description>
+		</task>
+		<task id="0x10036">
+			<description>Easy-Switch</description>
+		</task>
+		<task id="0x10037">
+			<description>Sensibilidade do rato</description>
+		</task>
+		<task id="0xc4">
+			<description>Modo de precisão</description>
+		</task>
+
+		<task id="0x10038">
+			<description>Maximizar janela</description>
+		</task>
+
+		<task id="0x10039">
+			<description>Teclas modificadoras</description>
+		</task>
+
+		<task id="0x10040">
+			<description>Clique avançado</description>
+		</task>
+
+		<task id="0x10041">
+			<description>Alternar deslocamento uniforme</description>
+		</task>
+
+		<task id="0x10042">
+			<description>Novo ambiente de trabalho</description>
+		</task>
+
+		<task id="0x10043">
+			<description>Fechar ambiente de trabalho</description>
+		</task>
+
+		<task id="0x10044">
+			<description>Ambiente de trabalho (seguinte)</description>
+		</task>
+
+		<task id="0x10045">
+			<description>Ambiente de trabalho (anterior)</description>
+		</task>
+
+		<task id="0x10047">
+			<description>Menu Iniciar</description>
+		</task>
+		<task id="0x10048">
+			<description>Mostrar/ocultar ambiente de trabalho</description>
+		</task>
+		<task id="0x10049">
+			<description>Ambiente de trabalho (anterior)</description>
+		</task>
+		<task id="0x10050">
+			<description>Ambiente de trabalho (seguinte)</description>
+		</task>
+		<task id="0x10051">
+			<description>Vista de tarefas</description>
+		</task>
+		<task id="0x10052">
+			<description>Centro de acção</description>
+		</task>
+		<task id="0x10053">
+			<description>Vista de tarefas</description>
+		</task>
+		<task id="0x10055">
+			<description>Cortana</description>
+		</task>
+	<task id="0x10056">
+	  <description>Vista de tarefas</description>
+	</task>
+		<task id="0x10100">
+			<description>Maximizar janela</description>
+		</task>
+		<task id="0x10101">
+			<description>Mostrar/ocultar ambiente de trabalho</description>
+		</task>
+		<task id="0x10102">
+			<description>A minha página inicial</description>
+		</task>
+		<task id="0x10103">
+			<description>Iniciar aplicação</description>
+		</task>
+		<task id="0x10104">
+			<description>Mudar de aplicação</description>
+		</task>
+		<task id="0x10059">
+			<description>Volume</description>
+		</task>
+		<task id="0x1005a">
+			<description>Mudança de ambiente de trabalho</description>
+		</task>
+		<task id="0x1005b">
+			<description>Brilho</description>
+		</task>
+		<task id="0x1005c">
+			<description>Controlo de multimédia</description>
+		</task>
+		<task id="0x1005d">
+			<description>Mudar de aplicação</description>
+		</task>
+		<task id="0x1005f">
+			<description>Mudar de separador</description>
+		</task>
+    <!--task id="0x10060">
+			<description>Crown Desktop Switch</description>
+		</task-->
+		<task id="0x10061">
+			<description>Zoom</description>
+		</task>
+		<task id="0x10062">
+			<description>Navegar páginas na Coroa</description>
+		</task>
+		<task id="0x10063">
+			<description>Tecla personalizada</description>
+		</task>
+		<task id="0x10064">
+			<description>Alterar valor da ferramenta</description>
+		</task>
+		<task id="0x10065">
+			<description>Desfazer/Refazer</description>
+		</task>
+    <task id="0x10110">
+      <description>Sensibilidade do trackball</description>
+    </task>
+    <task id="0xcd">
+      <description>F1</description>
+    </task>
+    <task id="0xc6">
+      <description>F2</description>
+    </task>
+    <task id="0xc7">
+      <description>F3</description>
+    </task>
+    <task id="0xc8">
+      <description>F4</description>
+    </task>
+    <task id="0xc9">
+      <description>F5</description>
+    </task>
+    <task id="0xca">
+      <description>F6</description>
+    </task>
+    <task id="0xcb">
+      <description>F7</description>
+    </task>
+    <task id="0xcc">
+      <description>F8</description>
+    </task>
+
+
+  </taskids>
+	<gestureids>
+		<gesture id="0x21">
+			<description>Tocar para clicar</description>
+		</gesture>
+		<gesture id="0x2c">
+			<description>Deslocamento suave</description>
+		</gesture>
+		<gesture id="0x2d">
+			<description>Direcção do deslocamento</description>
+		</gesture>
+		<gesture id="0x2a">
+			<description>Deslocamento horizontal</description>
+		</gesture>
+		<gesture id="0x2b">
+			<description>Deslocamento vertical</description>
+		</gesture>
+		<gesture id="0x40">
+			<description>Mudar de aplicação</description>
+		</gesture>
+		<gesture id="0x41">
+			<description>Mostrar atalhos</description>
+		</gesture>
+		<gesture id="0x43">
+			<description>Menu da aplicação</description>
+		</gesture>
+		<gesture id="0x54">
+			<description>Zoom</description>
+		</gesture>
+		<gesture id="0x14">
+			<description>Velocidade do cursor</description>
+		</gesture>
+		<!-- new gestures -->
+		<gesture id="0x2e">
+			<description>Roda desloc. lateral</description>
+		</gesture>
+		<gesture id="0x64">
+			<description>Toque duplo na roda de deslocamento lateral</description>
+		</gesture>
+		<gesture id="0x27d3">
+			<description>Remapeamento SmartShift</description>
+		</gesture>
+		<gesture id="0x2762">
+			<description>remapeamento do botão 3</description>
+		</gesture>
+		<gesture id="0x27d4">
+			<description>remapeamento do botão de gestos</description>
+		</gesture>
+	</gestureids>
+	<gesturetaskids>
+		<gesturetask id="0x0">
+			<description>Desactivado</description>
+		</gesturetask>
+		<gesturetask id="0x1">
+			<description>Tocar com 1 ou 2 dedos</description>
+		</gesturetask>
+		<gesturetask id="0x2">
+			<description>Activado</description>
+		</gesturetask>
+		<gesturetask id="0x3">
+			<description>Tradicional</description>
+		</gesturetask>
+		<gesturetask id="0x4">
+			<description>O conteúdo segue os dedos</description>
+		</gesturetask>
+		<gesturetask id="0x5">
+			<description>Deslizar 2 dedos para a esq. e direita</description>
+		</gesturetask>
+		<gesturetask id="0x6">
+			<description>Deslizar 2 dedos para cima e para baixo</description>
+		</gesturetask>
+		<gesturetask id="0x7">
+			<description>Deslizar 1 dedo desde da borda esquerda</description>
+		</gesturetask>
+		<gesturetask id="0x8">
+			<description>Deslizar 1 dedo desde da borda direita</description>
+		</gesturetask>
+		<gesturetask id="0x9">
+			<description>Deslizar 1 dedo desde da borda superior</description>
+		</gesturetask>
+		<gesturetask id="0xa">
+			<description>Afastar ou apertar com 2 dedos</description>
+		</gesturetask>
+		<gesturetask id="0xb">
+			<description>Velocidade do cursor</description>
+		</gesturetask>
+	</gesturetaskids>
+	<gestureactiongroups>
+		<actiongroup id="win8nav">
+			<description>Navegação nas janelas</description>
+		</actiongroup>
+		<actiongroup id="win7nav">
+			<description>Navegação nas janelas</description>
+		</actiongroup>
+		<actiongroup id="win8nav2">
+			<description>Gestão das janelas</description>
+		</actiongroup>
+		<actiongroup id="winarrangement">
+			<description>Organização das janelas</description>
+		</actiongroup>
+		<actiongroup id="mediagestures">
+			<description>Controlos de multimédia</description>
+		</actiongroup>
+		<actiongroup id="panzoom">
+			<description>Deslocamento</description>
+		</actiongroup>
+		<actiongroup id="zoomrotate">
+			<description>Zoom/Rodar</description>
+		</actiongroup>
+		<actiongroup id="custom">
+			<description>Personalizada</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelhorzscroll">
+			<description>Deslocamento horizontal</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelzoom">
+			<description>Ampliar/Reduzir</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelvolume">
+			<description>Aumentar/diminuir volume</description>
+		</actiongroup>
+		<actiongroup id="thumbwheeltabs">
+			<description>Separador seguinte/anterior</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelnextprev">
+			<description>Seguinte/Anterior</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelbackforward">
+			<description>Avançar/Retrocesso</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelalttab">
+			<description>Mudar de aplicação</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelbrightness">
+			<description>Aumentar/diminuir luminosidade </description>
+		</actiongroup>
+		<actiongroup id="thumbwheelbackforwardtouch">
+			<description>Toque Avançar/Retroceder</description>
+		</actiongroup>
+		<actiongroup id="virtualdesktop">
+			<description>Ambientes de trabalho virtuais</description>
+		</actiongroup>
+	<actiongroup id="fn_virtualdesktop">
+      <description>Ambientes de trabalho virtuais</description>
+    </actiongroup>
+		<actiongroup id="thumbwheelvirtualdesktop">
+			<description>Alternar entre ambientes de trabalho</description>
+		</actiongroup>
+		<actiongroup id="thumbwheeldonothing">
+			<description>Nenhuma acção</description>
+		</actiongroup>
+		<actiongroup id="touch">
+			<description>Deslocar através de toque </description>
+		</actiongroup>
+		<actiongroup id="ichitaro">
+			<description>Ichitaro2017</description>
+		</actiongroup>
+    <actiongroup id="disabled">
+        <description>Desactivado</description>
+    </actiongroup>
+
+	</gestureactiongroups>
+</descriptions>

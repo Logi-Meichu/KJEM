@@ -1,0 +1,48 @@
+{
+  "LocalizedStrings": [
+    {
+      "ID": "keystrokeassignment",
+      "value": "입력할 키 지정"
+    },
+    {
+      "ID": "changetoolvalue",
+      "value": "상황별"
+    },
+    {
+      "ID": "crownbrowsertextsize",
+      "value": "텍스트 크기 또는 탭 변경"
+    },
+    {
+      "ID": "crowntabscommand",
+      "value": "탭 스위치"
+    },
+    {
+      "ID": "textSize",
+      "value": "크기"
+    },
+    {
+      "ID": "imageSize",
+      "value": "크기"
+    },
+    {
+      "ID": "tabSwitch",
+      "value": "탭 탐색"
+    },
+    {
+      "ID": "zoom",
+      "value": "돋보기"
+    },
+    {
+      "ID": "sheetNavigation",
+      "value": "시트 탐색"
+    },
+    {
+      "ID": "horizontalScroll",
+      "value": "수평 스크롤"
+    },
+    {
+      "ID": "playpause",
+      "value": "재생/일시 정지"
+    }
+  ]
+}

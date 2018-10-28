@@ -1,0 +1,412 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "crownbrightness",
+            "value": "亮度"
+        },
+        {
+            "ID": "crownvolume",
+            "value": "音量"
+        },
+        {
+            "ID": "crownmediacontrol",
+            "value": "媒體控制"
+        },
+        {
+            "ID": "crownexposeappswitch",
+            "value": "切換應用程式"
+        },
+        {
+            "ID": "crowntabscommand",
+            "value": "標籤切換"
+        },
+        {
+            "ID": "crownswitchdesktop",
+            "value": "桌面切換"
+        },
+        {
+            "ID": "crownzoom",
+            "value": "縮放"
+        },
+        {
+            "ID": "crownnavigatepages",
+            "value": "瀏覽頁面"
+        },
+        {
+            "ID": "crowncustomkeyleftright",
+            "value": "自訂按鍵"
+        },
+        {
+            "ID": "crownhscroll",
+            "value": "水平捲動"
+        },
+		{
+            "ID": "brightness",
+            "value": "亮度"
+        },
+        {
+            "ID": "volume",
+            "value": "音量"
+        },
+        {
+            "ID": "mediaplayer",
+            "value": "媒體播放器"
+        },
+        {
+            "ID": "appswitch",
+            "value": "切換應用程式"
+        },
+        {
+            "ID": "tabsswitch",
+            "value": "標籤切換"
+        },
+        {
+            "ID": "desktopswitch",
+            "value": "桌面切換"
+        },
+        {
+            "ID": "crowndesktopswitch",
+            "value": "桌面切換"
+        },
+        {
+            "ID": "zoom",
+            "value": "縮放"
+        },
+        {
+            "ID": "gesturebutton",
+            "value": "手勢按鈕"
+        },
+        {
+            "ID": "modeshiftbutton",
+            "value": "模式切換按鈕"
+        },
+        {
+            "ID": "advancedclick",
+            "value": "進階點按"
+        },
+        {
+            "ID": "applicationmenu",
+            "value": "應用程式功能表"
+        },
+        {
+            "ID": "back",
+            "value": "上一頁"
+        },
+        {
+            "ID": "calculator",
+            "value": "小算盤"
+        },
+        {
+            "ID": "charms",
+            "value": "Charms"
+        },
+        {
+            "ID": "closewindow",
+            "value": "關閉視窗"
+        },
+        {
+            "ID": "copy",
+            "value": "複製"
+        },
+        {
+            "ID": "cut",
+            "value": "剪下"
+        },
+        {
+            "ID": "devices",
+            "value": "裝置"
+        },
+        {
+            "ID": "documents",
+            "value": "檔案"
+        },
+        {
+            "ID": "doubleclick",
+            "value": "連按兩下"
+        },
+        {
+            "ID": "email",
+            "value": "電子郵件"
+        },
+        {
+            "ID": "forward",
+            "value": "下一頁"
+        },
+        {
+            "ID": "home",
+            "value": "首頁"
+        },
+        {
+            "ID": "myhome",
+            "value": "我的首頁"
+        },
+        {
+            "ID": "mymusic",
+            "value": "我的音樂"
+        },
+        {
+            "ID": "inputlanguage",
+            "value": "輸入語言"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "按鍵動作指定"
+        },
+        {
+            "ID": "launchapplication",
+            "value": "啟動應用程式"
+        },
+        {
+            "ID": "leftclick",
+            "value": "按滑鼠左鍵"
+        },
+        {
+            "ID": "lock",
+            "value": "鎖定"
+        },
+        {
+            "ID": "maximizewindow",
+            "value": "最大化視窗"
+        },
+        {
+            "ID": "middlebutton",
+            "value": "中間按鈕"
+        },
+        {
+            "ID": "minimizewindow",
+            "value": "最小化視窗"
+        },
+        {
+            "ID": "modifierkeys",
+            "value": "輔助按鍵"
+        },
+        {
+            "ID": "mousesensitivity",
+            "value": "滑鼠靈敏度"
+        },
+        {
+            "ID": "music",
+            "value": "音樂"
+        },
+        {
+            "ID": "mute",
+            "value": "靜音"
+        },
+        {
+            "ID": "mycomputer",
+            "value": "我的電腦"
+        },
+        {
+            "ID": "mydocuments",
+            "value": "我的文件"
+        },
+        {
+            "ID": "myvideos",
+            "value": "我的影片"
+        },
+        {
+            "ID": "next",
+            "value": "下一個"
+        },
+        {
+            "ID": "nextprevious",
+            "value": "下一頁 / 上一頁"
+        },
+        {
+            "ID": "nexttrackfastforward",
+            "value": "下一首/快轉"
+        },
+        {
+            "ID": "openfile",
+            "value": "開啟檔案"
+        },
+        {
+            "ID": "openfolder",
+            "value": "開啟資料夾"
+        },
+        {
+            "ID": "openwebpage",
+            "value": "開啟網頁"
+        },
+        {
+            "ID": "paste",
+            "value": "貼上"
+        },
+        {
+            "ID": "mypictures",
+            "value": "我的圖片"
+        },
+        {
+            "ID": "pictures",
+            "value": "圖片"
+        },
+        {
+            "ID": "playpause",
+            "value": "播放/暫停"
+        },
+        {
+            "ID": "previous",
+            "value": "上一個"
+        },
+        {
+            "ID": "previoustrackrewind",
+            "value": "上一首/倒轉"
+        },
+        {
+            "ID": "rightclick",
+            "value": "按滑鼠右鍵"
+        },
+        {
+            "ID": "scrollleft",
+            "value": "向左捲動"
+        },
+        {
+            "ID": "scrollright",
+            "value": "向右捲動"
+        },
+        {
+            "ID": "search",
+            "value": "搜尋"
+        },
+        {
+            "ID": "settings",
+            "value": "設定"
+        },
+        {
+            "ID": "share",
+            "value": "分享"
+        },
+        {
+            "ID": "showhidedesktop",
+            "value": "顯示/隱藏桌面"
+        },
+        {
+            "ID": "shutdown",
+            "value": "關閉"
+        },
+        {
+            "ID": "signout",
+            "value": "登出"
+        },
+        {
+            "ID": "sleep",
+            "value": "睡眠"
+        },
+        {
+            "ID": "startscreen",
+            "value": "開始畫面"
+        },
+        {
+            "ID": "stop",
+            "value": "停止"
+        },
+        {
+            "ID": "switchscreen",
+            "value": "切換螢幕"
+        },
+        {
+            "ID": "thispc",
+            "value": "此個人電腦"
+        },
+        {
+            "ID": "togglesmoothscrolling",
+            "value": "切換平滑捲動"
+        },
+        {
+            "ID": "videos",
+            "value": "視訊"
+        },
+        {
+            "ID": "volumedown",
+            "value": "音量減小"
+        },
+        {
+            "ID": "volumeup",
+            "value": "音量增大"
+        },
+        {
+            "ID": "zoomin",
+            "value": "放大"
+        },
+        {
+            "ID": "zoomout",
+            "value": "縮小"
+        },
+        {
+            "ID": "zoomreset",
+            "value": "縮放重設"
+        },
+        {
+            "ID": "none",
+            "value": "無"
+        },
+        {
+            "ID": "switchleft",
+            "value": "向左切換"
+        },
+        {
+            "ID": "switchright",
+            "value": "向右切換"
+        },
+        {
+            "ID": "previouspage",
+            "value": "上一頁"
+        },
+        {
+            "ID": "nextpage",
+            "value": "下一頁"
+        },
+        {
+            "ID": "navigatepages",
+            "value": "瀏覽頁面"
+        },
+        {
+            "ID": "customkey",
+            "value": "自訂按鍵"
+        },
+        {
+            "ID": "navigatebetweenapps",
+            "value": "在應用程式間移動瀏覽"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "上下文"
+        },
+        {
+            "ID": "crownbrowsertextsize",
+            "value": "文字大小或標籤變更"
+        },
+        {
+            "ID": "createvirtualdesktop",
+            "value": "新桌面"
+        },
+        {
+            "ID": "clonevirtualdesktop",
+            "value": "關閉桌面"
+        },
+        {
+            "ID": "nextvirtualdesktop",
+            "value": "桌面 (下一個)"
+        },
+        {
+            "ID": "previousvirtualdesktop",
+            "value": "桌面 (上一個)"
+        },
+        {
+            "ID": "teskview",
+            "value": "工作視圖"
+        },
+        {
+            "ID": "teskview10",
+            "value": "工作視圖"
+        },
+        {
+            "ID": "cortana",
+            "value": "Cortana"
+        },
+        {
+            "ID": "actioncenter",
+            "value": "動作中心"
+        }
+    ]
+}

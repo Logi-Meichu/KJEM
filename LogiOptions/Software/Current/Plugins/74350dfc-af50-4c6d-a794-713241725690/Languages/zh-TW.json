@@ -1,0 +1,72 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "textSize",
+            "value": "大小"
+        },
+        {
+            "ID": "leading",
+            "value": "前置"
+        },
+        {
+            "ID": "tracking",
+            "value": "追蹤"
+        },
+        {
+            "ID": "colorFill",
+            "value": "填色"
+        },
+        {
+            "ID": "colorStroke",
+            "value": "筆畫顏色"
+        },
+        {
+            "ID": "strokeWeight",
+            "value": "筆畫粗細"
+        },
+        {
+            "ID": "scale",
+            "value": "縮放"
+        },
+        {
+            "ID": "opacity",
+            "value": "不透明度"
+        },
+        {
+            "ID": "artboardNavigation",
+            "value": "變更工作區"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "情境感知"
+        },
+        {
+            "ID": "undoRedo",
+            "value": "復原/重做"
+        },
+        {
+            "ID": "undoredo",
+            "value": "復原/重做"
+        },
+        {
+            "ID": "undo",
+            "value": "復原"
+        },
+        {
+            "ID": "redo",
+            "value": "重做"
+        },
+        {
+            "ID": "zoom",
+            "value": "縮放"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "按鍵動作指定"
+        },
+        {
+            "ID": "playpause",
+            "value": "播放/暫停"
+        }
+    ]
+}

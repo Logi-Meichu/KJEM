@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="utf-8"?>
+<descriptions>
+	<taskids>
+
+		<!-- ******************************** frequently used windows tasks *********************************** -->
+		<task id="0x1d">
+			<description>Αναπαραγωγή πολυμέσων</description>
+		</task>
+		<task id="0x44">
+			<description>Κλείδωμα</description>
+		</task>
+		<task id="0x10001">
+			<description>Αποσύνδεση</description>
+		</task>
+		<task id="0x0c">
+			<description>Κλείσιμο παραθύρου</description>
+		</task>
+		<task id="0x52">
+			<description>Κανένα</description>
+		</task>
+		<task id="0x53">
+			<description>Εναλλαγή εφαρμογών</description>
+		</task>
+		<task id="0x8">
+			<description>Εναλλαγή εφαρμογών</description>
+		</task>
+		<task id="0x0e">
+			<description>Email</description>
+		</task>
+		<task id="0x87">
+			<description>Αναζήτηση</description>
+		</task>
+		<task id="0x88">
+			<description>Κοινή χρήση</description>
+		</task>
+		<task id="0x89">
+			<description>Συσκευές</description>
+		</task>
+		<task id="0x8a">
+			<description>Ρυθμίσεις</description>
+		</task>
+		<task id="0x7A">
+			<description>Σύμβολα</description>
+		</task>
+		<task id="0x8E">
+			<description>Εμφάνιση/απόκρυψη της επιφάνειας εργασίας</description>
+		</task>
+		<task id="0x79">
+			<description>Μενού εφαρμογών</description>
+		</task>
+		<task id="0x90">
+			<description>Οθόνη Έναρξης</description>
+		</task>
+		<task id="0x95">
+			<description>Μεγιστοποίηση παραθύρου</description>
+		</task>
+		<task id="0x94">
+			<description>Ελαχιστοποίηση παραθύρου</description>
+		</task>
+		<task id="0x38">
+			<description>Αριστερό κλικ</description>
+		</task>
+		<task id="0x39">
+			<description>Δεξί κλικ</description>
+		</task>
+		<task id="0x3A">
+			<description>Μεσαίο κουμπί</description>
+		</task>
+
+		<!-- *********************************** back/forward *********************************** -->
+		<task id="0x3b">
+			<description>Πίσω</description>
+		</task>
+		<task id="0x3c">
+			<description>Πίσω</description>
+		</task>
+		<task id="0xab">
+			<description>Πίσω</description>
+		</task>
+		<task id="0x3d">
+			<description>Εμπρός</description>
+		</task>
+		<task id="0x3e">
+			<description>Εμπρός</description>
+		</task>
+		<task id="0xac">
+			<description>Εμπρός</description>
+		</task>
+
+		<!-- *********************************** Edit features *********************************** -->
+		<task id="0x51">
+			<description>Αποκοπή</description>
+		</task>
+		<task id="0x4e">
+			<description>Αντιγραφή</description>
+		</task>
+		<task id="0x85">
+			<description>Επικόλληση</description>
+		</task>
+
+		<!-- *********************************** Calculator File launcher *********************************** -->
+		<task id="0x0a">
+			<description>Αριθμομηχανή</description>
+		</task>
+
+		<!-- *********************************** Volume & Media handlers *********************************** -->
+		<task id="0x01">
+			<description>Αύξηση έντασης</description>
+		</task>
+		<task id="0x02">
+			<description>Μείωση έντασης</description>
+		</task>
+		<task id="0x03">
+			<description>Σίγαση</description>
+		</task>
+		<task id="0x04">
+			<description>Αναπαραγωγή/Παύση</description>
+		</task>
+		<task id="0x07">
+			<description>Διακοπή</description>
+		</task>
+		<task id="0x05">
+			<description>Επόμενο</description>
+		</task>
+		<task id="0x06">
+			<description>Προηγούμενο</description>
+		</task>
+
+		<!-- *********************************** Common folders *********************************** -->
+		<task id="0x27">
+			<description>Ο υπολογιστής μου</description>
+		</task>
+		<task id="0x48">
+			<description>Αυτός ο υπολογιστής</description>
+		</task>
+		<task id="0x22">
+			<description>Τα έγγραφά μου</description>
+		</task>
+		<task id="0x49">
+			<description>Έγγραφο</description>
+		</task>
+		<task id="0x24">
+			<description>Οι εικόνες μου</description>
+		</task>
+		<task id="0x50">
+			<description>Εικόνες</description>
+		</task>
+		<task id="0x23">
+			<description>Η μουσική μου</description>
+		</task>
+		<task id="0x54">
+			<description>Μουσική</description>
+		</task>
+		<task id="0x26">
+			<description>Τα βίντεό μου</description>
+		</task>
+		<task id="0x55">
+			<description>Βίντεο</description>
+		</task>
+
+		<!-- *********************************** Open Web Page *********************************** -->
+		<task id="0x47">
+			<description>Αρχική</description>
+		</task>
+		<task id="0x33">
+			<description>Μεγέθυνση</description>
+		</task>
+		<task id="0x35">
+			<description>Σμίκρυνση</description>
+		</task>
+		<task id="0x10010">
+			<description>Περιστροφή αριστερά</description>
+		</task>
+		<task id="0x1000F">
+			<description>Περιστροφή δεξιά</description>
+		</task>
+		<task id="0x1000E">
+			<description>Χωρίς αντιστοίχιση</description>
+		</task>
+
+        <task id="0xFFFE">
+            <description>Απενεργοποιήθηκε</description>
+        </task>     
+
+		<task id="0x37">
+			<description>Επαναφορά ζουμ</description>
+		</task>
+		<task id="0x0b">
+			<description>Email</description>
+		</task>
+		<task id="0x2f">
+			<description>Αναστολή λειτουργίας</description>
+		</task>
+		<task id="0x1a">
+			<description>Αρχική</description>
+		</task>
+		<task id="0x56">
+			<description>Αρχική</description>
+		</task>
+		<task id="0x1c">
+			<description>Ελαχιστοποίηση όλων των παραθύρων</description>
+		</task>
+		<task id="0x1b">
+			<description>Επαναφορά όλων των παραθύρων</description>
+		</task>
+		<task id="0x91">
+			<description>Εναλλαγή οθόνης</description>
+		</task>
+		<task id="0x93">
+			<description>Εναλλαγή οθόνης</description>
+		</task>
+		<task id="0x43">
+			<description>Εμφάνιση/απόκρυψη της επιφάνειας εργασίας</description>
+		</task>
+		<task id="0x2d">
+			<description>Αναζήτηση</description>
+		</task>
+		<task id="0xb0">
+			<description>Αναζήτηση</description>
+		</task>
+		<task id="0xb1">
+			<description>Αναζήτηση</description>
+		</task>
+		<task id="0xba">
+			<description>Γλώσσα εισαγωγής</description>
+		</task>
+
+		<task id="0x47">
+			<description>Αρχική</description>
+		</task>
+
+		<task id="0x96">
+			<description>Εναλλαγή εφαρμογών</description>
+		</task>
+		<task id="0x97">
+			<description>Αρχική</description>
+		</task>
+		<task id="0x9b">
+             <description>Αποτύπωση οθόνης</description>
+        </task>
+		<task id="0xb2">
+			<description>Αρχική</description>
+		</task>
+		<task id="0x98">
+			<description>Δεξί κλικ</description>
+		</task>
+		<task id="0x20">
+			<description>Δεξί κλικ</description>
+		</task>
+		<task id="0xb3">
+			<description>Δεξί κλικ</description>
+		</task>
+		<task id="0x99">
+			<description>Πίσω</description>
+		</task>
+		<task id="0xce">
+			<description>Πίσω</description>
+		</task>
+    <task id="0xc5">
+      <description>Νέα καρτέλα προγράμματος περιήγησης</description>
+    </task>
+    
+		<task id="0xA8">
+			<description>Κουμπί κινήσεων</description>
+		</task>
+		<task id="0xA9">
+			<description>Κουμπί κινήσεων</description>
+		</task>
+		<task id="0x9c">
+			<description>Κουμπί κινήσεων</description>
+		</task>
+		<task id="0xad">
+			<description>Κουμπί κινήσεων</description>
+		</task>
+
+		<task id="0x1002c">
+			<description>Κουμπί κινήσεων</description>
+		</task>
+
+		<task id="0x9d">
+			<description>Κουμπί εναλλαγής λειτουργίας</description>
+		</task>
+
+		<task id="0x71">
+			<description>αναλογική περιστροφή δεξιά</description>
+		</task>
+
+		<task id="0x72">
+			<description>αναλογική περιστροφή αριστερά</description>
+		</task>
+
+		<task id="0x73">
+			<description>μετατόπιση αριστερά</description>
+		</task>
+
+		<task id="0x74">
+			<description>μετατόπιση δεξιά</description>
+		</task>
+
+		<task id="0x75">
+			<description>μετατόπιση επάνω</description>
+		</task>
+
+		<task id="0x76">
+			<description>μετατόπιση κάτω</description>
+		</task>
+
+
+		<task id="0x3f">
+			<description>Κύλιση αριστερά</description>
+		</task>
+
+		<task id="0x40">
+			<description>Κύλιση δεξιά</description>
+		</task>
+
+		<task id="0xc3">
+			<description>Μενού εφαρμογών</description>
+		</task>
+
+		<task id="0xbf">
+			<description>Προβολή εργασιών</description>
+		</task>
+
+		<task id="0xa3">
+			<description>Μείωση φωτεινότητας</description>
+		</task>
+
+		<task id="0xa4">
+			<description>Αύξηση φωτεινότητας</description>
+		</task>
+
+		<task id="0xc0">
+			<description>Κέντρο ενεργειών</description>
+		</task>
+
+		<task id="0xc1">
+			<description>Μείωση οπίσθιου φωτισμού</description>
+		</task>
+
+		<task id="0xc2">
+			<description>Αύξηση οπίσθιου φωτισμού</description>
+		</task>
+		
+		<task id="0x10003">
+			<description>Λειτουργία αδράνειας</description>
+		</task>
+
+		<!-- task ids local to LogiOptions -->
+		<!-- *************************************  -->
+		<task id="0x10000">
+			<description>Αντιστοίχιση πλήκτρου</description>
+		</task>
+		<task id="0x10001">
+			<description>Αποσύνδεση</description>
+		</task>
+		<task id="0x10002">
+			<description>Τερματισμός</description>
+		</task>
+		<task id="0x10003">
+			<description>Λειτουργία αδράνειας</description>
+		</task>
+		<task id="0x10004">
+			<description>Εκκίνηση εφαρμογής</description>
+		</task>
+		<task id="0x10007">
+			<description>Επόμενο κομμάτι/Γρήγορη προώθηση</description>
+		</task>
+		<task id="0x10008">
+			<description>Άνοιγμα αρχείου</description>
+		</task>
+		<task id="0x10009">
+			<description>Άνοιγμα φακέλου</description>
+		</task>
+		<task id="0x1000A">
+			<description>Άνοιγμα ιστοσελίδας</description>
+		</task>
+		<task id="0x1000B">
+			<description>Προηγούμενο κομμάτι/Επιστροφή</description>
+		</task>
+		<task id="0x1000C">
+			<description>Διπλό κλικ</description>
+		</task>
+		<task id="0x1000D">
+			<description>Συντομεύσεις των Windows 8</description>
+		</task>
+
+		<task id="0x10011">
+			<description>Μετατόπιση</description>
+		</task>
+		<task id="0x10012">
+			<description>Μετατόπιση</description>
+		</task>
+		<task id="0x10013">
+			<description>Μετατόπιση</description>
+		</task>
+		<task id="0x10014">
+			<description>Μετατόπιση</description>
+		</task>
+		<task id="0x1000E">
+			<description>Μεσαίο κουμπί</description>
+		</task>
+
+		<task id="0x10019">
+			<description>Οθόνη Έναρξης</description>
+		</task>
+
+		<task id="0x10020">
+			<description>Μεγιστοποίηση παραθύρου</description>
+		</task>
+
+		<task id="0x10021">
+			<description>Εμφάνιση/απόκρυψη της επιφάνειας εργασίας</description>
+		</task>
+		<task id="0x10022">
+			<description>Εναλλαγή εφαρμογών</description>
+		</task>
+
+		<task id="0x10026">
+			<description>Κούμπωμα αριστερά</description>
+		</task>
+
+		<task id="0x10027">
+			<description>Κούμπωμα δεξιά</description>
+		</task>
+
+		<task id="0x10029">
+			<description>Μεγέθυνση</description>
+		</task>
+
+		<task id="0x10030">
+			<description>Αύξηση έντασης</description>
+		</task>
+
+		<task id="0x10031">
+			<description>Μείωση έντασης</description>
+		</task>
+
+		<task id="0x10032">
+			<description>Προηγούμενο</description>
+		</task>
+
+		<task id="0x10033">
+			<description>Επόμενο</description>
+		</task>
+
+		<task id="0x10034">
+			<description>Αναπαραγωγή/Παύση</description>
+		</task>
+
+		<task id="0x10035">
+			<description>Μενού Έναρξη</description>
+		</task>
+		<task id="0x10036">
+			<description>Easy-Switch</description>
+		</task>
+		<task id="0x10037">
+			<description>Ευαισθησία ποντικιού</description>
+		</task>
+		<task id="0xc4">
+			<description>Λειτουργία ακριβείας</description>
+		</task>
+
+		<task id="0x10038">
+			<description>Μεγιστοποίηση παραθύρου</description>
+		</task>
+
+		<task id="0x10039">
+			<description>Πλήκτρα τροποποίησης</description>
+		</task>
+
+		<task id="0x10040">
+			<description>Κλικ για προχωρημένους</description>
+		</task>
+
+		<task id="0x10041">
+			<description>Εναλλαγή ομαλής κύλισης</description>
+		</task>
+
+		<task id="0x10042">
+			<description>Νέα επιφάνεια εργασίας</description>
+		</task>
+
+		<task id="0x10043">
+			<description>Κλείσιμο επιφάνειας εργασίας</description>
+		</task>
+
+		<task id="0x10044">
+			<description>Επιφάνεια εργασίας (επόμενο)</description>
+		</task>
+
+		<task id="0x10045">
+			<description>Επιφάνεια εργασίας (προηγούμενο)</description>
+		</task>
+
+		<task id="0x10047">
+			<description>Μενού Έναρξης</description>
+		</task>
+		<task id="0x10048">
+			<description>Εμφάνιση/απόκρυψη της επιφάνειας εργασίας</description>
+		</task>
+		<task id="0x10049">
+			<description>Επιφάνεια εργασίας (προηγούμενο)</description>
+		</task>
+		<task id="0x10050">
+			<description>Επιφάνεια εργασίας (επόμενο)</description>
+		</task>
+		<task id="0x10051">
+			<description>Προβολή εργασιών</description>
+		</task>
+		<task id="0x10052">
+			<description>Κέντρο ενεργειών</description>
+		</task>
+		<task id="0x10053">
+			<description>Προβολή εργασιών</description>
+		</task>
+		<task id="0x10055">
+			<description>Cortana</description>
+		</task>
+	<task id="0x10056">
+	  <description>Προβολή εργασιών</description>
+	</task>
+		<task id="0x10100">
+			<description>Μεγιστοποίηση παραθύρου</description>
+		</task>
+		<task id="0x10101">
+			<description>Εμφάνιση/απόκρυψη της επιφάνειας εργασίας</description>
+		</task>
+		<task id="0x10102">
+			<description>Αρχική</description>
+		</task>
+		<task id="0x10103">
+			<description>Έναρξη εφαρμογής</description>
+		</task>
+		<task id="0x10104">
+			<description>Εναλλαγή εφαρμογών</description>
+		</task>
+		<task id="0x10059">
+			<description>Ένταση</description>
+		</task>
+		<task id="0x1005a">
+			<description>Εναλλαγή επιφανειών εργασίας</description>
+		</task>
+		<task id="0x1005b">
+			<description>Φωτεινότητα</description>
+		</task>
+		<task id="0x1005c">
+			<description>Έλεγχος πολυμέσων</description>
+		</task>
+		<task id="0x1005d">
+			<description>Εναλλαγή εφαρμογών</description>
+		</task>
+		<task id="0x1005f">
+			<description>Εναλλαγή καρτελών</description>
+		</task>
+    <!--task id="0x10060">
+			<description>Crown Desktop Switch</description>
+		</task-->
+		<task id="0x10061">
+			<description>Ζουμ</description>
+		</task>
+		<task id="0x10062">
+			<description>Επιλογέας Πλοήγηση σε σελίδες</description>
+		</task>
+		<task id="0x10063">
+			<description>Προσαρμοσμένο πλήκτρο</description>
+		</task>
+		<task id="0x10064">
+			<description>Αλλαγή τιμής εργαλείου</description>
+		</task>
+		<task id="0x10065">
+			<description>Αναίρεση/Επανάληψη</description>
+		</task>
+    <task id="0x10110">
+      <description>Ευαισθησία trackball</description>
+    </task>
+    <task id="0xcd">
+      <description>F1</description>
+    </task>
+    <task id="0xc6">
+      <description>F2</description>
+    </task>
+    <task id="0xc7">
+      <description>F3</description>
+    </task>
+    <task id="0xc8">
+      <description>F4</description>
+    </task>
+    <task id="0xc9">
+      <description>F5</description>
+    </task>
+    <task id="0xca">
+      <description>F6</description>
+    </task>
+    <task id="0xcb">
+      <description>F7</description>
+    </task>
+    <task id="0xcc">
+      <description>F8</description>
+    </task>
+
+
+  </taskids>
+	<gestureids>
+		<gesture id="0x21">
+			<description>Πάτημα για κλικ</description>
+		</gesture>
+		<gesture id="0x2c">
+			<description>Ομαλή κύλιση</description>
+		</gesture>
+		<gesture id="0x2d">
+			<description>Κατεύθυνση κύλισης</description>
+		</gesture>
+		<gesture id="0x2a">
+			<description>Οριζόντια κύλιση</description>
+		</gesture>
+		<gesture id="0x2b">
+			<description>Κάθετη κύλιση</description>
+		</gesture>
+		<gesture id="0x40">
+			<description>Εναλλαγή εφαρμογών</description>
+		</gesture>
+		<gesture id="0x41">
+			<description>Εμφάνιση των Συμβόλων</description>
+		</gesture>
+		<gesture id="0x43">
+			<description>Μενού εφαρμογών</description>
+		</gesture>
+		<gesture id="0x54">
+			<description>Ζουμ</description>
+		</gesture>
+		<gesture id="0x14">
+			<description>Ταχύτητα δείκτη</description>
+		</gesture>
+		<!-- new gestures -->
+		<gesture id="0x2e">
+			<description>Κύλιση μέσω τροχού αντίχειρα</description>
+		</gesture>
+		<gesture id="0x64">
+			<description>Διπλό πάτημα τροχού αντίχειρα</description>
+		</gesture>
+		<gesture id="0x27d3">
+			<description>Εκ νέου αντιστοίχιση λειτουργίας SmartShift</description>
+		</gesture>
+		<gesture id="0x2762">
+			<description>Εκ νέου αντιστοίχιση κουμπιού 3</description>
+		</gesture>
+		<gesture id="0x27d4">
+			<description>Εκ νέου αντιστοίχιση κουμπιού κινήσεων</description>
+		</gesture>
+	</gestureids>
+	<gesturetaskids>
+		<gesturetask id="0x0">
+			<description>Απενεργοποιήθηκε</description>
+		</gesturetask>
+		<gesturetask id="0x1">
+			<description>Πάτημα με 1 ή 2 δάχτυλα</description>
+		</gesturetask>
+		<gesturetask id="0x2">
+			<description>Ενεργοποιήθηκε</description>
+		</gesturetask>
+		<gesturetask id="0x3">
+			<description>Παραδοσιακή</description>
+		</gesturetask>
+		<gesturetask id="0x4">
+			<description>Το περιεχόμενο ακολουθεί το δάχτυλο</description>
+		</gesturetask>
+		<gesturetask id="0x5">
+			<description>Σάρωση αριστερά και δεξιά με 2 δάχτυλα</description>
+		</gesturetask>
+		<gesturetask id="0x6">
+			<description>Σάρωση πάνω-κάτω με 2 δάχτυλα</description>
+		</gesturetask>
+		<gesturetask id="0x7">
+			<description>Σάρωση από αριστερά με 1 δάχτυλο</description>
+		</gesturetask>
+		<gesturetask id="0x8">
+			<description>Σάρωση από τη δεξιά άκρη με 1 δάχτυλο</description>
+		</gesturetask>
+		<gesturetask id="0x9">
+			<description>Σάρωση από την επάνω άκρη με 1 δάχτυλο</description>
+		</gesturetask>
+		<gesturetask id="0xa">
+			<description>Άπλωμα ή τσίμπημα με 2 δάχτυλα</description>
+		</gesturetask>
+		<gesturetask id="0xb">
+			<description>Ταχύτητα δείκτη</description>
+		</gesturetask>
+	</gesturetaskids>
+	<gestureactiongroups>
+		<actiongroup id="win8nav">
+			<description>Περιήγηση στα Windows</description>
+		</actiongroup>
+		<actiongroup id="win7nav">
+			<description>Περιήγηση στα Windows</description>
+		</actiongroup>
+		<actiongroup id="win8nav2">
+			<description>Διαχείριση παραθύρων</description>
+		</actiongroup>
+		<actiongroup id="winarrangement">
+			<description>Τακτοποίηση παραθύρων</description>
+		</actiongroup>
+		<actiongroup id="mediagestures">
+			<description>Στοιχεία ελέγχου πολυμέσων</description>
+		</actiongroup>
+		<actiongroup id="panzoom">
+			<description>Μετατόπιση</description>
+		</actiongroup>
+		<actiongroup id="zoomrotate">
+			<description>Ζουμ/Περιστροφή</description>
+		</actiongroup>
+		<actiongroup id="custom">
+			<description>Ειδική</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelhorzscroll">
+			<description>Οριζόντια κύλιση</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelzoom">
+			<description>Μεγέθυνση/Σμίκρυνση</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelvolume">
+			<description>Αύξηση/μείωση έντασης</description>
+		</actiongroup>
+		<actiongroup id="thumbwheeltabs">
+			<description>Επόμενη/προηγούμενη καρτέλα</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelnextprev">
+			<description>Επόμενο/Προηγούμενο</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelbackforward">
+			<description>Εμπρός/Πίσω</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelalttab">
+			<description>Εναλλαγή εφαρμογών</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelbrightness">
+			<description>Αύξηση/μείωση φωτεινότητας </description>
+		</actiongroup>
+		<actiongroup id="thumbwheelbackforwardtouch">
+			<description>Εμπρός / Πίσω μέσω αφής</description>
+		</actiongroup>
+		<actiongroup id="virtualdesktop">
+			<description>Εικονικές επιφάνειες εργασίας</description>
+		</actiongroup>
+	<actiongroup id="fn_virtualdesktop">
+      <description>Εικονικές επιφάνειες εργασίας</description>
+    </actiongroup>
+		<actiongroup id="thumbwheelvirtualdesktop">
+			<description>Εναλλαγή μεταξύ επιφανειών εργασίας</description>
+		</actiongroup>
+		<actiongroup id="thumbwheeldonothing">
+			<description>Κανένα</description>
+		</actiongroup>
+		<actiongroup id="touch">
+			<description>Μετατόπιση μέσω αφής </description>
+		</actiongroup>
+		<actiongroup id="ichitaro">
+			<description>Ichitaro2017</description>
+		</actiongroup>
+    <actiongroup id="disabled">
+        <description>Απενεργοποιήθηκε</description>
+    </actiongroup>
+
+	</gestureactiongroups>
+</descriptions>

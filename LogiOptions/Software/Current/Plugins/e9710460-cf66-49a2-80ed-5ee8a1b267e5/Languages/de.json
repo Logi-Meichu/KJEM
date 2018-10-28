@@ -1,0 +1,70 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "Kontextabhängig"
+        },
+		{
+            "ID": "customactions",
+            "value": "Benutzerdefinierte Aktionen"
+        },
+        {
+            "ID": "Zoom",
+            "value": "Zoom"
+        },
+        {
+            "ID": "Temperature",
+            "value": "Temperatur"
+        },
+        {
+            "ID": "Tint",
+            "value": "Tonung"
+        },
+		{
+            "ID": "Exposure",
+            "value": "Belichtung"
+        },
+		{
+            "ID": "Contrast",
+            "value": "Kontrast"
+        },
+        {
+            "ID": "Highlights",
+            "value": "Lichter"
+        },
+        {
+            "ID": "Shadows",
+            "value": "Tiefen"
+        },
+        {
+            "ID": "Whites",
+            "value": "Weiß"
+        },
+        {
+            "ID": "Blacks",
+            "value": "Schwarz"
+        },
+		{
+            "ID": "Clarity",
+            "value": "Klarheit"
+        },
+        {
+            "ID": "Vibrance",
+            "value": "Dynamik"
+        },
+        {
+            "ID": "Saturation",
+            "value": "Sättigung"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Tastenanschlag-Zuweisung"
+        },
+        {
+            "ID": "playpause",
+            "value": "Wiedergabe/Pause"
+        }
+    ]
+}
+
+

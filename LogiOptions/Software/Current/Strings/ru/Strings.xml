@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Source>
+	<StringSet>
+		<String ALIAS="IDS_SINGLE_DEVICE_LOWBATTERY_PREFIX">Критически низкий уровень заряда батареи на данном устройстве:</String>
+        <String ALIAS="IDS_NO_APPS_SWITCH">Нет приложений для перехода</String>
+        <String ALIAS="IDS_NO_HOSTS_SWITCH">Нет хостов для переключения</String>
+        <String ALIAS="IDS_HOSTS_SWITCH">Хост переключен</String>
+		<String ALIAS="IDS_APPLICATION_NAME">Logitech Options</String>
+
+        <!-- Lock notification -->
+		<String ALIAS="HELP_LOCK_CAPS_ON">Caps Lock вкл</String>
+		<String ALIAS="HELP_LOCK_CAPS_OFF">Caps Lock выкл</String>
+		<String ALIAS="HELP_LOCK_SCROLL_ON">Scroll Lock вкл</String>
+		<String ALIAS="HELP_LOCK_SCROLL_OFF">Scroll Lock выкл</String>
+		<String ALIAS="HELP_LOCK_NUMS_ON">Num Lock вкл</String>
+		<String ALIAS="HELP_LOCK_NUMS_OFF">Num Lock выкл</String>
+
+        <!-- Package Update notification -->
+		<String ALIAS="UPDATER_UPDATE_AVAILABLE_TITLE">Имеется обновление</String>
+		<String ALIAS="UPDATER_UPDATE_AVAILABLE">Для Logitech Options доступно обновление.</String>
+
+        <!-- Device Update notification -->
+        <String ALIAS="UPDATER_DEVICE_UPDATE_AVAILABLE_TITLE">Доступно обновление устройства</String>
+		<String ALIAS="UPDATER_DEVICE_UPDATE_AVAILABLE">Для вашего устройства или устройств имеется возможность обновления. Нажмите здесь, чтобы выполнить обновление.</String>
+
+		<!-- Incorrect Keyboard Mode notification -->
+		<String ALIAS="INCORRECT_SELECTED_KEYBOARD_LAYOUT">На клавиатуре не выбрана раскладка Windows.</String>
+
+		<!-- Missing software components -->
+		<String ALIAS="MISSING_MAINAPP_FILES">Logitech Options не хватает важных файлов. Переустановите программу.</String>
+
+    <!-- Tray icon notification -->
+    <String ALIAS="TRAYICON_FLOWOFF"> Выключить Logitech Flow</String>
+    <String ALIAS="TRAYICON_PREFERENCES"> Открыть настройки</String>
+    <String ALIAS="TRAYICON_FLOWON"> Включить Logitech Flow</String>
+    <String ALIAS="TRAYICON_NETWORK_ISSUE"> Этот компьютер отключен</String>
+    <String ALIAS="TRAYICON_HOST_ISSUE"> %s вне доступа</String>
+    <String ALIAS="TRAYICON_HELP"> Открыть справку Logitech Flow</String>
+    <String ALIAS="TRAYICON_CANCEL_TRANSFER"> Отменить передачу</String>
+    <String ALIAS="TRAYICON_TRANSFER_STATUS"> Передача %d%% </String>
+    <String ALIAS="TRAYICON_TRANSFER_ERROR"> Ошибка передачи</String>
+
+    <!-- toast notification -->
+    <String ALIAS="TOAST_HOST_CONNECTED">Добавлено в Logitech Flow: %s.</String>
+    <String ALIAS="TOAST_NEW_FEATURES">Хотите протестировать инновационное решение Logitech? Щелкните тут, чтобы стать пользователем бета-версии.</String>
+    <String ALIAS="TOAST_NOTMATCH_FIRMWARE">Для устройства %s необходимо обновить микропрограмму.</String>
+
+    <!-- Craft notification -->
+    <String ALIAS="CRAFT_PLUGIN_NOT_INSTALLED_TITLE">Доступен профиль Craft</String>
+    <String ALIAS="CRAFT_PLUGIN_NOT_INSTALLED_BODY">Для %s доступен новый профиль Craft.</String>
+    <String ALIAS="CRAFT_PLUGIN_READY_TO_USE_TITLE">Профиль Craft установлен</String>
+    <String ALIAS="CRAFT_PLUGIN_READY_TO_USE_BODY">Для %s установлен новый профиль Craft.</String>
+    <String ALIAS="CRAFT_PLUGIN_APP_REQUIRE_RESTART_TITLE">Перезапустите %s</String>
+    <String ALIAS="CRAFT_PLUGIN_APP_REQUIRE_RESTART_BODY">Установлен профиль Craft для %s. Чтобы начать использовать профиль, перезапустите приложение.</String>
+
+  </StringSet>
+</Source>

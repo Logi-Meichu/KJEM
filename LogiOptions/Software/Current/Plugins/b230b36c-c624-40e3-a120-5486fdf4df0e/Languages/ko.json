@@ -1,0 +1,92 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "size",
+            "value": "크기"
+        },
+        {
+            "ID": "hardness",
+            "value": "경도"
+        },
+        {
+            "ID": "strokeWeight",
+            "value": "스트로크 가중치"
+        },
+        {
+            "ID": "opacity",
+            "value": "불투명도"
+        },
+        {
+            "ID": "brightness",
+            "value": "밝기"
+        },
+        {
+            "ID": "contrast",
+            "value": "대비"
+        },
+        {
+            "ID": "saturation",
+            "value": "채도"
+        },
+        {
+            "ID": "flow",
+            "value": "흐름"
+        },
+        {
+            "ID": "strength",
+            "value": "강도"
+        },
+        {
+            "ID": "tolerance",
+            "value": "허용 오차"
+        },
+        {
+            "ID": "exposure",
+            "value": "노출"
+        },        
+        {
+            "ID": "textSize",
+            "value": "크기"
+        },
+        {
+            "ID": "layertextSize",
+            "value": "레이어 텍스트 크기"
+        },
+        {
+            "ID": "blendMode",
+            "value": "혼합 모드"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "상황별"
+        },
+        {
+            "ID": "savefile",
+            "value": "파일 저장"
+        },
+        {
+            "ID": "undoredo",
+            "value": "실행 취소/다시 실행"
+        },
+        {
+            "ID": "undo",
+            "value": "실행 취소"
+        },
+        {
+            "ID": "redo",
+            "value": "다시 실행"
+        },
+        {
+            "ID": "zoom",
+            "value": "돋보기"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "입력할 키 지정"
+        },
+        {
+            "ID": "playpause",
+            "value": "재생/일시 정지"
+        }
+    ]
+}

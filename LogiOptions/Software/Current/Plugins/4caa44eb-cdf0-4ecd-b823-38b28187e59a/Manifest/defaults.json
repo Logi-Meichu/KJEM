@@ -1,0 +1,32 @@
+{
+    "GUID": "4caa44eb-cdf0-4ecd-b823-38b28187e59a",
+    "info": {
+        "name": "Microsoft Excel",
+        "publisher": "Logitech Inc.",
+        "version": "1.0",
+        "win_name": "Excel.exe",
+        "mac_bundle": "Microsoft Excel.app",
+        "win_minimum_supported_version": "14.0.4763",
+        "win_maximum_supported_version": "2016"
+    },
+    "crown": {
+        "rotate": {
+            "default_task": "changetoolvalue",
+            "tasks": [
+                "changetoolvalue"
+            ],
+            "short_list": [
+                "changetoolvalue"
+            ]
+        },
+        "press": {
+            "default_task": "playpause",
+            "tasks": [
+                "playpause"
+            ],
+            "short_list": [
+                "playpause"
+            ]
+        }
+    }
+}

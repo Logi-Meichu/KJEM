@@ -1,0 +1,20 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "Elementy sterujące aplikacji VLC"
+        },
+		{
+            "ID": "nextPrevious",
+            "value": "Poprzedni/następny"
+        },
+		{
+            "ID": "ShortSeek",
+            "value": "Wyszukiwanie"
+        },
+        {
+            "ID": "volumeUpDown",
+            "value": "Głośność"
+        }
+    ]
+}

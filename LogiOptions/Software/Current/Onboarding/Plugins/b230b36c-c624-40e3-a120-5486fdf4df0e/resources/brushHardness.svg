@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="25px" viewBox="0 0 23 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>brushHardness</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="-0.112132475%" cy="51.038345%" fx="-0.112132475%" fy="51.038345%" r="48.961655%" gradientTransform="translate(-0.001121,0.510383),scale(1.000000,0.462888),rotate(90.000000),scale(1.000000,0.934541),translate(0.001121,-0.510383)" id="radialGradient-1">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#000000" offset="50.7638272%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="10--Trava" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Options-Trava-OnOarding-Photoshop-2" transform="translate(-515.000000, -219.000000)">
+            <g id="Overlay" transform="translate(444.000000, 208.000000)">
+                <g id="Icons/Photoshop/Hardness" transform="translate(68.000000, 8.000000)">
+                    <path d="M18,7.35859309 C22.4749651,7.69900967 26,11.4378468 26,16 C26,20.5621532 22.4749651,24.3009903 18,24.6414069 L18,7.35859309 Z" id="Combined-Shape" fill="#000000"></path>
+                    <path d="M3,3 C9.71244771,3.51062487 15,9.11888061 15,15.9621104 C15,22.8053401 9.71244771,28.4135959 3,28.9242207 L3,3 Z" id="Combined-Shape" fill="url(#radialGradient-1)" transform="translate(9.000000, 15.962110) rotate(-180.000000) translate(-9.000000, -15.962110) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

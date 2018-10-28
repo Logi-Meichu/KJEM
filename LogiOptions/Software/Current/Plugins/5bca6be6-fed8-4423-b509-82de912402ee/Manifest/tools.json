@@ -1,0 +1,76 @@
+{
+    "GUID": "5bca6be6-fed8-4423-b509-82de912402ee",
+    "tools": [
+        {
+            "name": "nothing",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "nextPrevious",
+                    "image_file_path": "mediaControl.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "builtin_action": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "SeekForwardBackward",
+                    "image_file_path": "seek.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "builtin_action": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 2,
+                    "name": "volumeUpDown",
+                    "image_file_path": "volumeMax.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "builtin_action": false,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        }
+    ],
+    "tasks": [
+          {
+            "name": "changetoolvalue",
+            "win_id": "0x10064",
+            "mac_id": 615
+          },
+          {
+              "name": "nextPrevious",
+              "tool_options": [
+                "tell application \"System Events\" to key code  {59,55,123}",
+                "tell application \"System Events\" to key code  {59,55,124}"
+              ],
+              "mac_id": 500,
+              "win_id": "0x10057"
+          },
+          {
+              "name": "volumeUpDown",
+              "tool_options": [
+                "tell application \"System Events\" to key code  {55,125}",
+                "tell application \"System Events\" to key code  {55,126}"
+              ],
+              "mac_id": 500,
+              "win_id": "0x10057"
+          },
+          {
+              "name": "SeekForwardBackward",
+              "tool_options": [
+                "tell application \"System Events\" to key code  {55,56,123}",
+                "tell application \"System Events\" to key code  {55,56,124}"
+              ],
+              "mac_id": 500,
+              "win_id": "0x10057"
+          },
+          {
+            "name": "playpause",
+            "win_id": "0x4"
+          }
+   ]
+}

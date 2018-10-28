@@ -1,0 +1,28 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "Элементы управления Acrobat Pro"
+        },
+        {
+            "ID": "zoom",
+            "value": "Масштаб"
+        },
+        {
+            "ID": "rotate",
+            "value": "Повернуть"
+        },
+        {
+            "ID": "navigate",
+            "value": "Изменить страницу"
+        },
+        {
+            "ID": "scroll",
+            "value": "Горизонтальная прокрутка"
+        },
+        {
+            "ID": "playpause",
+            "value": "Воспроизведение/пауза"
+        }
+    ]
+}

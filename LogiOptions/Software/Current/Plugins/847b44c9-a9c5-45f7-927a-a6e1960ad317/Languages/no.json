@@ -1,0 +1,92 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "textSize",
+            "value": "Størrelse"
+        },
+        {
+            "ID": "leading",
+            "value": "Linjeavstand"
+        },
+        {
+            "ID": "tracking",
+            "value": "Sporing"
+        },
+        {
+            "ID": "colorFill",
+            "value": "Fyllfarge"
+        },
+        {
+            "ID": "colorStroke",
+            "value": "Strøkfarge"
+        },
+        {
+            "ID": "strokeWeight",
+            "value": "Strøktykkelse"
+        },
+        {
+            "ID": "scale",
+            "value": "Skalering"
+        },
+        {
+            "ID": "opacity",
+            "value": "Tetthet"
+        },
+        {
+            "ID": "pageNavigation",
+            "value": "Endre side"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "Kontekstavhengig"
+        },
+        {
+            "ID": "undoRedo",
+            "value": "Angre / Gjør om"
+        },
+        {
+            "ID": "undoredo",
+            "value": "Angre / Gjør om"
+        },
+        {
+            "ID": "undo",
+            "value": "Angre"
+        },
+        {
+            "ID": "redo",
+            "value": "Gjør om"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zoom"
+        },
+        {
+            "ID": "shear",
+            "value": "Forskyv"
+        },
+        {
+            "ID": "rotation",
+            "value": "Rotasjon"
+        },
+        {
+            "ID": "moveHorizontal",
+            "value": "X-posisjon"
+        },
+        {
+            "ID": "moveVertical",
+            "value": "Y-posisjon"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Tilordning av tastetrykk"
+        },
+        {
+            "ID": "tint",
+            "value": "Fargetone"
+        },
+        {
+            "ID": "playpause",
+            "value": "Spill av / Sett på pause"
+        }
+    ]
+}

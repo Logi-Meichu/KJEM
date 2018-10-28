@@ -1,0 +1,72 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "textSize",
+            "value": "Μέγεθος"
+        },
+        {
+            "ID": "leading",
+            "value": "Διάστιχο"
+        },
+        {
+            "ID": "tracking",
+            "value": "Παρακολούθηση"
+        },
+        {
+            "ID": "colorFill",
+            "value": "Χρώμα γεμίσματος"
+        },
+        {
+            "ID": "colorStroke",
+            "value": "Χρώμα μολυβιάς"
+        },
+        {
+            "ID": "strokeWeight",
+            "value": "Πάχος μολυβιάς"
+        },
+        {
+            "ID": "scale",
+            "value": "Κλίμακα"
+        },
+        {
+            "ID": "opacity",
+            "value": "Αδιαφάνεια"
+        },
+        {
+            "ID": "artboardNavigation",
+            "value": "Αλλαγή Artboard"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "Μενού περιβάλλοντος"
+        },
+        {
+            "ID": "undoRedo",
+            "value": "Αναίρεση/Επανάληψη"
+        },
+        {
+            "ID": "undoredo",
+            "value": "Αναίρεση/Επανάληψη"
+        },
+        {
+            "ID": "undo",
+            "value": "Αναίρεση"
+        },
+        {
+            "ID": "redo",
+            "value": "Ακύρωση αναίρεσης"
+        },
+        {
+            "ID": "zoom",
+            "value": "Ζουμ"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Αντιστοίχιση πλήκτρου"
+        },
+        {
+            "ID": "playpause",
+            "value": "Αναπαραγωγή/Παύση"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+  "LocalizedStrings": [
+    {
+      "ID": "moveframe",
+      "value": "タイムラインナビゲーション"
+    },
+    {
+      "ID": "jogwheel",
+      "value": "ジョグダイヤル"
+    },
+    {
+      "ID": "changetoolvalue",
+      "value": "コンテキスト"
+    },
+    {
+      "ID": "undoRedo",
+      "value": "取り消し/やり直し"
+    },
+    {
+      "ID": "zoom",
+      "value": "ズーム"
+    },
+    {
+      "ID": "keystrokeassignment",
+      "value": "キーストロークの割当"
+    },
+    {
+      "ID": "playpause",
+      "value": "再生 / 一時停止"
+    }
+  ]
+}

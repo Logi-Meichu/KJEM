@@ -1,0 +1,412 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "crownbrightness",
+            "value": "Φωτεινότητα"
+        },
+        {
+            "ID": "crownvolume",
+            "value": "Ένταση ήχου"
+        },
+        {
+            "ID": "crownmediacontrol",
+            "value": "Έλεγχος πολυμέσων"
+        },
+        {
+            "ID": "crownexposeappswitch",
+            "value": "Εναλλαγή εφαρμογών"
+        },
+        {
+            "ID": "crowntabscommand",
+            "value": "Εναλλαγή καρτελών"
+        },
+        {
+            "ID": "crownswitchdesktop",
+            "value": "Εναλλαγή επιφανειών εργασίας"
+        },
+        {
+            "ID": "crownzoom",
+            "value": "Ζουμ"
+        },
+        {
+            "ID": "crownnavigatepages",
+            "value": "Πλοήγηση σε σελίδες"
+        },
+        {
+            "ID": "crowncustomkeyleftright",
+            "value": "Προσαρμοσμένο πλήκτρο"
+        },
+        {
+            "ID": "crownhscroll",
+            "value": "Οριζόντια κύλιση"
+        },
+		{
+            "ID": "brightness",
+            "value": "Φωτεινότητα"
+        },
+        {
+            "ID": "volume",
+            "value": "Ένταση ήχου"
+        },
+        {
+            "ID": "mediaplayer",
+            "value": "Πρόγραμμα αναπαραγωγής πολυμέσων"
+        },
+        {
+            "ID": "appswitch",
+            "value": "Εναλλαγή εφαρμογών"
+        },
+        {
+            "ID": "tabsswitch",
+            "value": "Εναλλαγή καρτελών"
+        },
+        {
+            "ID": "desktopswitch",
+            "value": "Εναλλαγή επιφανειών εργασίας"
+        },
+        {
+            "ID": "crowndesktopswitch",
+            "value": "Εναλλαγή επιφανειών εργασίας"
+        },
+        {
+            "ID": "zoom",
+            "value": "Ζουμ"
+        },
+        {
+            "ID": "gesturebutton",
+            "value": "Κουμπί κινήσεων"
+        },
+        {
+            "ID": "modeshiftbutton",
+            "value": "Κουμπί εναλλαγής λειτουργίας"
+        },
+        {
+            "ID": "advancedclick",
+            "value": "Κλικ για προχωρημένους"
+        },
+        {
+            "ID": "applicationmenu",
+            "value": "Μενού εφαρμογών"
+        },
+        {
+            "ID": "back",
+            "value": "Πίσω"
+        },
+        {
+            "ID": "calculator",
+            "value": "Αριθμομηχανή"
+        },
+        {
+            "ID": "charms",
+            "value": "Σύμβολα"
+        },
+        {
+            "ID": "closewindow",
+            "value": "Κλείσιμο παραθύρου"
+        },
+        {
+            "ID": "copy",
+            "value": "Αντιγραφή"
+        },
+        {
+            "ID": "cut",
+            "value": "Αποκοπή"
+        },
+        {
+            "ID": "devices",
+            "value": "Συσκευές"
+        },
+        {
+            "ID": "documents",
+            "value": "Έγγραφο"
+        },
+        {
+            "ID": "doubleclick",
+            "value": "Διπλό κλικ"
+        },
+        {
+            "ID": "email",
+            "value": "Email"
+        },
+        {
+            "ID": "forward",
+            "value": "Εμπρός"
+        },
+        {
+            "ID": "home",
+            "value": "Αρχική"
+        },
+        {
+            "ID": "myhome",
+            "value": "Η Αρχική μου"
+        },
+        {
+            "ID": "mymusic",
+            "value": "Η μουσική μου"
+        },
+        {
+            "ID": "inputlanguage",
+            "value": "Γλώσσα εισαγωγής"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Αντιστοίχιση πλήκτρου"
+        },
+        {
+            "ID": "launchapplication",
+            "value": "Εκκίνηση εφαρμογής"
+        },
+        {
+            "ID": "leftclick",
+            "value": "Αριστερό κλικ"
+        },
+        {
+            "ID": "lock",
+            "value": "Κλείδωμα"
+        },
+        {
+            "ID": "maximizewindow",
+            "value": "Μεγιστοποίηση παραθύρου"
+        },
+        {
+            "ID": "middlebutton",
+            "value": "Μεσαίο κουμπί"
+        },
+        {
+            "ID": "minimizewindow",
+            "value": "Ελαχιστοποίηση παραθύρου"
+        },
+        {
+            "ID": "modifierkeys",
+            "value": "Πλήκτρα τροποποίησης"
+        },
+        {
+            "ID": "mousesensitivity",
+            "value": "Ευαισθησία ποντικιού"
+        },
+        {
+            "ID": "music",
+            "value": "Μουσική"
+        },
+        {
+            "ID": "mute",
+            "value": "Σίγαση"
+        },
+        {
+            "ID": "mycomputer",
+            "value": "Ο υπολογιστής μου"
+        },
+        {
+            "ID": "mydocuments",
+            "value": "Τα έγγραφά μου"
+        },
+        {
+            "ID": "myvideos",
+            "value": "Τα βίντεό μου"
+        },
+        {
+            "ID": "next",
+            "value": "Επόμενο"
+        },
+        {
+            "ID": "nextprevious",
+            "value": "Επόμενο / Προηγούμενο"
+        },
+        {
+            "ID": "nexttrackfastforward",
+            "value": "Επόμενο κομμάτι/Γρήγορη προώθηση"
+        },
+        {
+            "ID": "openfile",
+            "value": "Άνοιγμα αρχείου"
+        },
+        {
+            "ID": "openfolder",
+            "value": "Άνοιγμα φακέλου"
+        },
+        {
+            "ID": "openwebpage",
+            "value": "Άνοιγμα ιστοσελίδας"
+        },
+        {
+            "ID": "paste",
+            "value": "Επικόλληση"
+        },
+        {
+            "ID": "mypictures",
+            "value": "Οι εικόνες μου"
+        },
+        {
+            "ID": "pictures",
+            "value": "Εικόνες"
+        },
+        {
+            "ID": "playpause",
+            "value": "Αναπαραγωγή/Παύση"
+        },
+        {
+            "ID": "previous",
+            "value": "Προηγούμενο"
+        },
+        {
+            "ID": "previoustrackrewind",
+            "value": "Προηγούμενο κομμάτι/Επιστροφή"
+        },
+        {
+            "ID": "rightclick",
+            "value": "Δεξί κλικ"
+        },
+        {
+            "ID": "scrollleft",
+            "value": "Κύλιση αριστερά"
+        },
+        {
+            "ID": "scrollright",
+            "value": "Κύλιση δεξιά"
+        },
+        {
+            "ID": "search",
+            "value": "Αναζήτηση"
+        },
+        {
+            "ID": "settings",
+            "value": "Ρυθμίσεις"
+        },
+        {
+            "ID": "share",
+            "value": "Κοινή χρήση"
+        },
+        {
+            "ID": "showhidedesktop",
+            "value": "Εμφάνιση/Απόκρυψη επιφάνειας εργασίας"
+        },
+        {
+            "ID": "shutdown",
+            "value": "Τερματισμός"
+        },
+        {
+            "ID": "signout",
+            "value": "Αποσύνδεση"
+        },
+        {
+            "ID": "sleep",
+            "value": "Αναστολή λειτουργίας"
+        },
+        {
+            "ID": "startscreen",
+            "value": "Οθόνη Έναρξης"
+        },
+        {
+            "ID": "stop",
+            "value": "Διακοπή"
+        },
+        {
+            "ID": "switchscreen",
+            "value": "Εναλλαγή οθόνης"
+        },
+        {
+            "ID": "thispc",
+            "value": "Αυτός ο υπολογιστής"
+        },
+        {
+            "ID": "togglesmoothscrolling",
+            "value": "Εναλλαγή ομαλής κύλισης"
+        },
+        {
+            "ID": "videos",
+            "value": "Βίντεο"
+        },
+        {
+            "ID": "volumedown",
+            "value": "Μείωση έντασης"
+        },
+        {
+            "ID": "volumeup",
+            "value": "Αύξηση έντασης"
+        },
+        {
+            "ID": "zoomin",
+            "value": "Μεγέθυνση"
+        },
+        {
+            "ID": "zoomout",
+            "value": "Σμίκρυνση"
+        },
+        {
+            "ID": "zoomreset",
+            "value": "Επαναφορά ζουμ"
+        },
+        {
+            "ID": "none",
+            "value": "Κανένα"
+        },
+        {
+            "ID": "switchleft",
+            "value": "Εναλλαγή αριστερά"
+        },
+        {
+            "ID": "switchright",
+            "value": "Εναλλαγή δεξιά"
+        },
+        {
+            "ID": "previouspage",
+            "value": "Προηγούμενη σελίδα"
+        },
+        {
+            "ID": "nextpage",
+            "value": "Επόμενη σελίδα"
+        },
+        {
+            "ID": "navigatepages",
+            "value": "Πλοήγηση σε σελίδες"
+        },
+        {
+            "ID": "customkey",
+            "value": "Προσαρμοσμένο πλήκτρο"
+        },
+        {
+            "ID": "navigatebetweenapps",
+            "value": "Πλοήγηση μεταξύ εφαρμογών"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "Μενού περιβάλλοντος"
+        },
+        {
+            "ID": "crownbrowsertextsize",
+            "value": "Μέγεθος κειμένου ή αλλαγή καρτελών"
+        },
+        {
+            "ID": "createvirtualdesktop",
+            "value": "Νέα επιφάνεια εργασίας"
+        },
+        {
+            "ID": "clonevirtualdesktop",
+            "value": "Κλείσιμο επιφάνειας εργασίας"
+        },
+        {
+            "ID": "nextvirtualdesktop",
+            "value": "Επιφάνεια εργασίας (επόμενη)"
+        },
+        {
+            "ID": "previousvirtualdesktop",
+            "value": "Επιφάνεια εργασίας (προηγούμενη)"
+        },
+        {
+            "ID": "teskview",
+            "value": "Προβολή εργασιών"
+        },
+        {
+            "ID": "teskview10",
+            "value": "Προβολή εργασιών"
+        },
+        {
+            "ID": "cortana",
+            "value": "Cortana"
+        },
+        {
+            "ID": "actioncenter",
+            "value": "Κέντρο ενεργειών"
+        }
+    ]
+}

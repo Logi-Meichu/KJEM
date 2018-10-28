@@ -1,0 +1,92 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "textSize",
+            "value": "大小"
+        },
+        {
+            "ID": "leading",
+            "value": "前置"
+        },
+        {
+            "ID": "tracking",
+            "value": "追蹤"
+        },
+        {
+            "ID": "colorFill",
+            "value": "填色"
+        },
+        {
+            "ID": "colorStroke",
+            "value": "筆觸顏色"
+        },
+        {
+            "ID": "strokeWeight",
+            "value": "筆觸粗細"
+        },
+        {
+            "ID": "scale",
+            "value": "縮放"
+        },
+        {
+            "ID": "opacity",
+            "value": "不透明度"
+        },
+        {
+            "ID": "pageNavigation",
+            "value": "變更頁面"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "上下文"
+        },
+        {
+            "ID": "undoRedo",
+            "value": "復原/重做"
+        },
+        {
+            "ID": "undoredo",
+            "value": "復原/重做"
+        },
+        {
+            "ID": "undo",
+            "value": "復原"
+        },
+        {
+            "ID": "redo",
+            "value": "重做"
+        },
+        {
+            "ID": "zoom",
+            "value": "縮放"
+        },
+        {
+            "ID": "shear",
+            "value": "剪斷"
+        },
+        {
+            "ID": "rotation",
+            "value": "轉動"
+        },
+        {
+            "ID": "moveHorizontal",
+            "value": "位置 X"
+        },
+        {
+            "ID": "moveVertical",
+            "value": "位置 Y"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "按鍵動作指定"
+        },
+        {
+            "ID": "tint",
+            "value": "著色"
+        },
+        {
+            "ID": "playpause",
+            "value": "播放/暫停"
+        }
+    ]
+}

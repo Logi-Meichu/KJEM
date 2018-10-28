@@ -1,0 +1,444 @@
+{
+    "GUID": "74350dfc-af50-4c6d-a794-713241725690",
+    "tools": [        
+        {
+            "name": "TextFrame",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "textSize",
+                    "image_file_path": "textSize.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "leading",
+                    "image_file_path": "leading.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 2,
+                    "name": "tracking",
+                    "image_file_path": "tracking.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 3,
+                    "name": "colorFill",
+                    "image_file_path": "fillColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "TextRange",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "textSize",
+                    "image_file_path": "textSize.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "leading",
+                    "image_file_path": "leading.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 2,
+                    "name": "tracking",
+                    "image_file_path": "tracking.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 3,
+                    "name": "colorFill",
+                    "image_file_path": "fillColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "CompoundPathItem",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "scale",
+                    "image_file_path": "size.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "GraphItem",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "strokeWeight",
+                    "image_file_path": "strokeWeight.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "scale",
+                    "image_file_path": "size.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 2,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 3,
+                    "name": "colorFill",
+                    "image_file_path": "fillColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 4,
+                    "name": "colorStroke",
+                    "image_file_path": "strokeColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "GroupItem",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "scale",
+                    "image_file_path": "size.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "LegacyTextItem",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "scale",
+                    "image_file_path": "size.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "MeshItem",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "scale",
+                    "image_file_path": "size.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "NonNativeItem",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "scale",
+                    "image_file_path": "size.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "PathItem",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "strokeWeight",
+                    "image_file_path": "strokeWeight.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "scale",
+                    "image_file_path": "size.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 2,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 3,
+                    "name": "colorFill",
+                    "image_file_path": "fillColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 4,
+                    "name": "colorStroke",
+                    "image_file_path": "strokeColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "PlacedItem",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "scale",
+                    "image_file_path": "size.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "PluginItem",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "scale",
+                    "image_file_path": "size.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "RasterItem",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "scale",
+                    "image_file_path": "size.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "SymbolItem",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "scale",
+                    "image_file_path": "size.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "Mixed",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "scale",
+                    "image_file_path": "size.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "opacity",
+                    "image_file_path": "opacity.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        },
+        {
+            "name": "NoSelection",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "zoom",
+                    "image_file_path": "zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "undoRedo",
+                    "image_file_path": "undoRedo.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 2,
+                    "name": "artboardNavigation",
+                    "image_file_path": "sheetNavigation.png",
+                    "enabled": true,
+                    "ratchet_enabled": true
+                }
+            ]
+        }
+    ],
+    "tasks": [
+        {
+            "name": "changetoolvalue",
+            "win_id": "0x10064",
+            "mac_id": 615
+        },
+        {
+            "name": "zoom",
+            "image_file_path": "zoom.png",
+            "tool_options": [],
+            "mac_id": 309,
+            "win_id": "0x10057"
+        },
+        {
+            "name": "textsize",
+            "image_file_path": "textsize.png",
+            "tool_options": [],
+            "mac_id": 310,
+            "win_id": "0x10058"
+        },
+        {
+            "name": "undoredo",
+            "image_file_path": "undoredo.png",
+            "rotate_left_text": "undo",
+            "rotate_left_image_file_path": "undo.png",
+            "rotate_right_text": "redo",
+            "rotate_right_image_file_path": "redo.png",
+            "tool_options": []
+        },
+        {
+            "name": "keystrokeassignment",
+            "image_file_path": "",
+            "mac_id": 73,
+            "win_id": "0x10000"
+        },
+		{
+            "name": "playpause",
+            "image_file_path": "",
+            "mac_id": 4,
+            "win_id": "0x0004"
+        }
+    ]
+}

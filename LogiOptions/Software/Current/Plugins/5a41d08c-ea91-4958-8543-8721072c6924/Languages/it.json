@@ -1,0 +1,32 @@
+{
+  "LocalizedStrings": [
+    {
+      "ID": "moveframe",
+      "value": "Navigazione nella timeline"
+    },
+    {
+      "ID": "jogwheel",
+      "value": "Jog Wheel"
+    },
+    {
+      "ID": "changetoolvalue",
+      "value": "Contestuale"
+    },
+    {
+      "ID": "undoRedo",
+      "value": "Annulla/Ripeti"
+    },
+    {
+      "ID": "zoom",
+      "value": "Zoom"
+    },
+    {
+      "ID": "keystrokeassignment",
+      "value": "Assegnazione tasto"
+    },
+    {
+      "ID": "playpause",
+      "value": "Riproduci/Pausa"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "Acrobat Pro -ohjaimet"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zoomaa"
+        },
+        {
+            "ID": "rotate",
+            "value": "Kierrä"
+        },
+        {
+            "ID": "navigate",
+            "value": "Vaihda sivua"
+        },
+        {
+            "ID": "scroll",
+            "value": "Vaakavieritys"
+        },
+        {
+            "ID": "playpause",
+            "value": "Toisto / tauko"
+        }
+    ]
+}

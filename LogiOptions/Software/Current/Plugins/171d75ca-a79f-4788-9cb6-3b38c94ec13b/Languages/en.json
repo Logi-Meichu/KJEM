@@ -1,0 +1,28 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "Acrobat Pro controls"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zoom"
+        },
+        {
+            "ID": "rotate",
+            "value": "Rotate"
+        },
+        {
+            "ID": "navigate",
+            "value": "Change Page"
+        },
+        {
+            "ID": "scroll",
+            "value": "Horizontal Scroll"
+        },
+        {
+            "ID": "playpause",
+            "value": "Play/Pause"
+        }
+    ]
+}

@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringDictionary version="1.2">
+  <Strings>
+    <String key="WindowName">LogiOptions</String>
+    <String key="ApplicationName">Options</String>
+    <String key="MoreDetails">Muut asetukset</String>
+    <String key="FnInversion">Käytä näppäimiä F1– F12 tavallisina toimintonäppäiminä</String>
+    <String key="KeyboardWinMode">Pidä näppäimistö aina Windows-asettelussa</String>
+    <String key="Backlighting">Poista taustavalaistus käytöstä</String>
+    <String key="Customize">MUKAUTA</String>
+    <String key="CustomizeGestures">Mukauta eleitä</String>
+    <String key="GestureClickDetail">Valitse elepainike.</String>
+    <String key="GestureMotionDetail">Pidä elepainiketta painettuna, kun liikutat hiirtä.</String>
+    <String key="GestureMotionDetail_Trackball">Pidä elepainiketta painettuna, kun liikutat ohjauspalloa.</String>
+    <!--<String key="GestureButtonLearnMore">Learn more about gesture button</String>-->
+    <String key="LearnMore">LISÄTIETOJA</String> 
+    <String key="LaunchSetpoint">Käynnistä SetPoint</String>
+    <String key="DownloadSetpoint">Lataa SetPoint</String>
+    <String key="CrosslinkDevicesReminder">Älä näytä tätä viestiä uudelleen</String>
+    <String key="CrosslinkDevicesDialog">%BrandName% Options ei tue kaikkia järjestelmään liitettyjä %BrandName% -laitteita.  Mukauta seuraavien laitteiden asetukset %BrandName% SetPoint -ohjelmiston avulla:</String>
+    <String key="CommaSeparator">, </String>
+    <String key="AndSeparator"> ja </String>
+
+    <String key="StringFragments:Device">laite</String>
+
+    <String key="DeviceList:NoDevices">Laitteita ei havaittu</String>
+    <String key="DeviceList:NoDeviceDesc">Tarkista, että laitteet on yhdistetty ja että niihin on kytketty virta.</String>
+    <String key="DeviceList:Removed">Poistettu</String>
+    <String key="DeviceList:Enumuerate">Tarkistetaan...</String>
+    <String key="DeviceList:Devices">Laitteet</String>
+
+    <String key="Video:NoVideo">Videota ei ole asennettu</String>
+    <String key="Video:VideoFailDialog">Tämän laitteen videota ei voida tällä hetkellä ladata. Yritä myöhemmin uudelleen.</String>
+
+    <String key="Tooltip:BatteryUnknown">Tuntematon</String>
+    <String key="Tooltip:BatteryCritical">Kriittinen</String>
+    <String key="Tooltip:BatteryLow">Alhainen</String>
+    <String key="Tooltip:BatteryGood">Hyvä</String>
+    <String key="Tooltip:BatteryFull">Täynnä</String>
+    <String key="Tooltip:BatteryCharging">Latautumassa</String>
+    <String key="Tooltip:BatteryError">Latausvirhe</String>
+    <String key="Tooltip:BatteryComplete">Lataus valmis</String>
+    <String key="Tooltip:Connected">Yhdistetty</String>
+    <String key="Tooltip:NotConnected">Ei yhdistetty</String>
+
+    <!-- Device Settings Tabs -->
+    <String key="DeviceSettings:Keyboard">Näppäimistö</String>
+    <String key="DeviceSettings:Mouse">Hiiri</String>
+    <String key="DeviceSettings:Trackball">Ohjauspallo</String>
+    <String key="DeviceSettings:PointScroll">Osoitus ja vieritys</String>
+    <String key="DeviceSettings:Gestures">Eleet</String>
+    <String key="DeviceSettings:Illumination">Valaistus</String>
+    <String key="DeviceSettings:FunctionKeys">Toimintopainikkeet</String>
+    <String key="DeviceSettings:ShortcutKeys">Pikanäppäimet</String>
+    <String key="DeviceSettings:EasySwitch">Easy-Switch</String>
+    <String key="DeviceSettings:Crown">Kruunu</String>
+    <String key="DeviceSettings:Flow">Flow</String>
+    <String key="DeviceSettings:Beta">Beeta</String>
+
+    <String key="DeviceSettings:GestureById0x2e">Peukalorullan herkkyys</String>
+
+    <String key="Buttons:MinimizeToolTip">Pienennä</String>
+    <String key="Buttons:CloseToolTip">Sulje</String>
+    <String key="Buttons:More">ENEMMÄN</String>
+    <String key="Buttons:Less">VÄHEMMÄN</String>
+    <String key="Buttons:RestoreDefaults">Palauta oletukset</String>
+    <String key="Buttons:Restore">Palauta</String>
+    <String key="Buttons:YourDevices">Omat laitteet</String>
+    <String key="Buttons:AddDevice">Lisää laitteita</String>
+    <String key="Buttons:Continue">Jatka</String>
+    <String key="Buttons:TryAgain">Yritä uudelleen</String>
+    <String key="Buttons:Cancel">Peruuta</String>
+    <String key="Buttons:Skip">Ohita</String>
+    <String key="Buttons:Remind">Asenna myöhemmin</String>
+    <String key="Buttons:Okay">OK</String>
+    <String key="Buttons:Ok">OK</String>
+    <String key="Buttons:FirmwareUpdate">Tarkista laiteohjelmiston päivitykset</String>
+    <String key="Buttons:SoftwareUpdate">Etsi päivityksiä</String>
+    <String key="Buttons:LaunchUnifying">Avaa Unifying-ohjelmisto</String>
+    <String key="Buttons:FileBrowse">Selaa...</String>
+    <String key="Buttons:VideoDownload">Lataa video</String>
+    <String key="Buttons:PairAnother">Muodosta toinen laitepari</String>
+    <String key="Buttons:Done">Valmis</String>    
+    <String key="Buttons:Enable">SALLI</String><!--NEW AFTER 4/10/2017-->
+    <String key="Buttons:Disable">POISTA KÄYTÖSTÄ</String>
+    <String key="Buttons:Retry">YRITÄ UUDELLEEN</String>
+    <String key="Buttons:MoreSettings">MUUT ASETUKSET</String><!--NEW 7/24/2017-->
+    
+    <String key="TaskSelect:RemoveHost">POISTA</String>
+    <String key="TaskSelect:Keystroke">Anna näppäimen painallus</String>
+    <String key="TaskSelect:FileLaunch">tiedostonimi</String>
+    <String key="TaskSelect:FolderLaunch">Kansionimi</String>
+    <String key="TaskSelect:WebLaunch">Verkko-osoite</String>
+    <String key="TaskSelect:HostSwitch">Easy-Switch-ohjaus</String>
+    <String key="TaskSelect:DpiShift">Määritä hiiren herkkyys</String>
+    <String key="TaskSelect:DpiShiftTrackball">Määritä ohjauspallon herkkyys</String>
+    <String key="TaskSelect:HorizontalScrollSpeed">Määritä vaakasuoran vierityksen nopeus</String>
+    <String key="TaskSelect:KeystrokeBlank">(Napsauta tästä)</String>
+    <String key="TaskSelect:FileLaunchBlank">(Anna tiedostonimi)</String>
+    <String key="TaskSelect:FolderLaunchBlank">(Anna kansion nimi)</String>
+    <String key="TaskSelect:WebLaunchBlank">(Anna URL-osoite)</String>
+    <String key="TaskSelect:KeystrokeDesc">Luo pikatoiminto napsauttamalla yllä olevaa valkoista ruutua ja antamalla kelvollisen näppäinyhdistelmän.</String>
+    <String key="TaskSelect:FileLaunchDesc">Valitse tiedosto napsauttamalla Selaa-painiketta tai kirjoita koko tiedostopolku yllä olevaan valkoiseen ruutuun.</String>
+    <String key="TaskSelect:FolderLaunchDesc">Valitse kansio napsauttamalla Selaa-painiketta tai kirjoita koko kansiopolku yllä olevaan valkoiseen ruutuun.</String>
+    <String key="TaskSelect:WebLaunchDesc">Anna haluamasi verkkosivuston URL-osoite yllä olevaan valkoiseen ruutuun.</String>
+    <String key="TaskSelect:HostSwitchDesc">Vaihda seuraavaan käytettävissä olevaan isäntään painamalla painiketta.</String>
+    <String key="TaskSelect:DpiShiftDesc">Vaihtele pääasiallisen ja mukautetun osoitinnopeuden välillä painamalla painiketta.</String>
+    <String key="TaskSelect:HorizontalScrollSpeedDesc">Säädä vaakasuoran vierityksen nopeusasetus liukusäätimen avulla.</String>
+    <String key="TaskSelect:KeystrokeWaiting">(Paina näppäinyhdistelmää)</String>
+    <String key="TaskSelect:DpiShiftMasterChannel">Pääasiallinen</String>
+    <String key="TaskSelect:DpiShiftCustom1Channel">Mukautettu</String>
+    <String key="TaskSelect:HostSwitchNotAvail">Laite ei ole käytettävissä</String>
+    <String key="TaskSelect:HostSwitchInstruction">Vaihtele enintään kolmen isännän välillä.</String>
+    <String key="TaskSelect:HostSwitchLegend1">Nykyinen isäntä</String>
+    <String key="TaskSelect:HostSwitchLegend2">Käytettävissä</String>
+    <String key="TaskSelect:HostSwitchLegend3">Ei käytettävissä</String>
+    <String key="TaskSelect:ThumbwheelScroll">Peukalorullan vieritys</String>
+    <String key="TaskSelect:InvertHorzScroll">Vaihda vaakavierityksen suunta</String>
+    <String key="TaskSelect:TiltScrollSpeed">Määritä vaakasuoran vierityksen nopeus</String>
+    <String key="TaskSelect:AdvancedClick">Määritä kehittynyt napsautus</String>
+    <String key="TaskSelect:ModifierKeys">Valitse määrittimet</String>
+    <String key="TaskSelect:ModKeyAlt">Alt</String>
+    <String key="TaskSelect:ModKeyCtl">Ctrl</String>
+    <String key="TaskSelect:ModKeyShf">Vaihtonäppäin</String>
+    <String key="TaskSelect:ModKeyWin">Windows</String>
+    <String key="TaskSelect:ModKeyJnr"> + </String>
+    <String key="TaskSelect:SelectClick">Valitse napsautustyyppi</String>
+    <String key="TaskSelect:SingleClick">Valitse</String>
+    <String key="TaskSelect:DoubleClick">Kaksoisnapsautus</String>
+    <String key="TaskSelect:TripleClick">Kolmoisnapsautus</String>
+    <String key="TaskSelect:RightClick">Napsautus oikealla</String>
+    <String key="TaskSelect:MiddleClick">Keskipainikkeen napsautus</String>
+    <String key="TaskSelect:SelectTools">Valitse kehitystyökalut</String>
+    <String key="TaskSelect:SelectToolsHint">Asettelussa ei välttämättä näy kaikkia aktiivisia työkaluja. Tämä riippuu näytön tarkkuudesta.</String>
+
+    <String key="More:ThisDevice">Tämä laite</String>
+    <String key="More:Connectivity">Yhdistettävyys</String>
+    <String key="More:Software">Ohjelmisto</String>
+    <String key="More:About">Tietoja</String>
+    <String key="More:NotifyCheckbox">Tarkista päivitykset automaattisesti</String>
+    <String key="More:Notifications">Ilmoitukset</String>
+    <String key="More:NotificationText">Ilmoita, kun seuraavaa tapahtuu. (Ilmoitukset ilmestyvät näytölle lyhyeksi ajaksi.)</String>
+    <String key="More:NotificationsText">Ilmoita, kun jokin seuraavista tapahtuu. (Ilmoitukset ilmestyvät näytölle lyhyeksi ajaksi.)</String>
+    <String key="More:NotifyBattLow">Laitteen akun virta on vähissä</String>
+    <String key="More:NotifyCapsLock">Caps Lock on painettuna</String>
+    <String key="More:NotifyScrollLock">Scroll Lock on painettuna</String>
+    <String key="More:NotifyLockKey">Lukitusnäppäin on painettuna</String>
+    <String key="More:DisabledKeys">Käytöstä poistetut näppäimet</String>
+    <String key="More:DisabledKeysText">Tarkista näppäimet, jotka haluat poistaa käytöstä.</String>
+    <String key="More:KeysCapsLock">Caps Lock</String>
+    <String key="More:KeysScrollLock">Scroll Lock</String>
+    <String key="More:KeysInsert">Lisää</String>
+    <String key="More:KeysWindows">Windows/käynnistysnäppäin</String>
+    <String key="More:KeysNumLock">Num Lock</String>
+    <String key="More:Unifying">Unifying</String>
+    <String key="More:UnifyingText">%BrandName% Unifying -vastaanotin on lisätty tähän tietokoneeseen. Yhteen %BrandName% Unifying -vastaanottimeen voidaan yhdistää jopa kuusi yhteensopivaa langatonta hiirtä, näppäimistöä tai muuta Unifying-laitetta.</String>
+    <String key="More:LearnMore">Lisätietoja</String>
+    <String key="More:OpenUnifying">Avaa Unifying-ohjelmisto</String>
+    <String key="More:Bluetooth">Bluetooth</String>
+    <String key="More:SoftwareVersion">Ohjelmistoversio: </String>
+    <String key="More:FirmwareVersion">Laiteohjelmistoversio: </String>
+    <String key="More:CopyTrade">© 2018 %BrandName%. %BrandName%, Logi ja %BrandName%-tuotemerkit ovat %BrandName%-yrityksen omaisuutta, ja ne saattavat olla rekisteröityjä. Kaikki muut tuotemerkit ovat omistajiensa omaisuutta.</String>
+    <String key="More:Support">Tuki</String>
+    <String key="More:SupportText">Vieraile tukisivustollamme ja pyydä tukea tai etsi dokumentteja, ladattavaa materiaalia tai käyttäjäfoorumeita.</String>
+    <String key="More:DeveloperMode">Kehittäjätila</String><!--NEW 1/11/2018-->
+    <String key="More:DeveloperModeText">Voit asentaa ja käyttää allekirjoittamattomia kolmannen osapuolen sovellusprofiileja kehitystarkoituksiin. Lisätietoja aiheesta </String><!--NEW 1/11/2018-->
+    <String key="More:DeveloperModeLink">Options SDK</String><!--NEW 1/11/2018-->
+    <String key="More:DeveloperModeEnabled">KEHITTÄJÄTILA KÄYTÖSSÄ</String><!--NEW 1/11/2018-->
+
+    <String key="UpdateStatus:Checking">Tarkistetaan päivityksiä...</String>
+    <String key="UpdateStatus:NoUpdateAvailable">Ohjelmisto on ajan tasalla</String>
+    <String key="UpdateStatus:DownloadInProgress">Ladataan päivitystä...</String>
+    <String key="UpdateStatus:DownloadSuccess">Lataus valmis</String>
+    <String key="UpdateStatus:DownloadFailure">Lataus epäonnistui</String>
+    <String key="UpdateStatus:InstallInProgress">Asennetaan päivitystä...</String>
+    <String key="UpdateStatus:InstallSuccess">Ohjelmisto on ajan tasalla</String>
+    <String key="UpdateStatus:InstallFailure">Asennus epäonnistui</String>
+    <String key="UpdateStatus:NoInternetConnection">Internet-yhteyttä ei löydy, yritä uudelleen.</String>
+
+    <String key="Modal:RestoreDefaultsWarning">Tämän laitteen asetukset palautetaan oletusasetuksiin. Kaikkia laitteita koskevia yleisasetuksia ei palauteta. Palauta oletusasetukset valitsemalla Jatka tai säilytä nykyiset asetukset valitsemalla Peruuta.</String>
+    <String key="Modal:InstallUpdates">Päivitys on valmis asennettavaksi. Asenna päivitys heti valitsemalla Jatka, pyydä muistutusta seuraavalla sovelluksen avaamiskerralla valitsemalla Asenna myöhemmin tai ohita päivitys valitsemalla Ohita.</String>
+    <String key="Modal:InteractiveUpdates">Päivitys on valmis asennettavaksi. Asenna päivitys heti valitsemalla Jatka tai pyydä muistutusta seuraavalla sovelluksen avaamiskerralla valitsemalla Asenna myöhemmin.</String>
+    <String key="Modal:RelaunchUI">%BrandName% Options on päivitetty ja käynnistetään uudelleen uusien ominaisuuksien käyttöönottamiseksi.</String>
+    <String key="Modal:ClearHostChannel">Tämä valinta poistaa valitun isännän Easy-Switch-toiminnallisuudesta. Jatka valitsemalla %%Buttons:Continue%% tai keskeytä valitsemalla %%Buttons:Cancel%%.</String>
+    <String key="Modal:UnknownFeatures">%BrandName% Options löysi vähintään yhdeltä yhdistetyltä laitteelta tuntemattomia ominaisuuksia. Jos haluat niille kunnollisen tuen, muista käyttää aina uusinta %BrandName% Options -versiota.</String>
+    <String key="Modal:ConfirmEnableDeveloperMode">Kun otat kehittäjätilan käyttöön, voit asentaa ja käyttää sovellusprofiileja, joita %BrandName% ei ole hyväksynyt ja allekirjoittanut. Tämä voi vaikuttaa laitteidesi ja sovellustesi toimintaan. Jos huomaat ongelmia, poista kehittäjätila käytöstä ennen kuin otat yhteyttä tukeen. 
+
+HUOMAUTUS: Analytiikka otetaan automaattisesti käyttöön.</String><!--NEW 1/11/2018-->
+    <String key="Modal:ConfirmDisableDeveloperMode">Kun poistat kehittäjätilan käytöstä, et voi asentaa uusia sovellusprofiileja, joita %BrandName% ei ole hyväksynyt ja allekirjoittanut. Kaikki allekirjoittamattomat sovellusprofiilit, jotka on jo asennettu, poistetaan profiililuettelosta.</String><!--NEW 1/11/2018-->
+    <String key="Modal:OnboardingSelectionError">Sovelluksilla voi olla vain yksi määritetty profiili. Valitse luettelosta yksi profiili. Jos olet jo ottanut profiilin käyttöön, poista sovellusprofiili ensin kohdassa Sovelluskohtaiset asetukset ja yritä asentaa profiili sitten uudelleen.</String><!--NEW 1/11/2018-->
+
+    <String key="DFUState:DFU_WELCOME_PAGE_STEP0">Laiteohjelmistopäivitys on saatavilla laitteelle ==DeviceName==. Tämän prosessin aikana ==DeviceName== ei välttämättä ole käytettävissä. Haluatko jatkaa?</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_PAIRED_STEP1">Etsitään laitepariin kuuluvaa laitetta...</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_PAIRED_STEP1_WAITING">==DeviceName== ei näytä kuuluvan laitepariin. Muodosta siitä nyt laitepari tai yritä myöhemmin uudelleen.</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_ACTIVE_STEP2">Tarkistetaan, että laite on aktiivinen...</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_ACTIVE_STEP2_WAITING">Laitetta ==DeviceName== ei löydy. Tarkista, että se on käytössä ja toiminnassa.</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_BATTERY_OK_STEP3">Tarkistetaan akun varaustilaa...</String>
+    <String key="DFUState:DFU_PREREQ_FW_VERSION_CHECK_STEP3_PLUS">Tarkistetaan laiteohjelmistoversioita...</String>
+    <String key="DFUState:DFU_ENTER_DFU_MODE_STEP4">Laite asetetaan laiteohjelmiston päivitystilaan...</String>
+    <String key="DFUState:DFU_ENTER_DFU_MODE_STEP4_WAITING">Jos haluat asentaa päivityksen, sammuta ==DeviceName== ja käynnistä se sitten uudelleen. Kun päivitys käynnistyy, älä sammuta laitetta tai katkaise sen yhteyttä, ennen kuin päivitys on valmis.</String>
+    <String key="DFUState:DFU_SEND_FIRST_DFU_PACKET_STEP5">Alustetaan laiteohjelmistopäivitystä...</String>
+    <String key="DFUState:DFU_PACKET_STEP5_RESPONSE_WAITING">Laitteen ==DeviceName== laiteohjelmistoa päivitetään</String>
+    <String key="DFUState:DFU_ABORT_INTERNAL_ERROR">Päivityksen aikana ilmeni virhe. Yritä asentaa päivitys uudelleen.</String>
+    <String key="DFUState:DFU_ABORT_LOW_BATTERY_ERROR">Päivitystä ei voida asentaa, koska laitteen ==DeviceName== akun varaustaso on liian alhainen. Lataa paristot tai vaihda ne ja yritä sitten asentaa päivitys uudelleen.</String>
+    <String key="DFUState:DFU_ABORT_START_FAILED_ERROR">Päivityksen aikana ilmeni virhe. Yritä asentaa päivitys uudelleen.</String>
+    <String key="DFUState:DFU_SUCCESS">Laitteen ==DeviceName== laiteohjelmistopäivitys onnistui!</String>
+    <String key="DFUState:DFU_ABORT">Tuntematon virhe aiheutti laiteohjelmistopäivityksen keskeytymisen. Yritä myöhemmin uudelleen.</String>
+    <String key="DFUState:DFU_DONE">==DeviceName== on nyt valmis käytettäväksi.</String>
+    <String key="DFUState:DFU_ABORT_FW_VERSION_UPTO_DATE">Laitteesi laiteohjelmisto on jo ajan tasalla.</String>
+    <String key="DFUState:DFU_BLE_MODE_NOT_SUPPORTED">Laitetta ==DeviceName== ei voida päivittää, kun laitepari on muodostettu Bluetooth-yhteydellä. Tarkista, että laite on yhdistetty Unifying-vastaanottimeen ja yritä uudelleen. Kiitos!</String>
+    <String key="DFUState:DFU_EXIT_FROM_WELCOME_PAGE"/>
+    <String key="DFUState:Unknown">Tuntematon DFU-tila on saavutettu:</String>
+
+    <String key="GenericFeatures:ProgramControls">Ohjelmoitavat säätimet</String>
+    <String key="GenericFeatures:UnsupportedFeatures">Toiminnot, joita ei tueta</String>
+
+    <String key="MouseFeatures:MiddleButton">Keskipainike</String>
+    <String key="MouseFeatures:PointerSpeed">Osoittimen nopeus</String>
+    <String key="MouseFeatures:ScrollDirection">Vierityspyörän suunta</String>
+    <String key="MouseFeatures:SmoothScroll">Tasainen vieritys</String>
+    <String key="MouseFeatures:SmartShift">SmartShift</String>
+    <String key="MouseFeatures:SmartShiftThreshold">SmartShift-herkkyys</String>
+    <String key="MouseFeatures:DefaultWheelMode">Kiinteä vierityspyörän tila</String>
+    <String key="MouseFeatures:SwapLeftRight">Vaihda ykkös- ja kakkospainikkeen toiminto</String>
+    <String key="MouseFeatures:SmartShiftHintOff">Kiinteä tila ei ole aktiivinen. (Poista SmartShift käytöstä ja vahvista, että tilanvaihdolle ei ole määritetty painiketta.)</String>
+    <String key="MouseFeatures:SmartShiftHintOn">Kiinteä tila on aktiivinen. </String>
+    <String key="MouseFeatures:Enabled">Käytössä</String>
+    <String key="MouseFeatures:Disabled">Ei käytössä</String>
+    <String key="MouseFeatures:Traditional">Perinteinen</String>
+    <String key="MouseFeatures:Inverted">Käänteinen</String>
+    <String key="MouseFeatures:Default">Oletus</String>
+    <String key="MouseFeatures:Ratchet">Asteittainen</String>
+    <String key="MouseFeatures:Freespin">Vapaa pyöriminen</String>
+    <String key="MouseFeatures:HorScroll">Peukalorullan suunta</String>
+    <String key="MouseFeatures:NotAssigned">Ei määritetty</String>
+    <String key="MouseFeatures:Backlight">Aika valaistuksen sammuttamiseen</String>
+    <String key="MouseFeatures:10Sec">10 sekuntia</String>
+    <String key="MouseFeatures:20Sec">20 sekuntia</String>
+    <String key="MouseFeatures:30Sec">30 sekuntia</String>
+    <String key="MouseFeatures:1Min">1 minuutti</String>
+    <String key="MouseFeatures:5Min">5 minuuttia</String>
+    <String key="MouseFeatures:10Min">10 minuuttia</String>
+    <String key="MouseFeatures:Illumination">Käynnistä valaistus</String>
+    <String key="MouseFeatures:HandDetection">käden tunnistuksella</String>
+    <String key="MouseFeatures:StartTyping">kun alan kirjoittaa</String>
+
+    <String key="AddDevice">Lisää laite</String>
+    <String key="AddDevice:UnifyingHeadline">Määritä Unifying-laite</String>
+    <String key="AddDevice:WirelessHeadline">Määritä langaton laite</String>
+    <String key="AddDevice:UnifyingDescription">Yhteen %BrandName% Unifying -vastaanottimeen voidaan yhdistää jopa kuusi yhteensopivaa langatonta hiirtä ja näppäimistöä.</String>
+    <String key="AddDevice:WirelessDescription">Voit yhdistää jopa kuusi yhteensopivaa langatonta hiirtä ja näppäimistöä yhteen %BrandName% Unifying -vastaanottimeen tai langattoman hiiren tai näppäimistön %BrandName%-nanovastaanottimeen.</String>
+    <String key="AddDevice:LtdOnlyDescription">Muodosta pariliitos langattomaan hiireen tai näppäimistöön.</String>
+    <String key="AddDevice:UnifyingButton">Lisää Unifying-laite</String>
+    <String key="AddDevice:WirelessButton">Lisää langaton laite</String>
+    <String key="AddDevice:AdvancedButton">Edistyksellinen Unifying-sovellus</String>
+    <String key="AddDevice:NoUnifyingHeadline">Ei Unifying-vastaanotinta</String>
+    <String key="AddDevice:NoUnifyingDescription">Jos haluat lisätä laitteen, liitä Unifying-vastaanotin tietokoneeseen ja odota hetki, kunnes Lisää Unifying-laite -painike on käytettävissä.</String>
+    <String key="AddDevice:BluetoothHeadline">Määritä Bluetooth-laite</String>
+    <String key="AddDevice:BluetoothDescription">Lisää Bluetooth-laite laiteparien muodostamiseen tarkoitetulla Windows-apuohjelmalla.</String>
+    <String key="AddDevice:BluetoothButton">Lisää Bluetooth-laite</String>
+    <String key="AddDevice:NoBluetoothHeadline">Ei Bluetooth-vastaanotinta</String>
+    <String key="AddDevice:BluetoothOffHeadline">Bluetooth-vastaanotin ei käytössä</String>
+    <String key="AddDevice:DevicesDetected">Poistetut laitteet</String>
+    <String key="AddDevice:NoDevicesDetected">Laitteita ei havaittu</String>
+    <String key="AddDevice:BluetoothSmartCapable">Tietokoneesi tukee Bluetooth Smart -laitteita.</String>
+    <String key="AddDevice:BluetoothSmartIncapable">Tietokoneesi ei tue Bluetooth Smart -laitteita.</String>
+
+    <!-- DJCU components -->
+    <String key="DJCU:ConnectTitle">Uudelleenkäynnistä laite, jonka haluat liittää tietokoneeseesi</String>
+    <String key="DJCU:Connect1">1. Etsi laitteen OFF-ON-liukusäädin (kuva alla).</String>
+    <String key="DJCU:Connect2">2. Siirrä liukusäädin ensin asentoon OFF ja sen jälkeen asentoon ON. (Odota sen jälkeen, kunnes laitepari on muodostettu).</String>
+    <String key="DJCU:Connect3">(Vinkki: Liukusäädin sijaitsee joko laitteen alaosassa tai oikeassa yläkulmassa.)</String>
+    <String key="DJCU:Connect4">* Kaikki %BrandName%-laitteet eivät sovi yhteen tämän langattoman vastaanottimen kanssa.</String>
+
+    <String key="DJCU:TimeoutTitle">Laiteparin muodostus epäonnistui</String>
+    <String key="DJCU:Timeout1">Laitetta ei voitu liittää laitepariin odotettavissa olleessa ajassa.</String>
+    <String key="DJCU:Timeout2">Käynnistä laiteparin muodostusprosessi uudelleen valitsemalla ‘%%Buttons:TryAgain%%’.</String>
+    <String key="DJCU:Timeout3">Jos et halua käyttää tätä laitetta, voit myös valita painikkeen ‘%%Buttons:Cancel%%’.</String>
+    <String key="DJCU:Timeout4">Napsauta tästä, jos haluat vianmääritystietoja.</String>
+
+    <String key="DJCU:ReceiversFullTitle">Kaikki langattomat vastaanottimet ovat täysiä</String>
+    <String key="DJCU:ReceiversFull1">Käytettävissä ei ole tarpeeksi paikkoja Unifying-vastaanottimen tai langattoman laitteen yhdistämiseksi nykyisiin vastaanottimiin.</String>
+    <String key="DJCU:ReceiversFull2">Jos haluat yhdistää toisen laitteen, sinun on liitettävä uusi Unifying-vastaanotin.</String>
+
+    <String key="DJCU:MultiReceiverTitle">Useita langattomia vastaanottimia on liitettyinä</String>
+    <String key="DJCU:MultiReceiver1">Jos haluat muodostaa laiteparin tietyn vastaanottimen kanssa, irrota tietokoneesta kaikki Unifying-vastaanottimet pois lukien se vastaanotin, jonka haluat liittää laitepariin.</String>
+    <String key="DJCU:MultiReceiver2">Jos haluat käyttää laiteparin muodostamisessa mitä tahansa käytettävissä olevaa vastaanotinta, valitse ‘%%Buttons:Continue%%’.</String>
+
+    <String key="DJCU:OtpErrorTitle">Laite- tai vastaanotinvirhe</String>
+    <String key="DJCU:OtpError1">Laite tai vastaanotin, jota yrität käyttää laiteparin muodostamisessa, on yhdistetty laitepariin liian monta kertaa, minkä vuoksi sitä ei enää voida käyttää laiteparissa.</String>
+
+    <String key="DJCU:IncompatibleDeviceTitle">Laite ei ole yhteensopiva</String>
+    <String key="DJCU:IncompatibleDevice1">Laitteeseen ei voitu muodostaa pariliitosta. Laite ei sovi yhteen vastaanottimen kanssa. Käytä laitteen mukana toimitettua vastaanotinta.</String>
+
+    <String key="DJCU:PairSuccessTitle">Laitepari muodostettu</String>
+    <String key="DJCU:PairSuccess1">%DeviceName% on yhdistetty laitepariin.</String>
+
+    <!-- Easy-Switch HostInfo Types (feature 0x1814) -->
+    <!-- public enum HostInfoHostTypes { Unset = 0, Unknown = 1, Windows = 2, Win7 = 3, Win8 = 4, Win10 = 5, MacOS = 6, Mac107 = 7, Mac108 = 8, Mac109 = 9 } -->
+    <String key="HostInfo:Unset">Ei isäntää</String>
+    <String key="HostInfo:Unknown">Tuntematon isäntätyyppi</String>
+    <String key="HostInfo:Windows">Windows</String>
+    <String key="HostInfo:Win7">Windows 7</String>
+    <String key="HostInfo:Win8">Windows 8</String>
+    <String key="HostInfo:Win10">Windows 10</String>
+    <String key="HostInfo:MacOS">Mac OS</String>
+    <String key="HostInfo:Mac107">Mac OSX 10.7</String>
+    <String key="HostInfo:Mac108">Mac OSX 10.8</String>
+    <String key="HostInfo:Mac109">Mac OSX 10.9</String>
+
+    <!-- MP HostInfo Types (features 0x4531 and 0x1815) -->
+    <!-- public enum Feature4351Platforms { Unknown = 0, Windows = 1, WinEmb = 2, Linux = 3, Chrome = 4, Android = 5, MacOS = 6, IOS = 7 } -->
+    <String key="MPHostInfo:None">Ei yhdistettynä laitepariin</String>
+    <String key="MPHostInfo:Unknown">Tuntematon</String>
+    <String key="MPHostInfo:Windows">Windows</String>
+    <String key="MPHostInfo:WinEmb">Windows IoT</String>
+    <String key="MPHostInfo:Linux">Linux</String>
+    <String key="MPHostInfo:Chrome">Chrome</String>
+    <String key="MPHostInfo:Android">Android</String>
+    <String key="MPHostInfo:MacOS">Mac OS</String>
+    <String key="MPHostInfo:IOS">iOS</String>
+
+    <!-- App profiles Strings -->
+    <String key="AppProfAddApp">Lisää sovellus</String>
+    <!--<String key="AppProfAddAppTT">Click to add a new application profile for this device</String>
+     <String key="AppProfBrowseTT">Click to add a program manually using a file browser</String>-->
+    <String key="AppProfDeleteWarning">Tämä valinta poistaa sovelluksen ==ApplicationName== mukautetut asetukset lopullisesti. Poista mukautetut asetukset valitsemalla Jatka tai säilytä mukautetut asetukset valitsemalla Peruuta.</String>
+    <String key="AppProfDefaultSettings">Kaikki sovellukset</String>
+    <!--<String key="AppProfDefaultSettingsTT">Click to update All Applications settings</String>-->
+    <String key="AppProfRestoreProfileWarning">Sovelluksen ==ApplicationName== asetukset palautetaan Kaikki sovelukset -asetuksiin. Palauta mukautetut asetukset valitsemalla Jatka tai säilytä mukautetut asetukset valitsemalla Peruuta.</String>
+    <String key="AppProfRestoreProfileWarningCraft">Sovelluksen '==ApplicationName==' asetukset palautetaan Craft-profiilin oletusasetuksiin. Palauta mukautetut asetukset valitsemalla Jatka tai säilytä mukautetut asetukset valitsemalla Peruuta.</String><!--NEW-->
+    <String key="AppProfToggleText">Sovelluskohtaiset asetukset</String>
+    <String key="AppProfDetailHeading">Luo mukautetut asetukset tietyille sovelluksille</String>
+    <String key="AppProfDetailDescription">Sovelluskohtaisilla asetuksilla voit mukauttaa suosikkisovellustesi painikkeet ja toiminnot. Valinta ei vaikuta tämänhetkisiin Kaikki sovellukset -asetuksiin, ja voit ottaa tämän toiminnon käyttöön tai poistaa sen käytöstä milloin tahansa menettämättä mukautettuja asetuksiasi.</String>
+    <String key="AppProfOther">Muu...</String>
+    <String key="AppProfAddAppHeader">Valitse sovellus</String>
+
+    <String key="Flow:ConfigurationError">Virhe %BrandName% Flow -määritystiedostossa. Kytke hiiri pois päältä ja takaisin päälle ja käynnistä %BrandName% Options -ohjelmisto uudelleen.</String>
+    <String key="Flow:LearnMore">Lisätietoja</String>
+    <String key="Flow:MoreOptions">Lisää asetuksia</String>
+    <String key="Flow:ManualSetUp">Manuaalinen määritys</String>
+    <String key="Flow:LinkKeyboard">Linkitä näppäimistö</String>
+    <String key="Flow:CopyPaste">Kopioi ja liitä</String>
+    <String key="Flow:ScreenCorners">Näytön kulmat</String>
+    <!--<String key="Flow:CannotFlow">Cannot Flow</String>
+    <String key="Flow:CanFlow">Can Flow</String>-->
+    <String key="Flow:SwitchBetweenComputers">Vaihda tietokoneesta toiseen</String>
+    <String key="Flow:HoldCtrlAndMove">Pidä Ctrl-näppäin, vie osoitin reunaan</String>
+    <String key="Flow:MoveToEdge">Vie osoitin reunaan</String>
+
+    <String key="Flow:SettingUpFlowHeader">%BRANDNAME% FLOW MÄÄRITETÄÄN...</String>
+    <String key="Flow:SettingUpFlowSearching">Etsitään tietokoneita</String>
+    <String key="Flow:SettingUpFlowFound">Tietokone löytyi</String>
+    <String key="Flow:SettingUpFlow">Määritetään tietokone(ita)</String>
+    <String key="Flow:SettingUpFlowNote">Tämä prosessi kestää enintään minuutin</String>
+    <String key="Flow:SettingUpFlowManual">Anna toisen tietokoneen nimi tai IP-osoite</String>
+    <String key="Flow:SettingUpFlowSuccess">%BrandName% Flow on määritetty ja käyttövalmis.</String>
+    <String key="Flow:SettingUpFlowManualFailed">Yhteyksiä muille tietokoneille ei löydy tai voida muodostaa. Varmistu seuraavista:
+ - %BrandName% Options on asennettu muille tietokoneille.
+ - Hiiri on yhdistetty pariliitoksella tietokoneeseen.
+ - Tietokoneet ovat samassa verkossa.
+Tarkista edellä mainitut seikat ja yritä sitten ottaa Flow käyttöön muilta tietokoneilta.</String> 
+    <String key="Flow:SettingUpFlowOtherMachine">Olen yrittänyt ottaa Flow’n käyttöön muilta tietokoneilta.</String>
+      <String key="Flow:ShowNotificationIcon">Näytä tehtäväpalkin kuvake</String>
+    <String key="Flow:RemoveFlowHost">Tämä tietokone poistetaan eikä sitä voi enää käyttää %BrandName% Flow -toiminnon kanssa – ennen kuin se lisätään uudelleen. Poista valitsemalla Jatka tai peruuta poistaminen valitsemalla Peruuta.</String>
+    <String key="Flow:RestoreFlowDefaults">%BrandName% Flow -asetukset palautetaan. Flow-toimintoa ei voi käyttää tällä tietokoneella, ellei sitä oteta uudelleen käyttöön tai lisätä toiselta tietokoneelta, jolla Flow on käytössä. Palauta valitsemalla Jatka tai pidä nykyiset asetukset valitsemalla Peruuta.</String>
+    <String key="Flow:FeedbackButton">Palaute</String>
+    <String key="Flow:FeedbackFormHint">Anna palautetta tässä...</String>
+
+    <String key="Flow:WelcomeTitle">TERVETULOA KÄYTTÄMÄÄN %BRANDNAME% FLOW’TA</String>
+    <String key="Flow:WelcomeDescription1">Se mahdollistaa automaattisen vaihtamisen tietokoneiden välillä siten, että hiiren osoitin viedään näytön reunaan. Voit myös kopioida ja liittää nopeasti tekstiä, kuvia ja tiedostoja tietokoneelta toiselle.</String>
+    <String key="Flow:WelcomeHowToSetup">KÄYTTÖÖNOTTO</String>
+    <String key="Flow:WelcomeEnabledFlow">FLOW’N KÄYTTÖÖNOTTO</String>
+
+      <String key="Flow:WelcomeTitlePart1">Kerro meille mielipiteesi napsauttamalla </String>
+    <String key="Flow:feedback">PALAUTE</String>
+    <String key="Flow:WelcomeTitlePart2"> -painiketta.</String>
+    <String key="Flow:Enable">Ota Flow käyttöön</String>
+    <String key="Flow:LogitechFlow">%BrandName% Flow</String>
+    <String key="Flow:TutorialSlide1">Yhdistä hiiri tietokoneisiin pariliitoksella.</String>
+    <String key="Flow:TutorialSlide2">Tarkista, että tietokoneet ovat samassa verkossa.</String>
+    <String key="Flow:TutorialSlide3">Lataa ja asenna %BrandName% Options tietokoneille.</String>
+
+    <String key="Flow:TutorialSlide4">Siinä kaikki! Olet valmis käyttämään %BrandName% Flow -toimintoa.</String>
+    
+    <String key="Flow:DiscoveryFailedUnableToEstablish">OTA %BRANDNAME% FLOW KÄYTTÖÖN MUILLA TIETOKONEILLA</String>
+    <String key="Flow:DiscoveryFailedFollowTheseSteps1">%BrandName% Flow ei löytänyt verkosta automaattisesti muita tietokoneita.</String>
+    <String key="Flow:DiscoveryFailedFollowTheseSteps2">Tarkista, että internet-yhteytesi toimii ja että olet noudattanut seuraavia ohjeita.</String>
+    <String key="Flow:DiscoveryFailed:DownloadAndInstall">LATAA JA ASENNA %BRANDNAME% OPTIONS -OHJELMISTON UUSIN VERSIO</String>
+    <String key="Flow:DiscoveryFailed:Pair">YHDISTÄ HIIRI MUIHIN TIETOKONEISIIN PARILIITOKSELLA</String>
+    <String key="Flow:DiscoveryFailed:ConnectSameNetwork">YHDISTÄ TIETOKONEET SAMAAN VERKKOON</String>
+    <String key="Flow:DiscoveryFailed:EnabledOnAll">OTA %BRANDNAME% FLOW KÄYTTÖÖN KAIKILLA TIETOKONEILLA</String>
+    <String key="Flow:DiscoveryFailed:TroubleshootingLink">Vianmääritys</String>
+    <String key="Flow:DiscoverySucceeded:Success">ONNISTUI</String>
+    <String key="Flow:DiscoverySucceeded:Continue">JATKA</String>
+    <String key="Buttons:CancelALLCAPS">PERUUTA</String>
+
+    <!--Ichitaro-->
+    <String key="Ichitaro:AppName">Ichitaro2017</String>
+    <!--End Ichitaro-->
+
+    <!--Duolink-->
+    <String key="Duolink:ToggleDefault">OLETUS</String>
+    <String key="Duolink:ToggleFn">DUOLINK</String> <!--MODIFIED 10/10/2017-->
+    <String key="Duolink:ArrowHover">Fn + ele</String>
+    <String key="Duolink:DeviceListSelectInfo">Voit laajentaa %BrandName%-hiiresi toimintoja näppäimistön Fn-näppäimen avulla. Napsauta hiirtä, jonka haluat määrittää.</String>
+    <String key="Duolink:TutorialText">DuoLinkin avulla hiiren painikkeille voidaan määrittää eri toiminnot, jotka ovat käytössä, kun *Fn*-näppäintä pidetään painettuna. Voit myös suorittaa erilaisia eleitä liikuttamalla hiirtä, kun *Fn*-näppäin on painettuna.</String>
+    <String key="Duolink:TutorialFn">Fn</String>
+    <String key="Duolink:FnGestureMontionDetail">Paina näppäimistön Fn-näppäintä ja liikuta samalla hiirtä</String>
+    <String key="Duolink:NoDevicesAddDevices">Duolink-laitteita ei löydy. Lisää napsauttamalla tästä.</String>
+    <!--End Duolink-->
+    
+    <!--Analytics-->
+    <String key="Analytics:HelpImprove">Lähetä automaattisesti anonyymejä diagnostiikka- ja käyttötietoja, joiden avulla %BrandName% voi parantaa tuotteitaan ja palveluitaan. Lisätietoja %BrandName%-yrityksen</String>
+    <String key="Analytics:PrivacyPolicy"> tietosuojakäytännöstä</String>
+    <String key="Analytics:HelpImproveCheckBox">Auta automaattisesti, että %BrandName% voi parantaa tuotteitaan ja palveluitaan</String>
+    <String key="Analytics:Analytics">Analytiikka</String>
+
+    <String key="Device:Unknown">Tuntematon %BrandName%-laite</String>
+  
+    <!--Craft-->
+    <String key="Craft:Turn">Käännä</String>
+    <String key="Craft:Press">Paina</String>
+    <String key="Craft:PressAndTurn">Paina &amp; Käännä</String>
+    <String key="Craft:NameYourFunction">Anna mukautetulle toiminnolle nimi</String>
+    <String key="Craft:ExUndoRedo">Esim: Kumoa / Tee uudelleen</String>
+    <String key="Craft:TurnRight">Käännä oikealle</String>
+    <String key="Craft:TurnLeft">Käännä vasemmalle</String>
+    <String key="Craft:Ratchet">Asteittainen</String>
+    <String key="Craft:MaxCharactersX">Merkkejä enintään: %d</String>
+    
+    <String key="Craft:ButtonInstallProfiles">ASENNA PROFIILEJA</String>
+    <String key="Craft:ApplicationsWithProfiles">Craft-profiileja tukevat sovellukset</String>
+    <String key="Craft:OtherApplications">Muut sovellukset</String>
+    <String key="Craft:PressAndTurnTooltip">Tämän toiminnon voi vaihtaa vain Kaikki sovellukset -asetuksissa</String>
+    
+    <String key="Craft:ButtonContinueWithoutInstalling">JATKA ASENTAMATTA PROFIILEJA</String>
+    <String key="Craft:ButtonBackToOptions">TAKAISIN OPTIONSIIN</String>    
+    <String key="Craft:OnboardingWelcome">TERVETULOA KÄYTTÄMÄÄN CRAFTIA</String>
+    <String key="Craft:OnboardingWelcomeDescription">Täydellistä luovuuden hallintaa</String>
+    <String key="Craft:OnboardingSearch">HAETAAN OPTIMOITUJA SOVELLUKSIA</String>
+    <String key="Craft:OnboardingSearchDescription">Etsitään Craftille optimoituja sovelluksia tältä tietokoneelta</String>
+    <String key="Craft:OnboardingNoOptimizedApps">TIETOKONEELLASI EI OLE OPTIMOITUJA SOVELLUKSIA</String>
+    <String key="Craft:OnboardingNoOptimizedAppsDescription">Näyttää siltä, ettei tälle tietokoneelle ole asennettu Craft-optimoituja sovelluksia</String>
+    <String key="Craft:OnboardingNoOptimizedApps2">TIETOKONEELLASI EI OLE CRAFTILLE OPTIMOITUJA SOVELLUKSIA</String>
+    <String key="Craft:OnboardingNoOptimizedAppsDescription2">Tietokoneeltasi ei löytynyt lainkaan Craftille optimoituja sovelluksia... :(</String>
+    <String key="Craft:OnboardingNoOptimizedAppsDescription3">Tietokoneeltasi ei löytynyt lainkaan Craftille optimoituja sovelluksia.</String><!--NEW 8/2/2017-->
+    <String key="Craft:OnboardingOneOptimizedApp">1 CRAFTILLE OPTIMOITU SOVELLUS LÖYDETTY</String>
+    <String key="Craft:OnboardingOneOptimizedApps">%d CRAFTILLE OPTIMOITUA SOVELLUSTA LÖYDETTY</String>
+    <String key="Craft:OnboardingOneOptimizedAppDescription">Tälle tietokoneelle ei ole asennettu muita Craftille optimoituja sovelluksia</String>
+    <String key="Craft:OnboardingXOptimizedApps">SINULLA ON ASENNETTUNA %d OPTIMOITUA SOVELLUSTA</String>
+    <String key="Craft:OnboardingXOptimizedAppsDescription">Valitse asentaaksesi optimoidut profiilit kullekin käyttämällesi sovellukselle</String>
+    <String key="Craft:OnboardingProfilesInstalledDescription">Näyttää siltä, että näille sovelluksille on jo asennettu profiilit</String>
+    <String key="Craft:OnboardingInstallingProfiles">PROFIILEJA ASENNETAAN</String>
+    <String key="Craft:OnboardingInstallingProfilesDescription">Profiileja asennetaan tietokoneelle</String>
+    <String key="Craft:OnboardingInstallingProfilesProblem">VIRHE PROFIILIEN ASENTAMISESSA</String>
+    <String key="Craft:OnboardingInstallingProfilesPlugins">VIRHE LAAJENNUSTEN ASENTAMISESSA</String>
+    <String key="Craft:OnboardingInstallingProfilesProblemDescription">Katso verkkosivustomme vianmääritysohjeet</String>
+    <String key="Craft:OnboardingInstallingProfilesDone">PROFIILIT ASENNETTU</String>
+    <String key="Craft:OnboardingInstallingProfilesDoneDescription">Suorita asennus loppuun käynnistämällä optimoidut sovellukset uudelleen</String>
+    <String key="Craft:OnboardingWatchTutorial">KATSO OPETUSOHJELMA</String>
+    <String key="Craft:OnboardingWatchTutorials">KATSO OPETUSOHJELMIA</String>
+    <String key="Craft:OnboardingWatchTutorialDescription">Katso, miten kruunu mullistaa työnkulun jokaisessa optimoidussa sovelluksessa</String>
+    <String key="Craft:OnboardingWatchTutorialDescription2">Katso, miten kruunua käytetään jokaisessa optimoidussa sovelluksessa</String>
+    <String key="Craft:OnboardingDone">VALMISTA TULI</String>
+    <String key="Craft:OnboardingDoneDescription">Craft on optimoitu eniten käyttämillesi sovelluksille</String>
+    <String key="Craft:OnboardingSelectedNewApps">VALITSIT JUURI UUSIA SOVELLUKSIA</String>
+    <String key="Craft:OnboardingSelectedNewAppsDescription">Asenna profiili(t) napsauttamalla painiketta</String>
+    <String key="Craft:OnboardingUnsignedPlugin">(Allekirjoittamaton)</String><!--NEW 1/11/2018-->
+
+    <String key="Craft:RestoreDefaults">Sovelluksen ==ApplicationName== asetukset palautetaan Craft-profiilin oletusasetuksiin. Palauta mukautetut asetukset valitsemalla Jatka tai säilytä mukautetut asetukset valitsemalla Peruuta.</String><!--NEW 8/8/2017-->
+    <!--End Craft-->
+  
+  </Strings>
+</StringDictionary>

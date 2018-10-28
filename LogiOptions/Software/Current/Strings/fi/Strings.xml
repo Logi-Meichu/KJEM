@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Source>
+	<StringSet>
+		<String ALIAS="IDS_SINGLE_DEVICE_LOWBATTERY_PREFIX">Akun varaus on kriittinen seuraavassa laitteessa:</String>
+        <String ALIAS="IDS_NO_APPS_SWITCH">Ei vaihdettavia sovelluksia</String>
+        <String ALIAS="IDS_NO_HOSTS_SWITCH">Ei vaihdettavia isäntiä</String>
+        <String ALIAS="IDS_HOSTS_SWITCH">Isäntä vaihdettu</String>
+		<String ALIAS="IDS_APPLICATION_NAME">Logitech Options</String>
+
+        <!-- Lock notification -->
+		<String ALIAS="HELP_LOCK_CAPS_ON">Caps Lock: käytössä</String>
+		<String ALIAS="HELP_LOCK_CAPS_OFF">Caps Lock: ei käytössä</String>
+		<String ALIAS="HELP_LOCK_SCROLL_ON">Scroll Lock: käytössä</String>
+		<String ALIAS="HELP_LOCK_SCROLL_OFF">Scroll Lock: ei käytössä</String>
+		<String ALIAS="HELP_LOCK_NUMS_ON">Num Lock: käytössä</String>
+		<String ALIAS="HELP_LOCK_NUMS_OFF">Num Lock: ei käytössä</String>
+
+        <!-- Package Update notification -->
+		<String ALIAS="UPDATER_UPDATE_AVAILABLE_TITLE">Päivitystä ei ole saatavissa</String>
+		<String ALIAS="UPDATER_UPDATE_AVAILABLE">Logitech Options -päivitys on saatavilla.</String>
+
+        <!-- Device Update notification -->
+        <String ALIAS="UPDATER_DEVICE_UPDATE_AVAILABLE_TITLE">Päivitys laitteelle saatavilla</String>
+		<String ALIAS="UPDATER_DEVICE_UPDATE_AVAILABLE">Laitteellesi on saatavilla päivitys. Päivitä napsauttamalla tässä.</String>
+
+		<!-- Incorrect Keyboard Mode notification -->
+		<String ALIAS="INCORRECT_SELECTED_KEYBOARD_LAYOUT">Windows-asettelua ei ole valittu näppäimistöstä.</String>
+
+		<!-- Missing software components -->
+		<String ALIAS="MISSING_MAINAPP_FILES">Logitech Options -ohjelmistosta puuttuu kriittisiä tiedostoja. Asenna ohjelmisto uudelleen.</String>
+
+    <!-- Tray icon notification -->
+    <String ALIAS="TRAYICON_FLOWOFF"> Poista Logitech Flow käytöstä</String>
+    <String ALIAS="TRAYICON_PREFERENCES"> Avaa Asetukset</String>
+    <String ALIAS="TRAYICON_FLOWON"> Ota Logitech Flow käyttöön</String>
+    <String ALIAS="TRAYICON_NETWORK_ISSUE"> Tietokoneella ei ole verkkoyhteyttä</String>
+    <String ALIAS="TRAYICON_HOST_ISSUE"> %s ei ole tavoitettavissa</String>
+    <String ALIAS="TRAYICON_HELP"> Avaa Logitech Flow -ohje</String>
+    <String ALIAS="TRAYICON_CANCEL_TRANSFER"> Peruuta siirto</String>
+    <String ALIAS="TRAYICON_TRANSFER_STATUS"> Siirretään %d%% </String>
+    <String ALIAS="TRAYICON_TRANSFER_ERROR"> Virhe siirtämisessä</String>
+
+    <!-- toast notification -->
+    <String ALIAS="TOAST_HOST_CONNECTED">%s lisättiin Logitech Flow -toimintoon.</String>
+    <String ALIAS="TOAST_NEW_FEATURES">Haluatko kokeilla Logitechin uusinta innovaatiota? Napsauta ja ryhdy beetakäyttäjäksi.</String>
+    <String ALIAS="TOAST_NOTMATCH_FIRMWARE">Laitteen %s laiteohjelmisto on päivitettävä.</String>
+
+    <!-- Craft notification -->
+    <String ALIAS="CRAFT_PLUGIN_NOT_INSTALLED_TITLE">Craft-profiili saatavilla</String>
+    <String ALIAS="CRAFT_PLUGIN_NOT_INSTALLED_BODY">Sovellukselle %s on saatavilla Craft-profiili.</String>
+    <String ALIAS="CRAFT_PLUGIN_READY_TO_USE_TITLE">Craft-profiili asennettu</String>
+    <String ALIAS="CRAFT_PLUGIN_READY_TO_USE_BODY">Sovellukselle %s asennettiin uusi Craft-profiili.</String>
+    <String ALIAS="CRAFT_PLUGIN_APP_REQUIRE_RESTART_TITLE">Käynnistä %s uudelleen</String>
+    <String ALIAS="CRAFT_PLUGIN_APP_REQUIRE_RESTART_BODY">Craft-profiili asennettu sovellukseen %s. Aloita tämän profiilin käyttö käynnistämällä sovellus uudelleen.</String>
+
+  </StringSet>
+</Source>

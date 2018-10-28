@@ -1,0 +1,92 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "size",
+            "value": "Size"
+        },
+        {
+            "ID": "hardness",
+            "value": "Hardness"
+        },
+        {
+            "ID": "strokeWeight",
+            "value": "Stroke weight"
+        },
+        {
+            "ID": "opacity",
+            "value": "Opacity"
+        },
+        {
+            "ID": "brightness",
+            "value": "Brightness"
+        },
+        {
+            "ID": "contrast",
+            "value": "Contrast"
+        },
+        {
+            "ID": "saturation",
+            "value": "Saturation"
+        },
+        {
+            "ID": "flow",
+            "value": "Flow"
+        },
+        {
+            "ID": "strength",
+            "value": "Strength"
+        },
+        {
+            "ID": "tolerance",
+            "value": "Tolerance"
+        },
+        {
+            "ID": "exposure",
+            "value": "Exposure"
+        },        
+        {
+            "ID": "textSize",
+            "value": "Size"
+        },
+        {
+            "ID": "layertextSize",
+            "value": "Layertext Size"
+        },
+        {
+            "ID": "blendMode",
+            "value": "Blend Mode"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "Contextual"
+        },
+        {
+            "ID": "savefile",
+            "value": "Save file"
+        },
+        {
+            "ID": "undoredo",
+            "value": "Undo/Redo"
+        },
+        {
+            "ID": "undo",
+            "value": "Undo"
+        },
+        {
+            "ID": "redo",
+            "value": "Redo"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zoom"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Keystroke assignment"
+        },
+        {
+            "ID": "playpause",
+            "value": "Play/Pause"
+        }
+    ]
+}

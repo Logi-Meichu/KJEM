@@ -1,0 +1,100 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "Contextuel"
+        },
+        {
+            "ID": "savefile",
+            "value": "Enregistrer le fichier"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zoom"
+        },
+        {
+            "ID": "sheetNavigation",
+            "value": "Navigation sur la feuille"
+        },
+        {
+            "ID": "horizontalScroll",
+            "value": "Défilement horizontal"
+        },
+        {
+            "ID": "createChart",
+            "value": "Créer un graphique"
+        },
+        {
+            "ID": "createTable",
+            "value": "Créer un tableau"
+        },
+        {
+            "ID": "tableStyle",
+            "value": "Style de tableau"
+        },
+        {
+            "ID": "chartType",
+            "value": "Type de graphique"
+        },
+        {
+            "ID": "quickLayout",
+            "value": "Disposition rapide"
+        },
+        {
+            "ID": "changeColor",
+            "value": "Modifier la couleur"
+        },
+        {
+            "ID": "chartStyle",
+            "value": "Style de graphique"
+        },
+        {
+            "ID": "pieChart",
+            "value": "Graphique en secteurs"
+        },
+        {
+            "ID": "columnChart",
+            "value": "Histogramme"
+        },
+        {
+            "ID": "barChart",
+            "value": "Graphique à barres"
+        },
+        {
+            "ID": "areaChart",
+            "value": "Graphique en aires"
+        },
+        {
+            "ID": "stockChart",
+            "value": "Graphique boursier"
+        },
+        {
+            "ID": "surfaceChart",
+            "value": "Graphique en surface"
+        },
+        {
+            "ID": "radarChart",
+            "value": "Graphique en radar"
+        },
+        {
+            "ID": "tableColor",
+            "value": "Couleur du tableau"
+        },
+        {
+            "ID": "xyscatterChart",
+            "value": "Nuage en points"
+        },
+        {
+            "ID": "lineChart",
+            "value": "Graphique en courbes"
+        },
+        {
+            "ID": "comboChart",
+            "value": "Graphique combiné"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Raccourcis clavier"
+        }
+    ]
+}

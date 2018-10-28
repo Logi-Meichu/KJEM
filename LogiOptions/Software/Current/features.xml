@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<features>
+  
+  <supportedfeatures>
+    <feature name="LD_FID_ROOT"                       id="0x0000" />
+    <Feature name="LD_FID_FEATURE_SET"                id="0x0001" />
+    <feature name="LD_FID_FEATURE_INFO"               id="0x0002" />
+    <feature name="LD_FID_DEVICE_FW_VERSION"          id="0x0003" />
+    <feature name="LD_FID_DEVICE_NAME"                id="0x0005" />
+    <feature name="LD_FID_BATTERY_STATUS"             id="0x1000" />
+    <feature name="LD_FID_REPROG_CONTROLS_V4"         id="0x1B04" />
+    <feature name="LD_FID_WIRELESS_DEVICE_STATUS"     id="0x1D4B" />
+    <feature name="LD_FID_VERTICAL_SCROLLING"         id="0x2100" />
+    <feature name="LD_FID_HI_RES_SCROLLING"           id="0x2120" />
+    <feature name="LD_FID_MOUSE_POINTER"              id="0x2200" />
+    <feature name="LD_FID_FN_INVERSION"               id="0x40A0" />
+    <feature name="LD_FID_ENCRYPTION"                 id="0x4100" />
+    <feature name="LD_FID_SOLAR_DASHBOARD"            id="0x4301" />
+    <feature name="LD_FID_KEYBOARD_LAYOUT"            id="0x4520" />
+    <feature name="LD_FID_DFUCONTROL"                 id="0x00C0" />
+    <feature name="LD_FID_TOUCHPAD_FW_ITEMS"          id="0x6010" />
+    <feature name="LD_FID_TOUCHPAD_SW_ITEMS"          id="0x6011" />
+    <feature name="LD_FID_LEFT_RIGHT_SWAP"            id="0x2001" />
+    <feature name="LD_FID_BACKLIGHT"                  id="0x1981" />
+    <feature name="LD_FID_NEW_FN_INVERSION"           id="0x40A2" />
+    <feature name="LD_FID_NEW_FN_INVERSION_2"         id="0x40A3" />
+    <feature name="LD_FID_DEVICE_GROUPS"      	      id="0x0006" />
+    <feature name="LD_FID_LOWRES_WHEEL"      	        id="0x2130" />
+    <feature name="LD_FID_HIRES_WHEEL"      	        id="0x2121" />
+    <feature name="LD_FID_POINTER_SPEED"      	      id="0x2205" />
+    <feature name="LD_FID_SWAP_BUTTON"      	        id="0x2005" />
+    <feature name="LD_FID_KEYBOARD_DISABLE"    	      id="0x4521" />
+    <feature name="LD_FID_GESTURE"      	            id="0x6501" />
+    <feature name="LD_FID_RESET"      	              id="0x0020" />
+    <feature name="LD_FID_CRYPTO_ID"                  id="0x0021" />
+    <feature name="LD_FID_DUALPLATFORM"      	        id="0x4530" />
+    <feature name="LD_FID_LOCK_KEY_STATE"      	      id="0x4220" />
+
+
+
+  </supportedfeatures>
+
+  <ignorefeatures>
+
+    <feature Name="LD_FID_REPROG_CONTROLS"           id="0x1B00" />
+    <feature Name="LD_FID_REPROG_CONTROLS_V2"        id="0x1B02" />
+    <feature Name="LD_FID_REPROG_CONTROLS_V3"        id="0x1B03" />
+    <feature Name=""                                 id="0x00C1" />
+    <feature Name=""                                 id="0x1d4b" />
+    <feature Name=""                                 id="0x0020" />
+    <feature Name=""                                 id="0x6100" />
+    <feature Name=""                                 id="0x0007" />
+    <feature Name=""                                 id="0x1c00" />
+    <feature Name=""                                 id="0x00c2" />
+
+
+
+
+  </ignorefeatures>
+  
+  
+</features>
+

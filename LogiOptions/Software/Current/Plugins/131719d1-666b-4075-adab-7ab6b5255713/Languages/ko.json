@@ -1,0 +1,28 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "Acrobat Reader 컨트롤"
+        },
+        {
+            "ID": "zoom",
+            "value": "확대/축소"
+        },
+        {
+            "ID": "rotate",
+            "value": "회전"
+        },
+        {
+            "ID": "navigate",
+            "value": "페이지 변경"
+        },
+        {
+            "ID": "scroll",
+            "value": "수평 스크롤"
+        },
+        {
+            "ID": "playpause",
+            "value": "재생/일시 중지"
+        }
+    ]
+}

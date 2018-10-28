@@ -1,0 +1,48 @@
+{
+  "LocalizedStrings": [
+    {
+      "ID": "keystrokeassignment",
+      "value": "キーストロークの割当"
+    },
+    {
+      "ID": "changetoolvalue",
+      "value": "コンテキスト"
+    },
+    {
+      "ID": "crownbrowsertextsize",
+      "value": "テキストサイズまたはタブの変更"
+    },
+    {
+      "ID": "crowntabscommand",
+      "value": "タブの切り替え"
+    },
+    {
+      "ID": "textSize",
+      "value": "サイズ"
+    },
+    {
+      "ID": "imageSize",
+      "value": "サイズ"
+    },
+    {
+      "ID": "tabSwitch",
+      "value": "タブ ナビゲーション"
+    },
+    {
+      "ID": "zoom",
+      "value": "ズーム"
+    },
+    {
+      "ID": "sheetNavigation",
+      "value": "シート ナビゲーション"
+    },
+    {
+      "ID": "horizontalScroll",
+      "value": "水平スクロール"
+    },
+    {
+      "ID": "playpause",
+      "value": "再生 / 一時停止"
+    }
+  ]
+}

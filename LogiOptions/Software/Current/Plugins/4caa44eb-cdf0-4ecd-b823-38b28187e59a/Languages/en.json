@@ -1,0 +1,100 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "Contextual"
+        },
+        {
+            "ID": "savefile",
+            "value": "Save file"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zoom"
+        },
+        {
+            "ID": "sheetNavigation",
+            "value": "Sheet Navigation"
+        },
+        {
+            "ID": "horizontalScroll",
+            "value": "Horizontal Scroll"
+        },
+        {
+            "ID": "createChart",
+            "value": "Create Chart"
+        },
+        {
+            "ID": "createTable",
+            "value": "Create Table"
+        },
+        {
+            "ID": "tableStyle",
+            "value": "Table Style"
+        },
+        {
+            "ID": "chartType",
+            "value": "Chart Type"
+        },
+        {
+            "ID": "quickLayout",
+            "value": "Quick Layout"
+        },
+        {
+            "ID": "changeColor",
+            "value": "Change Color"
+        },
+        {
+            "ID": "chartStyle",
+            "value": "Chart Style"
+        },
+        {
+            "ID": "pieChart",
+            "value": "Pie Chart"
+        },
+        {
+            "ID": "columnChart",
+            "value": "Column Chart"
+        },
+        {
+            "ID": "barChart",
+            "value": "Bar Chart"
+        },
+        {
+            "ID": "areaChart",
+            "value": "Area Chart"
+        },
+        {
+            "ID": "stockChart",
+            "value": "Stock Chart"
+        },
+        {
+            "ID": "surfaceChart",
+            "value": "Surface Chart"
+        },
+        {
+            "ID": "radarChart",
+            "value": "Radar Chart"
+        },
+        {
+            "ID": "tableColor",
+            "value": "Table Color"
+        },
+        {
+            "ID": "xyscatterChart",
+            "value": "Scatter Chart"
+        },
+        {
+            "ID": "lineChart",
+            "value": "Line Chart"
+        },
+        {
+            "ID": "comboChart",
+            "value": "Combo Chart"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Keystroke assignment"
+        }
+    ]
+}

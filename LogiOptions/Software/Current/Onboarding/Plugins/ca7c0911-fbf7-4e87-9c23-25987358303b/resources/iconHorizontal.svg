@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="26px" viewBox="0 0 25 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>iconHorizontal</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M2,16 L9,16 L9,23 L2,23 L2,16 Z M4,21 L7,21 L7,18 L4,18 L4,21 Z M11,16 L18,16 L18,23 L11,23 L11,16 Z M13,21 L16,21 L16,18 L13,18 L13,21 Z M20,16 L27,16 L27,23 L20,23 L20,16 Z M22,21 L25,21 L25,18 L22,18 L22,21 Z M26,14 L26,3 L7,3 L7,14 L9,14 L9,5 L24,5 L24,14 L26,14 Z M26,25 L26,29 L7,29 L7,25 L9,25 L9,27 L24,27 L24,25 L26,25 Z M11.41,14 L10,14 L13,7 L13.95,7 L16.95,14 L15.54,14 L14.88,12.45 L12.07,12.45 L11.41,14 Z M13.47,9.18 L12.58,11.25 L14.36,11.25 L13.47,9.18 Z M20.6875,12.3 L20.6875,10.85 C20.4175,10.49 19.9875,10.25 19.4875,10.25 C18.7275,10.25 18.2375,10.88 18.2375,11.58 C18.2375,12.34 18.7875,12.9 19.5175,12.9 C20.0075,12.9 20.4375,12.66 20.6875,12.3 Z M21.9875,9.15 L21.9875,14 L20.7375,14 L20.7375,13.61 C20.3375,13.95 19.8775,14.1 19.3875,14.1 C18.6675,14.1 17.9875,13.78 17.5575,13.28 C17.1775,12.84 16.9375,12.24 16.9375,11.58 C16.9375,10.15 17.9975,9.05 19.3175,9.05 C19.8675,9.05 20.3575,9.23 20.7375,9.54 L20.7375,9.15 L21.9875,9.15 Z" id="path-1"></path>
+    </defs>
+    <g id="10--Trava" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Options-Trava-OnOarding-Word-1" transform="translate(-486.000000, -216.000000)">
+            <g id="Overlay" transform="translate(472.000000, 200.000000)">
+                <g id="Icons/Trava/Word/ThemeStyle" transform="translate(12.000000, 13.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Combined-Shape" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                    <g id="Colors/Khole" mask="url(#mask-2)" fill-rule="evenodd" fill="#2F3132">
+                        <rect id="Rectangle-3" x="0" y="0" width="32" height="32"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

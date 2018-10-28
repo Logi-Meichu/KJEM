@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="utf-8"?>
+<descriptions>
+	<taskids>
+
+		<!-- ******************************** frequently used windows tasks *********************************** -->
+		<task id="0x1d">
+			<description>Media Player</description>
+		</task>
+		<task id="0x44">
+			<description>ロック</description>
+		</task>
+		<task id="0x10001">
+			<description>サインアウト</description>
+		</task>
+		<task id="0x0c">
+			<description>ウィンドウを閉じる</description>
+		</task>
+		<task id="0x52">
+			<description>なし</description>
+		</task>
+		<task id="0x53">
+			<description>アプリケーションを切り替える</description>
+		</task>
+		<task id="0x8">
+			<description>アプリケーションを切り替える</description>
+		</task>
+		<task id="0x0e">
+			<description>電子メール</description>
+		</task>
+		<task id="0x87">
+			<description>検索</description>
+		</task>
+		<task id="0x88">
+			<description>共有</description>
+		</task>
+		<task id="0x89">
+			<description>デバイス</description>
+		</task>
+		<task id="0x8a">
+			<description>設定</description>
+		</task>
+		<task id="0x7A">
+			<description>Charms</description>
+		</task>
+		<task id="0x8E">
+			<description>デスクトップの表示/非表示</description>
+		</task>
+		<task id="0x79">
+			<description>アプリケーション メニュー</description>
+		</task>
+		<task id="0x90">
+			<description>スタート画面</description>
+		</task>
+		<task id="0x95">
+			<description>ウィンドウを最大化</description>
+		</task>
+		<task id="0x94">
+			<description>ウィンドウを最小化</description>
+		</task>
+		<task id="0x38">
+			<description>左クリック</description>
+		</task>
+		<task id="0x39">
+			<description>右クリック</description>
+		</task>
+		<task id="0x3A">
+			<description>中央ボタン</description>
+		</task>
+
+		<!-- *********************************** back/forward *********************************** -->
+		<task id="0x3b">
+			<description>戻る</description>
+		</task>
+		<task id="0x3c">
+			<description>戻る</description>
+		</task>
+		<task id="0xab">
+			<description>戻る</description>
+		</task>
+		<task id="0x3d">
+			<description>進む</description>
+		</task>
+		<task id="0x3e">
+			<description>進む</description>
+		</task>
+		<task id="0xac">
+			<description>次に進む</description>
+		</task>
+
+		<!-- *********************************** Edit features *********************************** -->
+		<task id="0x51">
+			<description>切り取り</description>
+		</task>
+		<task id="0x4e">
+			<description>コピー</description>
+		</task>
+		<task id="0x85">
+			<description>貼り付け</description>
+		</task>
+
+		<!-- *********************************** Calculator File launcher *********************************** -->
+		<task id="0x0a">
+			<description>電卓</description>
+		</task>
+
+		<!-- *********************************** Volume & Media handlers *********************************** -->
+		<task id="0x01">
+			<description>ボリューム アップ</description>
+		</task>
+		<task id="0x02">
+			<description>ボリューム ダウン</description>
+		</task>
+		<task id="0x03">
+			<description>ミュート</description>
+		</task>
+		<task id="0x04">
+			<description>再生/一時停止</description>
+		</task>
+		<task id="0x07">
+			<description>停止</description>
+		</task>
+		<task id="0x05">
+			<description>次へ</description>
+		</task>
+		<task id="0x06">
+			<description>前へ</description>
+		</task>
+
+		<!-- *********************************** Common folders *********************************** -->
+		<task id="0x27">
+			<description>マイ コンピュータ</description>
+		</task>
+		<task id="0x48">
+			<description>この PC</description>
+		</task>
+		<task id="0x22">
+			<description>マイ ドキュメント</description>
+		</task>
+		<task id="0x49">
+			<description>ドキュメント</description>
+		</task>
+		<task id="0x24">
+			<description>マイ ピクチャ</description>
+		</task>
+		<task id="0x50">
+			<description>ピクチャ</description>
+		</task>
+		<task id="0x23">
+			<description>マイ ミュージック</description>
+		</task>
+		<task id="0x54">
+			<description>音楽</description>
+		</task>
+		<task id="0x26">
+			<description>マイ ビデオ</description>
+		</task>
+		<task id="0x55">
+			<description>ビデオ</description>
+		</task>
+
+		<!-- *********************************** Open Web Page *********************************** -->
+		<task id="0x47">
+			<description>マイ ホーム</description>
+		</task>
+		<task id="0x33">
+			<description>拡大</description>
+		</task>
+		<task id="0x35">
+			<description>縮小</description>
+		</task>
+		<task id="0x10010">
+			<description>左回転</description>
+		</task>
+		<task id="0x1000F">
+			<description>右回転</description>
+		</task>
+		<task id="0x1000E">
+			<description>割り当てなし</description>
+		</task>
+
+        <task id="0xFFFE">
+            <description>無効</description>
+        </task>     
+
+		<task id="0x37">
+			<description>ズームをリセット</description>
+		</task>
+		<task id="0x0b">
+			<description>電子メール</description>
+		</task>
+		<task id="0x2f">
+			<description>スリープ</description>
+		</task>
+		<task id="0x1a">
+			<description>マイ ホーム</description>
+		</task>
+		<task id="0x56">
+			<description>ホーム</description>
+		</task>
+		<task id="0x1c">
+			<description>すべてのウィンドウを最小化する</description>
+		</task>
+		<task id="0x1b">
+			<description>すべてのウィンドウを復元</description>
+		</task>
+		<task id="0x91">
+			<description>画面を切り替える</description>
+		</task>
+		<task id="0x93">
+			<description>画面を切り替える</description>
+		</task>
+		<task id="0x43">
+			<description>デスクトップの表示/非表示</description>
+		</task>
+		<task id="0x2d">
+			<description>検索</description>
+		</task>
+		<task id="0xb0">
+			<description>検索</description>
+		</task>
+		<task id="0xb1">
+			<description>検索</description>
+		</task>
+		<task id="0xba">
+			<description>入力言語</description>
+		</task>
+
+		<task id="0x47">
+			<description>マイ ホーム</description>
+		</task>
+
+		<task id="0x96">
+			<description>アプリケーションを切り替える</description>
+		</task>
+		<task id="0x97">
+			<description>マイ ホーム</description>
+		</task>
+		<task id="0x9b">
+             <description>画面のキャプチャ</description>
+        </task>
+		<task id="0xb2">
+			<description>マイ ホーム</description>
+		</task>
+		<task id="0x98">
+			<description>右クリック</description>
+		</task>
+		<task id="0x20">
+			<description>右クリック</description>
+		</task>
+		<task id="0xb3">
+			<description>右クリック</description>
+		</task>
+		<task id="0x99">
+			<description>戻る</description>
+		</task>
+		<task id="0xce">
+			<description>戻る</description>
+		</task>
+    <task id="0xc5">
+      <description>新しいブラウザタブ</description>
+    </task>
+    
+		<task id="0xA8">
+			<description>ジェスチャー ボタン</description>
+		</task>
+		<task id="0xA9">
+			<description>ジェスチャー ボタン</description>
+		</task>
+		<task id="0x9c">
+			<description>ジェスチャー ボタン</description>
+		</task>
+		<task id="0xad">
+			<description>ジェスチャー ボタン</description>
+		</task>
+
+		<task id="0x1002c">
+			<description>ジェスチャー ボタン</description>
+		</task>
+
+		<task id="0x9d">
+			<description>モードシフト ボタン</description>
+		</task>
+
+		<task id="0x71">
+			<description>右回転、アナログ</description>
+		</task>
+
+		<task id="0x72">
+			<description>左回転、アナログ</description>
+		</task>
+
+		<task id="0x73">
+			<description>左にパン</description>
+		</task>
+
+		<task id="0x74">
+			<description>右にパン</description>
+		</task>
+
+		<task id="0x75">
+			<description>上にパン</description>
+		</task>
+
+		<task id="0x76">
+			<description>下にパン</description>
+		</task>
+
+
+		<task id="0x3f">
+			<description>左スクロール</description>
+		</task>
+
+		<task id="0x40">
+			<description>右スクロール</description>
+		</task>
+
+		<task id="0xc3">
+			<description>アプリケーションメニュー</description>
+		</task>
+
+		<task id="0xbf">
+			<description>タスクビュー</description>
+		</task>
+
+		<task id="0xa3">
+			<description>輝度を下げる</description>
+		</task>
+
+		<task id="0xa4">
+			<description>輝度を上げる</description>
+		</task>
+
+		<task id="0xc0">
+			<description>アクションセンター</description>
+		</task>
+
+		<task id="0xc1">
+			<description>バックライトを暗くする</description>
+		</task>
+
+		<task id="0xc2">
+			<description>バックライトを明るくする</description>
+		</task>
+		
+		<task id="0x10003">
+			<description>ハイバネーション</description>
+		</task>
+
+		<!-- task ids local to LogiOptions -->
+		<!-- *************************************  -->
+		<task id="0x10000">
+			<description>キーストロークの割当</description>
+		</task>
+		<task id="0x10001">
+			<description>ログオフ</description>
+		</task>
+		<task id="0x10002">
+			<description>シャットダウン</description>
+		</task>
+		<task id="0x10003">
+			<description>ハイバネーション</description>
+		</task>
+		<task id="0x10004">
+			<description>アプリケーションの起動</description>
+		</task>
+		<task id="0x10007">
+			<description>次のトラック/早送り</description>
+		</task>
+		<task id="0x10008">
+			<description>ファイルを開く</description>
+		</task>
+		<task id="0x10009">
+			<description>フォルダを開く</description>
+		</task>
+		<task id="0x1000A">
+			<description>Web ページを開く</description>
+		</task>
+		<task id="0x1000B">
+			<description>前のトラック/巻き戻し</description>
+		</task>
+		<task id="0x1000C">
+			<description>ダブルクリック</description>
+		</task>
+		<task id="0x1000D">
+			<description>Windows 8 ショートカット</description>
+		</task>
+
+		<task id="0x10011">
+			<description>パン</description>
+		</task>
+		<task id="0x10012">
+			<description>パン</description>
+		</task>
+		<task id="0x10013">
+			<description>パン</description>
+		</task>
+		<task id="0x10014">
+			<description>パン</description>
+		</task>
+		<task id="0x1000E">
+			<description>中央ボタン</description>
+		</task>
+
+		<task id="0x10019">
+			<description>スタート画面</description>
+		</task>
+
+		<task id="0x10020">
+			<description>ウィンドウを最大化</description>
+		</task>
+
+		<task id="0x10021">
+			<description>デスクトップの表示/非表示</description>
+		</task>
+		<task id="0x10022">
+			<description>アプリケーションを切り替える</description>
+		</task>
+
+		<task id="0x10026">
+			<description>左スナップ</description>
+		</task>
+
+		<task id="0x10027">
+			<description>右スナップ</description>
+		</task>
+
+		<task id="0x10029">
+			<description>拡大</description>
+		</task>
+
+		<task id="0x10030">
+			<description>ボリューム アップ</description>
+		</task>
+
+		<task id="0x10031">
+			<description>ボリューム ダウン</description>
+		</task>
+
+		<task id="0x10032">
+			<description>前へ</description>
+		</task>
+
+		<task id="0x10033">
+			<description>次へ</description>
+		</task>
+
+		<task id="0x10034">
+			<description>再生/一時停止</description>
+		</task>
+
+		<task id="0x10035">
+			<description>［スタート］ メニュー</description>
+		</task>
+		<task id="0x10036">
+			<description>Easy-Switch</description>
+		</task>
+		<task id="0x10037">
+			<description>マウス感度</description>
+		</task>
+		<task id="0xc4">
+			<description>精密モード</description>
+		</task>
+
+		<task id="0x10038">
+			<description>ウィンドウを最大化</description>
+		</task>
+
+		<task id="0x10039">
+			<description>モディファイアキー</description>
+		</task>
+
+		<task id="0x10040">
+			<description>高度なクリック</description>
+		</task>
+
+		<task id="0x10041">
+			<description>スムーズ スクロールを切り替え</description>
+		</task>
+
+		<task id="0x10042">
+			<description>新しいデスクトップ</description>
+		</task>
+
+		<task id="0x10043">
+			<description>デスクトップをクローズ</description>
+		</task>
+
+		<task id="0x10044">
+			<description>デスクトップ (次へ)</description>
+		</task>
+
+		<task id="0x10045">
+			<description>デスクトップ (前へ)</description>
+		</task>
+
+		<task id="0x10047">
+			<description>［スタート］ メニュー</description>
+		</task>
+		<task id="0x10048">
+			<description>デスクトップの表示/非表示</description>
+		</task>
+		<task id="0x10049">
+			<description>デスクトップ (前へ)</description>
+		</task>
+		<task id="0x10050">
+			<description>デスクトップ (次へ)</description>
+		</task>
+		<task id="0x10051">
+			<description>タスク ビュー</description>
+		</task>
+		<task id="0x10052">
+			<description>アクション センター</description>
+		</task>
+		<task id="0x10053">
+			<description>タスク ビュー</description>
+		</task>
+		<task id="0x10055">
+			<description>Cortana</description>
+		</task>
+	<task id="0x10056">
+	  <description>タスク ビュー</description>
+	</task>
+		<task id="0x10100">
+			<description>ウィンドウを最大化</description>
+		</task>
+		<task id="0x10101">
+			<description>デスクトップの表示/非表示</description>
+		</task>
+		<task id="0x10102">
+			<description>マイ ホーム</description>
+		</task>
+		<task id="0x10103">
+			<description>アプリケーションの起動</description>
+		</task>
+		<task id="0x10104">
+			<description>アプリケーションを切り替える</description>
+		</task>
+		<task id="0x10059">
+			<description>音量</description>
+		</task>
+		<task id="0x1005a">
+			<description>デスクトップの切り替え</description>
+		</task>
+		<task id="0x1005b">
+			<description>輝度</description>
+		</task>
+		<task id="0x1005c">
+			<description>メディアコントロール</description>
+		</task>
+		<task id="0x1005d">
+			<description>アプリケーションを切り替える</description>
+		</task>
+		<task id="0x1005f">
+			<description>タブを切り替える</description>
+		</task>
+    <!--task id="0x10060">
+			<description>Crown Desktop Switch</description>
+		</task-->
+		<task id="0x10061">
+			<description>ズーム</description>
+		</task>
+		<task id="0x10062">
+			<description>コントロールホイール ページのナビゲーション</description>
+		</task>
+		<task id="0x10063">
+			<description>カスタムキー</description>
+		</task>
+		<task id="0x10064">
+			<description>ツール値の変更</description>
+		</task>
+		<task id="0x10065">
+			<description>元に戻す/やり直す</description>
+		</task>
+    <task id="0x10110">
+      <description>トラックボール感度</description>
+    </task>
+    <task id="0xcd">
+      <description>F1</description>
+    </task>
+    <task id="0xc6">
+      <description>F2</description>
+    </task>
+    <task id="0xc7">
+      <description>F3</description>
+    </task>
+    <task id="0xc8">
+      <description>F4</description>
+    </task>
+    <task id="0xc9">
+      <description>F5</description>
+    </task>
+    <task id="0xca">
+      <description>F6</description>
+    </task>
+    <task id="0xcb">
+      <description>F7</description>
+    </task>
+    <task id="0xcc">
+      <description>F8</description>
+    </task>
+
+
+  </taskids>
+	<gestureids>
+		<gesture id="0x21">
+			<description>タップしてクリック</description>
+		</gesture>
+		<gesture id="0x2c">
+			<description>スムーズ スクロール</description>
+		</gesture>
+		<gesture id="0x2d">
+			<description>スクロール方向</description>
+		</gesture>
+		<gesture id="0x2a">
+			<description>水平スクロール</description>
+		</gesture>
+		<gesture id="0x2b">
+			<description>垂直スクロール</description>
+		</gesture>
+		<gesture id="0x40">
+			<description>アプリケーションを切り替える</description>
+		</gesture>
+		<gesture id="0x41">
+			<description>Charms の表示</description>
+		</gesture>
+		<gesture id="0x43">
+			<description>アプリケーション メニュー</description>
+		</gesture>
+		<gesture id="0x54">
+			<description>ズーム</description>
+		</gesture>
+		<gesture id="0x14">
+			<description>ポインタの速度</description>
+		</gesture>
+		<!-- new gestures -->
+		<gesture id="0x2e">
+			<description>サムホイール スクローリング</description>
+		</gesture>
+		<gesture id="0x64">
+			<description>サムホイール 2 回タップ</description>
+		</gesture>
+		<gesture id="0x27d3">
+			<description>SmartShift の再マッピング</description>
+		</gesture>
+		<gesture id="0x2762">
+			<description>ボタン 3 の再マッピング</description>
+		</gesture>
+		<gesture id="0x27d4">
+			<description>ジェスチャー ボタンの再マッピング</description>
+		</gesture>
+	</gestureids>
+	<gesturetaskids>
+		<gesturetask id="0x0">
+			<description>無効</description>
+		</gesturetask>
+		<gesturetask id="0x1">
+			<description>1 本または 2 本指でタップ</description>
+		</gesturetask>
+		<gesturetask id="0x2">
+			<description>有効</description>
+		</gesturetask>
+		<gesturetask id="0x3">
+			<description>従来</description>
+		</gesturetask>
+		<gesturetask id="0x4">
+			<description>コンテンツが指をトラッキングします</description>
+		</gesturetask>
+		<gesturetask id="0x5">
+			<description>2 本指で左右にスワイプ</description>
+		</gesturetask>
+		<gesturetask id="0x6">
+			<description>2 本指で上下にスワイプ</description>
+		</gesturetask>
+		<gesturetask id="0x7">
+			<description>1 本指で左端からスワイプ</description>
+		</gesturetask>
+		<gesturetask id="0x8">
+			<description>1 本指で右端からスワイプ</description>
+		</gesturetask>
+		<gesturetask id="0x9">
+			<description>1 本指で上端からスワイプ</description>
+		</gesturetask>
+		<gesturetask id="0xa">
+			<description>2 本指でスプレッドまたはピンチ</description>
+		</gesturetask>
+		<gesturetask id="0xb">
+			<description>ポインタの速度</description>
+		</gesturetask>
+	</gesturetaskids>
+	<gestureactiongroups>
+		<actiongroup id="win8nav">
+			<description>ウィンドウのナビゲーション</description>
+		</actiongroup>
+		<actiongroup id="win7nav">
+			<description>ウィンドウのナビゲーション</description>
+		</actiongroup>
+		<actiongroup id="win8nav2">
+			<description>ウィンドウの管理</description>
+		</actiongroup>
+		<actiongroup id="winarrangement">
+			<description>ウィンドウの整列</description>
+		</actiongroup>
+		<actiongroup id="mediagestures">
+			<description>メディアコントロール</description>
+		</actiongroup>
+		<actiongroup id="panzoom">
+			<description>パン</description>
+		</actiongroup>
+		<actiongroup id="zoomrotate">
+			<description>ズーム/回転</description>
+		</actiongroup>
+		<actiongroup id="custom">
+			<description>カスタム</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelhorzscroll">
+			<description>水平スクロール</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelzoom">
+			<description>ｽﾞｰﾑ ｲﾝ/ｱｳﾄ</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelvolume">
+			<description>音量アップ/ダウン</description>
+		</actiongroup>
+		<actiongroup id="thumbwheeltabs">
+			<description>タブ 次/前</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelnextprev">
+			<description>次/前</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelbackforward">
+			<description>進む/戻る</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelalttab">
+			<description>アプリケーションを切り替える</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelbrightness">
+			<description>輝度の増加/減少 </description>
+		</actiongroup>
+		<actiongroup id="thumbwheelbackforwardtouch">
+			<description>進む/戻るタッチ</description>
+		</actiongroup>
+		<actiongroup id="virtualdesktop">
+			<description>仮想デスクトップ</description>
+		</actiongroup>
+	<actiongroup id="fn_virtualdesktop">
+      <description>仮想デスクトップ</description>
+    </actiongroup>
+		<actiongroup id="thumbwheelvirtualdesktop">
+			<description>デスクトップ間を切り換え</description>
+		</actiongroup>
+		<actiongroup id="thumbwheeldonothing">
+			<description>なし</description>
+		</actiongroup>
+		<actiongroup id="touch">
+			<description>タッチを使用したパン </description>
+		</actiongroup>
+		<actiongroup id="ichitaro">
+			<description>一太郎2017</description>
+		</actiongroup>
+    <actiongroup id="disabled">
+        <description>無効</description>
+    </actiongroup>
+
+	</gestureactiongroups>
+</descriptions>

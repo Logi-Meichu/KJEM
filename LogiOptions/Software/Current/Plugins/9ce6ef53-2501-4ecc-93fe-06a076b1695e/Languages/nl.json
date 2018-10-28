@@ -1,0 +1,412 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "crownbrightness",
+            "value": "Helderheid"
+        },
+        {
+            "ID": "crownvolume",
+            "value": "Volume"
+        },
+        {
+            "ID": "crownmediacontrol",
+            "value": "Mediaknop"
+        },
+        {
+            "ID": "crownexposeappswitch",
+            "value": "Tussen toepassingen schakelen"
+        },
+        {
+            "ID": "crowntabscommand",
+            "value": "Ander tabblad"
+        },
+        {
+            "ID": "crownswitchdesktop",
+            "value": "Ander bureaublad"
+        },
+        {
+            "ID": "crownzoom",
+            "value": "Zoomen"
+        },
+        {
+            "ID": "crownnavigatepages",
+            "value": "Tussen pagina's navigeren"
+        },
+        {
+            "ID": "crowncustomkeyleftright",
+            "value": "Aangepaste toets"
+        },
+        {
+            "ID": "crownhscroll",
+            "value": "Horizontaal scrollen"
+        },
+		{
+            "ID": "brightness",
+            "value": "Helderheid"
+        },
+        {
+            "ID": "volume",
+            "value": "Volume"
+        },
+        {
+            "ID": "mediaplayer",
+            "value": "Mediaspeler"
+        },
+        {
+            "ID": "appswitch",
+            "value": "Tussen toepassingen schakelen"
+        },
+        {
+            "ID": "tabsswitch",
+            "value": "Ander tabblad"
+        },
+        {
+            "ID": "desktopswitch",
+            "value": "Ander bureaublad"
+        },
+        {
+            "ID": "crowndesktopswitch",
+            "value": "Ander bureaublad"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zoomen"
+        },
+        {
+            "ID": "gesturebutton",
+            "value": "Bewegingsknop"
+        },
+        {
+            "ID": "modeshiftbutton",
+            "value": "Knop Moduswijziging"
+        },
+        {
+            "ID": "advancedclick",
+            "value": "Geavanceerd klikken"
+        },
+        {
+            "ID": "applicationmenu",
+            "value": "Toepassingsmenu"
+        },
+        {
+            "ID": "back",
+            "value": "Terug"
+        },
+        {
+            "ID": "calculator",
+            "value": "Rekenmachine"
+        },
+        {
+            "ID": "charms",
+            "value": "Charms"
+        },
+        {
+            "ID": "closewindow",
+            "value": "Venster sluiten"
+        },
+        {
+            "ID": "copy",
+            "value": "Kopiëren"
+        },
+        {
+            "ID": "cut",
+            "value": "Knippen"
+        },
+        {
+            "ID": "devices",
+            "value": "Apparaten"
+        },
+        {
+            "ID": "documents",
+            "value": "Documenten"
+        },
+        {
+            "ID": "doubleclick",
+            "value": "Dubbelklikken"
+        },
+        {
+            "ID": "email",
+            "value": "E-mail"
+        },
+        {
+            "ID": "forward",
+            "value": "Vooruit"
+        },
+        {
+            "ID": "home",
+            "value": "Hoofdmenu"
+        },
+        {
+            "ID": "myhome",
+            "value": "Startpagina"
+        },
+        {
+            "ID": "mymusic",
+            "value": "Mijn muziek"
+        },
+        {
+            "ID": "inputlanguage",
+            "value": "Invoertaal"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Toetsaanslagen toewijzen"
+        },
+        {
+            "ID": "launchapplication",
+            "value": "Toepassing starten"
+        },
+        {
+            "ID": "leftclick",
+            "value": "Linksklikken"
+        },
+        {
+            "ID": "lock",
+            "value": "Vergrendelen"
+        },
+        {
+            "ID": "maximizewindow",
+            "value": "Venster maximaliseren"
+        },
+        {
+            "ID": "middlebutton",
+            "value": "Middelste knop"
+        },
+        {
+            "ID": "minimizewindow",
+            "value": "Venster minimaliseren"
+        },
+        {
+            "ID": "modifierkeys",
+            "value": "Speciale toetsen"
+        },
+        {
+            "ID": "mousesensitivity",
+            "value": "Muisgevoeligheid"
+        },
+        {
+            "ID": "music",
+            "value": "Muziek"
+        },
+        {
+            "ID": "mute",
+            "value": "Dempen"
+        },
+        {
+            "ID": "mycomputer",
+            "value": "Deze computer"
+        },
+        {
+            "ID": "mydocuments",
+            "value": "Mijn documenten"
+        },
+        {
+            "ID": "myvideos",
+            "value": "Mijn video&apos;s"
+        },
+        {
+            "ID": "next",
+            "value": "Volgende"
+        },
+        {
+            "ID": "nextprevious",
+            "value": "Volgende/Vorige"
+        },
+        {
+            "ID": "nexttrackfastforward",
+            "value": "Volgend nummer/snel vooruitspoelen"
+        },
+        {
+            "ID": "openfile",
+            "value": "Bestand openen"
+        },
+        {
+            "ID": "openfolder",
+            "value": "Map openen"
+        },
+        {
+            "ID": "openwebpage",
+            "value": "Webpagina openen"
+        },
+        {
+            "ID": "paste",
+            "value": "Plakken"
+        },
+        {
+            "ID": "mypictures",
+            "value": "Mijn afbeeldingen"
+        },
+        {
+            "ID": "pictures",
+            "value": "Afbeeldingen"
+        },
+        {
+            "ID": "playpause",
+            "value": "Afspelen/pauzeren"
+        },
+        {
+            "ID": "previous",
+            "value": "Vorige"
+        },
+        {
+            "ID": "previoustrackrewind",
+            "value": "Vorig nummer/terugspoelen"
+        },
+        {
+            "ID": "rightclick",
+            "value": "Rechtsklikken"
+        },
+        {
+            "ID": "scrollleft",
+            "value": "Naar links scrollen"
+        },
+        {
+            "ID": "scrollright",
+            "value": "Naar rechts scrollen"
+        },
+        {
+            "ID": "search",
+            "value": "Zoeken"
+        },
+        {
+            "ID": "settings",
+            "value": "Instellingen"
+        },
+        {
+            "ID": "share",
+            "value": "Delen"
+        },
+        {
+            "ID": "showhidedesktop",
+            "value": "Bureaublad weergeven/verbergen"
+        },
+        {
+            "ID": "shutdown",
+            "value": "Afsluiten"
+        },
+        {
+            "ID": "signout",
+            "value": "Afmelden"
+        },
+        {
+            "ID": "sleep",
+            "value": "Slaapstand"
+        },
+        {
+            "ID": "startscreen",
+            "value": "Beginscherm"
+        },
+        {
+            "ID": "stop",
+            "value": "Stoppen"
+        },
+        {
+            "ID": "switchscreen",
+            "value": "Naar ander scherm schakelen"
+        },
+        {
+            "ID": "thispc",
+            "value": "Deze pc"
+        },
+        {
+            "ID": "togglesmoothscrolling",
+            "value": "Schakelen naar soepel scrollen"
+        },
+        {
+            "ID": "videos",
+            "value": "Video's"
+        },
+        {
+            "ID": "volumedown",
+            "value": "Volume omlaag"
+        },
+        {
+            "ID": "volumeup",
+            "value": "Volume omhoog"
+        },
+        {
+            "ID": "zoomin",
+            "value": "Zoom in"
+        },
+        {
+            "ID": "zoomout",
+            "value": "Zoom uit"
+        },
+        {
+            "ID": "zoomreset",
+            "value": "Zoomen opnieuw instellen"
+        },
+        {
+            "ID": "none",
+            "value": "Geen"
+        },
+        {
+            "ID": "switchleft",
+            "value": "Links wisselen"
+        },
+        {
+            "ID": "switchright",
+            "value": "Rechts wisselen"
+        },
+        {
+            "ID": "previouspage",
+            "value": "Vorige pagina"
+        },
+        {
+            "ID": "nextpage",
+            "value": "Volgende pagina"
+        },
+        {
+            "ID": "navigatepages",
+            "value": "Tussen pagina's navigeren"
+        },
+        {
+            "ID": "customkey",
+            "value": "Aangepaste toets"
+        },
+        {
+            "ID": "navigatebetweenapps",
+            "value": "Tussen apps navigeren"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "Contextueel"
+        },
+        {
+            "ID": "crownbrowsertextsize",
+            "value": "Tekengrootte of Tabblad wijzigen"
+        },
+        {
+            "ID": "createvirtualdesktop",
+            "value": "Nieuwe desktop"
+        },
+        {
+            "ID": "clonevirtualdesktop",
+            "value": "Desktop sluiten"
+        },
+        {
+            "ID": "nextvirtualdesktop",
+            "value": "Desktop (volgende)"
+        },
+        {
+            "ID": "previousvirtualdesktop",
+            "value": "Desktop (vorige)"
+        },
+        {
+            "ID": "teskview",
+            "value": "Taakweergave"
+        },
+        {
+            "ID": "teskview10",
+            "value": "Taakweergave"
+        },
+        {
+            "ID": "cortana",
+            "value": "Cortana"
+        },
+        {
+            "ID": "actioncenter",
+            "value": "Actiecentrum"
+        }
+    ]
+}

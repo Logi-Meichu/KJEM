@@ -1,0 +1,115 @@
+{
+    "GUID": "9ce6ef53-2501-4ecc-93fe-06a076b1695e",
+    "info": {
+        "name": "Global",
+        "publisher": "Logitech Inc.",
+        "version": "1.0"
+    },
+    "crown": {
+        "rotate": {
+            "default_task": "crownvolume",
+            "tasks": [
+                "crownvolume",
+                "crownbrightness",
+                "crownmediacontrol",
+                "crownexposeappswitch",
+                "crowntabscommand",
+                "crownswitchdesktop",
+                "crownzoom",
+                "crowncustomkeyleftright",
+				"crownhscroll"
+            ],
+            "short_list": [
+                "crownvolume",
+                "crownbrightness",
+                "crownmediacontrol"
+            ]
+        },
+        "pressandrotate": {
+            "default_task": "crownvolume",
+            "tasks": [
+                "crownvolume",
+                "crownbrightness",
+                "crownmediacontrol",
+                "crownexposeappswitch",
+                "crownswitchdesktop"
+            ],
+            "short_list": [
+                "crownvolume",
+                "crownbrightness",
+                "crownmediacontrol"
+            ]
+        },
+        "press": {
+            "default_task": "playpause",
+            "tasks": [
+                "applicationmenu",
+                "back",
+                "calculator",
+                "charms",
+                "closewindow",
+                "copy",
+                "cut",
+                "devices",
+                "documents",
+                "doubleclick",
+                "email",
+                "forward",
+                "home",
+                "inputlanguage",
+                "keystrokeassignment",
+                "launchapplication",
+                "leftclick",
+                "lock",
+                "maximizewindow",
+                "mediaplayer",
+                "middlebutton",
+                "minimizewindow",
+                "music",
+                "mute",
+                "mycomputer",
+                "mydocuments",
+                "myhome",
+                "mymusic",
+                "mypictures",
+                "myvideos",
+                "next",
+                "openfile",
+                "openfolder",
+                "openwebpage",
+                "paste",
+                "pictures",
+                "playpause",
+                "previous",
+                "rightclick",
+                "search",
+                "settings",
+                "share",
+                "showhidedesktop",
+                "shutdown",
+                "signout",
+                "sleep",
+                "startscreen",
+                "stop",
+                "appswitch",
+                "switchscreen",
+                "thispc",
+                "videos",
+                "zoomreset",
+                "createvirtualdesktop",
+                "clonevirtualdesktop",
+                "nextvirtualdesktop",
+                "previousvirtualdesktop",
+                "teskview",
+                "teskview10",
+                "cortana",
+                "actioncenter"
+            ],
+            "short_list": [
+                "playpause",
+                "mute",
+                "showhidedesktop"
+            ]
+        }
+    }
+}

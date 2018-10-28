@@ -1,0 +1,64 @@
+{
+  "LocalizedStrings": [
+    {
+      "ID": "changetoolvalue",
+      "value": "Μενού περιβάλλοντος"
+    },
+    {
+      "ID": "keystrokeassignment",
+      "value": "Αντιστοίχιση πλήκτρου"
+    },
+    {
+      "ID": "savefile",
+      "value": "Αποθήκευση αρχείου"
+    },
+    {
+      "ID": "zoom",
+      "value": "Ζουμ"
+    },
+    {
+      "ID": "theme",
+      "value": "Στυλ θέματος"
+    },
+    {
+      "ID": "colour",
+      "value": "Χρώμα θέματος"
+    },
+    {
+      "ID": "layout",
+      "value": "Διάταξη"
+    },
+    {
+      "ID": "font",
+      "value": "Γραμματοσειρά θέματος"
+    },
+    {
+      "ID": "textSize",
+      "value": "Μέγεθος"
+    },
+    {
+      "ID": "alignment",
+      "value": "Στοίχιση"
+    },
+    {
+      "ID": "fontWeight",
+      "value": "Πάχος γραμματοσειράς"
+    },
+    {
+      "ID": "size",
+      "value": "Κλίμακα"
+    },
+    {
+      "ID": "rotate",
+      "value": "Περιστροφή"
+    },
+    {
+      "ID": "tableStyle",
+      "value": "Στυλ πίνακα"
+    },
+    {
+      "ID": "tableColor",
+      "value": "Χρώμα πίνακα"
+    }
+  ]
+}

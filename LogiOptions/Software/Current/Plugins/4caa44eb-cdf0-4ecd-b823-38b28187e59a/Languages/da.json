@@ -1,0 +1,100 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "Kontekstuel"
+        },
+        {
+            "ID": "savefile",
+            "value": "Gem fil"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zoom"
+        },
+        {
+            "ID": "sheetNavigation",
+            "value": "Arknavigation"
+        },
+        {
+            "ID": "horizontalScroll",
+            "value": "Vandret rulning"
+        },
+        {
+            "ID": "createChart",
+            "value": "Opret diagram"
+        },
+        {
+            "ID": "createTable",
+            "value": "Opret tabel"
+        },
+        {
+            "ID": "tableStyle",
+            "value": "Tabeltype"
+        },
+        {
+            "ID": "chartType",
+            "value": "Diagramtype"
+        },
+        {
+            "ID": "quickLayout",
+            "value": "Hurtigt layout"
+        },
+        {
+            "ID": "changeColor",
+            "value": "Skift farve"
+        },
+        {
+            "ID": "chartStyle",
+            "value": "Diagramstil"
+        },
+        {
+            "ID": "pieChart",
+            "value": "Cirkeldiagram"
+        },
+        {
+            "ID": "columnChart",
+            "value": "Søjlediagram"
+        },
+        {
+            "ID": "barChart",
+            "value": "Bjælkediagram"
+        },
+        {
+            "ID": "areaChart",
+            "value": "Områdediagram"
+        },
+        {
+            "ID": "stockChart",
+            "value": "Aktiediagram"
+        },
+        {
+            "ID": "surfaceChart",
+            "value": "Overfladediagram"
+        },
+        {
+            "ID": "radarChart",
+            "value": "Radardiagram"
+        },
+        {
+            "ID": "tableColor",
+            "value": "Tabelfarve"
+        },
+        {
+            "ID": "xyscatterChart",
+            "value": "Punktdiagram"
+        },
+        {
+            "ID": "lineChart",
+            "value": "Linjediagram"
+        },
+        {
+            "ID": "comboChart",
+            "value": "Kombinationsdiagram"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Tildeling af tastefunktioner"
+        }
+    ]
+}

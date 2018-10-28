@@ -1,0 +1,2330 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<source>
+
+	<actiongrouplists>
+		<actiongrouplist name="thumbWheelGestureList">
+			<actiongrouprefs>
+				<actiongroupref id="thumbwheelhorzscroll" />
+				<actiongroupref id="thumbwheelzoom" />
+				<actiongroupref id="thumbwheelvolume" />
+				<actiongroupref id="thumbwheeltabs" />
+				<actiongroupref id="thumbwheelnextprev" />
+				<actiongroupref id="thumbwheelbackforward" />
+				<actiongroupref id="thumbwheelalttab" />
+				<actiongroupref id="thumbwheelbrightness" />
+                <actiongroupref id="thumbwheelvirtualdesktop" minver="10"/>
+				<actiongroupref id="thumbwheeldonothing" />
+			</actiongrouprefs>
+		</actiongrouplist>
+		<actiongrouplist name="win8NavList">
+			<actiongrouprefs>
+                <actiongroupref id="virtualdesktop" minver="10"/>
+                <actiongroupref id="win8nav2" />
+				<actiongroupref id="mediagestures" />
+				<actiongroupref id="panzoom" />
+				<actiongroupref id="zoomrotate" />
+				<actiongroupref id="win8nav" minver="8" />
+				<actiongroupref id="win7nav" maxver="7" />
+				<actiongroupref id="winarrangement"/>
+				<actiongroupref id="custom" />
+			</actiongrouprefs>
+		</actiongrouplist>
+		<actiongrouplist name="fn_win8NavList">
+			<actiongrouprefs>
+                <actiongroupref id="fn_virtualdesktop" minver="10"/>
+                <actiongroupref id="win8nav2" />
+				<actiongroupref id="mediagestures" />
+				<actiongroupref id="panzoom" />
+				<actiongroupref id="zoomrotate" />
+				<actiongroupref id="win8nav" minver="8" />
+				<actiongroupref id="win7nav" maxver="7" />
+				<actiongroupref id="winarrangement"/>
+				<actiongroupref id="custom" />
+				<actiongroupref id="disabled" />
+			</actiongrouprefs>
+		</actiongrouplist>
+        <actiongrouplist name="ichitaroList">
+            <actiongrouprefs>
+                <actiongroupref id="ichitaro" />
+                <actiongroupref id="virtualdesktop" minver="10"/>
+                <actiongroupref id="win8nav2" />
+                <actiongroupref id="mediagestures" />
+                <actiongroupref id="panzoom" />
+                <actiongroupref id="zoomrotate" />
+                <actiongroupref id="win8nav" minver="8" />
+                <actiongroupref id="win7nav" maxver="7" />
+                <actiongroupref id="winarrangement"/>
+                <actiongroupref id="custom" />
+            </actiongrouprefs>
+        </actiongrouplist>
+	</actiongrouplists>
+
+	<tasklists>
+
+		<tasklist name="leftscrollTaskidList" fulltaskidlist="othersTaskidList">
+			<tasks>
+				<!-- left scroll  -->
+				<task id="0x003f"    />
+				<!--back -->
+				<task id="0x99"    />
+				<!-- gesture button -->
+				<task id="0x1002c" />
+				<!--Virtualkey Assignment -->
+				<task id="0x10000" />
+			</tasks>
+		</tasklist>
+
+		<tasklist name="rightscrollTaskidList" fulltaskidlist="othersTaskidList">
+			<tasks>
+				<!-- right scroll  -->
+				<task id="0x0040"    />
+				<!--forward -->
+				<task id="0x3e"    />
+				<!-- gesture button -->
+				<task id="0x1002c" />
+				<!--Virtualkey Assignment -->
+				<task id="0x10000" />
+			</tasks>
+		</tasklist>
+
+
+		<tasklist name="backTaskidList" fulltaskidlist="othersTaskidList">
+			<tasks>
+				<!--back -->
+				<task id="0x99"    />
+				<!--forward  -->
+				<task id="0x3d"    />
+				<!-- gesture button -->
+				<task id="0x1002c" />
+				<!--Virtualkey Assignment -->
+				<task id="0x10000" />
+			</tasks>
+		</tasklist>
+
+		<tasklist name="switchappMouseTaskidList" fulltaskidlist="othersTaskidList">
+			<tasks>
+				<!-- switch applications -->
+				<task id="0xa8"  />
+				<!--show desktop -->
+				<task id="0x0043"  />
+				<!-- gesture button -->
+				<task id="0x1002c" />
+				<!--switch screen-->
+				<task id="0x0093"  />
+			</tasks>
+		</tasklist>
+
+
+
+		<tasklist name="backTaskidList3" fulltaskidlist="othersTaskidList">
+			<tasks>
+				<!--back -->
+				<task id="0x3c"  />
+				<!--forward  -->
+				<task id="0x3e"  />
+				<!-- gesture button -->
+				<task id="0x1002c" />
+				<!--Virtualkey Assignment -->
+				<task id="0x10000"  />
+			</tasks>
+		</tasklist>
+
+    <tasklist name="backTaskidList4" fulltaskidlist="othersTaskidList">
+      <tasks>
+        <!--back -->
+        <task id="0xab"  />
+        <!--forward  -->
+        <task id="0xac"  />
+        <!-- gesture button -->
+        <task id="0xad" />
+        <!--Virtualkey Assignment -->
+        <task id="0x10000"  />
+      </tasks>
+    </tasklist>
+
+  <tasklist name="menuTaskidList" fulltaskidlist="othersTaskidList">
+			<tasks>
+				<!--right click -->
+				<task id="0x98"  />
+				<!--back -->
+				<task id="0x99"  />
+				<!--forward  -->
+				<task id="0x3d"  />
+				<!-- gesture button -->
+				<task id="0x1002c" />
+				<!--Virtualkey Assignment -->
+				<task id="0x10000"  />
+			</tasks>
+		</tasklist>
+
+		<tasklist name="menuTaskidList2" fulltaskidlist="othersTaskidList">
+			<tasks>
+				<!--right click -->
+				<task id="0x20"  />
+				<!--back -->
+				<task id="0x99"  />
+				<!--forward  -->
+				<task id="0x3d"  />
+				<!-- gesture button -->
+				<task id="0x1002c" />
+				<!--Virtualkey Assignment -->
+				<task id="0x10000"  />
+			</tasks>
+		</tasklist>
+
+    <tasklist name="menuTaskidList3" fulltaskidlist="othersTaskidList">
+      <tasks>
+        <!--right click -->
+        <task id="0xb3"  />
+        <!--back -->
+        <task id="0x99"  />
+        <!--forward  -->
+        <task id="0x3d"  />
+        <!-- gesture button -->
+        <task id="0x1002c" />
+        <!--Virtualkey Assignment -->
+        <task id="0x10000"  />
+      </tasks>
+    </tasklist>
+
+    <tasklist name="minimizeTaskidList" fulltaskidlist="othersTaskidList">
+			<tasks>
+				<!--Minimize Window -->
+				<task id="0x94"  />
+				<!--Minimize All Windows -->
+				<task id="0x1c"  />
+				<!-- gesture button -->
+				<task id="0x1002c" />
+				<!--Virtualkey Assignment -->
+				<task id="0x10000"  />
+			</tasks>
+		</tasklist>
+
+		<tasklist name="unknownTaskidList" fulltaskidlist="othersTaskidList">
+			<tasks>
+				<!--unknown -->
+				<task id="0xFFFF"  />
+				<!--Virtualkey Assignment -->
+				<task id="0x10000"  />
+			</tasks>
+		</tasklist>
+
+    <tasklist name="zoomoutTaskidList" fulltaskidlist="othersTaskidList">
+      <tasks>
+        <!--zoom out -->
+        <task id="0x35"  />
+				<!--    Maximize Window -->
+				<task id="0x95"  />
+      </tasks>
+    </tasklist>
+
+    <tasklist name="zoominTaskidList" fulltaskidlist="othersTaskidList">
+      <tasks>
+        <!--zoom in -->
+        <task id="0x33"  />
+  			<!--     Minimize Window -->
+				<task id="0x94"  />
+      </tasks>
+    </tasklist>
+
+    <tasklist name="othersTaskidList" >
+			<tasks>
+				<!--App Menu -->
+				<task id="0x79"  />
+				<!-- back -->
+				<task id="0x3b"  />
+				<!-- Calculator -->
+				<task id="0x0a"  />
+				<!-- charms -->
+				<task id="0x7A"  />
+				<!--  Close Window  -->
+				<task id="0x000c"  />
+				<!--  Copy  -->
+				<task id="0x4e"  />
+				<!--  Cut  -->
+				<task id="0x51"  />
+				<!--  Devices  -->
+				<task id="0x89"  />
+				<!--   Do Nothing  -->
+				<task id="0x52"  />
+				<!--  Double Click  -->
+				<task id="0x1000C"  />
+				<!--   Email -->
+				<task id="0x0E"  />
+				<!--   forward -->
+				<task id="0x3d"  />
+				<!--   Virtualkey Assignment  -->
+				<task id="0x10000"  />
+				<!--   Launch Program -->
+				<task id="0x10004"  />
+				<!--   Left Click -->
+				<task id="0x38"  />
+				<!--   Lock PC  -->
+				<task id="0x44"  />
+				<!--   Log Off -->
+				<task id="0x10001"  />
+				<!--    Maximize Window -->
+				<task id="0x95"  />
+				<!--     Media Player -->
+				<task id="0x1D"  />
+				<!--     Middle Button -->
+				<task id="0x3A"  />
+				<!--     Minimize Window -->
+				<task id="0x94"  />
+				<!--    Mute -->
+				<task id="0x03"  />
+				<!--     My Computer Win7 -->
+				<task id="0x27"  />
+				<!--     My Computer Win8 -->
+				<task id="0x48"  />
+				<!--      My Documents Win7 -->
+				<task id="0x22"  />
+				<!--      My Documents Win8-->
+				<task id="0x49"  />
+				<!--home Win7 -->
+				<task id="0x1a"  />
+				<!--home  Win8-->
+				<task id="0x56"  />
+				<!--      My Music Win7-->
+				<task id="0x23"  />
+				<!--      My Music Win8-->
+				<task id="0x54"  />
+				<!--     My Pictures Win7-->
+				<task id="0x24"  />
+				<!--     My Pictures Win8-->
+				<task id="0x50"  />
+				<!--     My Videos Win7 -->
+				<task id="0x26"  />
+				<!--     My Videos Win8-->
+				<task id="0x55"  />
+				<!--    Next  -->
+				<task id="0x05"  />
+				<!--    Next Track/Forward  -->
+				<task id="0x10007"  />
+				<!--    Open File-->
+				<task id="0x10008"  />
+				<!--   Open Folder-->
+				<task id="0x10009"  />
+				<!--   Open Web Page -->
+				<task id="0x1000A"  />
+				<!--   Paste -->
+				<task id="0x85"  />
+				<!--   Play/Pause-->
+				<task id="0x04"  />
+				<!--   Previous-->
+				<task id="0x06"  />
+				<!--    Previous Track/Rewind-->
+				<task id="0x1000B"  />
+				<!--   Right Click-->
+				<task id="0x39"  />
+				<!-- Search  -->
+				<task id="0x002d"  />
+				<!--Settings -->
+				<task id="0x8a"  />
+				<!--Share -->
+				<task id="0x88"  />
+				<!--show desktop -->
+				<task id="0x0043"  />
+				<!-- Shutdown   -->
+				<task id="0x10002"  />
+				<!--  Sleep  -->
+				<task id="0x002f"  />
+				<!--  Start Screen  -->
+				<task id="0x90"  />
+				<!-- Stop   -->
+				<task id="0x07"  />
+				<!--  Switch Applications   -->
+				<task id="0x8"  />
+				<!--   Switch Screen   -->
+				<task id="0x93"  />
+				<!--  Volume Down  -->
+				<task id="0x02"  />
+				<!--  Volume Up   -->
+				<task id="0x01"  />
+				<!--  Zoom In  -->
+				<task id="0x33"  />
+				<!--   Zoom Out  -->
+				<task id="0x35"  />
+				<!--  Zoom Reset  -->
+				<task id="0x37"  />
+				<!-- host switch 0x1814 -->
+				<!-- task id="0x10036" /-->
+				<!-- DPI shift 0x2201 -->
+				<task id="0x10037" />
+        <!-- DPI shift 0x2205 -->
+        <task id="0x10110" />
+        <!-- gesture button -->
+				<task id="0x1002c" />
+				<!-- left scroll  -->
+				<task id="0x003f" />
+				<!-- right scroll  -->
+				<task id="0x0040" />
+        <!--   Modifier click  -->
+        <task id="0x10039"  />
+        <!--   Advance click  -->
+        <task id="0x10040"  />
+		    <!-- smooth scroll toggle -->
+		    <task id="0x10041" />
+        <!--   create virtual desktop  -->
+        <task id="0x10042"  />
+        <!--   close virtual desktop  -->
+        <task id="0x10043"  />
+        <!--   next virtual desktop  -->
+        <task id="0x10044"  />
+        <!--   previous virtual desktop  -->
+        <task id="0x10045"  />
+        <!-- task view -->
+        <task id="0x10051"  />
+        <!-- Action Center -->
+        <task id="0x10052" />
+        <!-- Windows 10 Task View -->
+        <task id="0x10053"  />
+        <!-- Cortana -->
+        <task id="0x10055"  />
+        <!-- Screen Capture -->
+        <!--task id="0x009b"  /-->
+        <!-- Select Language -->
+        <task id="0x00ba"  />
+        <!-- new browser tab -->
+        <task id="0x00c5"  />
+      </tasks>
+		</tasklist>
+
+		<tasklist name="othersGestureidList" >
+			<tasks>
+				<!--App Menu -->
+				<task id="0x79"  />
+				<!-- back -->
+				<task id="0x3b"  />
+				<!-- Calculator -->
+				<task id="0x0a"  />
+				<!-- charms -->
+				<task id="0x7A"  />
+				<!--  Close Window  -->
+				<task id="0x000c"  />
+				<!--  Copy  -->
+				<task id="0x4e"  />
+				<!--  Cut  -->
+				<task id="0x51"  />
+				<!--  Devices  -->
+				<task id="0x89"  />
+				<!--   Do Nothing  -->
+				<task id="0x52"  />
+				<!--  Double Click  -->
+				<task id="0x1000C"  />
+				<!--   Email -->
+				<task id="0x0E"  />
+				<!--   forward -->
+				<task id="0x3d"  />
+				<!--   Virtualkey Assignment  -->
+				<task id="0x10000"  />
+				<!--   Launch Program -->
+				<task id="0x10004"  />
+				<!--   Left Click -->
+				<task id="0x38"  />
+				<!--   Lock PC  -->
+				<task id="0x44"  />
+				<!--   Log Off -->
+				<task id="0x10001"  />
+				<!--    Maximize Window -->
+				<task id="0x95"  />
+				<!--     Media Player -->
+				<task id="0x1D"  />
+				<!--     Middle Button -->
+				<task id="0x3A"  />
+				<!--     Minimize Window -->
+				<task id="0x94"  />
+				<!--    Mute -->
+				<task id="0x03"  />
+				<!--     My Computer Win7 -->
+				<task id="0x27"  />
+				<!--     My Computer Win8 -->
+				<task id="0x48"  />
+				<!--      My Documents Win7 -->
+				<task id="0x22"  />
+				<!--      My Documents Win8-->
+				<task id="0x49"  />
+				<!--home Win7 -->
+				<task id="0x1a"  />
+				<!--home  Win8-->
+				<task id="0x56"  />
+				<!--      My Music Win7-->
+				<task id="0x23"  />
+				<!--      My Music Win8-->
+				<task id="0x54"  />
+				<!--     My Pictures Win7-->
+				<task id="0x24"  />
+				<!--     My Pictures Win8-->
+				<task id="0x50"  />
+				<!--     My Videos Win7 -->
+				<task id="0x26"  />
+				<!--     My Videos Win8-->
+				<task id="0x55"  />
+				<!--    Next  -->
+				<task id="0x05"  />
+				<!--    Next Track/Forward  -->
+				<task id="0x10007"  />
+				<!--    Open File-->
+				<task id="0x10008"  />
+				<!--   Open Folder-->
+				<task id="0x10009"  />
+				<!--   Open Web Page -->
+				<task id="0x1000A"  />
+				<!--   Paste -->
+				<task id="0x85"  />
+				<!--   Play/Pause-->
+				<task id="0x04"  />
+				<!--   Previous-->
+				<task id="0x06"  />
+				<!--    Previous Track/Rewind-->
+				<task id="0x1000B"  />
+				<!--   Right Click-->
+				<task id="0x39"  />
+				<!-- Search  -->
+				<task id="0x002d"  />
+				<!--Settings -->
+				<task id="0x8a"  />
+				<!--Share -->
+				<task id="0x88"  />
+				<!--show desktop -->
+				<task id="0x0043"  />
+				<!-- Shutdown   -->
+				<task id="0x10002"  />
+				<!--  Sleep  -->
+				<task id="0x002f"  />
+				<!--  Start Screen  -->
+				<task id="0x90"  />
+				<!-- Stop   -->
+				<task id="0x07"  />
+				<!--  Switch Applications   -->
+				<task id="0x8"  />
+				<!--   Switch Screen   -->
+				<task id="0x93"  />
+				<!--  Volume Down  -->
+				<task id="0x02"  />
+				<!--  Volume Up   -->
+				<task id="0x01"  />
+				<!--  Zoom In  -->
+				<task id="0x33"  />
+				<!--   Zoom Out  -->
+				<task id="0x35"  />
+				<!--  Zoom Reset  -->
+				<task id="0x37"  />
+				<!-- host switch 0x1814 -->
+				<!-- task id="0x10036" /-->
+				<!-- DPI shift 0x2201 -->
+				<!-- task id="0x10037" /-->
+				<!-- gesture button -->
+				<task id="0x1002c" />
+				<!-- left scroll  -->
+				<task id="0x003f" />
+				<!-- right scroll  -->
+				<task id="0x0040" />
+        <!--   Modifier click  -->
+        <task id="0x10039"  />
+        <!--   Advance click  -->
+        <task id="0x10040"  />
+		    <!-- smooth scroll toggle -->
+		    <task id="0x10041" />
+        <!--   create virtual desktop  -->
+        <task id="0x10042"  />
+        <!--   close virtual desktop  -->
+        <task id="0x10043"  />
+        <!--   next virtual desktop  -->
+        <task id="0x10044"  />
+        <!--   previous virtual desktop  -->
+        <task id="0x10045"  />
+        <!-- task view -->
+        <task id="0x10051"  />
+        <!-- Action Center -->
+        <task id="0x10052" />
+        <!-- Windows 10 Task View -->
+        <task id="0x10053"  />
+        <!-- Cortana -->
+        <task id="0x10055"  />
+        <!-- Screen Capture -->
+        <!-- task id="0x009b"  /-->
+        <!-- Select Language -->
+        <task id="0x00ba"  />
+      </tasks>
+		</tasklist>
+
+		<tasklist name="maximizeTaskidList" fulltaskidlist="othersTaskidList">
+			<tasks>
+				<!--Maximize Window -->
+				<task id="0x95"  />
+				<!--Maximize All Windows -->
+				<task id="0x1B"  />
+				<!--Virtualkey Assignment -->
+				<task id="0x10000"  />
+			</tasks>
+		</tasklist>
+
+		<tasklist name="closeTaskidList" fulltaskidlist="othersTaskidList">
+			<tasks>
+				<!-- close -->
+				<task id="0x000c"  />
+				<!--show desktop-->
+				<task id="0x43"  />
+				<!--Virtualkey Assignment -->
+				<task id="0x10000"  />
+			</tasks>
+		</tasklist>
+
+		<tasklist name="switchscreenTaskidList" fulltaskidlist="othersTaskidList">
+			<tasks>
+				<!--switch screen-->
+				<task id="0x0093"  />
+				<!--switch applicatitons -->
+				<task id="0x8"  />
+				<!--Virtualkey Assignment -->
+				<task id="0x10000"  />
+			</tasks>
+		</tasklist>
+
+		<tasklist name="showdesktopTaskidList" fulltaskidlist="othersTaskidList">
+			<tasks>
+				<!--show desktop -->
+				<task id="0x0043"  />
+				<!--switch applicatitons -->
+				<task id="0x8"  />
+				<!--Virtualkey Assignment -->
+				<task id="0x10000"  />
+			</tasks>
+		</tasklist>
+
+		<tasklist name="searchTaskidList" fulltaskidlist="othersTaskidList">
+			<tasks>
+				<!-- Search  -->
+				<task id="0x002d"  />
+				<!--open web page -->
+				<task id="0x1000A"  />
+				<!--   Virtualkey Assignment  -->
+				<task id="0x10000"  />
+			</tasks>
+		</tasklist>
+
+    <tasklist name="searchTaskidList2" fulltaskidlist="othersTaskidList">
+      <tasks>
+        <!-- Search  -->
+        <task id="0x00b1"  />
+        <!--open web page -->
+        <task id="0x1000A"  />
+        <!--   Virtualkey Assignment  -->
+        <task id="0x10000"  />
+      </tasks>
+    </tasklist>
+
+    <tasklist name="homeTaskidList" fulltaskidlist="othersTaskidList">
+			<tasks>
+				<!--home  Win7-->
+				<task id="0x1a"  />
+				<!--home  Win8-->
+				<task id="0x56"  />
+				<!--launch program  -->
+				<task id="0x10004"  />
+				<!--my documents Win7-->
+				<task id="0x22"  />
+				<!--my documents Win8-->
+				<task id="0x49"  />
+			</tasks>
+		</tasklist>
+
+		<tasklist name="homeTaskidList2" fulltaskidlist="othersTaskidList">
+			<tasks>
+				<!--home  -->
+				<task id="0x97"  />
+				<!--launch program  -->
+				<task id="0x10004"  />
+				<!--my documents Win7-->
+				<task id="0x22"  />
+				<!--my documents Win8-->
+				<task id="0x49"  />
+
+			</tasks>
+		</tasklist>
+
+    <tasklist name="homeTaskidList3" fulltaskidlist="othersTaskidList">
+      <tasks>
+        <!--home  -->
+        <task id="0xb2"  />
+        <!--launch program  -->
+        <task id="0x10004"  />
+        <!--my documents Win7-->
+        <task id="0x22"  />
+        <!--my documents Win8-->
+        <task id="0x49"  />
+
+      </tasks>
+    </tasklist>
+
+	<tasklist name="brightnessDownTaskidlist" fulltaskidlist="othersTaskidList">
+		<tasks>
+			<!--brightness down -->
+			<task id="0xa3"  />
+			<!--home  -->
+			<task id="0xb2"  />
+			<!--launch program  -->
+			<task id="0x10004"  />			
+		</tasks>
+	</tasklist>
+
+	<tasklist name="brightnessUpTaskidlist" fulltaskidlist="othersTaskidList">
+		<tasks>
+			<!--brightness up -->
+			<task id="0xa4"  />
+			<!--home  -->
+			<task id="0xb2"  />
+			<!--launch program  -->
+			<task id="0x10004"  />
+		</tasks>
+	</tasklist>
+     
+	 <tasklist name="printscreenTaskidList" fulltaskidlist="othersTaskidList">
+		<tasks>
+			<!--print screen -->
+			<task id="0x9b"  />
+			<!--home  -->
+			<task id="0xb2"  />
+			<!--launch program  -->
+			<task id="0x10004"  />
+		</tasks>
+	</tasklist>
+		
+
+		<tasklist name="taskviewTaskIdlist" fulltaskidlist="othersTaskidList">
+		<tasks>
+			<!--task view  -->
+			<task id="0xbf"  />
+			<!--home  -->
+			<task id="0xb2"  />
+			<!--launch program  -->
+			<task id="0x10004"  />
+		</tasks>
+	</tasklist>
+	<tasklist name="actionCenterTaskIdlist" fulltaskidlist="othersTaskidList">
+		<tasks>
+			<!--action center -->
+			<task id="0xc0"  />
+			<!--home  -->
+			<task id="0xb2"  />
+			<!--launch program  -->
+			<task id="0x10004"  />
+		</tasks>
+	</tasklist>
+
+	<tasklist name="backlightdownTaskIdlist" fulltaskidlist="othersTaskidList">
+		<tasks>
+			<!--back light down -->
+			<task id="0xc1"  />
+			<!--home  -->
+			<task id="0xb2"  />
+			<!--launch program  -->
+			<task id="0x10004"  />
+		</tasks>
+	</tasklist>
+		
+	<tasklist name="backlightupTaskIdlist" fulltaskidlist="othersTaskidList">
+		<tasks>
+			<!--back light up-->
+			<task id="0xc2"  />
+			<!--home  -->
+			<task id="0xb2"  />
+			<!--launch program  -->
+			<task id="0x10004"  />
+		</tasks>
+	</tasklist>
+    <tasklist name="previousTrackTaskIdlist" fulltaskidlist="othersTaskidList">
+		<tasks>
+			<!--previous -->
+			<task id="0x6"  />
+			<!--home  -->
+			<task id="0xb2"  />
+			<!--launch program  -->
+			<task id="0x10004"  />
+		</tasks>
+	</tasklist>
+    <tasklist name="playpauseTrackTaskIdlist" fulltaskidlist="othersTaskidList">
+		<tasks>
+			<!--play pause -->
+			<task id="0x4"  />
+			<!--home  -->
+			<task id="0xb2"  />
+			<!--launch program  -->
+			<task id="0x10004"  />
+		</tasks>
+	</tasklist>
+	<tasklist name="nextTrackTaskIdlist" fulltaskidlist="othersTaskidList">
+		<tasks>
+			<!--next track-->
+			<task id="0x5"  />
+			<!--home  -->
+			<task id="0xb2"  />
+			<!--launch program  -->
+			<task id="0x10004"  />
+		</tasks>
+	</tasklist>
+	<tasklist name="muteTaskIdlist" fulltaskidlist="othersTaskidList">
+		<tasks>
+			<!--mute-->
+			<task id="0x3"  />
+			<!--home  -->
+			<task id="0xb2"  />
+			<!--launch program  -->
+			<task id="0x10004"  />
+		</tasks>
+	</tasklist>
+	<tasklist name="volDownTaskIdlist" fulltaskidlist="othersTaskidList">
+		<tasks>
+			<!--vol down -->
+			<task id="0x2"  />
+			<!--home  -->
+			<task id="0xb2"  />
+			<!--launch program  -->
+			<task id="0x10004"  />
+		</tasks>
+	</tasklist>
+    <tasklist name="volUpTaskIdlist" fulltaskidlist="othersTaskidList">
+		<tasks>
+			<!--vol up -->
+			<task id="0x1"  />
+			<!--home  -->
+			<task id="0xb2"  />
+			<!--launch program  -->
+			<task id="0x10004"  />
+		</tasks>
+	</tasklist>
+	<tasklist name="appMenuTaskIdlist" fulltaskidlist="othersTaskidList">
+		<tasks>
+			<!--app menu -->
+			<task id="0xc3"  />
+			<!--home  -->
+			<task id="0xb2"  />
+			<!--launch program  -->
+			<task id="0x10004"  />
+		</tasks>
+	</tasklist>
+		<tasklist name="mediaTaskidList" fulltaskidlist="othersTaskidList">
+			<tasks>
+				<!--media player -->
+				<task id="0x1D"  />
+				<!--my music win8 -->
+				<task id="0x23"  />
+				<!--my music Win8 -->
+				<task id="0x54"  />
+				<!--my pictures Win7-->
+				<task id="0x24"  />
+				<!--my pictures Win8-->
+				<task id="0x50"  />
+				<!--my videos Win7-->
+				<task id="0x26"  />
+				<!--my videos Win8-->
+				<task id="0x55"  />
+			</tasks>
+		</tasklist>
+
+		<tasklist name="switchappTaskidList" fulltaskidlist="othersTaskidList">
+			<tasks>
+				<!-- switch applications -->
+				<task id="0x8"  />
+				<!--show desktop -->
+				<task id="0x0043"  />
+				<!--switch screen-->
+				<task id="0x0093"  />
+			</tasks>
+		</tasklist>
+
+		<tasklist name="switchappTaskidList2" fulltaskidlist="othersTaskidList">
+			<tasks>
+				<!-- switch applications -->
+				<task id="0x96"  />
+				<!--show desktop -->
+				<task id="0x0043"  />
+				<!--switch screen-->
+				<task id="0x0093"  />
+			</tasks>
+		</tasklist>
+
+		<tasklist name="sleepTaskidList" fulltaskidlist="othersTaskidList">
+			<tasks>
+				<!-- sleep  -->
+				<task id="0x002f"  />
+				<!--lock pc -->
+				<task id="0x44"  />
+				<!--log off-->
+				<task id="0x10001"  />
+				<!--shutdown -->
+				<task id="0x10002"  />
+			</tasks>
+		</tasklist>
+
+		<tasklist name="lockScreenTaskidList" fulltaskidlist="othersTaskidList">
+			<tasks>
+				<!--lock pc -->
+				<task id="0x44"  />
+				<!-- sleep  -->
+				<task id="0x002f"  />
+				<!--log off-->
+				<task id="0x10001"  />
+				<!--shutdown -->
+				<task id="0x10002"  />
+			</tasks>
+		</tasklist>
+
+		<tasklist name="middleButtonTaskList" fulltaskidlist="othersTaskidList">
+			<tasks>
+				<!-- middle button -->
+				<task id="0x3A"  />
+				<!-- back -->
+				<task id="0x3b"  />
+				<!-- gesture button -->
+				<task id="0xa9" />
+				<!--  Switch Applications   -->
+				<task id="0x8"  />
+			</tasks>
+		</tasklist>
+
+    <tasklist name="forwardTaskidList" fulltaskidlist="othersTaskidList">
+      <tasks>
+        <!-- forward -->
+        <task id="0x3e" />
+        <!--back -->
+        <task id="0x3c"  />
+        <!-- gesture button -->
+        <task id="0x1002c" />
+        <!--Virtualkey Assignment -->
+        <task id="0x10000"  />
+      </tasks>
+    </tasklist>
+
+    <tasklist name="forwardTaskidList2" fulltaskidlist="othersTaskidList">
+      <tasks>
+        <!-- forward -->
+        <task id="0xac" />
+        <!--back -->
+        <task id="0xab"  />
+        <!-- gesture button -->
+        <task id="0xad" />
+        <!--Virtualkey Assignment -->
+        <task id="0x10000"  />
+      </tasks>
+    </tasklist>
+
+    <tasklist name="gesturebuttonTaskidList" fulltaskidlist="othersTaskidList">
+			<tasks>
+				<!-- App Switch Gesture -->
+				<task id="0x9c" />
+				<!-- Manual Switch -->
+				<task id="0x9d" />
+			</tasks>
+		</tasklist>
+
+		<tasklist name="manualshiftTaskidList" fulltaskidlist="othersTaskidList">
+			<tasks>
+				<!-- Manual Switch -->
+				<task id="0x9d" />
+			</tasks>
+		</tasklist>
+
+		<tasklist name="thumbWheelDoubleTapGestureTaskidList" fulltaskidlist="othersTaskidList">
+			<tasks>
+				<task id="0x96" />
+				<!-- app switch -->
+				<task id="0x10000" />
+				<!-- keystroke assignment -->
+			</tasks>
+		</tasklist>
+
+    <!--tasklist name="screencaptureList" fulltaskidlist="othersTaskidList">
+      <tasks-->
+        <!-- Screen Capture  -->
+    <!--task id="0x009b"  /-->
+        <!--open web page -->
+    <!--task id="0x1000A"  /-->
+        <!--   Virtualkey Assignment  -->
+    <!--task id="0x10000"  /-->
+    <!--/tasks>
+    </tasklist-->
+
+    <tasklist name="calculatorList" fulltaskidlist="othersTaskidList">
+      <tasks>
+        <!-- calculator  -->
+        <task id="0x0a"  />
+        <!--open web page -->
+        <task id="0x1000A"  />
+        <!--   Virtualkey Assignment  -->
+        <task id="0x10000"  />
+      </tasks>
+    </tasklist>
+
+    <tasklist name="selectlanguageList" fulltaskidlist="othersTaskidList">
+      <tasks>
+        <!-- select language  -->
+        <task id="0x00ba"  />
+        <!--open web page -->
+        <task id="0x1000A"  />
+        <!--   Virtualkey Assignment  -->
+        <task id="0x10000"  />
+      </tasks>
+    </tasklist>
+
+    <tasklist name="emailList" fulltaskidlist="othersTaskidList">
+      <tasks>
+        <!-- email  -->
+        <task id="0x0e"  />
+        <!--open web page -->
+        <task id="0x1000A"  />
+        <!--   Virtualkey Assignment  -->
+        <task id="0x10000"  />
+      </tasks>
+    </tasklist>
+
+    <tasklist name="newtabTaskidList" fulltaskidlist="othersTaskidList">
+      <tasks>
+        <!-- new browser tab  -->
+        <task id="0x00c5"  />
+        <!--open web page -->
+        <task id="0x1000A"  />
+        <!--   Virtualkey Assignment  -->
+        <task id="0x10000"  />
+      </tasks>
+    </tasklist>
+    
+    <tasklist name="trackballSensitivityTaskIdlist" fulltaskidlist="othersTaskidList">
+      <tasks>
+        <!--Precison Mode  -->
+        <task id="0xc4"  />
+        <!--trackball sensitivity  -->
+        <task id="0x10110"  />
+        <!--task view  -->
+        <task id="0xbf"  />
+        <!--play pause -->
+        <task id="0x4"  />
+      </tasks>
+    </tasklist>
+
+    <tasklist name="fkeyTaskidList" fulltaskidlist="othersTaskidList">
+      <tasks>
+         <!--open web page -->
+        <task id="0x1000A"  />
+        <!--Virtualkey Assignment -->
+        <task id="0x10000"  />
+      </tasks>
+    </tasklist>
+    
+  </tasklists>
+
+	<!-- range of FW task ids -->
+
+
+	<!-- range of SW task ids -->
+
+	<tasks>
+		<!-- do nothing  -->
+		<task id="0x52"  class="donothing">
+			<params />
+		</task>
+
+        <!-- disabled -->
+        <task id="0xFFFE" class="donothing">
+            <params ignore="1" />
+        </task>
+
+		<!-- unknown -->
+		<task id="0xFFFF"  class="donothing">
+			<params />
+		</task>
+
+		<!-- ******************************** frequently used windows tasks *********************************** -->
+		<!-- win 8 app switch - duplicate of 0x96 (150) -->
+		<task id="0x8"  class="switchapp" duplicate="150">
+			<params />
+		</task>
+
+    <!-- duplicate with 0xa8-->
+    <task class="gesturebutton" id="0xa8" rawxy="1"  duplicate="65580">
+      <params />
+    </task>
+
+    <!-- duplicate with 0xa8-->
+    <task class="gesturebutton" id="0xad" rawxy="1"  duplicate="65580">
+      <params />
+    </task>
+
+    <!-- duplicate with 0xa9-->
+    <task class="gesturebutton" id="0xa9" rawxy="1"  duplicate="65580">
+      <params />
+    </task>
+
+		<!-- win 8 app switch - duplicate of 0x8 (8) -->
+		<task id="0x96"  class="switchapp" duplicate="8" >
+			<params />
+		</task>
+
+
+		<!-- metro search -->
+		<task id="0x87"  class="keystroke" minver="8">
+			<params command="*+{F21}"   />
+		</task>
+
+		<!--  metro share -->
+		<task id="0x88"  class="keystroke" minver="8">
+			<params command="*%{F21}"   />
+		</task>
+
+		<!-- Metro Devices  -->
+		<task id="0x89"  class="keystroke" minver="8">
+			<params command="*^{F21}"   />
+		</task>
+
+		<!--Metro Settings  -->
+		<task id="0x8a"  class="keystroke" minver="8">
+			<params command="*{F21}"   />
+		</task>
+
+		<!-- charms -->
+		<task id="0x7A"  class="keystroke" minver="8" maxver="8.1">
+			<params command="*c"   />
+		</task>
+
+		<!-- app bar -->
+		<task id="0x79"  class="keystroke" minver="8" maxver="8.1">
+			<params command="*z"   />
+		</task>
+
+		<!-- start screen -->
+		<task id="0x90"  class="keystroke" minver="8">
+			<params command="*"   />
+		</task>
+
+		<!--alt tab - duplicate of 0x96 (150) 
+		<task id="0x8"  class="keystroke" duplicate="150">
+			<params command7="%{TAB}"  command8="*^{F23}"  />
+		</task> -->
+
+		<!-- *********************************** back/forward *********************************************** -->
+		<!-- back - duplicate of 0x3c (60) -->
+		<task id="0x3b" class="browsercommand" duplicate="60">
+			<params command="back"   />
+		</task>
+		<!-- back - duplicate of 0x3b (59) -->
+		<task id="0x3c" class="browsercommand" duplicate="59">
+			<params command="back"   />
+		</task>
+
+		<!-- back - duplicate of 0x3b (59) -->
+		<task id="0x99" class="browsercommand" duplicate="59">
+			<params command="back"   />
+		</task>
+
+    <!-- back - duplicate of 0x3b (59) -->
+    <task id="0xab" class="browsercommand" duplicate="59">
+      <params command="back"   />
+    </task>
+
+    <!-- forward - duplicate of 0x3e (62) -->
+		<task id="0x3d" class="browsercommand" duplicate="62">
+			<params command="forward"   />
+		</task>
+
+		<!-- forward - duplicate of 0x3d (61) -->
+		<task id="0x3e" class="browsercommand" duplicate="61">
+			<params command="forward"   />
+		</task>
+
+    <!-- forward - duplicate of 0x3d (61) -->
+    <task id="0xac" class="browsercommand" duplicate="61">
+      <params command="forward"   />
+    </task>
+
+    <!-- ********** Edit features ************* -->
+		<!-- cut  -->
+		<task id="0x51"  class="keystroke">
+			<params command="^x"   />
+		</task>
+
+		<!-- copy  -->
+		<task id="0x4e"  class="keystroke">
+			<params command="^c"   />
+		</task>
+
+		<!-- paste -->
+		<task id="0x85"  class="keystroke">
+			<params command="^v"   />
+		</task>
+
+		<!-- ******************************** File launcher ************************************************** -->
+		<!-- file launcher -->
+		<task id="0x0a"  class="filelauncher">
+			<params exe="calc.exe" commandlineargs="" lookuppath="1"   />
+		</task>
+
+		<!-- ******************************* Volume *********************************************************** -->
+
+		<!-- Volume Up -->
+		<task id="0x01"  class="volumecommand">
+			<params command="volup"   />
+		</task>
+
+		<!-- volume down -->
+		<task id="0x02"  class="volumecommand">
+			<params command="voldown"   />
+		</task>
+
+		<!-- volume mute/unmute -->
+		<task id="0x03"  class="volumecommand">
+			<params command="volmute"   />
+		</task>
+
+		<!-- ******************************* Media ************************************************************ -->
+
+		<!-- Media -->
+		<task id="0x1D"  class="media">
+			<params command="launch"   />
+		</task>
+
+		<!-- Play/Pause -->
+		<task id="0x04"  class="media">
+			<params command="play_pause"   />
+		</task>
+
+		<!-- Next /Fast forward -->
+		<task id="0x05"  class="media">
+			<params command="next"   />
+		</task>
+
+		<!-- Previous /rewind -->
+		<task id="0x06"  class="media">
+			<params command="previous"   />
+		</task>
+
+		<!-- Stop -->
+		<task id="0x07"  class="media">
+			<params command="stop"   />
+		</task>
+
+		<!-- **************************************** Common folders ******************************************** -->
+		<!-- my computer  -->
+		<task id="0x27"  class="filelauncher" maxver="7">
+			<params exe="explorer.exe" commandlineargs="::{20D04FE0-3AEA-1069-A2D8-08002B30309D}" lookuppath="0"   />
+		</task>
+
+		<task id="0x48"  class="filelauncher" minver="8">
+			<params exe="explorer.exe" commandlineargs="::{20D04FE0-3AEA-1069-A2D8-08002B30309D}" lookuppath="0"   />
+		</task>
+
+		<!-- PersonalFolders -->
+		<task id="0x22"  class="folderlauncher" maxver="7">
+			<params foldername="CSIDL_PERSONAL"   />
+		</task>
+
+		<task id="0x49"  class="folderlauncher" minver="8">
+			<params foldername="CSIDL_PERSONAL"   />
+		</task>
+
+		<!-- PicturesFolder -->
+		<task id="0x24"  class="folderlauncher" maxver="7">
+			<params foldername="CSIDL_MYPICTURES"   />
+		</task>
+
+		<task id="0x50"  class="folderlauncher" minver="8">
+			<params foldername="CSIDL_MYPICTURES"   />
+		</task>
+
+		<!-- MyMusic -->
+		<task id="0x23"  class="folderlauncher" maxver="7">
+			<params foldername="CSIDL_MYMUSIC"   />
+		</task>
+
+		<task id="0x54"  class="folderlauncher" minver="8">
+			<params foldername="CSIDL_MYMUSIC"   />
+		</task>
+
+		<!-- MyVideos -->
+		<task id="0x26"  class="folderlauncher" maxver="7">
+			<params foldername="CSIDL_MYVIDEO"   />
+		</task>
+
+		<task id="0x55"  class="folderlauncher" minver="8">
+			<params foldername="CSIDL_MYVIDEO"   />
+		</task>
+		<!-- **************************************** Open Web Page ******************************************** -->
+		<!-- Open web page with specific URL -->
+		<task id="0x47"  class="openwebpage" >
+			<params weburl="www.logitech.com"   />
+		</task>
+
+		<!-- **************************************** www home  ******************************************** -->
+		<!--WWW home - duplicate of 0x56 (86) -->
+		<task id="0x1a"  class="browsercommand" maxver="7" duplicate="86">
+			<params command="home"   />
+		</task>
+
+		<!-- duplicate of 0x1a (26) -->
+		<task id="0x56"  class="browsercommand" minver="8" duplicate="26">
+			<params command="home"   />
+		</task>
+
+		<!--WWW home -->
+		<task id="0x97"  class="browsercommand" duplicate="26">
+			<params command="home"   />
+		</task>
+
+    <!--WWW home -->
+    <task id="0xb2"  class="browsercommand" duplicate="26">
+      <params command="home"   />
+    </task>
+
+    <!-- **************************************** Calendar ******************************************** -->
+		<!-- Launch Calendar Client -->
+		<task id="0x0B"  class="calendar">
+			<params clientname="default"   />
+		</task>
+
+		<!-- **************************************** Email ******************************************** -->
+		<!-- Launch Email Client -->
+		<task id="0x0E"  class="email">
+			<params clientname="default"   />
+		</task>
+
+        <!-- **************************************** Windows 7 Task view (Expose App Switch) ******************************************** -->
+        <!-- Windows 7 Task view (Expose App Switch) -->
+        <task id="0x10051"  class="exposeappswitch" maxver="7">
+            <params />
+        </task>
+
+
+		<!-- **************************************** Zoom In ******************************************** -->
+		<!-- Launch zoom in command -->
+		<task id="0x33"  class="zoomcommand">
+			<params command="zoomin"   />
+		</task>
+
+		<!-- **************************************** zoom out ******************************************** -->
+		<!-- Launch zoom out command -->
+		<task id="0x35"  class="zoomcommand">
+			<params command="zoomout"   />
+		</task>
+
+		<!-- **************************************** zoom out ******************************************** -->
+		<!-- Launch zoom reset command -->
+		<task id="0x37"  class="zoomcommand">
+			<params command="zoomreset"   />
+		</task>
+
+
+		<!-- **************************************** STANDBY ******************************************** -->
+		<!-- SLEEP  -->
+		<task id="0x002f" class="powermanagement" >
+			<params command="standby"  />
+		</task>
+
+
+		<!-- **************************************** minimize all  ******************************************** -->
+		<!-- minimize all windows -->
+		<task id="0x1c"  class="keystroke">
+			<params command="*m"   />
+		</task>
+
+		<!-- **************************************** maximize all  ******************************************** -->
+		<!-- maximize all windows -->
+		<task id="0x1B"  class="keystroke">
+			<params command="*+m"   />
+		</task>
+
+		<!-- **************************************** Close  ******************************************** -->
+		<!-- close -->
+		<task id="0x000c" class="keystroke" >
+			<params command="%{F4}"  />
+		</task>
+
+		<!-- **************************************** switch screen ******************************************** -->
+		<!-- switch screen -->
+		<task id="0x93"  class="switchscreen">
+			<params  />
+		</task>
+
+		<!-- **************************************** show desktop ******************************************** -->
+		<!-- show desktop -->
+		<task id="0x43"  class="keystroke">
+			<params command="*d"   />
+		</task>
+
+		<!-- **************************************** Search ******************************************** -->
+		<!-- search -->
+		<task id="0x002d" class="keystroke" >
+			<params command7="*f"  command8="*q" command10="*s" />
+		</task>
+
+    <!-- **************************************** Search ******************************************** -->
+    <!-- search -->
+    <task id="0x00b1" class="keystroke" duplicate="45">
+      <params command7="*f"  command8="*q" command10="*s" />
+    </task>
+
+    <!-- **************************************** Search ******************************************** -->
+    <!-- search -->
+    <task id="0x00b0" class="keystroke" duplicate="45">
+      <params command7="*f"  command8="*q" command10="*s" />
+    </task>
+
+    <!-- **************************************** Select Language ******************************************** -->
+    <!-- select language -->
+    <task id="0x00ba" class="keystroke">
+      <params command="%+" />
+    </task>
+
+    <!-- **************************************** Lock PC ******************************************** -->
+		<!-- LOCK PC  -->
+		<task id="0x44" class="powermanagement" >
+			<params command="lockpc"  />
+		</task>
+
+		<!-- gesture button  -->
+		<task class="gesturebutton" id="0x9c" divert="0" duplicate="65580">
+			<params />
+		</task>
+
+
+		<!-- Manual Switch -->
+		<task class="manualshift" id="0x9d">
+			<params />
+		</task>
+
+		<!-- **************************************** Maximize/restore window ******************************************** -->
+		<!-- maximize sys command -->
+		<task id="0x95" class="sysmenu" >
+			<params command="maximize"  />
+		</task>
+
+		<!-- **************************************** Minimize window ******************************************** -->
+		<!-- minimize sys command -->
+		<task id="0x94" class="sysmenu" >
+			<params command="minimize"  />
+		</task>
+
+
+		<!-- **************************************** Launch UI ******************************************** -->
+		<!-- Show UI -->
+		<task id="0x92" class="showui" >
+			<params page="1"   />
+		</task>
+
+		<!-- **************************************** Mouse Left Click ******************************************** -->
+		<!-- Left Click -->
+		<task id="0x38"  class="mouseclick">
+			<params clicktype="left"   />
+		</task>
+
+		<!-- **************************************** Mouse Right Click ******************************************** -->
+		<!-- Right Click - duplicate of 0x98 (152) -->
+		<task id="0x39"  class="mouseclick" duplicate="152">
+			<params clicktype="right"   />
+		</task>
+
+		<!-- Right Click - duplicate of 0x39 (57) -->
+		<task id="0x20"  class="mouseclick" duplicate="57">
+			<params clicktype="right"   />
+		</task>
+
+		<!-- Right Click - duplicate of 0x39 (57) -->
+		<task id="0x98"  class="mouseclick" duplicate="57">
+			<params clicktype="vkapps"   />
+		</task>
+
+        <!-- Right Click - duplicate of 0x39 (57) -->
+        <task id="0xb3"  class="mouseclick" duplicate="57">
+            <params clicktype="vkapps"   />
+        </task>
+
+		<!-- Right Click - duplicate of 0x39 (57)  0xb3 0x20 0x98-->
+		<task id="0xc3"  class="mouseclick" duplicate="57">
+			<params clicktype="vkapps"   />
+		</task>
+		
+        <!-- **************************************** Middle mouse button ******************************************** -->
+		<!-- middle button -->
+		<task id="0x3A"  class="mouseclick">
+			<params clicktype="middle"   />
+		</task>
+
+		<!-- **************************************** Mac switch language ; ******************************************** -->
+		<!-- Mac switch language ; not programmable on windows  -->
+		<task id="0x9a"  class="donothing">
+			<params />
+		</task>
+
+    <!-- Mac screen capture ; not programmable on windows  -->
+    <task id="0x9b"  class="donothing"  divert="0">
+      <params />
+    </task>
+
+    <!-- screen Capture -->
+    <!--task id="0x009b" class="keystroke">
+      <params command="{SNAPSHOT}" />
+    </task-->
+
+    <!-- **************************************** Mac Brightness Down ; ******************************************** -->
+		<!-- Mac Brightness Down; not programmable on windows  -->
+		<task id="0x6F"  class="donothing">
+			<params />
+		</task>
+
+		<!-- **************************************** Mac Brightness Up ; ******************************************** -->
+		<!-- Mac Brightness Up; not programmable on windows  -->
+		<task id="0x70"  class="donothing">
+			<params />
+		</task>
+
+
+		<!-- **************************************** Task ID's not defined in task table  ******************************************** -->
+		<!-- **************************************** ******************************************** ************************************* -->
+
+		<!-- generic virtualkey assignment  -->
+		<task id="0x10000"  class="virtualkey">
+			<params ctrl="0" alt="0" shift="0" win="0" configure="1"  />
+		</task>
+
+		<!-- **************************************** log off ******************************************** -->
+		<!-- log off  -->
+		<task id="0x10001" class="powermanagement" >
+			<params command="logoff"  />
+		</task>
+
+		<!-- **************************************** shutdown ******************************************** -->
+		<!-- shutdown -->
+		<task id="0x10002" class="powermanagement" >
+			<params command="shutdown"  />
+		</task>
+
+		<!-- **************************************** hibernate ******************************************** -->
+		<!-- hibernate -->
+		<task id="0x10003" class="powermanagement" >
+			<params command="hibernate"  />
+		</task>
+
+		<!-- **************************************** file launcher  ******************************************** -->
+		<!-- generic file launcher   -->
+		<task id="0x10004"  class="filelauncher">
+			<params exe="" commandlineargs="" configure="1" />
+		</task>
+
+
+
+		<!-- **************************************** Next Track /Fast Forward ******************************************** -->
+		<!-- next track + seeking >> -->
+		<task id="0x10007" class="media" >
+			<params command="next"   />
+		</task>
+
+
+		<!-- **************************************** Open File ******************************************** -->
+		<!-- Open File -->
+		<task id="0x10008"  class="filelauncher">
+			<params exe="" commandlineargs="" lookuppath="1" openfile="1" configure="1"  />
+		</task>
+
+
+		<!-- **************************************** Open Folder ******************************************** -->
+		<!-- Open Folder -->
+		<task id="0x10009"  class="filelauncher">
+			<params exe="" commandlineargs="" lookuppath="1" openfolder="1" configure="1"   />
+		</task>
+
+		<!-- **************************************** Generic Open Web Page ******************************************** -->
+		<!-- Open web page with specific URL -->
+		<task id="0x1000A"  class="openwebpage">
+			<params weburl=""  configure="1" />
+		</task>
+
+		<!-- **************************************** previous Track /rewind ******************************************** -->
+		<!-- prev track + seeking << -->
+		<task id="0x1000B" class="media" >
+			<params command="previous"   />
+		</task>
+
+
+		<!-- **************************************** double left mouse click ******************************************** -->
+		<!-- double left mouse click -->
+		<task id="0x1000C"  class="mouseclick">
+			<params clicktype="double"   />
+		</task>
+
+		<!-- **************************************** windows 8 mouse button  ******************************************** -->
+		<!-- windows 8 mouse button -->
+		<task id="0x1000D"  class="windows8shortcuts" minver="8">
+			<params/>
+		</task>
+
+		<!-- **************************************** Not Assigned ******************************************** -->
+		<!-- double left mouse click -->
+		<task id="0x1000E" class="donothing">
+			<params />
+		</task>
+
+		<!-- ****************************************  ******************************************** -->
+		<!-- PDF manipulate move right -->
+		<task id="0x1000F" class="donothing">
+			<params />
+		</task>
+
+		<!-- ****************************************  ******************************************** -->
+		<!-- PDF manipulate move left -->
+		<task id="0x10010" class="donothing">
+			<params />
+		</task>
+
+		<!-- **************************************** horizontal scroll left ******************************************** -->
+		<!-- panzoom left -->
+		<task id="0x10011" class="donothing">
+			<params />
+		</task>
+
+		<!-- **************************************** horizontal scroll right ******************************************** -->
+		<!-- panzoom right -->
+		<task id="0x10012" class="donothing">
+			<params />
+		</task>
+
+		<!-- **************************************** vertical scroll up ******************************************** -->
+		<!-- panzoom up -->
+		<task id="0x10013" class="donothing">
+			<params />
+		</task>
+
+		<!-- **************************************** vertical scroll down ******************************************** -->
+		<!-- panzoom  down-->
+		<task id="0x10014" class="donothing">
+			<params />
+		</task>
+
+
+		<!-- **************************************** inbuilt horz scroll ******************************************** -->
+		<!-- horz scroll -->
+		<task id="0x10015" class="donothing">
+			<params canthumbwheelinvert="1" thumbwheelinverted="0" curhspeed="4" minhspeed="1" maxhspeed="7" stephspeed="1" />
+		</task>
+
+		<!-- thumbwheel zoom  -->
+		<task id="0x10016" class="thumbwheelzoomcommand">
+			<params />
+		</task>
+
+		<!-- thumbwheel volume  -->
+		<task id="0x10017" class="thumbwheelvolumecommand">
+			<params />
+		</task>
+
+
+		<!-- thumbwheel tab  -->
+		<task id="0x10018" class="thumbwheeltabscommand">
+			<params />
+		</task>
+
+		<task id="0x10035" class="gestureButtonWinNavigation" maxver="7">
+			<params />
+		</task>
+
+		<!-- gesture button navigation -->
+		<task id="0x10019" class="gestureButtonWinNavigation" minver="8">
+			<params />
+		</task>
+
+		<task id="0x10020" class="gestureButtonWinNavigation2">
+			<params />
+		</task>
+
+		<task id="0x10021" class="donothing">
+			<params />
+		</task>
+
+		<task id="0x10022" class="donothing">
+			<params />
+		</task>
+
+		<!-- thumbwheel  next prev  -->
+		<task id="0x10023" class="thumbwheelnextprevcommand">
+			<params />
+		</task>
+
+		<!-- thumbwheel  back forward -->
+		<task id="0x10024" class="thumbwheelbackforward">
+			<params />
+		</task>
+
+		<!-- thumbwheel  alt + tab -->
+		<task id="0x10025" class="thumbwheelalttab">
+			<params />
+		</task>
+
+		<task id="0x10026" class="donothing">
+			<params/>
+		</task>
+
+		<task id="0x10027" class="donothing">
+			<params/>
+		</task>
+
+		<!-- thumbwheel  brightness -->
+		<task id="0x10028" class="thumbwheelbrightness">
+			<params />
+		</task>
+
+		<!-- gesture button Zoom & Rotate -->
+		<task id="0x10029" class="gestureButtonZoomRotate">
+			<params />
+		</task>
+
+		<task id="0x10030" class="gestureButtonMedia">
+			<params />
+		</task>
+
+		<task id="0x10031" class="donothing">
+			<params />
+		</task>
+
+		<task id="0x10032" class="donothing">
+			<params />
+		</task>
+
+		<task id="0x10033" class="donothing">
+			<params />
+		</task>
+
+		<task id="0x10034" class="donothing">
+			<params />
+		</task>
+
+    <task id="0xc4" class="precisionmode">
+      <params configure="1" controlid="0" dpi1="3" dpi2="0" />
+    </task>
+    
+    <!-- host switch handler 0x1814 = 6164 -->
+		<task id="0x10036" class="hostswitch" feature="6164">
+			<params configure="1" />
+		</task>
+
+		<!-- DPI Shift handler 0x2201 = 8705 -->
+		<task id="0x10037" class="dpishift" feature="8705">
+			<params configure="1" controlid="0" dpi1="0" dpi2="0" />
+		</task>
+    <!-- DPI Shift handler 0x2205 = 8709 -->
+    <task id="0x10110" class="dpishift" feature="8709">
+      <params configure="1" controlid="0" dpi1="0" dpi2="0" />
+    </task>
+
+    <task id="0x10038" class="gestureButtonWinArrangement">
+			<params />
+		</task>
+
+
+		<!-- gesture button touch -->
+		<task id="0x1002a" class="gestureButtonWinTouchNavigation" minver="8">
+			<params />
+		</task>
+
+		<!-- thumbwheel touch -->
+		<task id="0x1002b" class="thumbwheelbackforwardtouch" minver="8">
+			<params />
+		</task>
+
+    <!-- modifier click  -->
+    <task id="0x10039"  class="modkeys">
+      <params ctrl="0" alt="0" shift="0" win="0" vkey="0" configure="1"  />
+    </task>
+
+    <!-- advance click  -->
+    <task id="0x10040"  class="advancekey">
+      <params ctrl="0" alt="0" shift="0" win="0" vkey="1" configure="1"  />
+    </task>
+
+    <!-- create virtual desktop -->
+    <task id="0x10042"  class="virtualkeyex" minver="10">
+      <params ctrl="1" alt="0" shift="0" win="1" vkey="68" configure="0" prs="300" />
+    </task>
+
+    <!-- close virtual desktop  -->
+    <task id="0x10043"  class="virtualkey" minver="10">
+      <params ctrl="1" alt="0" shift="0" win="1" vkey="115" configure="0"  />
+    </task>
+
+    <!-- next virtual desktop -->
+    <task id="0x10044"  class="virtualkeyex" minver="10">
+      <params ctrl="1" alt="0" shift="0" win="1" vkey="39" configure="0" prs="300" pss="30" />
+    </task>
+
+    <!-- previous virtual desktop  -->
+    <task id="0x10045"  class="virtualkeyex" minver="10">
+      <params ctrl="1" alt="0" shift="0" win="1" vkey="37" configure="0" prs="300" pss="30" />
+    </task>
+
+    <!-- Cortana -->
+    <task id="0x10055" class="cortana" minver="10">
+      <params />
+    </task>
+
+    <!-- thumbwheel  virtual desktop -->
+    <task id="0x10046" class="thumbwheelvirtualdesktop">
+      <params />
+    </task>
+
+    <!-- virtual desktop  -->
+    <task id="0x10047" class="gestureButtonVirtualDesktop">
+      <params />
+    </task>
+
+    <task id="0x10048" class="donothing">
+      <params />
+    </task>
+
+    <task id="0x10049" class="donothing">
+      <params />
+    </task>
+
+    <task id="0x10050" class="donothing">
+      <params />
+    </task>
+
+        <!-- action center -->
+        <task id="0x10052" class="virtualkey" minver="10">
+            <params ctrl="0" alt="0" shift="0" win="1" vkey="65" configure="0" />
+        </task>
+
+        <!-- task view (windows 10) -->
+        <task id="0x10053" class="virtualkey" minver="10">
+            <params ctrl="0" alt="0" shift="0" win="1" vkey="9" configure="0"  />
+        </task>
+
+        <!--VirtualkeyEx -->
+        <task id="0x10054" class="virtualkeyex" >
+            <params ctrl="0" alt="0" shift="0" win="0" vkey="0" configure="1"  />
+        </task>
+
+	<!-- alternative virtual desktop -->
+	<task id="0x10056" class="gestureButtonFnVirtualDesktop">
+	  <params />
+        </task>
+
+        <!-- Tasks 0x10100 to 0x10104 are reserved for Ichitaro -->
+        <task id="0x10100" class="gestureButtonIchitaro" />
+        <task id="0x10101" class="donothing" />
+        <task id="0x10102" class="donothing" />
+        <task id="0x10103" class="donothing" />
+        <task id="0x10104" class="donothing" />
+
+        <!-- user defined gesture button  -->
+		<!-- duplicate with 0x1002c-->
+		<task class="gesturebutton" id="0x1002c" rawxy="1">
+			<params />
+		</task>
+
+
+		<!-- left scroll -->
+		<task class="horizontalscroll" id="0x003F" >
+			<params configure="1" leftscroll="1" curhspeed="4" minhspeed="1" maxhspeed="7" stephspeed="1" />
+		</task>
+
+		<!-- right scroll -->
+		<task class="horizontalscroll" id="0x0040" >
+      <params configure="1" leftscroll="0" curhspeed="4" minhspeed="1" maxhspeed="7" stephspeed="1" />
+		</task>
+
+
+		<!-- smooth scroll toggle -->
+		<task class="toggle" id="0x10041">
+			<params type="smoothscroll" />
+		</task>
+
+		<!-- zoom from wheel -->
+		<task class="zoomwheel" id="0x10057">
+			<params  />
+		</task>
+		
+		<!-- task view  -->
+		<task id="0xbf" class="taskview" >
+      <params />
+		</task>
+
+    <!-- brightness down  -->
+		<task id="0xa3" class="brightnesscommand" >
+			<params command="down"  />
+		</task>
+
+		<!-- brightness up -->
+		<task id="0xa4" class="brightnesscommand" >
+			<params command="up"  />
+		</task>
+
+		<!-- action center -->
+    <task id="0xc0"  class="keystroke">
+      <params command7="*{TAB}"  command8="*i" command10="*a" />
+    </task>
+
+		<!-- generic backlight down  -->
+		<task id="0xc1" class="virtualkey" divert="0">
+			<params  />
+		</task>
+
+		<!-- generic backlight up -->
+		<task id="0xc2" class="virtualkey" divert="0">
+			<params  />
+		</task>
+
+		<!-- crown volume  -->
+		<task id="0x10059" class="crownvolume" >
+			<params  />
+		</task>
+
+		<!-- crown switch desktop -->
+		<task id="0x1005a" class="crownswitchdesktop" minver="10">
+			<params  />
+		</task>
+
+		<!-- crown brightness -->
+		<task id="0x1005b" class="crownbrightness" >
+			<params  />
+		</task>
+
+		<!-- crown media player -->
+		<task id="0x1005c" class="crownmediacontrol" >
+			<params  />
+		</task>
+
+		<!-- crown app switch -->
+		<task id="0x1005d" class="crownexposeappswitch" >
+			<params  />
+		</task>
+	
+
+		<!-- crown  tabs switch -->
+		<task id="0x1005f" class="crowntabscommand" >
+			<params  />
+		</task>
+
+		<!-- crown  desktop switch  
+		<task id="0x10060" class="crowndesktopswitch" >
+			<params  />
+		</task>-->
+
+		<!-- crown  zoom -->
+		<task id="0x10061" class="crownzoom" >
+			<params  />
+		</task>
+
+		<!-- crown navigage pages  -->
+		<task id="0x10062" class="crownnavigatepages" >
+			<params  />
+		</task>
+
+		<!-- crown  custom key stroke  -->
+		<task id="0x10063" class="crowncustomkeyleftright" >
+			 <params name="" ctrl="0" alt="0" shift="0" win="0" vkey="0" rctrl="0" ralt="0" rshift="0" rwin="0" rvkey="0" configure="1" ratchet="1" />
+		</task>
+				
+		<!-- crown  context aware plugin  -->
+		<task id="0x10064" class="crownchangetoolvalue" >
+			 <params configure="1"/>
+		</task>
+		
+		<!-- crown  undo redo  -->
+		<task id="0x10065" class="crownundoredo" >
+			 <params />
+		</task>
+
+		<!-- crown  text size + tab switch -->
+		<task id="0x10066" class="crownbrowsertextsize" >
+			<params />
+		</task>
+
+		<!-- crown hscroll -->
+		<task id="0x10067" class="crownhscroll" >
+			<params />
+		</task>
+
+    <!-- new browser tab -->
+    <task id="0x00c5" class="keystroke" >
+      <params command="^t"   />
+    </task>
+
+    <!-- generic F1 -->
+    <task id="0xcd" class="donothing" divert="0">
+      <params  />
+    </task>
+    
+    <!-- generic F2 -->
+    <task id="0xc6" class="donothing" divert="0">
+      <params  />
+    </task>
+
+    <!-- generic F3 -->
+    <task id="0xc7" class="donothing" divert="0">
+      <params  />
+    </task>
+
+    <!-- generic F4 -->
+    <task id="0xc8" class="donothing" divert="0">
+      <params  />
+    </task>
+
+    <!-- generic F5 -->
+    <task id="0xc9" class="donothing" divert="0">
+      <params  />
+    </task>
+
+    <!-- generic F6 -->
+    <task id="0xca" class="donothing" divert="0">
+      <params  />
+    </task>
+
+    <!-- generic F7 -->
+    <task id="0xcb" class="donothing" divert="0">
+      <params  />
+    </task>
+
+    <!-- generic F8 -->
+    <task id="0xcc" class="donothing" divert="0">
+      <params  />
+    </task>
+
+    <!-- generic F2 -->
+    <task id="0xc6" class="donothing" divert="0">
+      <params  />
+    </task>
+  </tasks>
+
+
+	<gesturetasklists>
+
+		<gesturetasklist name="tapsGestureTaskidList" >
+
+			<gesturetask id="0x1" />
+			<gesturetask id="0x0" />
+
+		</gesturetasklist>
+
+		<gesturetasklist name="smoothScrollingGestureTaskidList" >
+
+			<gesturetask id="0x2" />
+			<gesturetask id="0x0" />
+
+		</gesturetasklist>
+
+
+
+		<gesturetasklist name="scrollDirectionGestureTaskidList" >
+
+			<gesturetask id="0x3" />
+			<gesturetask id="0x4" />
+
+		</gesturetasklist>
+
+
+		<gesturetasklist name="horizontalScrollGestureTaskidList" >
+
+			<gesturetask id="0x5" />
+			<gesturetask id="0x0" />
+
+		</gesturetasklist>
+
+
+		<gesturetasklist name="verticalScrollGestureTaskidList" >
+
+			<gesturetask id="0x6" />
+			<gesturetask id="0x0" />
+
+		</gesturetasklist>
+
+		<gesturetasklist name="leftEdgeSwipeGestureTaskidList" >
+
+			<gesturetask id="0x7" />
+			<gesturetask id="0x0" />
+
+		</gesturetasklist>
+
+		<gesturetasklist name="rightEdgeSwipeGestureTaskidList" >
+
+			<gesturetask id="0x8" />
+			<gesturetask id="0x0" />
+
+		</gesturetasklist>
+
+		<gesturetasklist name="topEdgeSwipeGestureTaskidList" >
+
+			<gesturetask id="0x9" />
+			<gesturetask id="0x0" />
+
+		</gesturetasklist>
+
+		<gesturetasklist name="2FingerZoomStatelessGestureTaskidList" >
+
+			<gesturetask id="0xa" />
+			<gesturetask id="0x0" />
+
+		</gesturetasklist>
+
+		<gesturetasklist name="thumbWheelGestureTaskidList" >
+
+			<gesturetask id="0xc" />
+			<gesturetask id="0xd" />
+
+		</gesturetasklist>
+
+	</gesturetasklists>
+
+
+
+
+	<gesturetasks>
+
+		<!-- Gesture is disabled -->
+		<gesturetask id="0x0" enabled="0" />
+
+		<!-- Tap with 1 or 2 fingers -->
+		<gesturetask id="0x1"  enabled="1" />
+
+		<!-- Smooth Scrolling  on -->
+		<gesturetask id="0x2" enabled="1" />
+
+		<!-- natural scroll : traditional behaviour  -->
+		<gesturetask id="0x3" enabled="0" />
+
+		<!-- natural scroll : finger track contents -->
+		<gesturetask id="0x4" enabled="1"/>
+
+		<!-- horizontal scroll -->
+		<gesturetask id="0x5" enabled="1"/>
+
+		<!-- vertical scroll -->
+		<gesturetask id="0x6" enabled="1"/>
+
+		<!-- Leftedgeswipe 1 finger -->
+		<gesturetask id="0x7" enabled="1"/>
+
+		<!-- rightedge 1 finger -->
+		<gesturetask id="0x8" enabled="1"/>
+
+		<!-- topedge 1 finger -->
+		<gesturetask id="0x9" enabled="1"/>
+
+		<!-- zoom 2 finger stateless -->
+		<gesturetask id="0xa" enabled="1"/>
+
+		<!-- pointer speed -->
+		<gesturetask id="0xb" min="1" cur="10" max="20"/>
+
+		<!-- horizontal scroll -->
+		<gesturetask id="0xc" enabled="1" progressive="1" />
+
+		<!-- zoom scroll -->
+		<gesturetask id="0xd" enabled="1" progressive="0" />
+
+
+		<!-- double tap -->
+		<gesturetask id="0xe" enabled="1" progressive="0" />
+
+	</gesturetasks>
+
+	<actiongroups>
+
+		<actiongroup id ="thumbwheelhorzscroll" configure="1">
+			<actions>
+				<action id="up" taskid="0x10015" />
+				<action id="down" taskid="0x10015"/>
+			</actions>
+		</actiongroup>
+
+		<actiongroup id ="thumbwheelzoom">
+			<actions>
+				<action id="up" taskid="0x10016" />
+				<action id="down" taskid="0x10016"/>
+			</actions>
+		</actiongroup>
+
+		<actiongroup id ="thumbwheelvolume">
+			<actions>
+				<action id="up" taskid="0x10017" />
+				<action id="down" taskid="0x10017"/>
+			</actions>
+		</actiongroup>
+
+		<actiongroup id ="thumbwheeltabs">
+			<actions>
+				<action id="up" taskid="0x10018" />
+				<action id="down" taskid="0x10018"/>
+			</actions>
+		</actiongroup>
+
+		<actiongroup id ="thumbwheelnextprev">
+			<actions>
+				<action id="up" taskid="0x10023" />
+				<action id="down" taskid="0x10023"/>
+			</actions>
+		</actiongroup>
+
+		<actiongroup id ="thumbwheelbackforward">
+			<actions>
+				<action id="up" taskid="0x10024" />
+				<action id="down" taskid="0x10024"/>
+			</actions>
+		</actiongroup>
+
+
+		<actiongroup id ="thumbwheelalttab">
+			<actions>
+				<action id="up" taskid="0x10025" />
+				<action id="down" taskid="0x10025"/>
+			</actions>
+		</actiongroup>
+
+		<actiongroup id ="thumbwheelbrightness">
+			<actions>
+				<action id="up" taskid="0x10028" />
+				<action id="down" taskid="0x10028"/>
+			</actions>
+		</actiongroup>
+
+		<actiongroup id ="thumbwheeldonothing">
+			<actions>
+				<action id="up" taskid="0x52" />
+				<action id="down" taskid="0x52"/>
+			</actions>
+		</actiongroup>
+		<actiongroup id ="thumbwheelbackforwardtouch">
+			<actions>
+				<action id="up" taskid="0x1002b" />
+				<action id="down" taskid="0x1002b"/>
+			</actions>
+		</actiongroup>
+
+    <actiongroup id ="thumbwheelvirtualdesktop">
+      <actions>
+        <action id="up" taskid="0x10046" />
+        <action id="down" taskid="0x10046"/>
+      </actions>
+    </actiongroup>
+
+		<actiongroup id="win8nav">
+			<actions>
+				<action id="up" taskid="0x10019"/>
+				<action id="down" taskid="0x10021"/>
+				<action id="left" taskid="0x10022"/>
+				<action id="right" taskid="0x10022"/>
+				<action id="click" taskid="0x10022"/>
+			</actions>
+		</actiongroup>
+
+		<actiongroup id="win7nav">
+			<actions>
+				<action id="up" taskid="0x10035" />
+				<action id="down" taskid="0x10021"/>
+				<action id="left" taskid="0x10022"/>
+				<action id="right" taskid="0x10022"/>
+				<action id="click" taskid="0x10022"/>
+			</actions>
+		</actiongroup>
+
+		<actiongroup id="win8nav2">
+			<actions>
+				<action id="up" taskid="0x10020" />
+				<action id="down" taskid="0x10021"/>
+				<action id="left" taskid="0x10026"/>
+				<action id="right" taskid="0x10027"/>
+				<action id="click" taskid="0x10022"/>
+			</actions>
+		</actiongroup>
+
+		<actiongroup id="winarrangement">
+			<actions>
+				<action id="up" taskid="0x10038" />
+				<action id="down" taskid="0x94"/>
+				<action id="left" taskid="0x10026"/>
+				<action id="right" taskid="0x10027"/>
+				<action id="click" taskid="0x10022"/>
+			</actions>
+		</actiongroup>
+
+		<actiongroup id="mediagestures">
+			<actions>
+				<action id="up" taskid="0x10030" />
+				<action id="down" taskid="0x10031"/>
+				<action id="left" taskid="0x10032"/>
+				<action id="right" taskid="0x10033"/>
+				<action id="click" taskid="0x10034"/>
+			</actions>
+		</actiongroup>
+
+		<actiongroup id="panzoom">
+			<actions>
+				<action id="up" taskid="0x10013" />
+				<action id="down" taskid="0x10014"/>
+				<action id="left" taskid="0x10011"/>
+				<action id="right" taskid="0x10012"/>
+				<action id="click" taskid="0x3A"/>
+			</actions>
+		</actiongroup>
+
+		<actiongroup id="zoomrotate">
+			<actions>
+				<action id="up" taskid="0x10029" />
+				<action id="down" taskid="0x35"/>
+				<action id="left" taskid="0x10010"/>
+				<action id="right" taskid="0x1000F"/>
+				<action id="click" taskid="0x37"/>
+			</actions>
+
+		</actiongroup>
+
+    <actiongroup id="virtualdesktop">
+      <actions>
+        <action id="up" taskid="0x10047" />
+        <action id="down" taskid="0x10048"/>
+        <action id="left" taskid="0x10049"/>
+        <action id="right" taskid="0x10050"/>
+        <action id="click" taskid="0x10053"/>
+      </actions>
+    </actiongroup>
+
+    <actiongroup id="fn_virtualdesktop">
+      <actions>
+        <action id="up" taskid="0x10056" />
+        <action id="down" taskid="0x10048"/>
+        <action id="left" taskid="0x10049"/>
+        <action id="right" taskid="0x10050"/>
+        <action id="click" taskid="0x52"/>
+      </actions>
+    </actiongroup>
+
+		<actiongroup id="custom">
+			<actions>
+				<action id="up" taskid="0x1000E" />
+				<action id="down" taskid="0x1000E"/>
+				<action id="left" taskid="0x1000E"/>
+				<action id="right" taskid="0x1000E"/>
+				<action id="click" taskid="0x1000E"/>
+			</actions>
+		</actiongroup>
+
+		<actiongroup id="disabled">
+			<actions>
+				<action id="up" taskid="0xFFFE" />
+				<action id="down" taskid="0xFFFE"/>
+				<action id="left" taskid="0xFFFE"/>
+				<action id="right" taskid="0xFFFE"/>
+				<action id="click" taskid="0xFFFE"/>
+			</actions>
+		</actiongroup>
+
+        <actiongroup id="ichitaro">
+            <actions>
+                <action id="up" taskid="0x10100" />
+                <action id="down" taskid="0x10101"/>
+                <action id="left" taskid="0x10102"/>
+                <action id="right" taskid="0x10103"/>
+                <action id="click" taskid="0x10104"/>
+            </actions>
+        </actiongroup>
+
+	</actiongroups>
+
+</source>

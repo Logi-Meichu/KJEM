@@ -1,0 +1,28 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "Στοιχεία ελέγχου για Acrobat Pro"
+        },
+        {
+            "ID": "zoom",
+            "value": "Ζουμ"
+        },
+        {
+            "ID": "rotate",
+            "value": "Περιστροφή"
+        },
+        {
+            "ID": "navigate",
+            "value": "Αλλαγή σελίδας"
+        },
+        {
+            "ID": "scroll",
+            "value": "Οριζόντια κύλιση"
+        },
+        {
+            "ID": "playpause",
+            "value": "Αναπαραγωγή/Παύση"
+        }
+    ]
+}

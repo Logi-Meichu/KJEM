@@ -1,0 +1,92 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "size",
+            "value": "Koko"
+        },
+        {
+            "ID": "hardness",
+            "value": "Kovuus"
+        },
+        {
+            "ID": "strokeWeight",
+            "value": "Viivan paino"
+        },
+        {
+            "ID": "opacity",
+            "value": "Peittävyys"
+        },
+        {
+            "ID": "brightness",
+            "value": "Kirkkaus"
+        },
+        {
+            "ID": "contrast",
+            "value": "Kontrasti"
+        },
+        {
+            "ID": "saturation",
+            "value": "Kylläisyys"
+        },
+        {
+            "ID": "flow",
+            "value": "Virtaus"
+        },
+        {
+            "ID": "strength",
+            "value": "Voimakkuus"
+        },
+        {
+            "ID": "tolerance",
+            "value": "Toleranssi"
+        },
+        {
+            "ID": "exposure",
+            "value": "Valotus"
+        },        
+        {
+            "ID": "textSize",
+            "value": "Koko"
+        },
+        {
+            "ID": "layertextSize",
+            "value": "Tasotekstin koko"
+        },
+        {
+            "ID": "blendMode",
+            "value": "Sekoitustila"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "Sisällönmukainen"
+        },
+        {
+            "ID": "savefile",
+            "value": "Tallenna tiedosto"
+        },
+        {
+            "ID": "undoredo",
+            "value": "Kumoa / tee uudelleen"
+        },
+        {
+            "ID": "undo",
+            "value": "Kumoa"
+        },
+        {
+            "ID": "redo",
+            "value": "Tee uudelleen"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zoomaus"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Näppäinten määrittäminen"
+        },
+        {
+            "ID": "playpause",
+            "value": "Toisto / tauko"
+        }
+    ]
+}

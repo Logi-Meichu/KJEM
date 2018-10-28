@@ -1,0 +1,412 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "crownbrightness",
+            "value": "Яркость"
+        },
+        {
+            "ID": "crownvolume",
+            "value": "Громкость"
+        },
+        {
+            "ID": "crownmediacontrol",
+            "value": "Управление мультимедиа"
+        },
+        {
+            "ID": "crownexposeappswitch",
+            "value": "Переключение между приложениями"
+        },
+        {
+            "ID": "crowntabscommand",
+            "value": "Переключение вкладок"
+        },
+        {
+            "ID": "crownswitchdesktop",
+            "value": "Переключение рабочих столов"
+        },
+        {
+            "ID": "crownzoom",
+            "value": "Масштаб"
+        },
+        {
+            "ID": "crownnavigatepages",
+            "value": "Навигация по страницам"
+        },
+        {
+            "ID": "crowncustomkeyleftright",
+            "value": "Настраиваемая клавиша"
+        },
+        {
+            "ID": "crownhscroll",
+            "value": "Горизонтальная прокрутка"
+        },
+		{
+            "ID": "brightness",
+            "value": "Яркость"
+        },
+        {
+            "ID": "volume",
+            "value": "Громкость"
+        },
+        {
+            "ID": "mediaplayer",
+            "value": "Проигрыватель мультимедиа"
+        },
+        {
+            "ID": "appswitch",
+            "value": "Переключение между приложениями"
+        },
+        {
+            "ID": "tabsswitch",
+            "value": "Переключение вкладок"
+        },
+        {
+            "ID": "desktopswitch",
+            "value": "Переключение рабочих столов"
+        },
+        {
+            "ID": "crowndesktopswitch",
+            "value": "Переключение рабочих столов"
+        },
+        {
+            "ID": "zoom",
+            "value": "Масштаб"
+        },
+        {
+            "ID": "gesturebutton",
+            "value": "Кнопка жестов"
+        },
+        {
+            "ID": "modeshiftbutton",
+            "value": "Кнопка изменения режима колесика прокрутки"
+        },
+        {
+            "ID": "advancedclick",
+            "value": "Дополнительное нажатие"
+        },
+        {
+            "ID": "applicationmenu",
+            "value": "Меню приложения"
+        },
+        {
+            "ID": "back",
+            "value": "Назад"
+        },
+        {
+            "ID": "calculator",
+            "value": "Калькулятор"
+        },
+        {
+            "ID": "charms",
+            "value": "Чудо-кнопки"
+        },
+        {
+            "ID": "closewindow",
+            "value": "Закрыть окно"
+        },
+        {
+            "ID": "copy",
+            "value": "Копировать"
+        },
+        {
+            "ID": "cut",
+            "value": "Вырезать"
+        },
+        {
+            "ID": "devices",
+            "value": "Устройства"
+        },
+        {
+            "ID": "documents",
+            "value": "Документы"
+        },
+        {
+            "ID": "doubleclick",
+            "value": "Двойной щелчок"
+        },
+        {
+            "ID": "email",
+            "value": "Электронная почта"
+        },
+        {
+            "ID": "forward",
+            "value": "Вперед"
+        },
+        {
+            "ID": "home",
+            "value": "Домашняя страница"
+        },
+        {
+            "ID": "myhome",
+            "value": "Моя домашняя страница"
+        },
+        {
+            "ID": "mymusic",
+            "value": "Моя музыка"
+        },
+        {
+            "ID": "inputlanguage",
+            "value": "Язык ввода"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Назначение функций клавишам"
+        },
+        {
+            "ID": "launchapplication",
+            "value": "Запустить приложение"
+        },
+        {
+            "ID": "leftclick",
+            "value": "Щелчок левой кнопкой мыши"
+        },
+        {
+            "ID": "lock",
+            "value": "Блокировать"
+        },
+        {
+            "ID": "maximizewindow",
+            "value": "Развернуть окно"
+        },
+        {
+            "ID": "middlebutton",
+            "value": "Средняя кнопка"
+        },
+        {
+            "ID": "minimizewindow",
+            "value": "Свернуть окно"
+        },
+        {
+            "ID": "modifierkeys",
+            "value": "Клавиши-модификаторы"
+        },
+        {
+            "ID": "mousesensitivity",
+            "value": "Чувствительность мыши"
+        },
+        {
+            "ID": "music",
+            "value": "Музыка"
+        },
+        {
+            "ID": "mute",
+            "value": "Отключение звука"
+        },
+        {
+            "ID": "mycomputer",
+            "value": "Мой компьютер"
+        },
+        {
+            "ID": "mydocuments",
+            "value": "Мои документы"
+        },
+        {
+            "ID": "myvideos",
+            "value": "Мои видео"
+        },
+        {
+            "ID": "next",
+            "value": "Следующая"
+        },
+        {
+            "ID": "nextprevious",
+            "value": "Далее / Назад"
+        },
+        {
+            "ID": "nexttrackfastforward",
+            "value": "Следующая композиция/Вперед"
+        },
+        {
+            "ID": "openfile",
+            "value": "Открыть файл"
+        },
+        {
+            "ID": "openfolder",
+            "value": "Открыть папку"
+        },
+        {
+            "ID": "openwebpage",
+            "value": "Открыть веб-страницу"
+        },
+        {
+            "ID": "paste",
+            "value": "Вставить"
+        },
+        {
+            "ID": "mypictures",
+            "value": "Мои рисунки"
+        },
+        {
+            "ID": "pictures",
+            "value": "Рисунки"
+        },
+        {
+            "ID": "playpause",
+            "value": "Воспроизведение/пауза"
+        },
+        {
+            "ID": "previous",
+            "value": "Предыдущая"
+        },
+        {
+            "ID": "previoustrackrewind",
+            "value": "Предыдущая композиция/Назад"
+        },
+        {
+            "ID": "rightclick",
+            "value": "Щелчок правой кнопкой мыши"
+        },
+        {
+            "ID": "scrollleft",
+            "value": "Прокрутка влево"
+        },
+        {
+            "ID": "scrollright",
+            "value": "Прокрутка вправо"
+        },
+        {
+            "ID": "search",
+            "value": "Поиск"
+        },
+        {
+            "ID": "settings",
+            "value": "Параметры"
+        },
+        {
+            "ID": "share",
+            "value": "Общий доступ"
+        },
+        {
+            "ID": "showhidedesktop",
+            "value": "Свернуть/развернуть все окна"
+        },
+        {
+            "ID": "shutdown",
+            "value": "Завершение работы"
+        },
+        {
+            "ID": "signout",
+            "value": "Выход"
+        },
+        {
+            "ID": "sleep",
+            "value": "Спящий режим"
+        },
+        {
+            "ID": "startscreen",
+            "value": "Начальный экран"
+        },
+        {
+            "ID": "stop",
+            "value": "Остановить"
+        },
+        {
+            "ID": "switchscreen",
+            "value": "Переключить экран"
+        },
+        {
+            "ID": "thispc",
+            "value": "Этот ПК"
+        },
+        {
+            "ID": "togglesmoothscrolling",
+            "value": "Переключиться на плавную прокрутку"
+        },
+        {
+            "ID": "videos",
+            "value": "Видео"
+        },
+        {
+            "ID": "volumedown",
+            "value": "Уменьшение громкости"
+        },
+        {
+            "ID": "volumeup",
+            "value": "Увеличение громкости"
+        },
+        {
+            "ID": "zoomin",
+            "value": "Увеличить"
+        },
+        {
+            "ID": "zoomout",
+            "value": "Уменьшить"
+        },
+        {
+            "ID": "zoomreset",
+            "value": "Восстановить масштаб"
+        },
+        {
+            "ID": "none",
+            "value": "Нет"
+        },
+        {
+            "ID": "switchleft",
+            "value": "Переключиться влево"
+        },
+        {
+            "ID": "switchright",
+            "value": "Переключиться вправо"
+        },
+        {
+            "ID": "previouspage",
+            "value": "Предыдущая страница"
+        },
+        {
+            "ID": "nextpage",
+            "value": "Следующая страница"
+        },
+        {
+            "ID": "navigatepages",
+            "value": "Навигация по страницам"
+        },
+        {
+            "ID": "customkey",
+            "value": "Настраиваемая клавиша"
+        },
+        {
+            "ID": "navigatebetweenapps",
+            "value": "Переход между приложениями"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "Контекстное"
+        },
+        {
+            "ID": "crownbrowsertextsize",
+            "value": "Изменение размера текста или вкладки"
+        },
+        {
+            "ID": "createvirtualdesktop",
+            "value": "Новый рабочий стол"
+        },
+        {
+            "ID": "clonevirtualdesktop",
+            "value": "Закрыть рабочий стол"
+        },
+        {
+            "ID": "nextvirtualdesktop",
+            "value": "Рабочий стол (следующий)"
+        },
+        {
+            "ID": "previousvirtualdesktop",
+            "value": "Рабочий стол (предыдущий)"
+        },
+        {
+            "ID": "teskview",
+            "value": "Представление задач"
+        },
+        {
+            "ID": "teskview10",
+            "value": "Представление задач"
+        },
+        {
+            "ID": "cortana",
+            "value": "Кортана"
+        },
+        {
+            "ID": "actioncenter",
+            "value": "Центр уведомлений"
+        }
+    ]
+}

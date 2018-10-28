@@ -1,0 +1,32 @@
+{
+  "LocalizedStrings": [
+    {
+      "ID": "moveframe",
+      "value": "Tijdlijnnavigatie"
+    },
+    {
+      "ID": "jogwheel",
+      "value": "Draaiwiel"
+    },
+    {
+      "ID": "changetoolvalue",
+      "value": "Contextueel"
+    },
+    {
+      "ID": "undoRedo",
+      "value": "Ongedaan maken/Opnieuw"
+    },
+    {
+      "ID": "zoom",
+      "value": "Zoomen"
+    },
+    {
+      "ID": "keystrokeassignment",
+      "value": "Toetsaanslag toewijzen"
+    },
+    {
+      "ID": "playpause",
+      "value": "Afspelen/pauzeren"
+    }
+  ]
+}

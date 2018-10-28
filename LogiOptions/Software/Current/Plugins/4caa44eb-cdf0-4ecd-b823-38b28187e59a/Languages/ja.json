@@ -1,0 +1,100 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "コンテキスト"
+        },
+        {
+            "ID": "savefile",
+            "value": "ファイルを保存"
+        },
+        {
+            "ID": "zoom",
+            "value": "ズーム"
+        },
+        {
+            "ID": "sheetNavigation",
+            "value": "シート ナビゲーション"
+        },
+        {
+            "ID": "horizontalScroll",
+            "value": "水平スクロール"
+        },
+        {
+            "ID": "createChart",
+            "value": "グラフを作成"
+        },
+        {
+            "ID": "createTable",
+            "value": "表の作成"
+        },
+        {
+            "ID": "tableStyle",
+            "value": "表スタイル"
+        },
+        {
+            "ID": "chartType",
+            "value": "グラフの種類"
+        },
+        {
+            "ID": "quickLayout",
+            "value": "クイック レイアウト"
+        },
+        {
+            "ID": "changeColor",
+            "value": "色を変更"
+        },
+        {
+            "ID": "chartStyle",
+            "value": "グラフのスタイル"
+        },
+        {
+            "ID": "pieChart",
+            "value": "円グラフ"
+        },
+        {
+            "ID": "columnChart",
+            "value": "縦棒グラフ"
+        },
+        {
+            "ID": "barChart",
+            "value": "棒グラフ"
+        },
+        {
+            "ID": "areaChart",
+            "value": "面グラフ"
+        },
+        {
+            "ID": "stockChart",
+            "value": "株価チャート"
+        },
+        {
+            "ID": "surfaceChart",
+            "value": "等高線グラフ"
+        },
+        {
+            "ID": "radarChart",
+            "value": "レーダーチャート"
+        },
+        {
+            "ID": "tableColor",
+            "value": "表の色"
+        },
+        {
+            "ID": "xyscatterChart",
+            "value": "散布図"
+        },
+        {
+            "ID": "lineChart",
+            "value": "折れ線グラフ"
+        },
+        {
+            "ID": "comboChart",
+            "value": "コンボチャート"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "キーストロークの割当"
+        }
+    ]
+}

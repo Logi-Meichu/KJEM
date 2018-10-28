@@ -1,0 +1,100 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "상황별"
+        },
+        {
+            "ID": "savefile",
+            "value": "파일 저장"
+        },
+        {
+            "ID": "zoom",
+            "value": "돋보기"
+        },
+        {
+            "ID": "sheetNavigation",
+            "value": "시트 탐색"
+        },
+        {
+            "ID": "horizontalScroll",
+            "value": "수평 스크롤"
+        },
+        {
+            "ID": "createChart",
+            "value": "차트 만들기"
+        },
+        {
+            "ID": "createTable",
+            "value": "표 만들기"
+        },
+        {
+            "ID": "tableStyle",
+            "value": "표 스타일"
+        },
+        {
+            "ID": "chartType",
+            "value": "차트 종류"
+        },
+        {
+            "ID": "quickLayout",
+            "value": "빠른 레이아웃"
+        },
+        {
+            "ID": "changeColor",
+            "value": "색 변경"
+        },
+        {
+            "ID": "chartStyle",
+            "value": "차트 스타일"
+        },
+        {
+            "ID": "pieChart",
+            "value": "원형 차트"
+        },
+        {
+            "ID": "columnChart",
+            "value": "세로 막대형 차트"
+        },
+        {
+            "ID": "barChart",
+            "value": "가로 막대형 차트"
+        },
+        {
+            "ID": "areaChart",
+            "value": "영역형 차트"
+        },
+        {
+            "ID": "stockChart",
+            "value": "주식형 차트"
+        },
+        {
+            "ID": "surfaceChart",
+            "value": "3차원 표면형 차트"
+        },
+        {
+            "ID": "radarChart",
+            "value": "방사형 차트"
+        },
+        {
+            "ID": "tableColor",
+            "value": "표 색"
+        },
+        {
+            "ID": "xyscatterChart",
+            "value": "분산형 차트"
+        },
+        {
+            "ID": "lineChart",
+            "value": "꺾은선형 차트"
+        },
+        {
+            "ID": "comboChart",
+            "value": "콤보 차트"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "입력할 키 지정"
+        }
+    ]
+}

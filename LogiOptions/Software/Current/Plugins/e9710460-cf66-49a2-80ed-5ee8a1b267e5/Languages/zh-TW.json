@@ -1,0 +1,70 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "情境感知"
+        },
+		{
+            "ID": "customactions",
+            "value": "自訂動作"
+        },
+        {
+            "ID": "Zoom",
+            "value": "縮放顯示"
+        },
+        {
+            "ID": "Temperature",
+            "value": "色溫"
+        },
+        {
+            "ID": "Tint",
+            "value": "色調"
+        },
+		{
+            "ID": "Exposure",
+            "value": "曝光度"
+        },
+		{
+            "ID": "Contrast",
+            "value": "對比"
+        },
+        {
+            "ID": "Highlights",
+            "value": "亮部"
+        },
+        {
+            "ID": "Shadows",
+            "value": "陰影"
+        },
+        {
+            "ID": "Whites",
+            "value": "白色"
+        },
+        {
+            "ID": "Blacks",
+            "value": "黑色"
+        },
+		{
+            "ID": "Clarity",
+            "value": "清晰度"
+        },
+        {
+            "ID": "Vibrance",
+            "value": "鮮艷度"
+        },
+        {
+            "ID": "Saturation",
+            "value": "飽和度"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "按鍵指派"
+        },
+        {
+            "ID": "playpause",
+            "value": "播放/暫停"
+        }
+    ]
+}
+
+

@@ -1,0 +1,72 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "上下文"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "按键分配"
+        },
+        {
+            "ID": "savefile",
+            "value": "保存文件"
+        },
+        {
+            "ID": "zoom",
+            "value": "缩放"
+        },
+        {
+            "ID": "theme",
+            "value": "主题样式"
+        },
+        {
+            "ID": "color",
+            "value": "主题颜色"
+        },
+        {
+            "ID": "layout",
+            "value": "布局"
+        },
+        {
+            "ID": "font",
+            "value": "主题字体"
+        },
+        {
+            "ID": "fontSize",
+            "value": "大小"
+        },
+        {
+            "ID": "alignment",
+            "value": "对齐"
+        },
+        {
+            "ID": "fontWeight",
+            "value": "字体粗细"
+        },
+        {
+            "ID": "size",
+            "value": "比例"
+        },
+        {
+            "ID": "rotate",
+            "value": "旋转"
+        },
+        {
+            "ID": "tableStyle",
+            "value": "表格样式"
+        },
+        {
+            "ID": "tableColor",
+            "value": "表格颜色"
+        },
+        {
+            "ID": "paragraphStyle",
+            "value": "段落样式"
+        },
+        {
+            "ID": "wrapText",
+            "value": "自动换行"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "Acrobat Reader 控制"
+        },
+        {
+            "ID": "zoom",
+            "value": "缩放"
+        },
+        {
+            "ID": "rotate",
+            "value": "旋转"
+        },
+        {
+            "ID": "navigate",
+            "value": "翻页"
+        },
+        {
+            "ID": "scroll",
+            "value": "水平滚动"
+        },
+        {
+            "ID": "playpause",
+            "value": "播放/暂停"
+        }
+    ]
+}

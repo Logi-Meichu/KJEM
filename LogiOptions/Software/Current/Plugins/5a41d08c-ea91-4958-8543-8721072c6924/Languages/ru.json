@@ -1,0 +1,32 @@
+{
+  "LocalizedStrings": [
+    {
+      "ID": "moveframe",
+      "value": "Навигация по временной шкале"
+    },
+    {
+      "ID": "jogwheel",
+      "value": "Колесико прокрутки"
+    },
+    {
+      "ID": "changetoolvalue",
+      "value": "Контекстное"
+    },
+    {
+      "ID": "undoRedo",
+      "value": "Отменить/Повторить"
+    },
+    {
+      "ID": "zoom",
+      "value": "Масштаб"
+    },
+    {
+      "ID": "keystrokeassignment",
+      "value": "Назначение функций клавишам"
+    },
+    {
+      "ID": "playpause",
+      "value": "Воспроизведение / Пауза"
+    }
+  ]
+}

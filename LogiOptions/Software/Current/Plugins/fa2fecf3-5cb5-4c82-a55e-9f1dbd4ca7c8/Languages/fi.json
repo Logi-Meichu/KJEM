@@ -1,0 +1,20 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "VLC-ohjaimet"
+        },
+		{
+            "ID": "nextPrevious",
+            "value": "Edellinen / Seuraava"
+        },
+		{
+            "ID": "ShortSeek",
+            "value": "Etsi"
+        },
+        {
+            "ID": "volumeUpDown",
+            "value": "Äänenvoimakkuus"
+        }
+    ]
+}

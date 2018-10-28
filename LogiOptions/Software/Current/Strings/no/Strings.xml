@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Source>
+	<StringSet>
+		<String ALIAS="IDS_SINGLE_DEVICE_LOWBATTERY_PREFIX">Batterinivået er kritisk for følgende enhet:</String>
+        <String ALIAS="IDS_NO_APPS_SWITCH">Ingen programmer å bytte til</String>
+        <String ALIAS="IDS_NO_HOSTS_SWITCH">Ingen verter å bytte til</String>
+        <String ALIAS="IDS_HOSTS_SWITCH">Vert byttet</String>
+		<String ALIAS="IDS_APPLICATION_NAME">Logitech Options</String>
+
+        <!-- Lock notification -->
+		<String ALIAS="HELP_LOCK_CAPS_ON">Caps Lock aktivert</String>
+		<String ALIAS="HELP_LOCK_CAPS_OFF">Caps Lock deaktivert</String>
+		<String ALIAS="HELP_LOCK_SCROLL_ON">Scroll Lock aktivert</String>
+		<String ALIAS="HELP_LOCK_SCROLL_OFF">Scroll Lock deaktivert</String>
+		<String ALIAS="HELP_LOCK_NUMS_ON">Num Lock aktivert</String>
+		<String ALIAS="HELP_LOCK_NUMS_OFF">Num Lock deaktivert</String>
+
+        <!-- Package Update notification -->
+		<String ALIAS="UPDATER_UPDATE_AVAILABLE_TITLE">Tilgjengelig oppdatering</String>
+		<String ALIAS="UPDATER_UPDATE_AVAILABLE">En oppdatering er tilgjengelig for Logitech Options.</String>
+
+        <!-- Device Update notification -->
+        <String ALIAS="UPDATER_DEVICE_UPDATE_AVAILABLE_TITLE">Enhetsoppdatering tilgjengelig</String>
+		<String ALIAS="UPDATER_DEVICE_UPDATE_AVAILABLE">Det finnes en oppdatering for enheten din (enhetene dine). Klikk her for å kjøre oppdateringen.</String>
+
+		<!-- Incorrect Keyboard Mode notification -->
+		<String ALIAS="INCORRECT_SELECTED_KEYBOARD_LAYOUT">Windows-layout er ikke valgt på tastaturet.</String>
+
+		<!-- Missing software components -->
+		<String ALIAS="MISSING_MAINAPP_FILES">Logitech Options mangler viktige filer. Installer programvaren på nytt.</String>
+
+    <!-- Tray icon notification -->
+    <String ALIAS="TRAYICON_FLOWOFF"> Slå Logitech Flow av</String>
+    <String ALIAS="TRAYICON_PREFERENCES"> Åpne Innstillinger</String>
+    <String ALIAS="TRAYICON_FLOWON"> Slå Logitech Flow på</String>
+    <String ALIAS="TRAYICON_NETWORK_ISSUE"> Denne datamaskinen er frakoblet</String>
+    <String ALIAS="TRAYICON_HOST_ISSUE"> %s er ikke tilgjengelig</String>
+    <String ALIAS="TRAYICON_HELP"> Åpne hjelpen i Logitech Flow</String>
+    <String ALIAS="TRAYICON_CANCEL_TRANSFER"> Avbryt overføring</String>
+    <String ALIAS="TRAYICON_TRANSFER_STATUS"> Overfører  %d%% </String>
+    <String ALIAS="TRAYICON_TRANSFER_ERROR"> Overføringsfeil</String>
+
+    <!-- toast notification -->
+    <String ALIAS="TOAST_HOST_CONNECTED">%s er lagt til i Logitech Flow.</String>
+    <String ALIAS="TOAST_NEW_FEATURES">Vil du prøve ut Logitechs siste nyskaping? Klikk for å bli en betabruker.</String>
+    <String ALIAS="TOAST_NOTMATCH_FIRMWARE">Du må oppgradere fastvaren for enheten %s.</String>
+
+    <!-- Craft notification -->
+    <String ALIAS="CRAFT_PLUGIN_NOT_INSTALLED_TITLE">Craft-profil tilgjengelig</String>
+    <String ALIAS="CRAFT_PLUGIN_NOT_INSTALLED_BODY">En Craft-profile er tilgjengelig for %s.</String>
+    <String ALIAS="CRAFT_PLUGIN_READY_TO_USE_TITLE">Craft-profil installert</String>
+    <String ALIAS="CRAFT_PLUGIN_READY_TO_USE_BODY">En ny Craft-profil er installert for %s.</String>
+    <String ALIAS="CRAFT_PLUGIN_APP_REQUIRE_RESTART_TITLE">Start %s på nytt</String>
+    <String ALIAS="CRAFT_PLUGIN_APP_REQUIRE_RESTART_BODY">Craft-profil installert for %s. Start programmet på nytt for å begynne å bruke profilen.</String>
+
+  </StringSet>
+</Source>

@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="utf-8"?>
+<descriptions>
+	<taskids>
+
+		<!-- ******************************** frequently used windows tasks *********************************** -->
+		<task id="0x1d">
+			<description>Mediespelaren</description>
+		</task>
+		<task id="0x44">
+			<description>Lås</description>
+		</task>
+		<task id="0x10001">
+			<description>Logga ut</description>
+		</task>
+		<task id="0x0c">
+			<description>Stäng fönstret</description>
+		</task>
+		<task id="0x52">
+			<description>Ingen</description>
+		</task>
+		<task id="0x53">
+			<description>Växla program</description>
+		</task>
+		<task id="0x8">
+			<description>Växla program</description>
+		</task>
+		<task id="0x0e">
+			<description>E-post</description>
+		</task>
+		<task id="0x87">
+			<description>Sök</description>
+		</task>
+		<task id="0x88">
+			<description>Dela</description>
+		</task>
+		<task id="0x89">
+			<description>Enheter</description>
+		</task>
+		<task id="0x8a">
+			<description>Inställningar</description>
+		</task>
+		<task id="0x7A">
+			<description>Snabbknappar</description>
+		</task>
+		<task id="0x8E">
+			<description>Visa/dölj skrivbord</description>
+		</task>
+		<task id="0x79">
+			<description>Programmeny</description>
+		</task>
+		<task id="0x90">
+			<description>Startfönster</description>
+		</task>
+		<task id="0x95">
+			<description>Expandera fönstret</description>
+		</task>
+		<task id="0x94">
+			<description>Minimera fönstret</description>
+		</task>
+		<task id="0x38">
+			<description>Vänsterklicka</description>
+		</task>
+		<task id="0x39">
+			<description>Högerklicka</description>
+		</task>
+		<task id="0x3A">
+			<description>Mittenknappen</description>
+		</task>
+
+		<!-- *********************************** back/forward *********************************** -->
+		<task id="0x3b">
+			<description>Bakåt</description>
+		</task>
+		<task id="0x3c">
+			<description>Bakåt</description>
+		</task>
+		<task id="0xab">
+			<description>Bakåt</description>
+		</task>
+		<task id="0x3d">
+			<description>Framåt</description>
+		</task>
+		<task id="0x3e">
+			<description>Framåt</description>
+		</task>
+		<task id="0xac">
+			<description>Framåt</description>
+		</task>
+
+		<!-- *********************************** Edit features *********************************** -->
+		<task id="0x51">
+			<description>Klipp ut</description>
+		</task>
+		<task id="0x4e">
+			<description>Kopiera</description>
+		</task>
+		<task id="0x85">
+			<description>Klistra in</description>
+		</task>
+
+		<!-- *********************************** Calculator File launcher *********************************** -->
+		<task id="0x0a">
+			<description>Kalkylator</description>
+		</task>
+
+		<!-- *********************************** Volume & Media handlers *********************************** -->
+		<task id="0x01">
+			<description>Volym +</description>
+		</task>
+		<task id="0x02">
+			<description>Volym -</description>
+		</task>
+		<task id="0x03">
+			<description>Ljud av</description>
+		</task>
+		<task id="0x04">
+			<description>Spela/Pausa</description>
+		</task>
+		<task id="0x07">
+			<description>Stoppa</description>
+		</task>
+		<task id="0x05">
+			<description>Nästa</description>
+		</task>
+		<task id="0x06">
+			<description>Föregående</description>
+		</task>
+
+		<!-- *********************************** Common folders *********************************** -->
+		<task id="0x27">
+			<description>Den här datorn</description>
+		</task>
+		<task id="0x48">
+			<description>Den här datorn</description>
+		</task>
+		<task id="0x22">
+			<description>Mina dokument</description>
+		</task>
+		<task id="0x49">
+			<description>Dokument</description>
+		</task>
+		<task id="0x24">
+			<description>Mina bilder</description>
+		</task>
+		<task id="0x50">
+			<description>Bilder</description>
+		</task>
+		<task id="0x23">
+			<description>Min musik</description>
+		</task>
+		<task id="0x54">
+			<description>Musik</description>
+		</task>
+		<task id="0x26">
+			<description>Mina videoklipp</description>
+		</task>
+		<task id="0x55">
+			<description>Videoklipp</description>
+		</task>
+
+		<!-- *********************************** Open Web Page *********************************** -->
+		<task id="0x47">
+			<description>Startsida</description>
+		</task>
+		<task id="0x33">
+			<description>Zooma in</description>
+		</task>
+		<task id="0x35">
+			<description>Zooma ut</description>
+		</task>
+		<task id="0x10010">
+			<description>Rotera vänster</description>
+		</task>
+		<task id="0x1000F">
+			<description>Rotera höger</description>
+		</task>
+		<task id="0x1000E">
+			<description>Ej kategoriserad(e)</description>
+		</task>
+
+        <task id="0xFFFE">
+            <description>Avaktiverat</description>
+        </task>     
+
+		<task id="0x37">
+			<description>Återställ zoomning</description>
+		</task>
+		<task id="0x0b">
+			<description>E-post</description>
+		</task>
+		<task id="0x2f">
+			<description>Strömsparläge</description>
+		</task>
+		<task id="0x1a">
+			<description>Startsida</description>
+		</task>
+		<task id="0x56">
+			<description>Startsida</description>
+		</task>
+		<task id="0x1c">
+			<description>Minimera alla fönster</description>
+		</task>
+		<task id="0x1b">
+			<description>Återställ alla fönster</description>
+		</task>
+		<task id="0x91">
+			<description>Växla skärm</description>
+		</task>
+		<task id="0x93">
+			<description>Växla skärm</description>
+		</task>
+		<task id="0x43">
+			<description>Visa/dölj skrivbord</description>
+		</task>
+		<task id="0x2d">
+			<description>Sök</description>
+		</task>
+		<task id="0xb0">
+			<description>Sök</description>
+		</task>
+		<task id="0xb1">
+			<description>Sök</description>
+		</task>
+		<task id="0xba">
+			<description>Inmatningsspråk</description>
+		</task>
+
+		<task id="0x47">
+			<description>Startsida</description>
+		</task>
+
+		<task id="0x96">
+			<description>Växla program</description>
+		</task>
+		<task id="0x97">
+			<description>Startsida</description>
+		</task>
+		<task id="0x9b">
+             <description>Skärmdump</description>
+        </task>
+		<task id="0xb2">
+			<description>Startsida</description>
+		</task>
+		<task id="0x98">
+			<description>Högerklicka</description>
+		</task>
+		<task id="0x20">
+			<description>Högerklicka</description>
+		</task>
+		<task id="0xb3">
+			<description>Högerklicka</description>
+		</task>
+		<task id="0x99">
+			<description>Bakåt</description>
+		</task>
+		<task id="0xce">
+			<description>Bakåt</description>
+		</task>
+    <task id="0xc5">
+      <description>Ny webbläsarflik</description>
+    </task>
+    
+		<task id="0xA8">
+			<description>Gestknappen</description>
+		</task>
+		<task id="0xA9">
+			<description>Gestknappen</description>
+		</task>
+		<task id="0x9c">
+			<description>Gestknappen</description>
+		</task>
+		<task id="0xad">
+			<description>Gestknappen</description>
+		</task>
+
+		<task id="0x1002c">
+			<description>Gestknappen</description>
+		</task>
+
+		<task id="0x9d">
+			<description>Knappen Lägesväxling</description>
+		</task>
+
+		<task id="0x71">
+			<description>rotera höger analog</description>
+		</task>
+
+		<task id="0x72">
+			<description>rotera vänster analog</description>
+		</task>
+
+		<task id="0x73">
+			<description>panorera till vänster</description>
+		</task>
+
+		<task id="0x74">
+			<description>panorera till höger</description>
+		</task>
+
+		<task id="0x75">
+			<description>panorera upp</description>
+		</task>
+
+		<task id="0x76">
+			<description>panorera ned</description>
+		</task>
+
+
+		<task id="0x3f">
+			<description>Rulla åt vänster</description>
+		</task>
+
+		<task id="0x40">
+			<description>Rulla åt höger</description>
+		</task>
+
+		<task id="0xc3">
+			<description>Appmeny</description>
+		</task>
+
+		<task id="0xbf">
+			<description>Aktivitetsvy</description>
+		</task>
+
+		<task id="0xa3">
+			<description>Ljusstyrka ner</description>
+		</task>
+
+		<task id="0xa4">
+			<description>Ljusstyrka upp</description>
+		</task>
+
+		<task id="0xc0">
+			<description>Åtgärdscenter</description>
+		</task>
+
+		<task id="0xc1">
+			<description>Bakgrundsbelysning ner</description>
+		</task>
+
+		<task id="0xc2">
+			<description>Bakgrundsbelysning upp</description>
+		</task>
+		
+		<task id="0x10003">
+			<description>Försätt datorn i viloläge</description>
+		</task>
+
+		<!-- task ids local to LogiOptions -->
+		<!-- *************************************  -->
+		<task id="0x10000">
+			<description>Tangentkommando</description>
+		</task>
+		<task id="0x10001">
+			<description>Logga ut</description>
+		</task>
+		<task id="0x10002">
+			<description>Stäng av</description>
+		</task>
+		<task id="0x10003">
+			<description>Försätt datorn i viloläge</description>
+		</task>
+		<task id="0x10004">
+			<description>Starta programmet</description>
+		</task>
+		<task id="0x10007">
+			<description>Nästa spår/snabbspola framåt</description>
+		</task>
+		<task id="0x10008">
+			<description>Öppna fil</description>
+		</task>
+		<task id="0x10009">
+			<description>Öppna mapp</description>
+		</task>
+		<task id="0x1000A">
+			<description>Öppna webbsida</description>
+		</task>
+		<task id="0x1000B">
+			<description>Föregående spår/spola tillbaka</description>
+		</task>
+		<task id="0x1000C">
+			<description>Dubbelklicka</description>
+		</task>
+		<task id="0x1000D">
+			<description>Genvägar i Windows 8</description>
+		</task>
+
+		<task id="0x10011">
+			<description>Panorering</description>
+		</task>
+		<task id="0x10012">
+			<description>Panorering</description>
+		</task>
+		<task id="0x10013">
+			<description>Panorering</description>
+		</task>
+		<task id="0x10014">
+			<description>Panorering</description>
+		</task>
+		<task id="0x1000E">
+			<description>Mittenknappen</description>
+		</task>
+
+		<task id="0x10019">
+			<description>Startfönster</description>
+		</task>
+
+		<task id="0x10020">
+			<description>Expandera fönstret</description>
+		</task>
+
+		<task id="0x10021">
+			<description>Visa/dölj skrivbord</description>
+		</task>
+		<task id="0x10022">
+			<description>Växla program</description>
+		</task>
+
+		<task id="0x10026">
+			<description>Knäpp vänster</description>
+		</task>
+
+		<task id="0x10027">
+			<description>Knäpp höger</description>
+		</task>
+
+		<task id="0x10029">
+			<description>Zooma in</description>
+		</task>
+
+		<task id="0x10030">
+			<description>Volym +</description>
+		</task>
+
+		<task id="0x10031">
+			<description>Volym -</description>
+		</task>
+
+		<task id="0x10032">
+			<description>Föregående</description>
+		</task>
+
+		<task id="0x10033">
+			<description>Nästa</description>
+		</task>
+
+		<task id="0x10034">
+			<description>Spela/Pausa</description>
+		</task>
+
+		<task id="0x10035">
+			<description>Start-meny</description>
+		</task>
+		<task id="0x10036">
+			<description>Easy-Switch</description>
+		</task>
+		<task id="0x10037">
+			<description>Musens känslighet</description>
+		</task>
+		<task id="0xc4">
+			<description>Precisionsläge</description>
+		</task>
+
+		<task id="0x10038">
+			<description>Expandera fönstret</description>
+		</task>
+
+		<task id="0x10039">
+			<description>Modifierar-knappar</description>
+		</task>
+
+		<task id="0x10040">
+			<description>Avancerat klick</description>
+		</task>
+
+		<task id="0x10041">
+			<description>Växla mellan smidig rullning</description>
+		</task>
+
+		<task id="0x10042">
+			<description>Nytt skrivbord</description>
+		</task>
+
+		<task id="0x10043">
+			<description>Stäng skrivbord</description>
+		</task>
+
+		<task id="0x10044">
+			<description>Skrivbord (nästa)</description>
+		</task>
+
+		<task id="0x10045">
+			<description>Skrivbord (föregående)</description>
+		</task>
+
+		<task id="0x10047">
+			<description>Start-menyn</description>
+		</task>
+		<task id="0x10048">
+			<description>Visa/dölj skrivbord</description>
+		</task>
+		<task id="0x10049">
+			<description>Skrivbord (föregående)</description>
+		</task>
+		<task id="0x10050">
+			<description>Skrivbord (nästa)</description>
+		</task>
+		<task id="0x10051">
+			<description>Uppgiftsvy</description>
+		</task>
+		<task id="0x10052">
+			<description>Åtgärdscenter</description>
+		</task>
+		<task id="0x10053">
+			<description>Uppgiftsvy</description>
+		</task>
+		<task id="0x10055">
+			<description>Cortana</description>
+		</task>
+	<task id="0x10056">
+	  <description>Uppgiftsvy</description>
+	</task>
+		<task id="0x10100">
+			<description>Expandera fönstret</description>
+		</task>
+		<task id="0x10101">
+			<description>Visa/dölj skrivbord</description>
+		</task>
+		<task id="0x10102">
+			<description>Startsida</description>
+		</task>
+		<task id="0x10103">
+			<description>Starta programmet</description>
+		</task>
+		<task id="0x10104">
+			<description>Växla program</description>
+		</task>
+		<task id="0x10059">
+			<description>Volym</description>
+		</task>
+		<task id="0x1005a">
+			<description>Skrivbordsspak</description>
+		</task>
+		<task id="0x1005b">
+			<description>Ljusstyrka</description>
+		</task>
+		<task id="0x1005c">
+			<description>Mediakontroll</description>
+		</task>
+		<task id="0x1005d">
+			<description>Växla program</description>
+		</task>
+		<task id="0x1005f">
+			<description>Flikspak</description>
+		</task>
+    <!--task id="0x10060">
+			<description>Crown Desktop Switch</description>
+		</task-->
+		<task id="0x10061">
+			<description>Zooma</description>
+		</task>
+		<task id="0x10062">
+			<description>Krona – navigera sidor</description>
+		</task>
+		<task id="0x10063">
+			<description>Anpassad knapp</description>
+		</task>
+		<task id="0x10064">
+			<description>Ändra verktygsvärde</description>
+		</task>
+		<task id="0x10065">
+			<description>Ångra/gör om</description>
+		</task>
+    <task id="0x10110">
+      <description>Styrkulans känslighet</description>
+    </task>
+    <task id="0xcd">
+      <description>F1</description>
+    </task>
+    <task id="0xc6">
+      <description>F2</description>
+    </task>
+    <task id="0xc7">
+      <description>F3</description>
+    </task>
+    <task id="0xc8">
+      <description>F4</description>
+    </task>
+    <task id="0xc9">
+      <description>F5</description>
+    </task>
+    <task id="0xca">
+      <description>F6</description>
+    </task>
+    <task id="0xcb">
+      <description>F7</description>
+    </task>
+    <task id="0xcc">
+      <description>F8</description>
+    </task>
+
+
+  </taskids>
+	<gestureids>
+		<gesture id="0x21">
+			<description>Tryck för att klicka</description>
+		</gesture>
+		<gesture id="0x2c">
+			<description>Smidig rullning</description>
+		</gesture>
+		<gesture id="0x2d">
+			<description>Rullningsriktning</description>
+		</gesture>
+		<gesture id="0x2a">
+			<description>Horisontell rullning</description>
+		</gesture>
+		<gesture id="0x2b">
+			<description>Vertikal rullning</description>
+		</gesture>
+		<gesture id="0x40">
+			<description>Växla program</description>
+		</gesture>
+		<gesture id="0x41">
+			<description>Visa snabbknappar</description>
+		</gesture>
+		<gesture id="0x43">
+			<description>Programmeny</description>
+		</gesture>
+		<gesture id="0x54">
+			<description>Zooma</description>
+		</gesture>
+		<gesture id="0x14">
+			<description>Pekarhastighet</description>
+		</gesture>
+		<!-- new gestures -->
+		<gesture id="0x2e">
+			<description>Tumhjulsrullning</description>
+		</gesture>
+		<gesture id="0x64">
+			<description>Tumhjul dubbeltryck</description>
+		</gesture>
+		<gesture id="0x27d3">
+			<description>ommappning SmartShift</description>
+		</gesture>
+		<gesture id="0x2762">
+			<description>ommappning knapp 3</description>
+		</gesture>
+		<gesture id="0x27d4">
+			<description>ommappning gestknappen</description>
+		</gesture>
+	</gestureids>
+	<gesturetaskids>
+		<gesturetask id="0x0">
+			<description>Avaktiverat</description>
+		</gesturetask>
+		<gesturetask id="0x1">
+			<description>Tryck med en eller två fingrar</description>
+		</gesturetask>
+		<gesturetask id="0x2">
+			<description>Aktiverat</description>
+		</gesturetask>
+		<gesturetask id="0x3">
+			<description>Traditionell</description>
+		</gesturetask>
+		<gesturetask id="0x4">
+			<description>Rullningsfunktion som följer fingerrörelse</description>
+		</gesturetask>
+		<gesturetask id="0x5">
+			<description>Svep åt vänster eller höger med två fingrar</description>
+		</gesturetask>
+		<gesturetask id="0x6">
+			<description>Svep uppåt eller nedåt med två fingrar</description>
+		</gesturetask>
+		<gesturetask id="0x7">
+			<description>Svep från vänsterkanten med ett finger</description>
+		</gesturetask>
+		<gesturetask id="0x8">
+			<description>Svep från högerkanten med ett finger</description>
+		</gesturetask>
+		<gesturetask id="0x9">
+			<description>Svep från överkanten med ett finger</description>
+		</gesturetask>
+		<gesturetask id="0xa">
+			<description>Dra isär eller för ihop med två fingrar</description>
+		</gesturetask>
+		<gesturetask id="0xb">
+			<description>Pekarhastighet</description>
+		</gesturetask>
+	</gesturetaskids>
+	<gestureactiongroups>
+		<actiongroup id="win8nav">
+			<description>Navigera i fönster</description>
+		</actiongroup>
+		<actiongroup id="win7nav">
+			<description>Navigera i fönster</description>
+		</actiongroup>
+		<actiongroup id="win8nav2">
+			<description>Fönsterhantering</description>
+		</actiongroup>
+		<actiongroup id="winarrangement">
+			<description>Arrangera fönster</description>
+		</actiongroup>
+		<actiongroup id="mediagestures">
+			<description>Mediekontroller</description>
+		</actiongroup>
+		<actiongroup id="panzoom">
+			<description>Panorering</description>
+		</actiongroup>
+		<actiongroup id="zoomrotate">
+			<description>Zooma/rotera</description>
+		</actiongroup>
+		<actiongroup id="custom">
+			<description>Anpassad</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelhorzscroll">
+			<description>Horisontell rullning</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelzoom">
+			<description>Zooma in/ut</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelvolume">
+			<description>Volym +/–</description>
+		</actiongroup>
+		<actiongroup id="thumbwheeltabs">
+			<description>Flikar nästa/föregående</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelnextprev">
+			<description>Nästa/Föregående</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelbackforward">
+			<description>Framåt/Bakåt</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelalttab">
+			<description>Växla program</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelbrightness">
+			<description>Öka/minska ljusstyrka </description>
+		</actiongroup>
+		<actiongroup id="thumbwheelbackforwardtouch">
+			<description>Framåt/bakåt-pekfunktion</description>
+		</actiongroup>
+		<actiongroup id="virtualdesktop">
+			<description>Virtuella skrivbord</description>
+		</actiongroup>
+	<actiongroup id="fn_virtualdesktop">
+      <description>Virtuella skrivbord</description>
+    </actiongroup>
+		<actiongroup id="thumbwheelvirtualdesktop">
+			<description>Växla mellan skrivbord</description>
+		</actiongroup>
+		<actiongroup id="thumbwheeldonothing">
+			<description>Ingen</description>
+		</actiongroup>
+		<actiongroup id="touch">
+			<description>Panorera med pekfunktion </description>
+		</actiongroup>
+		<actiongroup id="ichitaro">
+			<description>Ichitaro2017</description>
+		</actiongroup>
+    <actiongroup id="disabled">
+        <description>Avaktiverat</description>
+    </actiongroup>
+
+	</gestureactiongroups>
+</descriptions>

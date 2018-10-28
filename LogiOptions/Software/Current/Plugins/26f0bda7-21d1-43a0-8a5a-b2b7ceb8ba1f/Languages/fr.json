@@ -1,0 +1,48 @@
+{
+  "LocalizedStrings": [
+    {
+      "ID": "keystrokeassignment",
+      "value": "Raccourcis clavier"
+    },
+    {
+      "ID": "changetoolvalue",
+      "value": "Contextuel"
+    },
+    {
+      "ID": "crownbrowsertextsize",
+      "value": "Modifier l'onglet ou la taille du texte"
+    },
+    {
+      "ID": "crowntabscommand",
+      "value": "Changement d'onglet"
+    },
+    {
+      "ID": "textSize",
+      "value": "Taille"
+    },
+    {
+      "ID": "imageSize",
+      "value": "Taille"
+    },
+    {
+      "ID": "tabSwitch",
+      "value": "Navigation dans l'onglet"
+    },
+    {
+      "ID": "zoom",
+      "value": "Zoom"
+    },
+    {
+      "ID": "sheetNavigation",
+      "value": "Navigation sur la feuille"
+    },
+    {
+      "ID": "horizontalScroll",
+      "value": "Défilement horizontal"
+    },
+    {
+      "ID": "playpause",
+      "value": "Lecture/Pause"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<source xmlns="http://www.logitech.com" 
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+		xsi:schemaLocation="http://www.logitech.com ..\..\XML_Schemas\SoftwareCrossLink.xsd">
+   <version>6.80.192</version>
+   <devices>
+      <device id="0x4028" />
+	  <device id="0x1025" name="Wireless Mouse M510" />
+    <device id="0x1024" name="Wireless Mouse M310" />
+    <device id="0x4008" name="Wireless Mouse M185/M225" />
+    <device id="0x4009" name="Wireless Mouse M315/M235" />
+    <device id="0x4019" name="Wireless Mouse M187" />
+    <device id="0x2010" name="Wireless Keyboard K800" />
+    <device id="0x4016" name="Wireless Keyboard K330" />
+    <device id="0x101b" name="Marathon Mouse M705" />
+   </devices>
+</source>

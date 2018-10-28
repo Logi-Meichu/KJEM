@@ -1,0 +1,92 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "size",
+            "value": "Μέγεθος"
+        },
+        {
+            "ID": "hardness",
+            "value": "Σκληρότητα"
+        },
+        {
+            "ID": "strokeWeight",
+            "value": "Πάχος μολυβιάς"
+        },
+        {
+            "ID": "opacity",
+            "value": "Αδιαφάνεια"
+        },
+        {
+            "ID": "brightness",
+            "value": "Φωτεινότητα"
+        },
+        {
+            "ID": "contrast",
+            "value": "Αντίθεση"
+        },
+        {
+            "ID": "saturation",
+            "value": "Κορεσμός"
+        },
+        {
+            "ID": "flow",
+            "value": "Ροή"
+        },
+        {
+            "ID": "strength",
+            "value": "Ισχύς"
+        },
+        {
+            "ID": "tolerance",
+            "value": "Ανοχή"
+        },
+        {
+            "ID": "exposure",
+            "value": "Έκθεση"
+        },        
+        {
+            "ID": "textSize",
+            "value": "Μέγεθος"
+        },
+        {
+            "ID": "layertextSize",
+            "value": "Μέγεθος κειμένου επιπέδου"
+        },
+        {
+            "ID": "blendMode",
+            "value": "Λειτουργία μείξης"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "Μενού περιβάλλοντος"
+        },
+        {
+            "ID": "savefile",
+            "value": "Αποθήκευση αρχείου"
+        },
+        {
+            "ID": "undoredo",
+            "value": "Αναίρεση/Επανάληψη"
+        },
+        {
+            "ID": "undo",
+            "value": "Αναίρεση"
+        },
+        {
+            "ID": "redo",
+            "value": "Ακύρωση αναίρεσης"
+        },
+        {
+            "ID": "zoom",
+            "value": "Ζουμ"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Αντιστοίχιση πλήκτρου"
+        },
+        {
+            "ID": "playpause",
+            "value": "Αναπαραγωγή/Παύση"
+        }
+    ]
+}

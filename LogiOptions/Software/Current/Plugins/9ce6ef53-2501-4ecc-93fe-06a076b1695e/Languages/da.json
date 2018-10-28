@@ -1,0 +1,412 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "crownbrightness",
+            "value": "Lysstyrke"
+        },
+        {
+            "ID": "crownvolume",
+            "value": "Lydstyrke"
+        },
+        {
+            "ID": "crownmediacontrol",
+            "value": "Mediekontrol"
+        },
+        {
+            "ID": "crownexposeappswitch",
+            "value": "Skift mellem programmer"
+        },
+        {
+            "ID": "crowntabscommand",
+            "value": "Faneskift"
+        },
+        {
+            "ID": "crownswitchdesktop",
+            "value": "Skift skrivebord"
+        },
+        {
+            "ID": "crownzoom",
+            "value": "Zoom"
+        },
+        {
+            "ID": "crownnavigatepages",
+            "value": "Naviger mellem sider"
+        },
+        {
+            "ID": "crowncustomkeyleftright",
+            "value": "Tilpasset tast"
+        },
+        {
+            "ID": "crownhscroll",
+            "value": "Vandret rulning"
+        },
+		{
+            "ID": "brightness",
+            "value": "Lysstyrke"
+        },
+        {
+            "ID": "volume",
+            "value": "Lydstyrke"
+        },
+        {
+            "ID": "mediaplayer",
+            "value": "Medieafspiller"
+        },
+        {
+            "ID": "appswitch",
+            "value": "Skift mellem programmer"
+        },
+        {
+            "ID": "tabsswitch",
+            "value": "Faneskift"
+        },
+        {
+            "ID": "desktopswitch",
+            "value": "Skift skrivebord"
+        },
+        {
+            "ID": "crowndesktopswitch",
+            "value": "Skift skrivebord"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zoom"
+        },
+        {
+            "ID": "gesturebutton",
+            "value": "Bevægelsesknap"
+        },
+        {
+            "ID": "modeshiftbutton",
+            "value": "Tilstandsskiftknap"
+        },
+        {
+            "ID": "advancedclick",
+            "value": "Avanceret klikfunktion"
+        },
+        {
+            "ID": "applicationmenu",
+            "value": "Programmenu"
+        },
+        {
+            "ID": "back",
+            "value": "Tilbage"
+        },
+        {
+            "ID": "calculator",
+            "value": "Lommeregner"
+        },
+        {
+            "ID": "charms",
+            "value": "Amuletter"
+        },
+        {
+            "ID": "closewindow",
+            "value": "Luk vindue"
+        },
+        {
+            "ID": "copy",
+            "value": "Kopiér"
+        },
+        {
+            "ID": "cut",
+            "value": "Klip"
+        },
+        {
+            "ID": "devices",
+            "value": "Enheder"
+        },
+        {
+            "ID": "documents",
+            "value": "Dokumenter"
+        },
+        {
+            "ID": "doubleclick",
+            "value": "Dobbeltklik"
+        },
+        {
+            "ID": "email",
+            "value": "E-mail"
+        },
+        {
+            "ID": "forward",
+            "value": "Frem"
+        },
+        {
+            "ID": "home",
+            "value": "Startside"
+        },
+        {
+            "ID": "myhome",
+            "value": "Min startside"
+        },
+        {
+            "ID": "mymusic",
+            "value": "Min musik"
+        },
+        {
+            "ID": "inputlanguage",
+            "value": "Sprog"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Tildeling af tastefunktioner"
+        },
+        {
+            "ID": "launchapplication",
+            "value": "Start programmet"
+        },
+        {
+            "ID": "leftclick",
+            "value": "Venstreklik"
+        },
+        {
+            "ID": "lock",
+            "value": "Lås"
+        },
+        {
+            "ID": "maximizewindow",
+            "value": "Maksimer vindue"
+        },
+        {
+            "ID": "middlebutton",
+            "value": "Midterste knap"
+        },
+        {
+            "ID": "minimizewindow",
+            "value": "Minimer vindue"
+        },
+        {
+            "ID": "modifierkeys",
+            "value": "Modifikatornøgler"
+        },
+        {
+            "ID": "mousesensitivity",
+            "value": "Musens følsomhed"
+        },
+        {
+            "ID": "music",
+            "value": "Musik"
+        },
+        {
+            "ID": "mute",
+            "value": "Slå lyden fra"
+        },
+        {
+            "ID": "mycomputer",
+            "value": "Min computer"
+        },
+        {
+            "ID": "mydocuments",
+            "value": "Mine dokumenter"
+        },
+        {
+            "ID": "myvideos",
+            "value": "Mine videoer"
+        },
+        {
+            "ID": "next",
+            "value": "Næste"
+        },
+        {
+            "ID": "nextprevious",
+            "value": "Næste/forrige"
+        },
+        {
+            "ID": "nexttrackfastforward",
+            "value": "Næste nummer/spol frem"
+        },
+        {
+            "ID": "openfile",
+            "value": "Åbn fil"
+        },
+        {
+            "ID": "openfolder",
+            "value": "Åbn mappe"
+        },
+        {
+            "ID": "openwebpage",
+            "value": "Åbn webside"
+        },
+        {
+            "ID": "paste",
+            "value": "Sæt ind"
+        },
+        {
+            "ID": "mypictures",
+            "value": "Mine billeder"
+        },
+        {
+            "ID": "pictures",
+            "value": "Billeder"
+        },
+        {
+            "ID": "playpause",
+            "value": "Afspil/pause"
+        },
+        {
+            "ID": "previous",
+            "value": "Forrige"
+        },
+        {
+            "ID": "previoustrackrewind",
+            "value": "Forrige nummer/spol tilbage"
+        },
+        {
+            "ID": "rightclick",
+            "value": "Højreklik"
+        },
+        {
+            "ID": "scrollleft",
+            "value": "Scrol til venstre"
+        },
+        {
+            "ID": "scrollright",
+            "value": "Scrol til højre"
+        },
+        {
+            "ID": "search",
+            "value": "Søg"
+        },
+        {
+            "ID": "settings",
+            "value": "Indstil"
+        },
+        {
+            "ID": "share",
+            "value": "Del"
+        },
+        {
+            "ID": "showhidedesktop",
+            "value": "Vis/skjul skrivebord"
+        },
+        {
+            "ID": "shutdown",
+            "value": "Luk ned"
+        },
+        {
+            "ID": "signout",
+            "value": "Log af"
+        },
+        {
+            "ID": "sleep",
+            "value": "Dvale"
+        },
+        {
+            "ID": "startscreen",
+            "value": "Startskærmbillede"
+        },
+        {
+            "ID": "stop",
+            "value": "Stop"
+        },
+        {
+            "ID": "switchscreen",
+            "value": "Skift skærm"
+        },
+        {
+            "ID": "thispc",
+            "value": "Denne pc"
+        },
+        {
+            "ID": "togglesmoothscrolling",
+            "value": "Skift til jævn scrolning"
+        },
+        {
+            "ID": "videos",
+            "value": "Videoer"
+        },
+        {
+            "ID": "volumedown",
+            "value": "Skru ned"
+        },
+        {
+            "ID": "volumeup",
+            "value": "Skru op"
+        },
+        {
+            "ID": "zoomin",
+            "value": "Zoom ind"
+        },
+        {
+            "ID": "zoomout",
+            "value": "Zoom ud"
+        },
+        {
+            "ID": "zoomreset",
+            "value": "Nulstil zoom"
+        },
+        {
+            "ID": "none",
+            "value": "Ingen"
+        },
+        {
+            "ID": "switchleft",
+            "value": "Skift til venstre"
+        },
+        {
+            "ID": "switchright",
+            "value": "Skift til højre"
+        },
+        {
+            "ID": "previouspage",
+            "value": "Forrige side"
+        },
+        {
+            "ID": "nextpage",
+            "value": "Næste side"
+        },
+        {
+            "ID": "navigatepages",
+            "value": "Naviger mellem sider"
+        },
+        {
+            "ID": "customkey",
+            "value": "Tilpasset tast"
+        },
+        {
+            "ID": "navigatebetweenapps",
+            "value": "Naviger mellem apps"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "Kontekstuel"
+        },
+        {
+            "ID": "crownbrowsertextsize",
+            "value": "Tekststørrelse eller ændring af fane"
+        },
+        {
+            "ID": "createvirtualdesktop",
+            "value": "Ny stationær computer"
+        },
+        {
+            "ID": "clonevirtualdesktop",
+            "value": "Luk stationær computer"
+        },
+        {
+            "ID": "nextvirtualdesktop",
+            "value": "Skrivebord (næste)"
+        },
+        {
+            "ID": "previousvirtualdesktop",
+            "value": "Skrivebord (forrige)"
+        },
+        {
+            "ID": "teskview",
+            "value": "Opgavevisning"
+        },
+        {
+            "ID": "teskview10",
+            "value": "Opgavevisning"
+        },
+        {
+            "ID": "cortana",
+            "value": "Cortana"
+        },
+        {
+            "ID": "actioncenter",
+            "value": "Løsningscenter"
+        }
+    ]
+}

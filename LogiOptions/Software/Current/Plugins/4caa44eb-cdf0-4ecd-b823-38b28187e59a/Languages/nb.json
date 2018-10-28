@@ -1,0 +1,100 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "Kontekstavhengig"
+        },
+        {
+            "ID": "savefile",
+            "value": "Lagre fil"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zoom"
+        },
+        {
+            "ID": "sheetNavigation",
+            "value": "Arknavigering"
+        },
+        {
+            "ID": "horizontalScroll",
+            "value": "Vannrett rulling"
+        },
+        {
+            "ID": "createChart",
+            "value": "Opprett diagram"
+        },
+        {
+            "ID": "createTable",
+            "value": "Opprett tabell"
+        },
+        {
+            "ID": "tableStyle",
+            "value": "Tabellstil"
+        },
+        {
+            "ID": "chartType",
+            "value": "Diagramtype"
+        },
+        {
+            "ID": "quickLayout",
+            "value": "Hurtigoppsett"
+        },
+        {
+            "ID": "changeColor",
+            "value": "Endre farge"
+        },
+        {
+            "ID": "chartStyle",
+            "value": "Diagramstil"
+        },
+        {
+            "ID": "pieChart",
+            "value": "Sektordiagram"
+        },
+        {
+            "ID": "columnChart",
+            "value": "Stolpediagram"
+        },
+        {
+            "ID": "barChart",
+            "value": "Liggende stolpediagram"
+        },
+        {
+            "ID": "areaChart",
+            "value": "Arealdiagram"
+        },
+        {
+            "ID": "stockChart",
+            "value": "Børsdiagram"
+        },
+        {
+            "ID": "surfaceChart",
+            "value": "Overflatediagram"
+        },
+        {
+            "ID": "radarChart",
+            "value": "Radardiagram"
+        },
+        {
+            "ID": "tableColor",
+            "value": "Tabellfarge"
+        },
+        {
+            "ID": "xyscatterChart",
+            "value": "Punktdiagram"
+        },
+        {
+            "ID": "lineChart",
+            "value": "Linjediagram"
+        },
+        {
+            "ID": "comboChart",
+            "value": "Kombinasjonsdiagram"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Tilordning av tastetrykk"
+        }
+    ]
+}

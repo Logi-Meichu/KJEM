@@ -1,0 +1,140 @@
+{
+    "GUID": "abc9594a-1092-4a3a-8a1d-d05e602a10b8",
+  "tools": [
+    {
+      "name": "nothing",
+      "enabled": true,
+      "tool_options": [
+        {
+          "index": 0,
+          "name": "theme",
+          "image_file_path": "theme.png",
+          "enabled": true,
+          "ratchet_enabled": true,
+          "update_overlay_on_value_change": false
+        },
+        {
+          "index": 1,
+          "name": "colour",
+          "image_file_path": "themeColor.png",
+          "enabled": true,
+          "ratchet_enabled": true,
+          "update_overlay_on_value_change": false
+        },
+        {
+          "index": 2,
+          "name": "font",
+          "image_file_path": "themeFont.png",
+          "enabled": true,
+          "ratchet_enabled": true,
+          "update_overlay_on_value_change": false
+        },
+        {
+          "index": 3,
+          "name": "layout",
+          "image_file_path": "layout.png",
+          "enabled": true,
+          "ratchet_enabled": true,
+          "update_overlay_on_value_change": false
+        }
+      ]
+    },
+    {
+      "name": "text",
+      "enabled": true,
+      "tool_options": [
+        {
+          "index": 0,
+          "name": "textSize",
+          "image_file_path": "textSize.png",
+          "enabled": true,
+          "ratchet_enabled": false
+        },
+        {
+          "index": 1,
+          "name": "alignment",
+          "image_file_path": "alignLeft.png",
+          "enabled": true,
+          "ratchet_enabled": true,
+          "update_overlay_on_value_change": false
+        }
+      ]
+    },
+    {
+      "name": "image",
+      "enabled": true,
+      "tool_options": [
+        {
+          "index": 0,
+          "name": "size",
+          "image_file_path": "size.png",
+          "enabled": true,
+          "ratchet_enabled": false,
+          "update_overlay_on_value_change": false
+        },
+        {
+          "index": 1,
+          "name": "rotate",
+          "image_file_path": "rotate.png",
+          "enabled": true,
+          "ratchet_enabled": false,
+          "update_overlay_on_value_change": true
+        }
+      ]
+    },
+    {
+      "name": "chart",
+      "enabled": true,
+      "tool_options": [
+        {
+          "index": 0,
+          "name": "size",
+          "image_file_path": "size.png",
+          "enabled": true,
+          "ratchet_enabled": false,
+          "update_overlay_on_value_change": false
+        }
+      ]
+    },
+    {
+      "name": "table",
+      "enabled": true,
+      "tool_options": [
+        {
+          "index": 0,
+          "name": "tableStyle",
+          "image_file_path": "tableStyle.png",
+          "enabled": true,
+          "ratchet_enabled": true,
+          "update_overlay_on_value_change": false
+        },
+        {
+          "index": 1,
+          "name": "tableColor",
+          "image_file_path": "tableColor.png",
+          "enabled": true,
+          "ratchet_enabled": true,
+          "update_overlay_on_value_change": false
+        }
+      ]
+    }
+  ],
+    "tasks": [
+        {
+            "name": "changetoolvalue",
+            "win_id": "0x10064"
+        },
+        {
+            "name": "keystrokeassignment",
+            "image_file_path": "",
+            "mac_id": 73,
+            "win_id": "0x10000"
+        },
+        {
+            "name": "playpause",
+            "image_file_path": "",
+            "mac_id": 4,
+            "win_id": "0x0004"
+        }
+    ]
+}

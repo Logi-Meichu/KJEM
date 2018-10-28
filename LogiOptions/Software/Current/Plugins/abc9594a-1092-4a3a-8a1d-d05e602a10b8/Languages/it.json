@@ -1,0 +1,64 @@
+{
+  "LocalizedStrings": [
+    {
+      "ID": "changetoolvalue",
+      "value": "Contestuale"
+    },
+    {
+      "ID": "keystrokeassignment",
+      "value": "Assegnazione tasti"
+    },
+    {
+      "ID": "savefile",
+      "value": "Salva file"
+    },
+    {
+      "ID": "zoom",
+      "value": "Zoom"
+    },
+    {
+      "ID": "theme",
+      "value": "Stile tema"
+    },
+    {
+      "ID": "colour",
+      "value": "Colore tema"
+    },
+    {
+      "ID": "layout",
+      "value": "Layout"
+    },
+    {
+      "ID": "font",
+      "value": "Carattere tema"
+    },
+    {
+      "ID": "textSize",
+      "value": "Dimensione"
+    },
+    {
+      "ID": "alignment",
+      "value": "Allinea"
+    },
+    {
+      "ID": "fontWeight",
+      "value": "Spessore carattere"
+    },
+    {
+      "ID": "size",
+      "value": "Scala"
+    },
+    {
+      "ID": "rotate",
+      "value": "Ruota"
+    },
+    {
+      "ID": "tableStyle",
+      "value": "Stile tabella"
+    },
+    {
+      "ID": "tableColor",
+      "value": "Colore tabella"
+    }
+  ]
+}

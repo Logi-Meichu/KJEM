@@ -1,0 +1,32 @@
+{
+        "GUID": "abc9594a-1092-4a3a-8a1d-d05e602a10b8",
+        "info": {
+                "name": "Microsoft PowerPoint",
+                "publisher": "Logitech Inc.",
+                "version": "1.0",
+                "win_name": "POWERPNT.EXE",
+                "mac_bundle": "Microsoft PowerPoint 2013.app",
+                "win_minimum_supported_version": "14.0.0",
+                "win_maximum_supported_version": "2016"
+        },
+        "crown": {
+                "rotate": {
+                        "default_task": "changetoolvalue",
+                        "tasks": [
+                                "changetoolvalue"
+                        ],
+                        "short_list": [
+                                "changetoolvalue"
+                        ]
+                },
+                "press": {
+                        "default_task": "playpause",
+                        "tasks": [
+                                "playpause"
+                        ],
+                        "short_list": [
+                                "playpause"
+                        ]
+                }
+        }
+}

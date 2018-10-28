@@ -1,0 +1,92 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "size",
+            "value": "大小"
+        },
+        {
+            "ID": "hardness",
+            "value": "硬度"
+        },
+        {
+            "ID": "strokeWeight",
+            "value": "描边粗细"
+        },
+        {
+            "ID": "opacity",
+            "value": "透明度"
+        },
+        {
+            "ID": "brightness",
+            "value": "亮度"
+        },
+        {
+            "ID": "contrast",
+            "value": "对比度"
+        },
+        {
+            "ID": "saturation",
+            "value": "饱和度"
+        },
+        {
+            "ID": "flow",
+            "value": "流量"
+        },
+        {
+            "ID": "strength",
+            "value": "强度"
+        },
+        {
+            "ID": "tolerance",
+            "value": "容差"
+        },
+        {
+            "ID": "exposure",
+            "value": "曝光"
+        },        
+        {
+            "ID": "textSize",
+            "value": "大小"
+        },
+        {
+            "ID": "layertextSize",
+            "value": "涂层文字大小"
+        },
+        {
+            "ID": "blendMode",
+            "value": "混合模式"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "上下文"
+        },
+        {
+            "ID": "savefile",
+            "value": "保存文件"
+        },
+        {
+            "ID": "undoredo",
+            "value": "还原/恢复"
+        },
+        {
+            "ID": "undo",
+            "value": "还原"
+        },
+        {
+            "ID": "redo",
+            "value": "重做"
+        },
+        {
+            "ID": "zoom",
+            "value": "缩放"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "按键分配"
+        },
+        {
+            "ID": "playpause",
+            "value": "暂停/播放"
+        }
+    ]
+}

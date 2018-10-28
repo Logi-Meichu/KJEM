@@ -1,0 +1,191 @@
+@import url("Segoe_UI/stylesheet.css");
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-size: 62.5%;
+	background: black;
+
+}
+
+@font-face {
+	font-family: 'Segoe UI';
+	src: url('segoeui.ttf') format('truetype');
+}
+
+p, li {
+	margin-bottom: 3px;
+	font-family: "Segoe UI";
+	font-size: 1.4em;
+	line-height: 1.5;
+	margin-top: 10px;
+	margin-left: 0px;
+	color: #d2d2d2;
+	font-weight: 200;
+}
+
+a:link {
+	color:#FFFFFF;
+	text-decoration:none;
+	}  
+	
+
+
+a:visited {
+	color:#333333;
+	text-decoration:none;
+	}  
+
+a:hover {
+	color:#00AAA6;
+	font-weight: bold;
+}
+
+a:active {
+}
+
+
+
+h1 {
+	color: #d2d2d2;
+	height: 100%;
+	font-family: "Segoe UI";
+	margin-bottom: 0px;
+	font-weight: 100;
+	margin-top: 20px;
+	font-size: 3.6em;
+	letter-xspacing: 1px;
+	font-style: normal;
+	font-variant: normal;
+}
+
+h2 {
+	color: #d2d2d2;
+	margin-bottom: 5px;
+	margin-top: 20px;
+	font-weight: 100;
+	font-family: "Segoe UI";
+	font-size: 2.0em;
+}
+
+h3 {
+	color: #d2d2d2;
+	margin-bottom: 5px;
+	margin-top: 10px;
+	font-weight: normal;
+	font-family: "Segoe UI";
+	font-size: 1.4em;
+}
+
+h4 {
+	color: #d2d2d2;
+	margin-bottom: 3px;
+	margin-top: 6px;
+	font-weight: normal;
+	font-family: "Segoe UI";	
+	font-size: 1.2em;
+}
+h5 {
+	color: #333;
+	margin-bottom: 5px;
+	margin-top: 20px;
+	font-weight: normal;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 1.8em;
+}
+ul {
+	margin-left: 25px;
+}
+
+img {
+	border: none;
+	font-family: Tahoma, sans-serif;
+	margin-top: 0px;
+}
+
+#page-wrap {
+	background: white;
+	min-width: 520px;
+	max-width: 1000px;
+	margin: 0px auto;
+	}
+	#page-wrap #inside {
+		margin: 0px 0px 0px 0px;
+		padding-top: 0	px;
+		padding-bottom: 10px;
+	}
+	
+#main-content {
+	width: 280px;
+	padding-left: 300px;
+	padding-top: 35px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-left: 15px;
+}
+
+#main-content-body {
+	padding-left: 20px;
+	padding-top: 20px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin-left: 15px;
+}	
+
+#header {
+	background: #fff;
+	text-align: center;
+}
+	
+#left-sidebar {
+	width: 200px;
+	float: left;
+	padding-left: 20px;
+	padding-top: 0px;
+	margin-left: 20px;
+}
+
+#footer {
+	background: #fff;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: white;
+}
+#page-wrap #inside #left-sidebar h3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+}
+#page-wrap #inside #main-content p {
+	font-family: Arial, Helvetica, sans-serif;
+}
+#table {
+	width: 470px;
+	border-top: 20px solid #fff;
+	}
+
+#table p {
+	clear: both;
+	width: 100%;
+	margin: 0;
+	}
+
+#table span {
+	float: left;
+	padding: 0 10px;
+	border-left: 0px solid #e3e7e7;
+	border-bottom: 0px solid #e3e7e7;
+	}
+
+#table span.col1 {
+	width: 180px;
+	}
+
+#table span.col2 {
+	width: 170px;
+	}
+.tablefont {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+}

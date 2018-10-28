@@ -1,0 +1,100 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "Kontextbaserad"
+        },
+        {
+            "ID": "savefile",
+            "value": "Spara fil"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zooma"
+        },
+        {
+            "ID": "sheetNavigation",
+            "value": "Bladnavigering"
+        },
+        {
+            "ID": "horizontalScroll",
+            "value": "Vågrät rullning"
+        },
+        {
+            "ID": "createChart",
+            "value": "Skapa diagram"
+        },
+        {
+            "ID": "createTable",
+            "value": "Skapa tabell"
+        },
+        {
+            "ID": "tableStyle",
+            "value": "Tabellformat"
+        },
+        {
+            "ID": "chartType",
+            "value": "Diagramtyp"
+        },
+        {
+            "ID": "quickLayout",
+            "value": "Snabblayout"
+        },
+        {
+            "ID": "changeColor",
+            "value": "Ändra färg"
+        },
+        {
+            "ID": "chartStyle",
+            "value": "Diagramformat"
+        },
+        {
+            "ID": "pieChart",
+            "value": "Cirkeldiagram"
+        },
+        {
+            "ID": "columnChart",
+            "value": "Kolumndiagram"
+        },
+        {
+            "ID": "barChart",
+            "value": "Stapeldiagram"
+        },
+        {
+            "ID": "areaChart",
+            "value": "Ytdiagram"
+        },
+        {
+            "ID": "stockChart",
+            "value": "Aktiediagram"
+        },
+        {
+            "ID": "surfaceChart",
+            "value": "Ytdiagram"
+        },
+        {
+            "ID": "radarChart",
+            "value": "Radardiagram"
+        },
+        {
+            "ID": "tableColor",
+            "value": "Tabellfärg"
+        },
+        {
+            "ID": "xyscatterChart",
+            "value": "Punktdiagram"
+        },
+        {
+            "ID": "lineChart",
+            "value": "Linjediagram"
+        },
+        {
+            "ID": "comboChart",
+            "value": "Kombinationsdiagram"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Tangentkommando"
+        }
+    ]
+}

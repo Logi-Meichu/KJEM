@@ -1,0 +1,28 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "Acrobat Pro-reglage"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zooma"
+        },
+        {
+            "ID": "rotate",
+            "value": "Rotera"
+        },
+        {
+            "ID": "navigate",
+            "value": "Ändra sida"
+        },
+        {
+            "ID": "scroll",
+            "value": "Horisontell rullning"
+        },
+        {
+            "ID": "playpause",
+            "value": "Spela/Pausa"
+        }
+    ]
+}

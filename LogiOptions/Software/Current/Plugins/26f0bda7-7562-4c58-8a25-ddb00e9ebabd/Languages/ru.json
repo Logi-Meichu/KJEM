@@ -1,0 +1,48 @@
+{
+  "LocalizedStrings": [
+    {
+      "ID": "keystrokeassignment",
+      "value": "Назначение функций клавишам"
+    },
+    {
+      "ID": "changetoolvalue",
+      "value": "Контекстное"
+    },
+    {
+      "ID": "crownbrowsertextsize",
+      "value": "Изменение размера текста или вкладки"
+    },
+    {
+      "ID": "crowntabscommand",
+      "value": "Переключение вкладок"
+    },
+    {
+      "ID": "textSize",
+      "value": "Размер"
+    },
+    {
+      "ID": "imageSize",
+      "value": "Размер"
+    },
+    {
+      "ID": "tabSwitch",
+      "value": "Навигация по вкладкам"
+    },
+    {
+      "ID": "zoom",
+      "value": "Масштаб"
+    },
+    {
+      "ID": "sheetNavigation",
+      "value": "Навигация по листам"
+    },
+    {
+      "ID": "horizontalScroll",
+      "value": "Горизонтальная прокрутка"
+    },
+    {
+      "ID": "playpause",
+      "value": "Воспроизведение / Пауза"
+    }
+  ]
+}

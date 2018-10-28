@@ -1,0 +1,92 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "size",
+            "value": "Grootte"
+        },
+        {
+            "ID": "hardness",
+            "value": "Hardheid"
+        },
+        {
+            "ID": "strokeWeight",
+            "value": "Lijndikte"
+        },
+        {
+            "ID": "opacity",
+            "value": "Dekking"
+        },
+        {
+            "ID": "brightness",
+            "value": "Helderheid"
+        },
+        {
+            "ID": "contrast",
+            "value": "Contrast"
+        },
+        {
+            "ID": "saturation",
+            "value": "Verzadiging"
+        },
+        {
+            "ID": "flow",
+            "value": "Stroom"
+        },
+        {
+            "ID": "strength",
+            "value": "Sterkte"
+        },
+        {
+            "ID": "tolerance",
+            "value": "Tolerantie"
+        },
+        {
+            "ID": "exposure",
+            "value": "Belichting"
+        },        
+        {
+            "ID": "textSize",
+            "value": "Grootte"
+        },
+        {
+            "ID": "layertextSize",
+            "value": "Grootte laagtekst"
+        },
+        {
+            "ID": "blendMode",
+            "value": "Modus Overvloeien"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "Contextueel"
+        },
+        {
+            "ID": "savefile",
+            "value": "Bestand opslaan"
+        },
+        {
+            "ID": "undoredo",
+            "value": "Ongedaan maken/Opnieuw"
+        },
+        {
+            "ID": "undo",
+            "value": "Ongedaan maken"
+        },
+        {
+            "ID": "redo",
+            "value": "Opnieuw"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zoomen"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Toetsaanslagen toewijzen"
+        },
+        {
+            "ID": "playpause",
+            "value": "Afspelen/pauzeren"
+        }
+    ]
+}

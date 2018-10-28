@@ -1,0 +1,92 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "textSize",
+            "value": "Размер"
+        },
+        {
+            "ID": "leading",
+            "value": "Интерлиньяж"
+        },
+        {
+            "ID": "tracking",
+            "value": "Трекинг"
+        },
+        {
+            "ID": "colorFill",
+            "value": "Цвет заливки"
+        },
+        {
+            "ID": "colorStroke",
+            "value": "Цвет обводки"
+        },
+        {
+            "ID": "strokeWeight",
+            "value": "Толщина обводки"
+        },
+        {
+            "ID": "scale",
+            "value": "Масштаб"
+        },
+        {
+            "ID": "opacity",
+            "value": "Непрозрачность"
+        },
+        {
+            "ID": "pageNavigation",
+            "value": "Изменить страницу"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "Контекстное"
+        },
+        {
+            "ID": "undoRedo",
+            "value": "Отменить/Повторить"
+        },
+        {
+            "ID": "undoredo",
+            "value": "Отменить/Повторить"
+        },
+        {
+            "ID": "undo",
+            "value": "Отменить"
+        },
+        {
+            "ID": "redo",
+            "value": "Повторить"
+        },
+        {
+            "ID": "zoom",
+            "value": "Масштаб"
+        },
+        {
+            "ID": "shear",
+            "value": "Наклон"
+        },
+        {
+            "ID": "rotation",
+            "value": "Поворот"
+        },
+        {
+            "ID": "moveHorizontal",
+            "value": "Положение по оси X"
+        },
+        {
+            "ID": "moveVertical",
+            "value": "Положение по оси Y"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Назначение функций клавишам"
+        },
+        {
+            "ID": "tint",
+            "value": "Оттенок"
+        },
+        {
+            "ID": "playpause",
+            "value": "Воспроизведение/пауза"
+        }
+    ]
+}

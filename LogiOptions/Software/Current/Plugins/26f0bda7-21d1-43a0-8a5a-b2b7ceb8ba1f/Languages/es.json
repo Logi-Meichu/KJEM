@@ -1,0 +1,48 @@
+{
+  "LocalizedStrings": [
+    {
+      "ID": "keystrokeassignment",
+      "value": "Asignación de acción"
+    },
+    {
+      "ID": "changetoolvalue",
+      "value": "Contextual"
+    },
+    {
+      "ID": "crownbrowsertextsize",
+      "value": "Tamaño de texto o Cambiar pestaña"
+    },
+    {
+      "ID": "crowntabscommand",
+      "value": "Cambio de pestaña"
+    },
+    {
+      "ID": "textSize",
+      "value": "Tamaño"
+    },
+    {
+      "ID": "imageSize",
+      "value": "Tamaño"
+    },
+    {
+      "ID": "tabSwitch",
+      "value": "Navegación en pestañas"
+    },
+    {
+      "ID": "zoom",
+      "value": "Zoom"
+    },
+    {
+      "ID": "sheetNavigation",
+      "value": "Navegación en hojas"
+    },
+    {
+      "ID": "horizontalScroll",
+      "value": "Desplazamiento horizontal"
+    },
+    {
+      "ID": "playpause",
+      "value": "Reproducir / Pausa"
+    }
+  ]
+}

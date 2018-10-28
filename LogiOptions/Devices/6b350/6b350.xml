@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<device id="0x6b350" image="6b350.png" name="Craft Advanced Keyboard" bustype="1" pairingmethod="0" devicetype="0" extendedid="0" osversion="10.0" swversion="6.80.372">
+	<features>
+		<feature id="0x1000">
+			<params>
+				<param name="numberOfLevels" value="4" />
+				<param name="flags" value="4" />
+				<param name="nominalBatteryLife" value="49157" />
+				<param name="batteryCriticalLife" value="10" />
+			</params>
+		</feature>
+		<feature id="0x1814">
+			<params>
+				<param name="nbHost" value="3" />
+			</params>
+		</feature>
+		<feature id="0x1815">
+			<params>
+				<param name="nbHost" value="3" />
+				<param name="eQuadHDCapability" value="0" />
+				<param name="USBHDCapability" value="0" />
+				<param name="BTHDCapability" value="1" />
+				<param name="BLEHDCapability" value="0" />
+				<param name="GetNameCapability" value="1" />
+				<param name="SetNameCapability" value="1" />
+				<param name="MoveHostCapability" value="0" />
+				<param name="DeleteHostCapability" value="0" />
+			</params>
+		</feature>
+		<feature id="0x1982">
+			<params>
+				<param name="enableBacklight" value="1" />
+				<param name="wow" value="1" />
+				<param name="crown" value="0" />
+			</params>
+		</feature>
+		<feature id="0x1b04">
+			<controlids>
+				<controlid id="0xa" reprogrammable="1" taskidlist="calculatorList" type="hotkey" rawxy="0">
+					<task class="filelauncher" id="0x0a">
+						<params commandlineargs="" exe="calc.exe" lookuppath="1" />
+					</task>
+				</controlid>
+				<controlid id="0x6e" reprogrammable="1" taskidlist="showdesktopTaskidList" type="fkey" fpos="5" rawxy="0">
+					<task class="keystroke" id="0x43">
+						<params command="*d" />
+					</task>
+				</controlid>
+				<controlid id="0x6f" reprogrammable="1" taskidlist="lockScreenTaskidList" type="hotkey" rawxy="0">
+					<task class="powermanagement" id="0x44">
+						<params command="lockpc" />
+					</task>
+				</controlid>
+				<controlid id="0xbf" reprogrammable="1" taskidlist="printscreenTaskidList" type="hotkey" rawxy="0">
+					<task class="donothing" divert="0" id="0x9b">
+						<params />
+					</task>
+				</controlid>
+				<controlid id="0xc7" reprogrammable="1" taskidlist="brightnessDownTaskidlist" type="fkey" fpos="1" rawxy="0">
+					<task class="brightnesscommand" id="0xa3">
+						<params command="down" />
+					</task>
+				</controlid>
+				<controlid id="0xc8" reprogrammable="1" taskidlist="brightnessUpTaskidlist" type="fkey" fpos="2" rawxy="0">
+					<task class="brightnesscommand" id="0xa4">
+						<params command="up" />
+					</task>
+				</controlid>
+				<controlid id="0xd1" generic="1" reprogrammable="0" type="hotkey" rawxy="0">
+					<task class="donothing" id="0xFFFF">
+						<params />
+					</task>
+				</controlid>
+				<controlid id="0xd2" generic="1" reprogrammable="0" type="hotkey" rawxy="0">
+					<task class="donothing" id="0xFFFF">
+						<params />
+					</task>
+				</controlid>
+				<controlid id="0xd3" generic="1" reprogrammable="0" type="hotkey" rawxy="0">
+					<task class="keystroke" duplicate="45" id="0x00b0">
+						<params command10="*s" command7="*f" command8="*q" />
+					</task>
+				</controlid>
+				<controlid id="0xe0" reprogrammable="1" taskidlist="taskviewTaskIdlist" type="fkey" fpos="3" rawxy="0">
+					<task class="taskview" id="0xbf">
+						<params />
+					</task>
+				</controlid>
+				<controlid id="0xe1" reprogrammable="1" taskidlist="actionCenterTaskIdlist" type="fkey" fpos="4" rawxy="0">
+					<task class="keystroke" id="0xc0">
+						<params command10="*a" command7="*{TAB}" command8="*i" />
+					</task>
+				</controlid>
+				<controlid id="0xe2" reprogrammable="1" taskidlist="backlightdownTaskIdlist" type="fkey" fpos="6" rawxy="0">
+					<task class="virtualkey" divert="0" id="0xc1">
+						<params />
+					</task>
+				</controlid>
+				<controlid id="0xe3" reprogrammable="1" taskidlist="backlightupTaskIdlist" type="fkey" fpos="7" rawxy="0">
+					<task class="virtualkey" divert="0" id="0xc2">
+						<params />
+					</task>
+				</controlid>
+				<controlid id="0xe4" reprogrammable="1" taskidlist="previousTrackTaskIdlist" type="fkey" fpos="8" rawxy="0">
+					<task class="media" id="0x06">
+						<params command="previous" />
+					</task>
+				</controlid>
+				<controlid id="0xe5" reprogrammable="1" taskidlist="playpauseTrackTaskIdlist" type="fkey" fpos="9" rawxy="0">
+					<task class="media" id="0x04">
+						<params command="play_pause" />
+					</task>
+				</controlid>
+				<controlid id="0xe6" reprogrammable="1" taskidlist="nextTrackTaskIdlist" type="fkey" fpos="10" rawxy="0">
+					<task class="media" id="0x05">
+						<params command="next" />
+					</task>
+				</controlid>
+				<controlid id="0xe7" reprogrammable="1" taskidlist="muteTaskIdlist" type="fkey" fpos="11" rawxy="0">
+					<task class="volumecommand" id="0x03">
+						<params command="volmute" />
+					</task>
+				</controlid>
+				<controlid id="0xe8" reprogrammable="1" taskidlist="volDownTaskIdlist" type="fkey" fpos="12" rawxy="0">
+					<task class="volumecommand" id="0x02">
+						<params command="voldown" />
+					</task>
+				</controlid>
+				<controlid id="0xe9" reprogrammable="1" taskidlist="volUpTaskIdlist" type="hotkey" rawxy="0">
+					<task class="volumecommand" id="0x01">
+						<params command="volup" />
+					</task>
+				</controlid>
+				<controlid id="0xea" reprogrammable="1" taskidlist="appMenuTaskIdlist" type="hotkey" rawxy="0">
+					<task class="mouseclick" duplicate="57" id="0xc3">
+						<params clicktype="vkapps" />
+					</task>
+				</controlid>
+				<controlid id="0xeb" reprogrammable="0" type="hotkey" rawxy="0">
+					<task class="donothing" id="0xFFFF">
+						<params />
+					</task>
+				</controlid>
+				<controlid id="0xec" reprogrammable="0" type="hotkey" rawxy="0">
+					<task class="donothing" id="0xFFFF">
+						<params />
+					</task>
+				</controlid>
+			</controlids>
+		</feature>
+		<feature id="0x40a3">
+			<params>
+				<param name="fnInversionState" value="1" />
+				<param name="fnInversionDefaultState" value="1" />
+			</params>
+		</feature>
+		<feature id="0x4521">
+			<params>
+				<param name="winKey" value="0" />
+				<param name="insertKey" value="0" />
+				<param name="scrollLockKey" value="0" />
+				<param name="numLockKey" value="0" />
+				<param name="capsLockKey" value="0" />
+			</params>
+		</feature>
+		<feature id="0x4531">
+			<params>
+				<param name="nbHost" value="3" />
+				<param name="osDetectionCapability" value="1" />
+				<param name="setHostPlatformCapability" value="1" />
+				<param name="autoHostSwitch" value="1" />
+			</params>
+		</feature>
+		<feature id="0x4600">
+			<events>
+				<event id="rotate">
+					<task class="crownvolume" id="0x10059">
+						<params />
+					</task>
+				</event>
+				<event id="press">
+					<task class="media" id="0x04">
+						<params command="play_pause" />
+					</task>
+				</event>
+				<event id="pressandrotate">
+					<task class="crownvolume" id="0x10059">
+						<params />
+					</task>
+				</event>
+			</events>
+		</feature>
+	</features>
+</device>

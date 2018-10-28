@@ -1,0 +1,134 @@
+{
+    "GUID": "ca7c0911-fbf7-4e87-9c23-25987358303b",
+    "tools": [
+        {
+            "name": "nothing",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "theme",
+                    "image_file_path": "themeStyle.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "color",
+                    "image_file_path": "colorStyle.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 2,
+                    "name": "font",
+                    "image_file_path": "fontStyle.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "text",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "fontSize",
+                    "image_file_path": "fontSize.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                },
+                {
+                    "index": 1,
+                    "name": "paragraphStyle",
+                    "image_file_path": "paragraphStyle.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 2,
+                    "name": "alignment",
+                    "image_file_path": "alignment.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "image",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "size",
+                    "image_file_path": "imageSize.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "rotate",
+                    "image_file_path": "imageRotate.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": true
+                },
+                {
+                    "index": 2,
+                    "name": "wrapText",
+                    "image_file_path": "wrapText.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        },
+        {
+            "name": "table",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "tableStyle",
+                    "image_file_path": "tableStyle.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "tableColor",
+                    "image_file_path": "tableColor.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        }
+    ],
+    "tasks": [
+        {
+            "name": "changetoolvalue",
+            "win_id": "0x10064"
+        },
+        {
+            "name": "keystrokeassignment",
+            "image_file_path": "",
+            "mac_id": 73,
+            "win_id": "0x10000"
+        },
+        {
+            "name": "playpause",
+            "image_file_path": "",
+            "mac_id": 4,
+            "win_id": "0x0004"
+        }
+    ]
+}

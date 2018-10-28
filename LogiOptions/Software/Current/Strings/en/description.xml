@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="utf-8"?>
+<descriptions>
+	<taskids>
+
+		<!-- ******************************** frequently used windows tasks *********************************** -->
+		<task id="0x1d">
+			<description>Media player</description>
+		</task>
+		<task id="0x44">
+			<description>Lock</description>
+		</task>
+		<task id="0x10001">
+			<description>Sign out</description>
+		</task>
+		<task id="0x0c">
+			<description>Close window</description>
+		</task>
+		<task id="0x52">
+			<description>None</description>
+		</task>
+		<task id="0x53">
+			<description>Switch applications</description>
+		</task>
+		<task id="0x8">
+			<description>Switch applications</description>
+		</task>
+		<task id="0x0e">
+			<description>Email</description>
+		</task>
+		<task id="0x87">
+			<description>Search</description>
+		</task>
+		<task id="0x88">
+			<description>Share</description>
+		</task>
+		<task id="0x89">
+			<description>Devices</description>
+		</task>
+		<task id="0x8a">
+			<description>Settings</description>
+		</task>
+		<task id="0x7A">
+			<description>Charms</description>
+		</task>
+		<task id="0x8E">
+			<description>Show/hide desktop</description>
+		</task>
+		<task id="0x79">
+			<description>Application menu</description>
+		</task>
+		<task id="0x90">
+			<description>Start screen</description>
+		</task>
+		<task id="0x95">
+			<description>Maximize window</description>
+		</task>
+		<task id="0x94">
+			<description>Minimize window</description>
+		</task>
+		<task id="0x38">
+			<description>Left click</description>
+		</task>
+		<task id="0x39">
+			<description>Right click</description>
+		</task>
+		<task id="0x3A">
+			<description>Middle button</description>
+		</task>
+
+		<!-- *********************************** back/forward *********************************** -->
+		<task id="0x3b">
+			<description>Back</description>
+		</task>
+		<task id="0x3c">
+			<description>Back</description>
+		</task>
+		<task id="0xab">
+			<description>Back</description>
+		</task>
+		<task id="0x3d">
+			<description>Forward</description>
+		</task>
+		<task id="0x3e">
+			<description>Forward</description>
+		</task>
+		<task id="0xac">
+			<description>Forward</description>
+		</task>
+
+		<!-- *********************************** Edit features *********************************** -->
+		<task id="0x51">
+			<description>Cut</description>
+		</task>
+		<task id="0x4e">
+			<description>Copy</description>
+		</task>
+		<task id="0x85">
+			<description>Paste</description>
+		</task>
+
+		<!-- *********************************** Calculator File launcher *********************************** -->
+		<task id="0x0a">
+			<description>Calculator</description>
+		</task>
+
+		<!-- *********************************** Volume & Media handlers *********************************** -->
+		<task id="0x01">
+			<description>Volume up</description>
+		</task>
+		<task id="0x02">
+			<description>Volume down</description>
+		</task>
+		<task id="0x03">
+			<description>Mute</description>
+		</task>
+		<task id="0x04">
+			<description>Play/Pause</description>
+		</task>
+		<task id="0x07">
+			<description>Stop</description>
+		</task>
+		<task id="0x05">
+			<description>Next</description>
+		</task>
+		<task id="0x06">
+			<description>Previous</description>
+		</task>
+
+		<!-- *********************************** Common folders *********************************** -->
+		<task id="0x27">
+			<description>My Computer</description>
+		</task>
+		<task id="0x48">
+			<description>This PC</description>
+		</task>
+		<task id="0x22">
+			<description>My Documents</description>
+		</task>
+		<task id="0x49">
+			<description>Documents</description>
+		</task>
+		<task id="0x24">
+			<description>My Pictures</description>
+		</task>
+		<task id="0x50">
+			<description>Pictures</description>
+		</task>
+		<task id="0x23">
+			<description>My Music</description>
+		</task>
+		<task id="0x54">
+			<description>Music</description>
+		</task>
+		<task id="0x26">
+			<description>My Videos</description>
+		</task>
+		<task id="0x55">
+			<description>Videos</description>
+		</task>
+
+		<!-- *********************************** Open Web Page *********************************** -->
+		<task id="0x47">
+			<description>My Home</description>
+		</task>
+		<task id="0x33">
+			<description>Zoom in</description>
+		</task>
+		<task id="0x35">
+			<description>Zoom out</description>
+		</task>
+		<task id="0x10010">
+			<description>Rotate left</description>
+		</task>
+		<task id="0x1000F">
+			<description>Rotate right</description>
+		</task>
+		<task id="0x1000E">
+			<description>Unassigned</description>
+		</task>
+
+        <task id="0xFFFE">
+            <description>Disabled</description>
+        </task>     
+
+		<task id="0x37">
+			<description>Zoom reset</description>
+		</task>
+		<task id="0x0b">
+			<description>Email</description>
+		</task>
+		<task id="0x2f">
+			<description>Sleep</description>
+		</task>
+		<task id="0x1a">
+			<description>My Home</description>
+		</task>
+		<task id="0x56">
+			<description>Home</description>
+		</task>
+		<task id="0x1c">
+			<description>Minimize all windows</description>
+		</task>
+		<task id="0x1b">
+			<description>Restore all windows</description>
+		</task>
+		<task id="0x91">
+			<description>Switch screen</description>
+		</task>
+		<task id="0x93">
+			<description>Switch screen</description>
+		</task>
+		<task id="0x43">
+			<description>Show/hide desktop</description>
+		</task>
+		<task id="0x2d">
+			<description>Search</description>
+		</task>
+		<task id="0xb0">
+			<description>Search</description>
+		</task>
+		<task id="0xb1">
+			<description>Search</description>
+		</task>
+		<task id="0xba">
+			<description>Input Language</description>
+		</task>
+
+		<task id="0x47">
+			<description>My Home</description>
+		</task>
+
+		<task id="0x96">
+			<description>Switch applications</description>
+		</task>
+		<task id="0x97">
+			<description>My Home</description>
+		</task>
+		<task id="0x9b">
+             <description>Screen Capture</description>
+        </task>
+		<task id="0xb2">
+			<description>My Home</description>
+		</task>
+		<task id="0x98">
+			<description>Right click</description>
+		</task>
+		<task id="0x20">
+			<description>Right click</description>
+		</task>
+		<task id="0xb3">
+			<description>Right click</description>
+		</task>
+		<task id="0x99">
+			<description>Back</description>
+		</task>
+		<task id="0xce">
+			<description>Back</description>
+		</task>
+    <task id="0xc5">
+      <description>New browser tab</description>
+    </task>
+    
+		<task id="0xA8">
+			<description>Gesture button</description>
+		</task>
+		<task id="0xA9">
+			<description>Gesture button</description>
+		</task>
+		<task id="0x9c">
+			<description>Gesture button</description>
+		</task>
+		<task id="0xad">
+			<description>Gesture button</description>
+		</task>
+
+		<task id="0x1002c">
+			<description>Gesture button</description>
+		</task>
+
+		<task id="0x9d">
+			<description>Mode shift button</description>
+		</task>
+
+		<task id="0x71">
+			<description>rotate right analog</description>
+		</task>
+
+		<task id="0x72">
+			<description>rotate left analog</description>
+		</task>
+
+		<task id="0x73">
+			<description>pan left</description>
+		</task>
+
+		<task id="0x74">
+			<description>pan right</description>
+		</task>
+
+		<task id="0x75">
+			<description>pan up</description>
+		</task>
+
+		<task id="0x76">
+			<description>pan down</description>
+		</task>
+
+
+		<task id="0x3f">
+			<description>Scroll left</description>
+		</task>
+
+		<task id="0x40">
+			<description>Scroll right</description>
+		</task>
+
+		<task id="0xc3">
+			<description>App Menu</description>
+		</task>
+
+		<task id="0xbf">
+			<description>Task View</description>
+		</task>
+
+		<task id="0xa3">
+			<description>Brightness Down</description>
+		</task>
+
+		<task id="0xa4">
+			<description>Brightness Up</description>
+		</task>
+
+		<task id="0xc0">
+			<description>Action Center</description>
+		</task>
+
+		<task id="0xc1">
+			<description>Backlight Down</description>
+		</task>
+
+		<task id="0xc2">
+			<description>Backlight Up</description>
+		</task>
+		
+		<task id="0x10003">
+			<description>Hibernate</description>
+		</task>
+
+		<!-- task ids local to LogiOptions -->
+		<!-- *************************************  -->
+		<task id="0x10000">
+			<description>Keystroke assignment</description>
+		</task>
+		<task id="0x10001">
+			<description>Log Off</description>
+		</task>
+		<task id="0x10002">
+			<description>Shut down</description>
+		</task>
+		<task id="0x10003">
+			<description>Hibernate</description>
+		</task>
+		<task id="0x10004">
+			<description>Launch application</description>
+		</task>
+		<task id="0x10007">
+			<description>Next track/Fast forward</description>
+		</task>
+		<task id="0x10008">
+			<description>Open file</description>
+		</task>
+		<task id="0x10009">
+			<description>Open folder</description>
+		</task>
+		<task id="0x1000A">
+			<description>Open web page</description>
+		</task>
+		<task id="0x1000B">
+			<description>Previous track/Rewind</description>
+		</task>
+		<task id="0x1000C">
+			<description>Double click</description>
+		</task>
+		<task id="0x1000D">
+			<description>Windows 8 shortcuts</description>
+		</task>
+
+		<task id="0x10011">
+			<description>Pan</description>
+		</task>
+		<task id="0x10012">
+			<description>Pan</description>
+		</task>
+		<task id="0x10013">
+			<description>Pan</description>
+		</task>
+		<task id="0x10014">
+			<description>Pan</description>
+		</task>
+		<task id="0x1000E">
+			<description>Middle Button</description>
+		</task>
+
+		<task id="0x10019">
+			<description>Start screen</description>
+		</task>
+
+		<task id="0x10020">
+			<description>Maximize window</description>
+		</task>
+
+		<task id="0x10021">
+			<description>Show/hide desktop</description>
+		</task>
+		<task id="0x10022">
+			<description>Switch applications</description>
+		</task>
+
+		<task id="0x10026">
+			<description>Snap left</description>
+		</task>
+
+		<task id="0x10027">
+			<description>Snap right</description>
+		</task>
+
+		<task id="0x10029">
+			<description>Zoom in</description>
+		</task>
+
+		<task id="0x10030">
+			<description>Volume up</description>
+		</task>
+
+		<task id="0x10031">
+			<description>Volume down</description>
+		</task>
+
+		<task id="0x10032">
+			<description>Previous</description>
+		</task>
+
+		<task id="0x10033">
+			<description>Next</description>
+		</task>
+
+		<task id="0x10034">
+			<description>Play/Pause</description>
+		</task>
+
+		<task id="0x10035">
+			<description>Start Menu</description>
+		</task>
+		<task id="0x10036">
+			<description>Easy-Switch</description>
+		</task>
+		<task id="0x10037">
+			<description>Mouse sensitivity</description>
+		</task>
+		<task id="0xc4">
+			<description>Precision Mode</description>
+		</task>
+
+		<task id="0x10038">
+			<description>Maximize window</description>
+		</task>
+
+		<task id="0x10039">
+			<description>Modifier keys</description>
+		</task>
+
+		<task id="0x10040">
+			<description>Advanced click</description>
+		</task>
+
+		<task id="0x10041">
+			<description>Toggle smooth scrolling</description>
+		</task>
+
+		<task id="0x10042">
+			<description>New desktop</description>
+		</task>
+
+		<task id="0x10043">
+			<description>Close desktop</description>
+		</task>
+
+		<task id="0x10044">
+			<description>Desktop (next)</description>
+		</task>
+
+		<task id="0x10045">
+			<description>Desktop (previous)</description>
+		</task>
+
+		<task id="0x10047">
+			<description>Start menu</description>
+		</task>
+		<task id="0x10048">
+			<description>Show/hide desktop</description>
+		</task>
+		<task id="0x10049">
+			<description>Desktop (previous)</description>
+		</task>
+		<task id="0x10050">
+			<description>Desktop (next)</description>
+		</task>
+		<task id="0x10051">
+			<description>Task view</description>
+		</task>
+		<task id="0x10052">
+			<description>Action center</description>
+		</task>
+		<task id="0x10053">
+			<description>Task view</description>
+		</task>
+		<task id="0x10055">
+			<description>Cortana</description>
+		</task>
+	<task id="0x10056">
+	  <description>Task view</description>
+	</task>
+		<task id="0x10100">
+			<description>Maximize window</description>
+		</task>
+		<task id="0x10101">
+			<description>Show/hide desktop</description>
+		</task>
+		<task id="0x10102">
+			<description>My Home</description>
+		</task>
+		<task id="0x10103">
+			<description>Start Application</description>
+		</task>
+		<task id="0x10104">
+			<description>Switch applications</description>
+		</task>
+		<task id="0x10059">
+			<description>Volume</description>
+		</task>
+		<task id="0x1005a">
+			<description>Desktop switch</description>
+		</task>
+		<task id="0x1005b">
+			<description>Brightness</description>
+		</task>
+		<task id="0x1005c">
+			<description>Media control</description>
+		</task>
+		<task id="0x1005d">
+			<description>Switch applications</description>
+		</task>
+		<task id="0x1005f">
+			<description>Tab switch</description>
+		</task>
+    <!--task id="0x10060">
+			<description>Crown Desktop Switch</description>
+		</task-->
+		<task id="0x10061">
+			<description>Zoom</description>
+		</task>
+		<task id="0x10062">
+			<description>Crown Navigate Pages</description>
+		</task>
+		<task id="0x10063">
+			<description>Custom key</description>
+		</task>
+		<task id="0x10064">
+			<description>Change Tool Value</description>
+		</task>
+		<task id="0x10065">
+			<description>Undo/Redo</description>
+		</task>
+    <task id="0x10110">
+      <description>Trackball Sensitivity</description>
+    </task>
+    <task id="0xcd">
+      <description>F1</description>
+    </task>
+    <task id="0xc6">
+      <description>F2</description>
+    </task>
+    <task id="0xc7">
+      <description>F3</description>
+    </task>
+    <task id="0xc8">
+      <description>F4</description>
+    </task>
+    <task id="0xc9">
+      <description>F5</description>
+    </task>
+    <task id="0xca">
+      <description>F6</description>
+    </task>
+    <task id="0xcb">
+      <description>F7</description>
+    </task>
+    <task id="0xcc">
+      <description>F8</description>
+    </task>
+
+
+  </taskids>
+	<gestureids>
+		<gesture id="0x21">
+			<description>Tap to click</description>
+		</gesture>
+		<gesture id="0x2c">
+			<description>Smooth scrolling</description>
+		</gesture>
+		<gesture id="0x2d">
+			<description>Scroll direction</description>
+		</gesture>
+		<gesture id="0x2a">
+			<description>Horizontal scrolling</description>
+		</gesture>
+		<gesture id="0x2b">
+			<description>Vertical scrolling</description>
+		</gesture>
+		<gesture id="0x40">
+			<description>Switch applications</description>
+		</gesture>
+		<gesture id="0x41">
+			<description>Show Charms</description>
+		</gesture>
+		<gesture id="0x43">
+			<description>Application menu</description>
+		</gesture>
+		<gesture id="0x54">
+			<description>Zoom</description>
+		</gesture>
+		<gesture id="0x14">
+			<description>Pointer speed</description>
+		</gesture>
+		<!-- new gestures -->
+		<gesture id="0x2e">
+			<description>Thumb wheel scrolling</description>
+		</gesture>
+		<gesture id="0x64">
+			<description>Thumb wheel double tap</description>
+		</gesture>
+		<gesture id="0x27d3">
+			<description>SmartShift remapping</description>
+		</gesture>
+		<gesture id="0x2762">
+			<description>button 3 remapping</description>
+		</gesture>
+		<gesture id="0x27d4">
+			<description>gesture button remapping</description>
+		</gesture>
+	</gestureids>
+	<gesturetaskids>
+		<gesturetask id="0x0">
+			<description>Disabled</description>
+		</gesturetask>
+		<gesturetask id="0x1">
+			<description>Tap with 1 or 2 fingers</description>
+		</gesturetask>
+		<gesturetask id="0x2">
+			<description>Enabled</description>
+		</gesturetask>
+		<gesturetask id="0x3">
+			<description>Traditional</description>
+		</gesturetask>
+		<gesturetask id="0x4">
+			<description>Content tracks fingers</description>
+		</gesturetask>
+		<gesturetask id="0x5">
+			<description>Swipe left and right with 2 fingers</description>
+		</gesturetask>
+		<gesturetask id="0x6">
+			<description>Swipe up and down with 2 fingers</description>
+		</gesturetask>
+		<gesturetask id="0x7">
+			<description>Swipe from left edge with 1 finger</description>
+		</gesturetask>
+		<gesturetask id="0x8">
+			<description>Swipe from right edge with 1 finger</description>
+		</gesturetask>
+		<gesturetask id="0x9">
+			<description>Swipe from top edge with 1 finger</description>
+		</gesturetask>
+		<gesturetask id="0xa">
+			<description>Spread or pinch with 2 fingers</description>
+		</gesturetask>
+		<gesturetask id="0xb">
+			<description>Pointer speed</description>
+		</gesturetask>
+	</gesturetaskids>
+	<gestureactiongroups>
+		<actiongroup id="win8nav">
+			<description>Navigate windows</description>
+		</actiongroup>
+		<actiongroup id="win7nav">
+			<description>Navigate windows</description>
+		</actiongroup>
+		<actiongroup id="win8nav2">
+			<description>Windows management</description>
+		</actiongroup>
+		<actiongroup id="winarrangement">
+			<description>Arrange windows</description>
+		</actiongroup>
+		<actiongroup id="mediagestures">
+			<description>Media controls</description>
+		</actiongroup>
+		<actiongroup id="panzoom">
+			<description>Pan</description>
+		</actiongroup>
+		<actiongroup id="zoomrotate">
+			<description>Zoom/Rotate</description>
+		</actiongroup>
+		<actiongroup id="custom">
+			<description>Custom</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelhorzscroll">
+			<description>Horizontal scroll</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelzoom">
+			<description>Zoom in/out</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelvolume">
+			<description>Volume up/down</description>
+		</actiongroup>
+		<actiongroup id="thumbwheeltabs">
+			<description>Tabs next/previous</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelnextprev">
+			<description>Next/Previous</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelbackforward">
+			<description>Forward/Back</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelalttab">
+			<description>Switch applications</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelbrightness">
+			<description>Increase/decrease brightness </description>
+		</actiongroup>
+		<actiongroup id="thumbwheelbackforwardtouch">
+			<description>Forward / Back Touch</description>
+		</actiongroup>
+		<actiongroup id="virtualdesktop">
+			<description>Virtual desktops</description>
+		</actiongroup>
+	<actiongroup id="fn_virtualdesktop">
+      <description>Virtual desktops</description>
+    </actiongroup>
+		<actiongroup id="thumbwheelvirtualdesktop">
+			<description>Switch between desktops</description>
+		</actiongroup>
+		<actiongroup id="thumbwheeldonothing">
+			<description>None</description>
+		</actiongroup>
+		<actiongroup id="touch">
+			<description>Pan using Touch </description>
+		</actiongroup>
+		<actiongroup id="ichitaro">
+			<description>Ichitaro2017</description>
+		</actiongroup>
+    <actiongroup id="disabled">
+        <description>Disabled</description>
+    </actiongroup>
+
+	</gestureactiongroups>
+</descriptions>

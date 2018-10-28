@@ -1,0 +1,48 @@
+{
+  "LocalizedStrings": [
+    {
+      "ID": "keystrokeassignment",
+      "value": "Tangentkommando"
+    },
+    {
+      "ID": "changetoolvalue",
+      "value": "Kontextbaserad"
+    },
+    {
+      "ID": "crownbrowsertextsize",
+      "value": "Ändra textstorlek eller flik"
+    },
+    {
+      "ID": "crowntabscommand",
+      "value": "Flikspak"
+    },
+    {
+      "ID": "textSize",
+      "value": "Storlek"
+    },
+    {
+      "ID": "imageSize",
+      "value": "Storlek"
+    },
+    {
+      "ID": "tabSwitch",
+      "value": "Fliknavigering"
+    },
+    {
+      "ID": "zoom",
+      "value": "Zooma"
+    },
+    {
+      "ID": "sheetNavigation",
+      "value": "Bladnavigering"
+    },
+    {
+      "ID": "horizontalScroll",
+      "value": "Vågrät rullning"
+    },
+    {
+      "ID": "playpause",
+      "value": "Spela/paus"
+    }
+  ]
+}

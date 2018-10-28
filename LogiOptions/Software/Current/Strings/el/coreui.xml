@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringDictionary version="1.2">
+  <Strings>
+    <String key="WindowName">LogiOptions</String>
+    <String key="ApplicationName">Options</String>
+    <String key="MoreDetails">Περισσότερες ρυθμίσεις</String>
+    <String key="FnInversion">Χρησιμοποιήστε τα F1 - F12 ως τυπικά πλήκτρα λειτουργιών</String>
+    <String key="KeyboardWinMode">Να διατηρείται πάντα το πληκτρολόγιο σε διάταξη Windows</String>
+    <String key="Backlighting">Απενεργοποίηση οπίσθιου φωτισμού</String>
+    <String key="Customize">ΠΡΟΣΑΡΜΟΓΗ</String>
+    <String key="CustomizeGestures">Προσαρμογή κινήσεων</String>
+    <String key="GestureClickDetail">Κάντε κλικ στο κουμπί κινήσεων.</String>
+    <String key="GestureMotionDetail">Κρατήστε πατημένο το κουμπί κινήσεων, ενώ μετακινείτε το ποντίκι.</String>
+    <String key="GestureMotionDetail_Trackball">Κρατήστε πατημένο το κουμπί κινήσεων ενώ χρησιμοποιείτε το trackball.</String>
+    <!--<String key="GestureButtonLearnMore">Learn more about gesture button</String>-->
+    <String key="LearnMore">ΜΑΘΕΤΕ ΠΕΡΙΣΣΟΤΕΡΑ</String> 
+    <String key="LaunchSetpoint">Εκκίνηση του SetPoint</String>
+    <String key="DownloadSetpoint">Λήψη του SetPoint</String>
+    <String key="CrosslinkDevicesReminder">Να μην εμφανιστεί ξανά αυτό το μήνυμα</String>
+    <String key="CrosslinkDevicesDialog">Η εφαρμογή %BrandName% Options δεν υποστηρίζει όλες τις συσκευές %BrandName% που είναι συνδεδεμένες στο σύστημά σας.  Χρησιμοποιήστε το λογισμικό %BrandName% SetPoint για να προσαρμόσετε τις ρυθμίσεις για τις ακόλουθες συσκευές:</String>
+    <String key="CommaSeparator">, </String>
+    <String key="AndSeparator"> και </String>
+
+    <String key="StringFragments:Device">συσκευή</String>
+
+    <String key="DeviceList:NoDevices">Δεν εντοπίστηκαν συσκευές</String>
+    <String key="DeviceList:NoDeviceDesc">Βεβαιωθείτε ότι οι συσκευές σας έχουν συνδεθεί και ενεργοποιηθεί.</String>
+    <String key="DeviceList:Removed">Καταργήθηκε</String>
+    <String key="DeviceList:Enumuerate">Σάρωση...</String>
+    <String key="DeviceList:Devices">Συσκευές</String>
+
+    <String key="Video:NoVideo">Δεν έχει εγκατασταθεί βίντεο</String>
+    <String key="Video:VideoFailDialog">Δεν ήταν δυνατή η λήψη του βίντεο της συσκευής αυτήν τη στιγμή. Δοκιμάστε ξανά αργότερα.</String>
+
+    <String key="Tooltip:BatteryUnknown">Άγνωστο</String>
+    <String key="Tooltip:BatteryCritical">Σχεδόν εξαντλημένη</String>
+    <String key="Tooltip:BatteryLow">Χαμηλή</String>
+    <String key="Tooltip:BatteryGood">Ικανοποιητική</String>
+    <String key="Tooltip:BatteryFull">Πλήρης</String>
+    <String key="Tooltip:BatteryCharging">Σε φόρτιση</String>
+    <String key="Tooltip:BatteryError">Σφάλμα φόρτισης</String>
+    <String key="Tooltip:BatteryComplete">Η φόρτιση ολοκληρώθηκε</String>
+    <String key="Tooltip:Connected">Συνδέθηκε</String>
+    <String key="Tooltip:NotConnected">Δεν έχει συνδεθεί</String>
+
+    <!-- Device Settings Tabs -->
+    <String key="DeviceSettings:Keyboard">Πληκτρολόγιο</String>
+    <String key="DeviceSettings:Mouse">Ποντίκι</String>
+    <String key="DeviceSettings:Trackball">Trackball</String>
+    <String key="DeviceSettings:PointScroll">Κατάδειξη και κύλιση</String>
+    <String key="DeviceSettings:Gestures">Κινήσεις</String>
+    <String key="DeviceSettings:Illumination">Φωτισμός</String>
+    <String key="DeviceSettings:FunctionKeys">Πλήκτρα λειτουργιών</String>
+    <String key="DeviceSettings:ShortcutKeys">Πλήκτρα συντόμευσης</String>
+    <String key="DeviceSettings:EasySwitch">Easy-Switch</String>
+    <String key="DeviceSettings:Crown">Επιλογέας</String>
+    <String key="DeviceSettings:Flow">Flow</String>
+    <String key="DeviceSettings:Beta">Beta</String>
+
+    <String key="DeviceSettings:GestureById0x2e">Ευαισθησία τροχού αντίχειρα</String>
+
+    <String key="Buttons:MinimizeToolTip">Ελαχιστοποίηση</String>
+    <String key="Buttons:CloseToolTip">Κλείσιμο</String>
+    <String key="Buttons:More">ΠΕΡΙΣΣΟΤΕΡΑ</String>
+    <String key="Buttons:Less">ΛΙΓΟΤΕΡΑ</String>
+    <String key="Buttons:RestoreDefaults">Επαναφορά προεπιλογών</String>
+    <String key="Buttons:Restore">Επαναφορά</String>
+    <String key="Buttons:YourDevices">Οι συσκευές σας</String>
+    <String key="Buttons:AddDevice">Προσθήκη συσκευών</String>
+    <String key="Buttons:Continue">Συνέχεια</String>
+    <String key="Buttons:TryAgain">Δοκιμάστε ξανά</String>
+    <String key="Buttons:Cancel">Άκυρο</String>
+    <String key="Buttons:Skip">Παράλειψη</String>
+    <String key="Buttons:Remind">Εγκατάσταση αργότερα</String>
+    <String key="Buttons:Okay">OK</String>
+    <String key="Buttons:Ok">OK</String>
+    <String key="Buttons:FirmwareUpdate">Έλεγχος για ενημέρωση υλικολογισμικού</String>
+    <String key="Buttons:SoftwareUpdate">Έλεγχος για ενημέρωση</String>
+    <String key="Buttons:LaunchUnifying">Άνοιγμα λογισμικού Unifying</String>
+    <String key="Buttons:FileBrowse">Αναζήτηση...</String>
+    <String key="Buttons:VideoDownload">Λήψη βίντεο</String>
+    <String key="Buttons:PairAnother">Αντιστοίχιση άλλης συσκευής</String>
+    <String key="Buttons:Done">Ολοκληρώθηκε</String>    
+    <String key="Buttons:Enable">ΕΝΕΡΓΟΠΟΙΗΣΗ</String><!--NEW AFTER 4/10/2017-->
+    <String key="Buttons:Disable">ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ</String>
+    <String key="Buttons:Retry">ΕΠΑΝΑΛΗΨΗ</String>
+    <String key="Buttons:MoreSettings">ΠΕΡΙΣΣΟΤΕΡΕΣ ΡΥΘΜΙΣΕΙΣ</String><!--NEW 7/24/2017-->
+    
+    <String key="TaskSelect:RemoveHost">ΚΑΤΑΡΓΗΣΗ</String>
+    <String key="TaskSelect:Keystroke">Εισαγωγή πατήματος πλήκτρου</String>
+    <String key="TaskSelect:FileLaunch">Όνομα αρχείου</String>
+    <String key="TaskSelect:FolderLaunch">Όνομα φακέλου</String>
+    <String key="TaskSelect:WebLaunch">Διεύθυνση Web</String>
+    <String key="TaskSelect:HostSwitch">Στοιχείο ελέγχου Easy-Switch</String>
+    <String key="TaskSelect:DpiShift">Ορισμός ευαισθησίας για το ποντίκι</String>
+    <String key="TaskSelect:DpiShiftTrackball">Ορίστε την ευαισθησία του trackball</String>
+    <String key="TaskSelect:HorizontalScrollSpeed">Ορισμός ταχύτητας για την οριζόντια κύλιση</String>
+    <String key="TaskSelect:KeystrokeBlank">(Κάντε κλικ εδώ)</String>
+    <String key="TaskSelect:FileLaunchBlank">(Εισαγάγετε όνομα αρχείου)</String>
+    <String key="TaskSelect:FolderLaunchBlank">(Εισαγάγετε όνομα φακέλου)</String>
+    <String key="TaskSelect:WebLaunchBlank">(Εισαγάγετε διεύθυνση URL)</String>
+    <String key="TaskSelect:KeystrokeDesc">Κάντε κλικ μέσα στο παραπάνω λευκό πλαίσιο και πατήστε έναν έγκυρο συνδυασμό πλήκτρων για να δημιουργήσετε μια συντόμευση.</String>
+    <String key="TaskSelect:FileLaunchDesc">Κάντε κλικ στο κουμπί Αναζήτηση για να επιλέξετε ένα αρχείο ή πληκτρολογήστε την πλήρη διαδρομή του αρχείου στο παραπάνω λευκό πλαίσιο.</String>
+    <String key="TaskSelect:FolderLaunchDesc">Κάντε κλικ στο κουμπί Αναζήτηση για να επιλέξετε έναν φάκελο ή πληκτρολογήστε την πλήρη διαδρομή του φακέλου στο παραπάνω λευκό πλαίσιο.</String>
+    <String key="TaskSelect:WebLaunchDesc">Εισαγάγετε τη διεύθυνση URL της επιθυμητής τοποθεσίας Web στο παραπάνω λευκό πλαίσιο.</String>
+    <String key="TaskSelect:HostSwitchDesc">Πιέστε το κουμπί για να μεταβείτε στον επόμενο διαθέσιμο κεντρικό υπολογιστή.</String>
+    <String key="TaskSelect:DpiShiftDesc">Πιέστε το κουμπί για να κάνετε εναλλαγή μεταξύ της κύριας και της προσαρμοσμένης ταχύτητας δείκτη.</String>
+    <String key="TaskSelect:HorizontalScrollSpeedDesc">Χρησιμοποιήστε το ρυθμιστικό για να προσαρμόσετε τη ρύθμιση για την ταχύτητα της οριζόντιας κύλισης.</String>
+    <String key="TaskSelect:KeystrokeWaiting">(Πιέστε το συνδυασμό πλήκτρων)</String>
+    <String key="TaskSelect:DpiShiftMasterChannel">Κύρια</String>
+    <String key="TaskSelect:DpiShiftCustom1Channel">Ειδική</String>
+    <String key="TaskSelect:HostSwitchNotAvail">Η συσκευή δεν είναι διαθέσιμη</String>
+    <String key="TaskSelect:HostSwitchInstruction">Κάντε εναλλαγή μεταξύ έως και 3 κεντρικών υπολογιστών.</String>
+    <String key="TaskSelect:HostSwitchLegend1">Τρέχων κεντρικός υπολογιστής</String>
+    <String key="TaskSelect:HostSwitchLegend2">Διαθέσιμος</String>
+    <String key="TaskSelect:HostSwitchLegend3">Μη διαθέσιμος</String>
+    <String key="TaskSelect:ThumbwheelScroll">Κύλιση μέσω τροχού αντίχειρα</String>
+    <String key="TaskSelect:InvertHorzScroll">Αντιστροφή κατεύθυνσης οριζόντιας κύλισης</String>
+    <String key="TaskSelect:TiltScrollSpeed">Ορισμός ταχύτητας για την οριζόντια κύλιση</String>
+    <String key="TaskSelect:AdvancedClick">Ρύθμιση κλικ για προχωρημένους</String>
+    <String key="TaskSelect:ModifierKeys">Επιλογή παραγόντων τροποποίησης</String>
+    <String key="TaskSelect:ModKeyAlt">Alt</String>
+    <String key="TaskSelect:ModKeyCtl">Ctrl</String>
+    <String key="TaskSelect:ModKeyShf">Shift</String>
+    <String key="TaskSelect:ModKeyWin">Win</String>
+    <String key="TaskSelect:ModKeyJnr"> + </String>
+    <String key="TaskSelect:SelectClick">Επιλογή τύπου κλικ</String>
+    <String key="TaskSelect:SingleClick">Κλικ</String>
+    <String key="TaskSelect:DoubleClick">Διπλό κλικ</String>
+    <String key="TaskSelect:TripleClick">Τριπλό κλικ</String>
+    <String key="TaskSelect:RightClick">Δεξί κλικ</String>
+    <String key="TaskSelect:MiddleClick">Μεσαίο κλικ</String>
+    <String key="TaskSelect:SelectTools">Επιλέξτε τα εργαλεία προγραμματισμού</String>
+    <String key="TaskSelect:SelectToolsHint">Ανάλογα με την ανάλυση της οθόνης, μπορεί να μην είναι δυνατή η εμφάνιση όλων των ενεργών εργαλείων στην επικάλυψη.</String>
+
+    <String key="More:ThisDevice">Αυτή η συσκευή</String>
+    <String key="More:Connectivity">Συνδεσιμότητα</String>
+    <String key="More:Software">Λογισμικό</String>
+    <String key="More:About">Πληροφορίες</String>
+    <String key="More:NotifyCheckbox">Να γίνεται αυτόματα έλεγχος για ενημερώσεις</String>
+    <String key="More:Notifications">Ειδοποιήσεις</String>
+    <String key="More:NotificationText">Να ειδοποιούμαι όταν συμβαίνει το εξής. (Οι ειδοποιήσεις θα εμφανίζονται για σύντομο χρονικό διάστημα στην οθόνη σας).</String>
+    <String key="More:NotificationsText">Να ειδοποιούμαι όταν συμβαίνει ένα από τα ακόλουθα. (Οι ειδοποιήσεις θα εμφανίζονται για σύντομο χρονικό διάστημα στην οθόνη σας).</String>
+    <String key="More:NotifyBattLow">Η στάθμη της μπαταρίας συσκευής είναι χαμηλή</String>
+    <String key="More:NotifyCapsLock">Είναι πατημένο το πλήκτρο Caps Lock</String>
+    <String key="More:NotifyScrollLock">Είναι πατημένο το πλήκτρο Scroll Lock</String>
+    <String key="More:NotifyLockKey">Είναι πατημένο ένα πλήκτρο κλειδώματος</String>
+    <String key="More:DisabledKeys">Απενεργοποιημένα πλήκτρα</String>
+    <String key="More:DisabledKeysText">Επιλέξτε τα πλήκτρα που θέλετε να απενεργοποιήσετε.</String>
+    <String key="More:KeysCapsLock">Caps Lock</String>
+    <String key="More:KeysScrollLock">Scroll Lock</String>
+    <String key="More:KeysInsert">Insert</String>
+    <String key="More:KeysWindows">Πλήκτρο Windows/Έναρξη</String>
+    <String key="More:KeysNumLock">Num Lock</String>
+    <String key="More:Unifying">Unifying</String>
+    <String key="More:UnifyingText">Συνδέθηκε δέκτης %BrandName% Unifying σε αυτόν τον υπολογιστή. Μπορείτε να αντιστοιχίσετε έως και έξι συμβατά ασύρματα ποντίκια, πληκτρολόγια και άλλες συσκευές Unifying με ένα μόνο δέκτη %BrandName% Unifying.</String>
+    <String key="More:LearnMore">Μάθετε περισσότερα</String>
+    <String key="More:OpenUnifying">Άνοιγμα λογισμικού Unifying</String>
+    <String key="More:Bluetooth">Bluetooth</String>
+    <String key="More:SoftwareVersion">Έκδοση λογισμικού: </String>
+    <String key="More:FirmwareVersion">Έκδοση υλικολογισμικού: </String>
+    <String key="More:CopyTrade">© 2018 %BrandName%. Τα λογότυπα %BrandName%, Logi και άλλα σήματα %BrandName% αποτελούν ιδιοκτησία της %BrandName% και ενδέχεται να είναι καταχωρημένα. Όλα τα υπόλοιπα εμπορικά σήματα αποτελούν ιδιοκτησία των αντίστοιχων κατόχων τους.</String>
+    <String key="More:Support">Υποστήριξη</String>
+    <String key="More:SupportText">Επισκεφτείτε τον ιστότοπο υποστήριξης για να λάβετε βοήθεια ή να βρείτε έγγραφα τεκμηρίωσης, στοιχεία λήψης, καθώς και να αποκτήσετε πρόσβαση στα φόρουμ χρηστών.</String>
+    <String key="More:DeveloperMode">Λειτουργία για προγραμματιστές</String><!--NEW 1/11/2018-->
+    <String key="More:DeveloperModeText">Σας επιτρέπει να εγκαθιστάτε και να χρησιμοποιείτε μη υπογεγραμμένα προφίλ εφαρμογών τρίτων για σκοπούς προγραμματισμού. Μάθετε περισσότερα σχετικά με το </String><!--NEW 1/11/2018-->
+    <String key="More:DeveloperModeLink">Options SDK</String><!--NEW 1/11/2018-->
+    <String key="More:DeveloperModeEnabled">Η ΛΕΙΤΟΥΡΓΙΑ ΓΙΑ ΠΡΟΓΡΑΜΜΑΤΙΣΤΕΣ ΕΝΕΡΓΟΠΟΙΗΘΗΚΕ</String><!--NEW 1/11/2018-->
+
+    <String key="UpdateStatus:Checking">Γίνεται έλεγχος για ενημέρωση...</String>
+    <String key="UpdateStatus:NoUpdateAvailable">Το λογισμικό είναι ενημερωμένο</String>
+    <String key="UpdateStatus:DownloadInProgress">Γίνεται λήψη της ενημέρωσης...</String>
+    <String key="UpdateStatus:DownloadSuccess">Η λήψη ολοκληρώθηκε</String>
+    <String key="UpdateStatus:DownloadFailure">Απέτυχε η λήψη</String>
+    <String key="UpdateStatus:InstallInProgress">Γίνεται εγκατάσταση της ενημέρωσης...</String>
+    <String key="UpdateStatus:InstallSuccess">Το λογισμικό είναι ενημερωμένο</String>
+    <String key="UpdateStatus:InstallFailure">Απέτυχε η εγκατάσταση</String>
+    <String key="UpdateStatus:NoInternetConnection">Δεν εντοπίστηκε σύνδεση στο Internet. Προσπαθήστε ξανά αργότερα.</String>
+
+    <String key="Modal:RestoreDefaultsWarning">Θα γίνει επαναφορά των ρυθμίσεων για αυτήν τη συσκευή στις προεπιλεγμένες τιμές. Δεν θα γίνει επαναφορά των καθολικών ρυθμίσεων που ισχύουν για όλες τις συσκευές. Επιλέξτε Συνέχεια για να επαναφέρετε τις προεπιλεγμένες ρυθμίσεις ή Άκυρο για να διατηρήσετε τις τρέχουσες ρυθμίσεις.</String>
+    <String key="Modal:InstallUpdates">Μια ενημέρωση είναι έτοιμη να εγκατασταθεί. Επιλέξτε Συνέχεια για να εγκαταστήσετε την ενημέρωση τώρα, Εγκατάσταση αργότερα για να σας γίνει υπενθύμιση την επόμενη φορά που θα ανοίξετε αυτήν την εφαρμογή ή Παράλειψη για να αγνοήσετε αυτήν την ενημέρωση.</String>
+    <String key="Modal:InteractiveUpdates">Μια ενημέρωση είναι έτοιμη να εγκατασταθεί. Επιλέξτε Συνέχεια για να εγκαταστήσετε την ενημέρωση τώρα ή Εγκατάσταση αργότερα για να σας γίνει υπενθύμιση την επόμενη φορά που θα ανοίξετε αυτήν την εφαρμογή.</String>
+    <String key="Modal:RelaunchUI">Η εφαρμογή %BrandName% Options ενημερώθηκε και θα γίνει αυτόματη επανεκκίνηση για την ενεργοποίηση των νέων λειτουργιών.</String>
+    <String key="Modal:ClearHostChannel">Αυτή η επιλογή θα καταργήσει προσωρινά τον επιλεγμένο κεντρικό υπολογιστή από τη λειτουργικότητα Easy-Switch. Κάντε κλικ στο κουμπί %%Buttons:Continue%% για να συνεχίσετε ή επιλέξτε %%Buttons:Cancel%% για ματαίωση.</String>
+    <String key="Modal:UnknownFeatures">Το %BrandName% Options εντόπισε άγνωστες λειτουργίες σε μία ή περισσότερες από τις συνδεδεμένες συσκευές. Για τη σωστή υποστήριξή τους, βεβαιωθείτε ότι το %BrandName% Options είναι ενημερωμένο με την πιο πρόσφατη έκδοση.</String>
+    <String key="Modal:ConfirmEnableDeveloperMode">Αν ενεργοποιήσετε τη λειτουργία για προγραμματιστές, θα μπορείτε να εγκαθιστάτε και να χρησιμοποιείτε προφίλ εφαρμογών που δεν έχουν εγκριθεί και υπογραφεί από την %BrandName%. Αυτή η ενέργεια μπορεί να επηρεάσει τη συμπεριφορά των συσκευών και των εφαρμογών σας. Αν αντιμετωπίσετε προβλήματα, απενεργοποιήστε τη λειτουργία για προγραμματιστές προτού επικοινωνήσετε με την υποστήριξη. 
+
+ΣΗΜΕΙΩΣΗ: Η ανάλυση θα ενεργοποιηθεί αυτόματα.</String><!--NEW 1/11/2018-->
+    <String key="Modal:ConfirmDisableDeveloperMode">Αν απενεργοποιήσετε τη λειτουργία για προγραμματιστές, δεν θα είναι δυνατή η εγκατάσταση νέων προφίλ εφαρμογών τα οποία δεν έχουν εγκριθεί και υπογραφεί από την %BrandName%. Τυχόν μη υπογεγραμμένα προφίλ εφαρμογών που έχετε ήδη εγκαταστήσει θα καταργηθούν από τη λίστα προφίλ.</String><!--NEW 1/11/2018-->
+    <String key="Modal:OnboardingSelectionError">Οι εφαρμογές μπορούν να έχουν αντιστοιχισμένο ένα μόνο προφίλ. Επιλέξτε ένα προφίλ από τη λίστα. Αν έχετε ενεργοποιήσει ήδη ένα προφίλ, βεβαιωθείτε πρώτα ότι έχετε καταργήσει το προφίλ εφαρμογής από τις "Ρυθμίσεις για συγκεκριμένες εφαρμογές" και δοκιμάστε να εγκαταστήσετε ξανά το προφίλ.</String><!--NEW 1/11/2018-->
+
+    <String key="DFUState:DFU_WELCOME_PAGE_STEP0">Υπάρχει διαθέσιμη ενημέρωση υλικολογισμικού για τη συσκευή σας ==DeviceName==. Κατά τη διάρκεια αυτής της διαδικασίας, η συσκευή σας ==DeviceName== ενδέχεται να μην είναι διαθέσιμη για χρήση. Θέλετε να συνεχίσετε;</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_PAIRED_STEP1">Έλεγχος για αντιστοιχισμένη συσκευή...</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_PAIRED_STEP1_WAITING">Η συσκευή σας ==DeviceName== δεν φαίνεται να έχει αντιστοιχιστεί. Αντιστοιχίστε την τώρα ή δοκιμάστε ξανά αργότερα.</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_ACTIVE_STEP2">Έλεγχος αν η συσκευή είναι ενεργή...</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_ACTIVE_STEP2_WAITING">Δεν είναι δυνατός ο εντοπισμός της συσκευή σας ==DeviceName==. Βεβαιωθείτε ότι είναι ενεργοποιημένο και λειτουργεί.</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_BATTERY_OK_STEP3">Έλεγχος της κατάστασης φόρτισης της μπαταρίας...</String>
+    <String key="DFUState:DFU_PREREQ_FW_VERSION_CHECK_STEP3_PLUS">Έλεγχος εκδόσεων υλικολογισμικού...</String>
+    <String key="DFUState:DFU_ENTER_DFU_MODE_STEP4">Μετάβαση της συσκευής σε λειτουργία ενημέρωσης υλικολογισμικού...</String>
+    <String key="DFUState:DFU_ENTER_DFU_MODE_STEP4_WAITING">Για να εγκαταστήσετε την ενημέρωση, απενεργοποιήστε τη συσκευή σας ==DeviceName== και, στη συνέχεια, ενεργοποιήστε την ξανά. Μετά την έναρξη της ενημέρωσης, μην απενεργοποιήσετε τη συσκευή σας και μην την αποσυνδέσετε μέχρι να ολοκληρωθεί η ενημέρωση.</String>
+    <String key="DFUState:DFU_SEND_FIRST_DFU_PACKET_STEP5">Εκκίνηση ενημέρωσης υλικολογισμικού...</String>
+    <String key="DFUState:DFU_PACKET_STEP5_RESPONSE_WAITING">Ενημέρωση του υλικολογισμικού της συσκευής σας ==DeviceName==</String>
+    <String key="DFUState:DFU_ABORT_INTERNAL_ERROR">Παρουσιάστηκε σφάλμα κατά τη διαδικασία ενημέρωσης. Δοκιμάστε να επαναλάβετε την εγκατάσταση της ενημέρωσης.</String>
+    <String key="DFUState:DFU_ABORT_LOW_BATTERY_ERROR">Δεν είναι δυνατή η εγκατάσταση της ενημέρωσης επειδή το επίπεδο μπαταρίας της συσκευής σας ==DeviceName== είναι πολύ χαμηλό. Φορτίστε ή αντικαταστήστε τις μπαταρίες και δοκιμάστε να επαναλάβετε την εγκατάσταση της ενημέρωσης.</String>
+    <String key="DFUState:DFU_ABORT_START_FAILED_ERROR">Παρουσιάστηκε σφάλμα κατά τη διαδικασία ενημέρωσης. Δοκιμάστε να επαναλάβετε την εγκατάσταση της ενημέρωσης.</String>
+    <String key="DFUState:DFU_SUCCESS">Το υλικολογισμικό της συσκευής σας ==DeviceName== ενημερώθηκε με επιτυχία!</String>
+    <String key="DFUState:DFU_ABORT">Ένα άγνωστο σφάλμα προκάλεσε τη ματαίωση της ενημέρωσης υλικολογισμικού. Προσπαθήστε ξανά αργότερα.</String>
+    <String key="DFUState:DFU_DONE">Η συσκευή σας ==DeviceName== είναι έτοιμη για χρήση.</String>
+    <String key="DFUState:DFU_ABORT_FW_VERSION_UPTO_DATE">Το υλικολογισμικό της συσκευής σας είναι ήδη ενημερωμένο.</String>
+    <String key="DFUState:DFU_BLE_MODE_NOT_SUPPORTED">Δεν είναι δυνατή η ενημέρωση της συσκευής ==DeviceName== όταν είναι αντιστοιχισμένη με Bluetooth. Βεβαιωθείτε ότι έχει αντιστοιχιστεί με δέκτη Unifying και δοκιμάστε ξανά. Σας ευχαριστούμε.</String>
+    <String key="DFUState:DFU_EXIT_FROM_WELCOME_PAGE"/>
+    <String key="DFUState:Unknown">Εντοπίστηκε άγνωστη κατάσταση DFU:</String>
+
+    <String key="GenericFeatures:ProgramControls">Προγραμματιζόμενα στοιχεία ελέγχου</String>
+    <String key="GenericFeatures:UnsupportedFeatures">Μη υποστηριζόμενες λειτουργίες</String>
+
+    <String key="MouseFeatures:MiddleButton">Μεσαίο κουμπί</String>
+    <String key="MouseFeatures:PointerSpeed">Ταχύτητα δείκτη</String>
+    <String key="MouseFeatures:ScrollDirection">Κατεύθυνση τροχού κύλισης</String>
+    <String key="MouseFeatures:SmoothScroll">Ομαλή κύλιση</String>
+    <String key="MouseFeatures:SmartShift">SmartShift</String>
+    <String key="MouseFeatures:SmartShiftThreshold">Ευαισθησία SmartShift</String>
+    <String key="MouseFeatures:DefaultWheelMode">Σταθερή λειτουργία τροχού κύλισης</String>
+    <String key="MouseFeatures:SwapLeftRight">Αλλαγή του αριστερού και του δεξιού πλήκτρου</String>
+    <String key="MouseFeatures:SmartShiftHintOff">Η σταθερή λειτουργία είναι ανενεργή. (Απενεργοποιήστε το SmartShift και βεβαιωθείτε ότι η εναλλαγή λειτουργίας δεν έχει αντιστοιχιστεί σε κάποιο κουμπί).</String>
+    <String key="MouseFeatures:SmartShiftHintOn">Η σταθερή λειτουργία είναι ενεργή. </String>
+    <String key="MouseFeatures:Enabled">Ενεργοποιήθηκε</String>
+    <String key="MouseFeatures:Disabled">Απενεργοποιήθηκε</String>
+    <String key="MouseFeatures:Traditional">Παραδοσιακή</String>
+    <String key="MouseFeatures:Inverted">Ανεστραμμένη</String>
+    <String key="MouseFeatures:Default">Προεπιλογή</String>
+    <String key="MouseFeatures:Ratchet">Υψηλή ακρίβεια</String>
+    <String key="MouseFeatures:Freespin">Ελεύθερη περιστροφή</String>
+    <String key="MouseFeatures:HorScroll">Κατεύθυνση τροχού αντίχειρα</String>
+    <String key="MouseFeatures:NotAssigned">Δεν έχει αντιστοιχιστεί</String>
+    <String key="MouseFeatures:Backlight">Απενεργοποίηση φωτισμού μετά από</String>
+    <String key="MouseFeatures:10Sec">10 δευτερόλεπτα</String>
+    <String key="MouseFeatures:20Sec">20 δευτερόλεπτα</String>
+    <String key="MouseFeatures:30Sec">30 δευτερόλεπτα</String>
+    <String key="MouseFeatures:1Min">1 λεπτό</String>
+    <String key="MouseFeatures:5Min">5 λεπτά</String>
+    <String key="MouseFeatures:10Min">10 λεπτά</String>
+    <String key="MouseFeatures:Illumination">Ενεργοποίηση φωτισμού</String>
+    <String key="MouseFeatures:HandDetection">με εντοπισμό χεριού</String>
+    <String key="MouseFeatures:StartTyping">όταν ξεκινώ να πληκτρολογώ</String>
+
+    <String key="AddDevice">Προσθήκη συσκευής</String>
+    <String key="AddDevice:UnifyingHeadline">Ρύθμιση συσκευής Unifying</String>
+    <String key="AddDevice:WirelessHeadline">Ρυθμίστε μια ασύρματη συσκευή</String>
+    <String key="AddDevice:UnifyingDescription">Αντιστοιχίστε έως και έξι συμβατά ασύρματα ποντίκια και πληκτρολόγια σε έναν μόνο δέκτη %BrandName% Unifying.</String>
+    <String key="AddDevice:WirelessDescription">Αντιστοιχίστε έως έξι συμβατά ασύρματα ποντίκια και πληκτρολόγια σε ένα δέκτη %BrandName% Unifying ή ένα ασύρματο ποντίκι ή πληκτρολόγιο σε ένα νανοδέκτη %BrandName%.</String>
+    <String key="AddDevice:LtdOnlyDescription">Αντιστοιχίστε ένα ασύρματο ποντίκι ή πληκτρολόγιο.</String>
+    <String key="AddDevice:UnifyingButton">Προσθήκη συσκευής Unifying</String>
+    <String key="AddDevice:WirelessButton">Προσθήκη ασύρματης συσκευής</String>
+    <String key="AddDevice:AdvancedButton">Προχωρημένη εφαρμογή Unifying</String>
+    <String key="AddDevice:NoUnifyingHeadline">Δεν υπάρχει δέκτης Unifying</String>
+    <String key="AddDevice:NoUnifyingDescription">Για να προσθέσετε μια συσκευή, συνδέστε έναν δέκτη Unifying στον υπολογιστή σας και περιμένετε λίγα δευτερόλεπτα μέχρι να γίνει διαθέσιμο το κουμπί "Προσθήκη συσκευής Unifying".</String>
+    <String key="AddDevice:BluetoothHeadline">Ρύθμιση συσκευής Bluetooth</String>
+    <String key="AddDevice:BluetoothDescription">Προσθέστε μια συσκευή Bluetooth χρησιμοποιώντας το βοηθητικό πρόγραμμα αντιστοίχισης των Windows.</String>
+    <String key="AddDevice:BluetoothButton">Προσθήκη συσκευής Bluetooth</String>
+    <String key="AddDevice:NoBluetoothHeadline">Δεν υπάρχει δέκτης Bluetooth</String>
+    <String key="AddDevice:BluetoothOffHeadline">Ο δέκτης Bluetooth απενεργοποιήθηκε</String>
+    <String key="AddDevice:DevicesDetected">Εντοπισμένες συσκευές</String>
+    <String key="AddDevice:NoDevicesDetected">Δεν εντοπίστηκαν συσκευές</String>
+    <String key="AddDevice:BluetoothSmartCapable">Το PC σας υποστηρίζει συσκευές Bluetooth Smart.</String>
+    <String key="AddDevice:BluetoothSmartIncapable">Το PC σας δεν υποστηρίζει συσκευές Bluetooth Smart.</String>
+
+    <!-- DJCU components -->
+    <String key="DJCU:ConnectTitle">Πραγματοποιήστε επανεκκίνηση της συσκευής που θέλετε να συνδέσετε στον υπολογιστή σας</String>
+    <String key="DJCU:Connect1">1. Εντοπίστε το ρυθμιστικό ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ-ΕΝΕΡΓΟΠΟΙΗΣΗ (απεικονίζεται παρακάτω).</String>
+    <String key="DJCU:Connect2">2. Μετακινήστε το ρυθμιστικό στη θέση ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ και, στη συνέχεια, στη θέση ΕΝΕΡΓΟΠΟΙΗΣΗ. (Έπειτα, περιμένετε να ολοκληρωθεί η αντιστοίχιση της συσκευής).</String>
+    <String key="DJCU:Connect3">(Συμβουλή: Το ρυθμιστικό βρίσκεται στο κάτω μέρος της συσκευής ή στην επάνω δεξιά γωνία της).</String>
+    <String key="DJCU:Connect4">* Ορισμένες συσκευές %BrandName% δεν είναι συμβατές με αυτόν τον ασύρματο δέκτη.</String>
+
+    <String key="DJCU:TimeoutTitle">Λυπούμαστε. Η αντιστοίχιση απέτυχε</String>
+    <String key="DJCU:Timeout1">Δεν ήταν δυνατή η αντιστοίχιση της συσκευής σας εντός του αναμενόμενου χρόνου.</String>
+    <String key="DJCU:Timeout2">Κάντε κλικ στο κουμπί ‘%%Buttons:TryAgain%%’ για να ξεκινήσετε ξανά τη διαδικασία αντιστοίχισης.</String>
+    <String key="DJCU:Timeout3">Ή κάντε κλικ στο κουμπί ‘%%Buttons:Cancel%%’ αν δεν θέλετε να χρησιμοποιήσετε αυτήν τη συσκευή.</String>
+    <String key="DJCU:Timeout4">Κάντε κλικ εδώ για να δείτε πληροφορίες σχετικά με την αντιμετώπιση προβλημάτων.</String>
+
+    <String key="DJCU:ReceiversFullTitle">Όλοι οι ασύρματοι δέκτες είναι πλήρεις</String>
+    <String key="DJCU:ReceiversFull1">Δεν υπάρχουν διαθέσιμες θέσεις για τη σύνδεση επιπλέον συσκευής Unifying ή ασύρματης συσκευής στους δέκτες σας.</String>
+    <String key="DJCU:ReceiversFull2">Για να συνδέσετε κάποια άλλη συσκευή θα πρέπει να συνδέσετε ένα νέο δέκτη Unifying.</String>
+
+    <String key="DJCU:MultiReceiverTitle">Υπάρχουν συνδεδεμένοι πολλοί ασύρματοι δέκτες</String>
+    <String key="DJCU:MultiReceiver1">Αν θέλετε να κάνετε αντιστοίχιση με συγκεκριμένο δέκτη, αποσυνδέστε όλους τους δέκτες Unifying από τον υπολογιστή σας, εκτός από αυτόν στον οποίο θέλετε να αντιστοιχίσετε τη συσκευή.</String>
+    <String key="DJCU:MultiReceiver2">Αν θέλετε να επιλεχθεί αυτόματα οποιοσδήποτε διαθέσιμος δέκτης, απλώς κάντε κλικ στο κουμπί ‘%%Buttons:Continue%%’.</String>
+
+    <String key="DJCU:OtpErrorTitle">Αποτυχία συσκευής ή δέκτη</String>
+    <String key="DJCU:OtpError1">Η συσκευή ή ο δέκτης που προσπαθείτε να αντιστοιχίσετε έχει αντιστοιχιστεί πάρα πολλές φορές και δεν είναι πλέον δυνατή η αντιστοίχισή του.</String>
+
+    <String key="DJCU:IncompatibleDeviceTitle">Η συσκευή δεν είναι συμβατή</String>
+    <String key="DJCU:IncompatibleDevice1">Δεν ήταν δυνατή η αντιστοίχιση της συσκευής σας. Η συσκευή δεν είναι συμβατή με τον δέκτη. Χρησιμοποιήστε τον δέκτη που συνόδευε τη συσκευή.</String>
+
+    <String key="DJCU:PairSuccessTitle">Η αντιστοίχιση ολοκληρώθηκε</String>
+    <String key="DJCU:PairSuccess1">Η συσκευή %DeviceName% αντιστοιχίστηκε με επιτυχία.</String>
+
+    <!-- Easy-Switch HostInfo Types (feature 0x1814) -->
+    <!-- public enum HostInfoHostTypes { Unset = 0, Unknown = 1, Windows = 2, Win7 = 3, Win8 = 4, Win10 = 5, MacOS = 6, Mac107 = 7, Mac108 = 8, Mac109 = 9 } -->
+    <String key="HostInfo:Unset">Κανένας κεντρικός υπολογιστής</String>
+    <String key="HostInfo:Unknown">Άγνωστος τύπος κεντρικού υπολογιστή</String>
+    <String key="HostInfo:Windows">Windows</String>
+    <String key="HostInfo:Win7">Windows 7</String>
+    <String key="HostInfo:Win8">Windows 8</String>
+    <String key="HostInfo:Win10">Windows 10</String>
+    <String key="HostInfo:MacOS">Mac OS</String>
+    <String key="HostInfo:Mac107">Mac OSX 10.7</String>
+    <String key="HostInfo:Mac108">Mac OSX 10.8</String>
+    <String key="HostInfo:Mac109">Mac OSX 10.9</String>
+
+    <!-- MP HostInfo Types (features 0x4531 and 0x1815) -->
+    <!-- public enum Feature4351Platforms { Unknown = 0, Windows = 1, WinEmb = 2, Linux = 3, Chrome = 4, Android = 5, MacOS = 6, IOS = 7 } -->
+    <String key="MPHostInfo:None">Δεν έχει αντιστοιχιστεί</String>
+    <String key="MPHostInfo:Unknown">Άγνωστο</String>
+    <String key="MPHostInfo:Windows">Windows</String>
+    <String key="MPHostInfo:WinEmb">Windows IoT</String>
+    <String key="MPHostInfo:Linux">Linux</String>
+    <String key="MPHostInfo:Chrome">Chrome</String>
+    <String key="MPHostInfo:Android">Android</String>
+    <String key="MPHostInfo:MacOS">Mac OS</String>
+    <String key="MPHostInfo:IOS">iOS</String>
+
+    <!-- App profiles Strings -->
+    <String key="AppProfAddApp">Προσθήκη εφαρμογής</String>
+    <!--<String key="AppProfAddAppTT">Click to add a new application profile for this device</String>
+     <String key="AppProfBrowseTT">Click to add a program manually using a file browser</String>-->
+    <String key="AppProfDeleteWarning">Αυτή η ενέργεια θα καταργήσει οριστικά τις προσαρμοσμένες ρυθμίσεις για την εφαρμογή ==ApplicationName==. Επιλέξτε "Συνέχεια" για κατάργηση ή "Ακύρωση" για να διατηρήσετε τις προσαρμοσμένες ρυθμίσεις.</String>
+    <String key="AppProfDefaultSettings">Όλες οι εφαρμογές</String>
+    <!--<String key="AppProfDefaultSettingsTT">Click to update All Applications settings</String>-->
+    <String key="AppProfRestoreProfileWarning">Θα γίνει επαναφορά των ρυθμίσεων της εφαρμογής ==ApplicationName== στις ρυθμίσεις «Όλες οι εφαρμογές». Επιλέξτε "Συνέχεια" για επαναφορά ή "Ακύρωση" για να διατηρήσετε τις προσαρμοσμένες ρυθμίσεις.</String>
+    <String key="AppProfRestoreProfileWarningCraft">Θα γίνει επαναφορά των ρυθμίσεων για '==ApplicationName==' στις προεπιλεγμένες ρυθμίσεις προφίλ Craft. Επιλέξτε "Συνέχεια" για επαναφορά ή "Ακύρωση" για να διατηρήσετε τις προσαρμοσμένες ρυθμίσεις.</String><!--NEW-->
+    <String key="AppProfToggleText">Ρυθμίσεις για συγκεκριμένη εφαρμογή</String>
+    <String key="AppProfDetailHeading">Δημιουργία προσαρμοσμένων ρυθμίσεων για συγκεκριμένες εφαρμογές</String>
+    <String key="AppProfDetailDescription">Με την επιλογή «Ρυθμίσεις για συγκεκριμένη εφαρμογή» μπορείτε να προσαρμόσετε τα κουμπιά και τις ενέργειες για τις αγαπημένες σας εφαρμογές. Οι τρέχουσες ρυθμίσεις «Όλες οι εφαρμογές» δεν θα επηρεαστούν και μπορείτε να ενεργοποιήσετε ή να απενεργοποιήσετε τη συγκεκριμένη λειτουργία ανά πάσα στιγμή χωρίς να χάσετε τις προσαρμοσμένες ρυθμίσεις σας.</String>
+    <String key="AppProfOther">Άλλα...</String>
+    <String key="AppProfAddAppHeader">Επιλέξτε μια εφαρμογή</String>
+
+    <String key="Flow:ConfigurationError">Σφάλμα αρχείου διαμόρφωσης %BrandName% Flow. Απενεργοποιήστε/ενεργοποιήστε το ποντίκι και επανεκκινήστε το %BrandName% Options.</String>
+    <String key="Flow:LearnMore">Μάθετε περισσότερα</String>
+    <String key="Flow:MoreOptions">Περισσότερες επιλογές</String>
+    <String key="Flow:ManualSetUp">Μη αυτόματη ρύθμιση</String>
+    <String key="Flow:LinkKeyboard">Σύνδεση πληκτρολογίου</String>
+    <String key="Flow:CopyPaste">Αντιγραφή και επικόλληση</String>
+    <String key="Flow:ScreenCorners">Γωνίες οθόνης</String>
+    <!--<String key="Flow:CannotFlow">Cannot Flow</String>
+    <String key="Flow:CanFlow">Can Flow</String>-->
+    <String key="Flow:SwitchBetweenComputers">Εναλλαγή μεταξύ υπολογιστών</String>
+    <String key="Flow:HoldCtrlAndMove">Κρατήστε το Ctrl, μετακινηθείτε στην άκρη</String>
+    <String key="Flow:MoveToEdge">Μετακίνηση στην άκρη</String>
+
+    <String key="Flow:SettingUpFlowHeader">ΡΎΘΜΙΣΗ ΤΟΥ %BRANDNAME% FLOW...</String>
+    <String key="Flow:SettingUpFlowSearching">Αναζήτηση υπολογιστών</String>
+    <String key="Flow:SettingUpFlowFound">Βρέθηκε υπολογιστής</String>
+    <String key="Flow:SettingUpFlow">Ρύθμιση υπολογιστών</String>
+    <String key="Flow:SettingUpFlowNote">Αυτή η διαδικασία μπορεί να διαρκέσει έως και ένα λεπτό</String>
+    <String key="Flow:SettingUpFlowManual">Καταχωρίστε το όνομα ή τη διεύθυνση IP του άλλου υπολογιστή</String>
+    <String key="Flow:SettingUpFlowSuccess">Το %BrandName% Flow ρυθμίστηκε και είναι έτοιμο για χρήση.</String>
+    <String key="Flow:SettingUpFlowManualFailed">Δεν είναι δυνατή η εύρεση άλλων υπολογιστών ή η δημιουργία σύνδεσης. Βεβαιωθείτε ότι:
+ - Το %BrandName% Options είναι εγκατεστημένο στους άλλους υπολογιστές
+ - Το ποντίκι είναι αντιστοιχισμένο στον υπολογιστή σας
+ - Οι υπολογιστές σας βρίσκονται στο ίδιο δίκτυο
+Επιβεβαιώστε τα παραπάνω και, στη συνέχεια, προσπαθήστε να ενεργοποιήσετε το Flow από τους άλλους υπολογιστές.</String> 
+    <String key="Flow:SettingUpFlowOtherMachine">Προσπάθησα να ενεργοποιήσω το Flow στους άλλους υπολογιστές.</String>
+      <String key="Flow:ShowNotificationIcon">Εμφάνιση εικονιδίου γραμμής εργαλείων</String>
+    <String key="Flow:RemoveFlowHost">Αυτός ο υπολογιστής θα καταργηθεί και δεν θα μπορείτε να τον χρησιμοποιήσετε με το %BrandName% Flow μέχρι να τον προσθέσετε ξανά. Επιλέξτε Συνέχεια για να καταργηθεί ή «Άκυρο» για να διατηρηθεί.</String>
+    <String key="Flow:RestoreFlowDefaults">Θα γίνει επαναφορά των ρυθμίσεων %BrandName% Flow. Δεν θα μπορείτε να χρησιμοποιήσετε το Flow σε αυτόν τον υπολογιστή αν δεν το ενεργοποιήσετε εκ νέου ή αν δεν το προσθέσετε από κάποιον άλλο υπολογιστή με δυνατότητα Flow. Επιλέξτε «Συνέχεια» για επαναφορά ή «Άκυρο» για διατήρηση των τρεχουσών ρυθμίσεων.</String>
+    <String key="Flow:FeedbackButton">Σχόλια</String>
+    <String key="Flow:FeedbackFormHint">Εισαγάγετε εδώ τα σχόλιά σας...</String>
+
+    <String key="Flow:WelcomeTitle">ΚΑΛΩΣ ΟΡΙΣΑΤΕ ΣΤΟ %BRANDNAME% FLOW</String>
+    <String key="Flow:WelcomeDescription1">Κάντε απρόσκοπτη εναλλαγή μεταξύ υπολογιστών μετακινώντας τον δείκτη στην άκρη της οθόνης και αντιγράψτε-επικολλήστε κείμενο, εικόνες και αρχεία μεταξύ τους.</String>
+    <String key="Flow:WelcomeHowToSetup">ΤΡΟΠΟΣ ΡΥΘΜΙΣΗΣ</String>
+    <String key="Flow:WelcomeEnabledFlow">ΕΝΕΡΓΟΠΟΙΗΣΤΕ ΤΟ FLOW</String>
+
+      <String key="Flow:WelcomeTitlePart1">Μην ξεχάσετε να μας πείτε τη γνώμη σας χρησιμοποιώντας το κουμπί </String>
+    <String key="Flow:feedback">ΣΧΟΛΙΑ</String>
+    <String key="Flow:WelcomeTitlePart2"> </String>
+    <String key="Flow:Enable">Ενεργοποίηση του Flow</String>
+    <String key="Flow:LogitechFlow">%BrandName% Flow</String>
+    <String key="Flow:TutorialSlide1">Αντιστοιχίστε το ποντίκι σας με τους υπολογιστές σας.</String>
+    <String key="Flow:TutorialSlide2">Βεβαιωθείτε ότι οι υπολογιστές βρίσκονται στο ίδιο δίκτυο.</String>
+    <String key="Flow:TutorialSlide3">Κάντε λήψη και εγκατάσταση του Logitech %BrandName% στους υπολογιστές σας.</String>
+
+    <String key="Flow:TutorialSlide4">Αυτό ήταν! Τώρα είστε έτοιμοι να χρησιμοποιήσετε το %BrandName% Flow.</String>
+    
+    <String key="Flow:DiscoveryFailedUnableToEstablish">ΕΝΕΡΓΟΠΟΙΗΣΤΕ ΤΟ %BRANDNAME% FLOW ΣΕ ΑΛΛΟΥΣ ΥΠΟΛΟΓΙΣΤΕΣ</String>
+    <String key="Flow:DiscoveryFailedFollowTheseSteps1">Το %BrandName% Flow δεν κατάφερε να εντοπίσει αυτόματα άλλους υπολογιστές στο δίκτυο.</String>
+    <String key="Flow:DiscoveryFailedFollowTheseSteps2">Βεβαιωθείτε ότι έχετε σύνδεση στο internet και ότι έχετε ακολουθήσει τα παρακάτω βήματα.</String>
+    <String key="Flow:DiscoveryFailed:DownloadAndInstall">ΚΑΤΕΒΑΣΤΕ ΚΑΙ ΕΓΚΑΤΑΣΤΗΣΤΕ ΤΗΝ ΠΙΟ ΠΡΟΣΦΑΤΗ ΕΚΔΟΣΗ ΤΟΥ %BRANDNAME% OPTIONS</String>
+    <String key="Flow:DiscoveryFailed:Pair">ΑΝΤΙΣΤΟΙΧΙΣΤΕ ΤΟ ΠΟΝΤΙΚΙ ΣΑΣ ΜΕ ΤΟΥΣ ΑΛΛΟΥΣ ΥΠΟΛΟΓΙΣΤΕΣ</String>
+    <String key="Flow:DiscoveryFailed:ConnectSameNetwork">ΣΥΝΔΕΣΤΕ ΤΟΥΣ ΥΠΟΛΟΓΙΣΤΕΣ ΣΑΣ ΣΤΟ ΙΔΙΟ ΔΙΚΤΥΟ</String>
+    <String key="Flow:DiscoveryFailed:EnabledOnAll">ΕΝΕΡΓΟΠΟΙΗΣΤΕ ΤΟ %BRANDNAME% FLOW ΣΕ ΟΛΟΥΣ ΤΟΥΣ ΥΠΟΛΟΓΙΣΤΕΣ</String>
+    <String key="Flow:DiscoveryFailed:TroubleshootingLink">Αντιμετώπιση προβλημάτων</String>
+    <String key="Flow:DiscoverySucceeded:Success">ΕΠΙΤΥΧΙΑ</String>
+    <String key="Flow:DiscoverySucceeded:Continue">ΣΥΝΕΧΕΙΑ</String>
+    <String key="Buttons:CancelALLCAPS">ΑΚΥΡΟ</String>
+
+    <!--Ichitaro-->
+    <String key="Ichitaro:AppName">Ichitaro2017</String>
+    <!--End Ichitaro-->
+
+    <!--Duolink-->
+    <String key="Duolink:ToggleDefault">ΠΡΟΕΠΙΛΟΓΗ</String>
+    <String key="Duolink:ToggleFn">DUOLINK</String> <!--MODIFIED 10/10/2017-->
+    <String key="Duolink:ArrowHover">Fn + κίνηση</String>
+    <String key="Duolink:DeviceListSelectInfo">Το πλήκτρο Fn των πληκτρολογίων σάς επιτρέπει να επεκτείνετε τη λειτουργικότητα του ποντικιού %BrandName%. Κάντε κλικ στο ποντίκι που θέλετε να διαμορφώσετε.</String>
+    <String key="Duolink:TutorialText">Με το DuoLink μπορείτε να ορίσετε ένα διαφορετικό σύνολο ενεργειών στα κουμπιά του ποντικιού όταν κρατάτε το πλήκτρο *Fn*. Μπορείτε, επίσης, να μετακινείτε το ποντίκι κρατώντας πατημένο το πλήκτρο *Fn* για να εκτελείτε άλλες κινήσεις.</String>
+    <String key="Duolink:TutorialFn">Fn</String>
+    <String key="Duolink:FnGestureMontionDetail">Κρατήστε πατημένο το πλήκτρο Fn στο πληκτρολόγιο ενώ μετακινείτε το ποντίκι</String>
+    <String key="Duolink:NoDevicesAddDevices">Δεν βρέθηκαν συσκευές Duolink. Κάντε κλικ εδώ για να προσθέσετε συσκευές.</String>
+    <!--End Duolink-->
+    
+    <!--Analytics-->
+    <String key="Analytics:HelpImprove">Βοηθήστε την %BrandName% να βελτιώσει τα προϊόντα και τις υπηρεσίες της με την αυτόματη αποστολή ανώνυμων δεδομένων διαγνωστικού ελέγχου και χρήσης. Μάθετε περισσότερα σχετικά με την %BrandName%</String>
+    <String key="Analytics:PrivacyPolicy"> πολιτική απορρήτου</String>
+    <String key="Analytics:HelpImproveCheckBox">Βοηθήστε την %BrandName% να βελτιώσει τα προϊόντα και τις υπηρεσίες της αυτόματα</String>
+    <String key="Analytics:Analytics">Ανάλυση</String>
+
+    <String key="Device:Unknown">Άγνωστη συσκευή %BrandName%</String>
+  
+    <!--Craft-->
+    <String key="Craft:Turn">Γυρίστε</String>
+    <String key="Craft:Press">Πιέστε</String>
+    <String key="Craft:PressAndTurn">Πιέστε και γυρίστε</String>
+    <String key="Craft:NameYourFunction">Δώστε όνομα στην προσαρμοσμένη λειτουργία</String>
+    <String key="Craft:ExUndoRedo">Παράδειγμα: Αναίρεση / Επανάληψη</String>
+    <String key="Craft:TurnRight">Γυρίστε δεξιά</String>
+    <String key="Craft:TurnLeft">Γυρίστε αριστερά</String>
+    <String key="Craft:Ratchet">Υψηλή ακρίβεια</String>
+    <String key="Craft:MaxCharactersX">Μέγ. αριθμός χαρακτήρων: %d</String>
+    
+    <String key="Craft:ButtonInstallProfiles">ΕΓΚΑΤΑΣΤΑΣΗ ΠΡΟΦΙΛ</String>
+    <String key="Craft:ApplicationsWithProfiles">Εφαρμογές με προφίλ Craft</String>
+    <String key="Craft:OtherApplications">Άλλες εφαρμογές</String>
+    <String key="Craft:PressAndTurnTooltip">Μπορείτε να αλλάξετε αυτήν τη λειτουργία μόνο από τις ρυθμίσεις "Όλες οι εφαρμογές"</String>
+    
+    <String key="Craft:ButtonContinueWithoutInstalling">ΣΥΝΕΧΙΣΤΕ ΧΩΡΙΣ ΝΑ ΕΓΚΑΤΑΣΤΗΣΕΤΕ ΠΡΟΦΙΛ</String>
+    <String key="Craft:ButtonBackToOptions">ΕΠΙΣΤΡΟΦΗ ΣΕ OPTIONS</String>    
+    <String key="Craft:OnboardingWelcome">ΚΑΛΩΣ ΟΡΙΣΑΤΕ ΣΤΟ CRAFT</String>
+    <String key="Craft:OnboardingWelcomeDescription">Αποκτήστε τον απόλυτο έλεγχο για τις δημιουργίες σας</String>
+    <String key="Craft:OnboardingSearch">ΑΝΑΖΗΤΗΣΗ ΒΕΛΤΙΣΤΟΠΟΙΗΜΕΝΩΝ ΕΦΑΡΜΟΓΩΝ</String>
+    <String key="Craft:OnboardingSearchDescription">Γίνεται αναζήτηση για εφαρμογές που έχουν βελτιστοποιηθεί για το πληκτρολόγιο Craft σε αυτόν τον υπολογιστή</String>
+    <String key="Craft:OnboardingNoOptimizedApps">ΔΕΝ ΥΠΑΡΧΕΙ ΒΕΛΤΙΣΤΟΠΟΙΗΜΕΝΗ ΕΦΑΡΜΟΓΗ ΣΤΟΝ ΥΠΟΛΟΓΙΣΤΗ ΣΑΣ</String>
+    <String key="Craft:OnboardingNoOptimizedAppsDescription">Φαίνεται πως δεν έχουν εγκατασταθεί στον υπολογιστή σας βελτιστοποιημένες εφαρμογές για το Craft</String>
+    <String key="Craft:OnboardingNoOptimizedApps2">ΔΕΝ ΥΠΑΡΧΟΥΝ ΒΕΛΤΙΣΤΟΠΟΙΗΜΕΝΕΣ ΕΦΑΡΜΟΓΕΣ ΓΙΑ ΤΟ ΠΛΗΚΤΡΟΛΟΓΙΟ CRAFT ΣΤΟΝ ΥΠΟΛΟΓΙΣΤΗ ΣΑΣ</String>
+    <String key="Craft:OnboardingNoOptimizedAppsDescription2">Δεν βρέθηκαν βελτιστοποιημένες εφαρμογές για το πληκτρολόγιο Craft στον υπολογιστή σας... :(</String>
+    <String key="Craft:OnboardingNoOptimizedAppsDescription3">Δεν βρέθηκαν βελτιστοποιημένες εφαρμογές για το πληκτρολόγιο Craft στον υπολογιστή σας.</String><!--NEW 8/2/2017-->
+    <String key="Craft:OnboardingOneOptimizedApp">ΒΡΕΘΗΚΕ 1 ΒΕΛΤΙΣΤΟΠΟΙΗΜΕΝΗ ΕΦΑΡΜΟΓΗ ΓΙΑ ΤΟ CRAFT</String>
+    <String key="Craft:OnboardingOneOptimizedApps">ΒΡΕΘΗΚΑΝ %d ΒΕΛΤΙΣΤΟΠΟΙΗΜΕΝΕΣ ΕΦΑΡΜΟΓΕΣ ΓΙΑ ΤΟ CRAFT</String>
+    <String key="Craft:OnboardingOneOptimizedAppDescription">Οι υπόλοιπες βελτιστοποιημένες εφαρμογές για το Craft φαίνεται πως δεν έχουν εγκατασταθεί σε αυτόν τον υπολογιστή</String>
+    <String key="Craft:OnboardingXOptimizedApps">ΕΧΕΤΕ ΕΓΚΑΤΑΣΤΗΣΕΙ %d ΒΕΛΤΙΣΤΟΠΟΙΗΜΕΝΕΣ ΕΦΑΡΜΟΓΕΣ</String>
+    <String key="Craft:OnboardingXOptimizedAppsDescription">Επιλέξτε για να εγκαταστήσετε βελτιστοποιημένα προφίλ για κάθε μία από τις εφαρμογές που χρησιμοποιείτε</String>
+    <String key="Craft:OnboardingProfilesInstalledDescription">Φαίνεται πως τα προφίλ για αυτές τις εφαρμογές έχουν ήδη εγκατασταθεί</String>
+    <String key="Craft:OnboardingInstallingProfiles">ΕΓΚΑΤΑΣΤΑΣΗ ΠΡΟΦΙΛ</String>
+    <String key="Craft:OnboardingInstallingProfilesDescription">Γίνεται εγκατάσταση προφίλ στον υπολογιστή σας</String>
+    <String key="Craft:OnboardingInstallingProfilesProblem">ΠΡΟΒΛΗΜΑ ΜΕ ΤΗΝ ΕΓΚΑΤΑΣΤΑΣΗ ΠΡΟΦΙΛ</String>
+    <String key="Craft:OnboardingInstallingProfilesPlugins">ΠΡΟΒΛΗΜΑ ΚΑΤΑ ΤΗΝ ΕΓΚΑΤΑΣΤΑΣΗ ΠΡΟΣΘΕΤΩΝ</String>
+    <String key="Craft:OnboardingInstallingProfilesProblemDescription">Ανατρέξτε στην ενότητα αντιμετώπισης προβλημάτων της τοποθεσίας μας στο web</String>
+    <String key="Craft:OnboardingInstallingProfilesDone">ΤΑ ΠΡΟΦΙΛ ΕΓΚΑΤΑΣΤΑΘΗΚΑΝ</String>
+    <String key="Craft:OnboardingInstallingProfilesDoneDescription">Επανεκκινήστε τις βελτιστοποιημένες εφαρμογές για να ολοκληρώσετε τη διαδικασία εγκατάστασης</String>
+    <String key="Craft:OnboardingWatchTutorial">ΔΕΙΤΕ ΤΟΝ ΟΔΗΓΟ ΕΚΜΑΘΗΣΗΣ</String>
+    <String key="Craft:OnboardingWatchTutorials">ΠΑΡΑΚΟΛΟΥΘΗΣΤΕ ΟΔΗΓΟΥΣ ΕΚΜΑΘΗΣΗΣ</String>
+    <String key="Craft:OnboardingWatchTutorialDescription">Μάθετε πώς o Επιλογέας φέρνει την επανάσταση στη ροή εργασιών σας σε κάθε βελτιστοποιημένη εφαρμογή</String>
+    <String key="Craft:OnboardingWatchTutorialDescription2">Μάθετε πώς μπορείτε να χρησιμοποιείτε τον Επιλογέα σε κάθε βελτιστοποιημένη εφαρμογή</String>
+    <String key="Craft:OnboardingDone">ΕΙΣΤΕ ΕΤΟΙΜΟΙ</String>
+    <String key="Craft:OnboardingDoneDescription">Το Craft βελτιστοποιήθηκε για τις εφαρμογές που χρησιμοποιείτε περισσότερο</String>
+    <String key="Craft:OnboardingSelectedNewApps">ΜΟΛΙΣ ΕΠΙΛΕΞΑΤΕ ΝΕΕΣ ΕΦΑΡΜΟΓΕΣ</String>
+    <String key="Craft:OnboardingSelectedNewAppsDescription">Κάντε κλικ στο κουμπί για να εγκαταστήσετε προφίλ</String>
+    <String key="Craft:OnboardingUnsignedPlugin">(Χωρίς υπογραφή)</String><!--NEW 1/11/2018-->
+
+    <String key="Craft:RestoreDefaults">Θα γίνει επαναφορά των ρυθμίσεων για ==ApplicationName== στις προεπιλεγμένες ρυθμίσεις προφίλ Craft. Επιλέξτε "Συνέχεια" για επαναφορά ή "Ακύρωση" για να διατηρήσετε τις προσαρμοσμένες ρυθμίσεις.</String><!--NEW 8/8/2017-->
+    <!--End Craft-->
+  
+  </Strings>
+</StringDictionary>

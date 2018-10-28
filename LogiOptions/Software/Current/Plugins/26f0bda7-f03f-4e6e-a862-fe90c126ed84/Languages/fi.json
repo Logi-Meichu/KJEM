@@ -1,0 +1,48 @@
+{
+  "LocalizedStrings": [
+    {
+      "ID": "keystrokeassignment",
+      "value": "Näppäinten määrittäminen"
+    },
+    {
+      "ID": "changetoolvalue",
+      "value": "Sisällönmukainen"
+    },
+    {
+      "ID": "crownbrowsertextsize",
+      "value": "Tekstin koko tai välilehden vaihto"
+    },
+    {
+      "ID": "crowntabscommand",
+      "value": "Välilehden vaihto"
+    },
+    {
+      "ID": "textSize",
+      "value": "Koko"
+    },
+    {
+      "ID": "imageSize",
+      "value": "Koko"
+    },
+    {
+      "ID": "tabSwitch",
+      "value": "Siirtyminen välilehdillä"
+    },
+    {
+      "ID": "zoom",
+      "value": "Zoomaus"
+    },
+    {
+      "ID": "sheetNavigation",
+      "value": "Siirtyminen arkilla"
+    },
+    {
+      "ID": "horizontalScroll",
+      "value": "Vaakavieritys"
+    },
+    {
+      "ID": "playpause",
+      "value": "Toisto / tauko"
+    }
+  ]
+}

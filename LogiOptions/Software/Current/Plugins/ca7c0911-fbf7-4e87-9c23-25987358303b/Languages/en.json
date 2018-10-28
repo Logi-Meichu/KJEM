@@ -1,0 +1,72 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "Contextual"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Keystroke assignment"
+        },
+        {
+            "ID": "savefile",
+            "value": "Save file"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zoom"
+        },
+        {
+            "ID": "theme",
+            "value": "Theme Style"
+        },
+        {
+            "ID": "color",
+            "value": "Theme Color"
+        },
+        {
+            "ID": "layout",
+            "value": "Layout"
+        },
+        {
+            "ID": "font",
+            "value": "Theme Font"
+        },
+        {
+            "ID": "fontSize",
+            "value": "Size"
+        },
+        {
+            "ID": "alignment",
+            "value": "Align"
+        },
+        {
+            "ID": "fontWeight",
+            "value": "Font Weight"
+        },
+        {
+            "ID": "size",
+            "value": "Scale"
+        },
+        {
+            "ID": "rotate",
+            "value": "Rotate"
+        },
+        {
+            "ID": "tableStyle",
+            "value": "Table Style"
+        },
+        {
+            "ID": "tableColor",
+            "value": "Table Color"
+        },
+        {
+            "ID": "paragraphStyle",
+            "value": "Paragraph Style"
+        },
+        {
+            "ID": "wrapText",
+            "value": "Wrap Text"
+        }
+    ]
+}

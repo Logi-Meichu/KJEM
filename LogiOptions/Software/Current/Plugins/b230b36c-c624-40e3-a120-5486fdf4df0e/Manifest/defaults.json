@@ -1,0 +1,47 @@
+{
+    "GUID": "b230b36c-c624-40e3-a120-5486fdf4df0e",
+    "info": {
+        "name": "Adobe Photoshop CC",
+        "publisher": "Logitech Inc.",
+        "version": "1.0",
+        "win_name": "Photoshop.exe",
+        "mac_bundle": "Adobe Photoshop CC 2018.app",
+        "mac_path": "/Applications/Adobe Photoshop CC 2018",
+        "mac_paths": [
+            {
+                "path": "/Applications/Adobe Photoshop CC 2017/Adobe Photoshop CC 2017.app",
+                "mac_minimum_supported_version": "18.0.0",
+                "mac_maximum_supported_version": "18.*.*",
+                "name_suffix": "(2017)"
+            },
+            {
+                "path": "/Applications/Adobe Photoshop CC 2018/Adobe Photoshop CC 2018.app",
+                "mac_minimum_supported_version": "19.0.0",
+                "mac_maximum_supported_version": "19.*.*",
+                "name_suffix": "(2018)"
+            }
+        ],
+        "win_minimum_supported_version": "18.0.0",
+        "win_maximum_supported_version": "2015.0.1"
+    },
+    "crown": {
+        "rotate": {
+            "default_task": "changetoolvalue",
+            "tasks": [
+                "changetoolvalue"
+            ],
+            "short_list": [
+                "changetoolvalue"
+            ]
+        },
+        "press": {
+            "default_task": "playpause",
+            "tasks": [
+                "playpause"
+            ],
+            "short_list": [
+                "playpause"
+            ]
+        }
+    }
+}

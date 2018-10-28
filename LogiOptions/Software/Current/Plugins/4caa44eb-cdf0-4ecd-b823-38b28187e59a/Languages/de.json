@@ -1,0 +1,100 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "Kontextabhängig"
+        },
+        {
+            "ID": "savefile",
+            "value": "Datei speichern"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zoom"
+        },
+        {
+            "ID": "sheetNavigation",
+            "value": "Blatt-Navigation"
+        },
+        {
+            "ID": "horizontalScroll",
+            "value": "Horizontaler Bildlauf"
+        },
+        {
+            "ID": "createChart",
+            "value": "Diagramm erstellen"
+        },
+        {
+            "ID": "createTable",
+            "value": "Tabelle erstellen"
+        },
+        {
+            "ID": "tableStyle",
+            "value": "Tabellenstil"
+        },
+        {
+            "ID": "chartType",
+            "value": "Diagrammtyp"
+        },
+        {
+            "ID": "quickLayout",
+            "value": "Schnell-Layout"
+        },
+        {
+            "ID": "changeColor",
+            "value": "Farbe ändern"
+        },
+        {
+            "ID": "chartStyle",
+            "value": "Diagrammstil"
+        },
+        {
+            "ID": "pieChart",
+            "value": "Kreisdiagramm"
+        },
+        {
+            "ID": "columnChart",
+            "value": "Säulendiagramm"
+        },
+        {
+            "ID": "barChart",
+            "value": "Balkendiagramm"
+        },
+        {
+            "ID": "areaChart",
+            "value": "Bereichsdiagramm"
+        },
+        {
+            "ID": "stockChart",
+            "value": "Aktienkursdiagramm"
+        },
+        {
+            "ID": "surfaceChart",
+            "value": "Oberflächendiagramm"
+        },
+        {
+            "ID": "radarChart",
+            "value": "Radardiagramm"
+        },
+        {
+            "ID": "tableColor",
+            "value": "Tabellenfarbe"
+        },
+        {
+            "ID": "xyscatterChart",
+            "value": "Punktdiagramm"
+        },
+        {
+            "ID": "lineChart",
+            "value": "Liniendiagramm"
+        },
+        {
+            "ID": "comboChart",
+            "value": "Kombinationsdiagramm"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Tastenanschlag-Zuweisung"
+        }
+    ]
+}

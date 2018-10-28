@@ -1,0 +1,42 @@
+{
+    "GUID": "26f0bda7-7562-4c58-8a25-ddb00e9ebabd",
+    "info": {
+        "name": "Google Chrome",
+        "publisher": "Logitech Inc.",
+        "version": "1.0",
+        "restart_required": false,
+        "win_name": "chrome.exe",
+        "mac_bundle": "Google Chrome.app",
+        "mac_path": "/Applications",
+        "mac_paths": [
+            {
+                "path": "/Applications/Google Chrome.app",
+                "mac_minimum_supported_version": "1.0.0",
+                "mac_maximum_supported_version": "1.*.*",
+                "name_suffix": ""
+            }
+        ],
+        "win_minimum_supported_version": "0.0.0",
+        "win_maximum_supported_version": "2015.0.1"
+    },
+    "crown": {
+        "rotate": {
+            "default_task": "crowntabscommand",
+            "tasks": [
+                "crowntabscommand"
+            ],
+            "short_list": [
+                "crowntabscommand"
+            ]
+        },
+        "press": {
+            "default_task": "playpause",
+            "tasks": [
+                "playpause"
+            ],
+            "short_list": [
+                "playpause"
+            ]
+        }
+    }
+}

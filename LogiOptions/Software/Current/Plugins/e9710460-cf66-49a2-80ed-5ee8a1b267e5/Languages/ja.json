@@ -1,0 +1,70 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "コンテキスト"
+        },
+		{
+            "ID": "customactions",
+            "value": "カスタムアクション"
+        },
+        {
+            "ID": "Zoom",
+            "value": "ズーム"
+        },
+        {
+            "ID": "Temperature",
+            "value": "色温度"
+        },
+        {
+            "ID": "Tint",
+            "value": "色かぶり補正"
+        },
+		{
+            "ID": "Exposure",
+            "value": "露光量"
+        },
+		{
+            "ID": "Contrast",
+            "value": "コントラスト"
+        },
+        {
+            "ID": "Highlights",
+            "value": "ハイライト"
+        },
+        {
+            "ID": "Shadows",
+            "value": "シャドウ"
+        },
+        {
+            "ID": "Whites",
+            "value": "白レベル"
+        },
+        {
+            "ID": "Blacks",
+            "value": "黒レベル"
+        },
+		{
+            "ID": "Clarity",
+            "value": "明瞭度"
+        },
+        {
+            "ID": "Vibrance",
+            "value": "自然な彩度"
+        },
+        {
+            "ID": "Saturation",
+            "value": "彩度"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "キーストロークの割当"
+        },
+        {
+            "ID": "playpause",
+            "value": "再生/一時停止"
+        }
+    ]
+}
+
+

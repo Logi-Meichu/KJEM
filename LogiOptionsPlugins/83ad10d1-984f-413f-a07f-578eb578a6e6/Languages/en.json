@@ -1,0 +1,16 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "slider",
+            "value": "Slider"
+        },
+		{
+            "ID": "spinCtrl",
+            "value": "SpinCtrl"
+        },
+        {
+            "ID": "gauge",
+            "value": "Gauge"
+        }
+    ]
+}

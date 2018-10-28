@@ -1,0 +1,72 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "textSize",
+            "value": "Størrelse"
+        },
+        {
+            "ID": "leading",
+            "value": "Skydning"
+        },
+        {
+            "ID": "tracking",
+            "value": "Registrering"
+        },
+        {
+            "ID": "colorFill",
+            "value": "Udfyldningsfarve"
+        },
+        {
+            "ID": "colorStroke",
+            "value": "Strøgfarve"
+        },
+        {
+            "ID": "strokeWeight",
+            "value": "Strøgtykkelse"
+        },
+        {
+            "ID": "scale",
+            "value": "Skaler"
+        },
+        {
+            "ID": "opacity",
+            "value": "Opacitet"
+        },
+        {
+            "ID": "artboardNavigation",
+            "value": "Skift tegnebræt"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "Kontekstuel"
+        },
+        {
+            "ID": "undoRedo",
+            "value": "Fortryd/annuller fortryd"
+        },
+        {
+            "ID": "undoredo",
+            "value": "Fortryd/annuller fortryd"
+        },
+        {
+            "ID": "undo",
+            "value": "Fortryd"
+        },
+        {
+            "ID": "redo",
+            "value": "Annuller fortryd"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zoom"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Tildeling af tastefunktioner"
+        },
+        {
+            "ID": "playpause",
+            "value": "Afspil/pause"
+        }
+    ]
+}

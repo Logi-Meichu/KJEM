@@ -1,0 +1,48 @@
+{
+  "LocalizedStrings": [
+    {
+      "ID": "keystrokeassignment",
+      "value": "Αντιστοίχιση πατημάτων πλήκτρων"
+    },
+    {
+      "ID": "changetoolvalue",
+      "value": "Μενού περιβάλλοντος"
+    },
+    {
+      "ID": "crownbrowsertextsize",
+      "value": "Μέγεθος κειμένου ή αλλαγή καρτελών"
+    },
+    {
+      "ID": "crowntabscommand",
+      "value": "Εναλλαγή καρτελών"
+    },
+    {
+      "ID": "textSize",
+      "value": "Μέγεθος"
+    },
+    {
+      "ID": "imageSize",
+      "value": "Μέγεθος"
+    },
+    {
+      "ID": "tabSwitch",
+      "value": "Περιήγηση σε καρτέλες"
+    },
+    {
+      "ID": "zoom",
+      "value": "Ζουμ"
+    },
+    {
+      "ID": "sheetNavigation",
+      "value": "Περιήγηση σε φύλλα"
+    },
+    {
+      "ID": "horizontalScroll",
+      "value": "Οριζόντια κύλιση"
+    },
+    {
+      "ID": "playpause",
+      "value": "Αναπαραγωγή / Παύση"
+    }
+  ]
+}

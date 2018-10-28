@@ -1,0 +1,92 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "size",
+            "value": "Størrelse"
+        },
+        {
+            "ID": "hardness",
+            "value": "Hardhet"
+        },
+        {
+            "ID": "strokeWeight",
+            "value": "Strøktykkelse"
+        },
+        {
+            "ID": "opacity",
+            "value": "Tetthet"
+        },
+        {
+            "ID": "brightness",
+            "value": "Lysstyrke"
+        },
+        {
+            "ID": "contrast",
+            "value": "Kontrast"
+        },
+        {
+            "ID": "saturation",
+            "value": "Metning"
+        },
+        {
+            "ID": "flow",
+            "value": "Flyt"
+        },
+        {
+            "ID": "strength",
+            "value": "Styrke"
+        },
+        {
+            "ID": "tolerance",
+            "value": "Toleranse"
+        },
+        {
+            "ID": "exposure",
+            "value": "Eksponering"
+        },        
+        {
+            "ID": "textSize",
+            "value": "Størrelse"
+        },
+        {
+            "ID": "layertextSize",
+            "value": "Lagtekststørrelse"
+        },
+        {
+            "ID": "blendMode",
+            "value": "Overgangsmodus"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "Kontekstavhengig"
+        },
+        {
+            "ID": "savefile",
+            "value": "Lagre fil"
+        },
+        {
+            "ID": "undoredo",
+            "value": "Angre / Gjør om"
+        },
+        {
+            "ID": "undo",
+            "value": "Angre"
+        },
+        {
+            "ID": "redo",
+            "value": "Gjør om"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zoom"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Tilordning av tastetrykk"
+        },
+        {
+            "ID": "playpause",
+            "value": "Spill av / pause"
+        }
+    ]
+}

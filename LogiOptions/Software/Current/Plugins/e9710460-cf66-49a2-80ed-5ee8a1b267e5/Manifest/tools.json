@@ -1,0 +1,137 @@
+{
+    "GUID": "e9710460-cf66-49a2-80ed-5ee8a1b267e5",
+    "tools": [
+        {
+            "name": "library",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "Zoom",
+                    "image_file_path": "zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "builtin_action": true
+                }
+            ]
+        },
+        {
+            "name": "develop",
+            "enabled": true,
+            "configurable": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "Temperature",
+                    "image_file_path": "temperature.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "builtin_action": true
+                },
+                {
+                    "index": 1,
+                    "name": "Tint",
+                    "image_file_path": "tint.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "builtin_action": true
+                },
+                {
+                    "index": 2,
+                    "name": "Exposure",
+                    "image_file_path": "exposure.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "builtin_action": true
+                },
+				{
+                    "index": 3,
+                    "name": "Contrast",
+                    "image_file_path": "contrast.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "builtin_action": true
+                },
+                {
+                    "index": 4,
+                    "name": "Highlights",
+                    "image_file_path": "highlights.png",
+                    "enabled": false,
+                    "ratchet_enabled": false,
+                    "builtin_action": true
+                },
+				{
+                    "index": 5,
+                    "name": "Shadows",
+                    "image_file_path": "shadows.png",
+                    "enabled": false,
+                    "ratchet_enabled": false,
+                    "builtin_action": true
+                },
+                {
+                    "index": 6,
+                    "name": "Whites",
+                    "image_file_path": "whites.png",
+                    "enabled": false,
+                    "ratchet_enabled": false,
+                    "builtin_action": true
+                },
+                {
+                    "index": 7,
+                    "name": "Blacks",
+                    "image_file_path": "blacks.png",
+                    "enabled": false,
+                    "ratchet_enabled": false,
+                    "builtin_action": true
+                },
+				{
+                    "index": 8,
+                    "name": "Clarity",
+                    "image_file_path": "clarity.png",
+                    "enabled": false,
+                    "ratchet_enabled": false,
+                    "builtin_action": true
+                },
+				{
+                    "index": 9,
+                    "name": "Vibrance",
+                    "image_file_path": "vibrance.png",
+                    "enabled": false,
+                    "ratchet_enabled": false,
+                    "builtin_action": true
+                },
+				{
+                    "index": 10,
+                    "name": "Saturation",
+                    "image_file_path": "saturation.png",
+                    "enabled": false,
+                    "ratchet_enabled": false,
+                    "builtin_action": true
+                }
+            ]
+        }
+    ],
+    "tasks": [
+        {
+            "name": "customactions",
+            "win_id": "0x10068",
+            "mac_id": 615
+        },
+		{
+            "name": "changetoolvalue",
+            "win_id": "0x10064",
+            "mac_id": 615
+        },
+        {
+            "name": "keystrokeassignment",
+            "mac_id": 73,
+            "win_id": "0x10000"
+        },
+        {
+            "name": "playpause",
+            "image_file_path": "",
+            "mac_id": 4,
+            "win_id": "0x0004"
+        }       
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "Contextual"
+        },
+        {
+            "ID": "savefile",
+            "value": "Guardar ficheiro"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zoom"
+        },
+        {
+            "ID": "sheetNavigation",
+            "value": "Navegação da folha"
+        },
+        {
+            "ID": "horizontalScroll",
+            "value": "Deslocação horizontal"
+        },
+        {
+            "ID": "createChart",
+            "value": "Criar gráfico"
+        },
+        {
+            "ID": "createTable",
+            "value": "Criar tabela"
+        },
+        {
+            "ID": "tableStyle",
+            "value": "Estilo da tabela"
+        },
+        {
+            "ID": "chartType",
+            "value": "Tipo de gráfico"
+        },
+        {
+            "ID": "quickLayout",
+            "value": "Esquema rápido"
+        },
+        {
+            "ID": "changeColor",
+            "value": "Alterar cor"
+        },
+        {
+            "ID": "chartStyle",
+            "value": "Estilo do gráfico"
+        },
+        {
+            "ID": "pieChart",
+            "value": "Gráfico circular"
+        },
+        {
+            "ID": "columnChart",
+            "value": "Gráfico de colunas"
+        },
+        {
+            "ID": "barChart",
+            "value": "Gráfico de barras"
+        },
+        {
+            "ID": "areaChart",
+            "value": "Gráfico de área"
+        },
+        {
+            "ID": "stockChart",
+            "value": "Gráfico de cotações"
+        },
+        {
+            "ID": "surfaceChart",
+            "value": "Gráfico de superfície"
+        },
+        {
+            "ID": "radarChart",
+            "value": "Gráfico de radar"
+        },
+        {
+            "ID": "tableColor",
+            "value": "Cor da tabela"
+        },
+        {
+            "ID": "xyscatterChart",
+            "value": "Gráfico de dispersão"
+        },
+        {
+            "ID": "lineChart",
+            "value": "Gráfico de linhas"
+        },
+        {
+            "ID": "comboChart",
+            "value": "Gráfico de combinação"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Atribuição de batimento de tecla"
+        }
+    ]
+}

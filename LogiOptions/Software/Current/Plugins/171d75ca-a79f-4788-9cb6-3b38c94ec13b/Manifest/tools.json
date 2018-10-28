@@ -1,0 +1,79 @@
+{
+    "GUID": "171d75ca-a79f-4788-9cb6-3b38c94ec13b",
+    "tools": [
+        {
+            "name": "nothing",
+            "enabled": true,
+            "tool_options": [
+               {
+                    "index": 0,
+                    "name": "zoom",
+                    "image_file_path": "zoom.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "task": "zoom",
+                    "builtin_action": true,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "navigate",
+                    "image_file_path": "sheetNavigation.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "update_overlay_on_value_change": false,
+                    "builtin_action": false
+                },
+                {
+                    "index": 2,
+                    "name": "scroll",
+                    "task": "scroll",
+                    "image_file_path": "horizontalScroll.png",
+                    "enabled": true,
+                    "ratchet_enabled": false,
+                    "update_overlay_on_value_change": false,
+                    "builtin_action": true
+                }
+
+            ]
+        }
+    ],
+    "tasks": [
+         {
+            "name": "changetoolvalue",
+            "win_id": "0x10064",
+            "mac_id": 615
+          },
+          {
+              "name": "zoom",
+              "image_file_path": "zoom.png",
+              "tool_options": [
+                   "tell application \"System Events\" to key code {55,27}",
+                   "tell application \"System Events\" to key code {55,24}"
+                ],
+              "mac_id": 304,
+              "win_id": "0x10057"
+          },
+          {
+              "name": "navigate",
+              "image_file_path": "sheetNavigation.png",
+              "tool_options": [
+                  "tell application \"System Events\"\n key down {command}\n delay 0.05\n key code 116\n delay 0.05\n key up {command}\nend tell\n",
+                  "tell application \"System Events\"\n key down {command}\n delay 0.05\n key code 121\n delay 0.05\n key up {command}\nend tell\n"
+                ],
+              "mac_id": 500,
+              "win_id": "0x10057"
+          },
+          {
+              "name": "scroll",
+              "mac_id": 405,
+              "win_id": "0x10067"
+          },
+          {
+              "name": "playpause",
+              "image_file_path": "",
+              "mac_id": 4,
+              "win_id": "0x0004"
+          }
+    ]
+}

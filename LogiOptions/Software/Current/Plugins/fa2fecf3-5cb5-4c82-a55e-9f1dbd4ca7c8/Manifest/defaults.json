@@ -1,0 +1,42 @@
+{
+    "GUID": "fa2fecf3-5cb5-4c82-a55e-9f1dbd4ca7c8",
+    "info": {
+        "name": "VLC Media Player",
+        "publisher": "Logitech Inc.",
+        "version": "1.0",
+        "restart_required": false,
+        "win_name": "vlc.exe",
+        "mac_bundle": "",
+        "mac_path": "",
+        "mac_paths": [{
+            "path":"",
+            "mac_minimum_supported_version": "2015.0.1",
+            "mac_maximum_supported_version": "2015.0.1"
+        }],
+        "win_minimum_supported_version": "0.0.0",
+        "win_maximum_supported_version": "2015.0.1",
+        "mac_minimum_supported_version": "2015.0.1",
+        "mac_maximum_supported_version": "2015.0.1"
+    },
+    "crown": {
+        "rotate": {
+            "default_task": "changetoolvalue",
+            "tasks": [
+                "changetoolvalue"
+            ],
+            "short_list": [
+                "changetoolvalue"
+            ]
+        },
+       "press":
+        {
+            "default_task": "playpause",
+            "tasks": [
+                "playpause"
+            ],
+            "short_list": [
+                "playpause"
+            ]
+        }
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "Contextual"
+        },
+        {
+            "ID": "savefile",
+            "value": "Guardar archivo"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zoom"
+        },
+        {
+            "ID": "sheetNavigation",
+            "value": "Navegación en hojas"
+        },
+        {
+            "ID": "horizontalScroll",
+            "value": "Desplazamiento horizontal"
+        },
+        {
+            "ID": "createChart",
+            "value": "Crear gráfica"
+        },
+        {
+            "ID": "createTable",
+            "value": "Crear tabla"
+        },
+        {
+            "ID": "tableStyle",
+            "value": "Estilo de tabla"
+        },
+        {
+            "ID": "chartType",
+            "value": "Tipo de gráfica"
+        },
+        {
+            "ID": "quickLayout",
+            "value": "Diseño rápido"
+        },
+        {
+            "ID": "changeColor",
+            "value": "Cambiar color"
+        },
+        {
+            "ID": "chartStyle",
+            "value": "Estilo de gráfica"
+        },
+        {
+            "ID": "pieChart",
+            "value": "Gráfica circular"
+        },
+        {
+            "ID": "columnChart",
+            "value": "Gráfica de columnas"
+        },
+        {
+            "ID": "barChart",
+            "value": "Gráfica de barras"
+        },
+        {
+            "ID": "areaChart",
+            "value": "Gráfica de áreas"
+        },
+        {
+            "ID": "stockChart",
+            "value": "Gráfica de stock"
+        },
+        {
+            "ID": "surfaceChart",
+            "value": "Gráfica de superficie"
+        },
+        {
+            "ID": "radarChart",
+            "value": "Gráfica de telaraña"
+        },
+        {
+            "ID": "tableColor",
+            "value": "Color de tabla"
+        },
+        {
+            "ID": "xyscatterChart",
+            "value": "Gráfica de dispersión"
+        },
+        {
+            "ID": "lineChart",
+            "value": "Gráfica de líneas"
+        },
+        {
+            "ID": "comboChart",
+            "value": "Gráfica combinada"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Asignación de acción"
+        }
+    ]
+}

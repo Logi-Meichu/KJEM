@@ -1,0 +1,20 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "Controlos do VLC"
+        },
+		{
+            "ID": "nextPrevious",
+            "value": "Anterior/Seguinte"
+        },
+		{
+            "ID": "ShortSeek",
+            "value": "Procurar"
+        },
+        {
+            "ID": "volumeUpDown",
+            "value": "Volume"
+        }
+    ]
+}

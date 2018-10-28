@@ -1,0 +1,48 @@
+{
+  "LocalizedStrings": [
+    {
+      "ID": "keystrokeassignment",
+      "value": "Toetsaanslag toewijzen"
+    },
+    {
+      "ID": "changetoolvalue",
+      "value": "Contextueel"
+    },
+    {
+      "ID": "crownbrowsertextsize",
+      "value": "Tekengrootte of Tabblad wijzigen"
+    },
+    {
+      "ID": "crowntabscommand",
+      "value": "Ander tabblad"
+    },
+    {
+      "ID": "textSize",
+      "value": "Grootte"
+    },
+    {
+      "ID": "imageSize",
+      "value": "Grootte"
+    },
+    {
+      "ID": "tabSwitch",
+      "value": "Tabbladnavigatie"
+    },
+    {
+      "ID": "zoom",
+      "value": "Zoomen"
+    },
+    {
+      "ID": "sheetNavigation",
+      "value": "Bladnavigatie"
+    },
+    {
+      "ID": "horizontalScroll",
+      "value": "Horizontaal scrollen"
+    },
+    {
+      "ID": "playpause",
+      "value": "Afspelen/pauzeren"
+    }
+  ]
+}

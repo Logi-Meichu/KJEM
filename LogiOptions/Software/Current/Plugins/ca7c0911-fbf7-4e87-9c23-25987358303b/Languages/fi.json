@@ -1,0 +1,72 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "Sisällönmukainen"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Näppäinten määrittäminen"
+        },
+        {
+            "ID": "savefile",
+            "value": "Tallenna tiedosto"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zoomaus"
+        },
+        {
+            "ID": "theme",
+            "value": "Teeman tyyli"
+        },
+        {
+            "ID": "color",
+            "value": "Teeman väri"
+        },
+        {
+            "ID": "layout",
+            "value": "Tulosta kaavio"
+        },
+        {
+            "ID": "font",
+            "value": "Teeman fontti"
+        },
+        {
+            "ID": "fontSize",
+            "value": "Koko"
+        },
+        {
+            "ID": "alignment",
+            "value": "Kohdista"
+        },
+        {
+            "ID": "fontWeight",
+            "value": "Fontin paino"
+        },
+        {
+            "ID": "size",
+            "value": "Skaalaus"
+        },
+        {
+            "ID": "rotate",
+            "value": "Kierrä"
+        },
+        {
+            "ID": "tableStyle",
+            "value": "Taulukon tyyli"
+        },
+        {
+            "ID": "tableColor",
+            "value": "Taulukon väri"
+        },
+        {
+            "ID": "paragraphStyle",
+            "value": "Kappaleen tyyli"
+        },
+        {
+            "ID": "wrapText",
+            "value": "Kääri teksti"
+        }
+    ]
+}

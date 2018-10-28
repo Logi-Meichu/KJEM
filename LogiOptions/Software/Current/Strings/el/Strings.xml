@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Source>
+	<StringSet>
+		<String ALIAS="IDS_SINGLE_DEVICE_LOWBATTERY_PREFIX">Η στάθμη της μπαταρίας έχει σχεδόν εξαντληθεί στην ακόλουθη συσκευή:</String>
+        <String ALIAS="IDS_NO_APPS_SWITCH">Χωρίς εναλλαγή εφαρμογών</String>
+        <String ALIAS="IDS_NO_HOSTS_SWITCH">Δεν υπάρχουν κεντρικοί υπολογιστές για εναλλαγή</String>
+        <String ALIAS="IDS_HOSTS_SWITCH">Έγινε εναλλαγή κεντρικού υπολογιστή</String>
+		<String ALIAS="IDS_APPLICATION_NAME">Logitech Options</String>
+
+        <!-- Lock notification -->
+		<String ALIAS="HELP_LOCK_CAPS_ON">Ενεργοποίηση πλήκτρου Caps Lock</String>
+		<String ALIAS="HELP_LOCK_CAPS_OFF">Απενεργοποίηση πλήκτρου Caps Lock</String>
+		<String ALIAS="HELP_LOCK_SCROLL_ON">Ενεργοποίηση πλήκτρου Scroll Lock</String>
+		<String ALIAS="HELP_LOCK_SCROLL_OFF">Απενεργοποίηση πλήκτρου Scroll Lock</String>
+		<String ALIAS="HELP_LOCK_NUMS_ON">Ενεργοποίηση πλήκτρου Num Lock</String>
+		<String ALIAS="HELP_LOCK_NUMS_OFF">Απενεργοποίηση πλήκτρου Num Lock</String>
+
+        <!-- Package Update notification -->
+		<String ALIAS="UPDATER_UPDATE_AVAILABLE_TITLE">Διαθέσιμη ενημέρωση</String>
+		<String ALIAS="UPDATER_UPDATE_AVAILABLE">Υπάρχει μια διαθέσιμη ενημέρωση για το Logitech Options.</String>
+
+        <!-- Device Update notification -->
+        <String ALIAS="UPDATER_DEVICE_UPDATE_AVAILABLE_TITLE">Διαθέσιμη ενημέρωση συσκευής</String>
+		<String ALIAS="UPDATER_DEVICE_UPDATE_AVAILABLE">Υπάρχει διαθέσιμη ενημέρωση για τις συσκευές σας. Κάντε κλικ εδώ, για να κάνετε την ενημέρωση.</String>
+
+		<!-- Incorrect Keyboard Mode notification -->
+		<String ALIAS="INCORRECT_SELECTED_KEYBOARD_LAYOUT">Δεν έχει επιλεγεί διάταξη Windows στο πληκτρολόγιό σας.</String>
+
+		<!-- Missing software components -->
+		<String ALIAS="MISSING_MAINAPP_FILES">Λείπουν κρίσιμα αρχεία από το Logitech Options. Επαναλάβετε την εγκατάσταση του λογισμικού.</String>
+
+    <!-- Tray icon notification -->
+    <String ALIAS="TRAYICON_FLOWOFF"> Απενεργοποίηση του Logitech Flow</String>
+    <String ALIAS="TRAYICON_PREFERENCES"> Ανοίξτε τις Προτιμήσεις</String>
+    <String ALIAS="TRAYICON_FLOWON"> Ενεργοποίηση του Logitech Flow</String>
+    <String ALIAS="TRAYICON_NETWORK_ISSUE"> Αυτός ο υπολογιστής είναι εκτός σύνδεσης</String>
+    <String ALIAS="TRAYICON_HOST_ISSUE"> Δεν είναι δυνατή η επικοινωνία με το διακομιστή %s</String>
+    <String ALIAS="TRAYICON_HELP"> Ανοίξτε τη Βοήθεια του Logitech Flow</String>
+    <String ALIAS="TRAYICON_CANCEL_TRANSFER"> Ακύρωση μεταφοράς</String>
+    <String ALIAS="TRAYICON_TRANSFER_STATUS"> Μεταφορά %d%% </String>
+    <String ALIAS="TRAYICON_TRANSFER_ERROR"> Σφάλμα μεταφοράς</String>
+
+    <!-- toast notification -->
+    <String ALIAS="TOAST_HOST_CONNECTED">Ο διακομιστής %s προστέθηκε στο Logitech Flow.</String>
+    <String ALIAS="TOAST_NEW_FEATURES">Θέλετε να δοκιμάσετε την πιο πρόσφατη καινοτομία της Logitech; Κάντε κλικ για να γίνετε χρήστης beta.</String>
+    <String ALIAS="TOAST_NOTMATCH_FIRMWARE">Το υλικολογισμικό της συσκευής %s χρειάζεται αναβάθμιση.</String>
+
+    <!-- Craft notification -->
+    <String ALIAS="CRAFT_PLUGIN_NOT_INSTALLED_TITLE">Υπάρχει διαθέσιμο προφίλ Craft</String>
+    <String ALIAS="CRAFT_PLUGIN_NOT_INSTALLED_BODY">Υπάρχει διαθέσιμο προφίλ Craft για το %s.</String>
+    <String ALIAS="CRAFT_PLUGIN_READY_TO_USE_TITLE">Το προφίλ Craft εγκαταστάθηκε</String>
+    <String ALIAS="CRAFT_PLUGIN_READY_TO_USE_BODY">Εγκαταστάθηκε ένα νέο προφίλ Craft για το %s.</String>
+    <String ALIAS="CRAFT_PLUGIN_APP_REQUIRE_RESTART_TITLE">Επανεκκινήστε το %s</String>
+    <String ALIAS="CRAFT_PLUGIN_APP_REQUIRE_RESTART_BODY">Εγκαταστάθηκε προφίλ Craft για το %s. Επανεκκινήστε την εφαρμογή για να ξεκινήσετε τη χρήση αυτού του προφίλ.</String>
+
+  </StringSet>
+</Source>

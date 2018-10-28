@@ -1,0 +1,412 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "crownbrightness",
+            "value": "Kirkkaus"
+        },
+        {
+            "ID": "crownvolume",
+            "value": "Äänenvoimakkuus"
+        },
+        {
+            "ID": "crownmediacontrol",
+            "value": "Median hallinta"
+        },
+        {
+            "ID": "crownexposeappswitch",
+            "value": "Vaihda sovellusta"
+        },
+        {
+            "ID": "crowntabscommand",
+            "value": "Välilehden vaihto"
+        },
+        {
+            "ID": "crownswitchdesktop",
+            "value": "Työpöydän vaihto"
+        },
+        {
+            "ID": "crownzoom",
+            "value": "Zoomaus"
+        },
+        {
+            "ID": "crownnavigatepages",
+            "value": "Siirry sivuilla"
+        },
+        {
+            "ID": "crowncustomkeyleftright",
+            "value": "Mukautettu näppäin"
+        },
+        {
+            "ID": "crownhscroll",
+            "value": "Vaakavieritys"
+        },
+		{
+            "ID": "brightness",
+            "value": "Kirkkaus"
+        },
+        {
+            "ID": "volume",
+            "value": "Äänenvoimakkuus"
+        },
+        {
+            "ID": "mediaplayer",
+            "value": "Mediasoitin"
+        },
+        {
+            "ID": "appswitch",
+            "value": "Vaihda sovellusta"
+        },
+        {
+            "ID": "tabsswitch",
+            "value": "Välilehden vaihto"
+        },
+        {
+            "ID": "desktopswitch",
+            "value": "Työpöydän vaihto"
+        },
+        {
+            "ID": "crowndesktopswitch",
+            "value": "Työpöydän vaihto"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zoomaus"
+        },
+        {
+            "ID": "gesturebutton",
+            "value": "Elepainike"
+        },
+        {
+            "ID": "modeshiftbutton",
+            "value": "Tilanvaihdin"
+        },
+        {
+            "ID": "advancedclick",
+            "value": "Kehittynyt napsautus"
+        },
+        {
+            "ID": "applicationmenu",
+            "value": "Sovellusvalikko"
+        },
+        {
+            "ID": "back",
+            "value": "Takaisin"
+        },
+        {
+            "ID": "calculator",
+            "value": "Laskin"
+        },
+        {
+            "ID": "charms",
+            "value": "Oikopolut"
+        },
+        {
+            "ID": "closewindow",
+            "value": "Sulje ikkuna"
+        },
+        {
+            "ID": "copy",
+            "value": "Kopioi"
+        },
+        {
+            "ID": "cut",
+            "value": "Leikkaa"
+        },
+        {
+            "ID": "devices",
+            "value": "Laitteet"
+        },
+        {
+            "ID": "documents",
+            "value": "Asiakirja"
+        },
+        {
+            "ID": "doubleclick",
+            "value": "Kaksoisnapsautus"
+        },
+        {
+            "ID": "email",
+            "value": "Sähköposti"
+        },
+        {
+            "ID": "forward",
+            "value": "Eteenpäin"
+        },
+        {
+            "ID": "home",
+            "value": "Koti"
+        },
+        {
+            "ID": "myhome",
+            "value": "Kotisivu"
+        },
+        {
+            "ID": "mymusic",
+            "value": "Oma musiikki"
+        },
+        {
+            "ID": "inputlanguage",
+            "value": "Syöttökieli"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Näppäinten määrittäminen"
+        },
+        {
+            "ID": "launchapplication",
+            "value": "Käynnistä sovellus"
+        },
+        {
+            "ID": "leftclick",
+            "value": "Napsautus vasemmalla"
+        },
+        {
+            "ID": "lock",
+            "value": "Lukitse"
+        },
+        {
+            "ID": "maximizewindow",
+            "value": "Suurenna ikkuna"
+        },
+        {
+            "ID": "middlebutton",
+            "value": "Keskipainike"
+        },
+        {
+            "ID": "minimizewindow",
+            "value": "Pienennä ikkuna"
+        },
+        {
+            "ID": "modifierkeys",
+            "value": "Määritinpainikkeet"
+        },
+        {
+            "ID": "mousesensitivity",
+            "value": "Hiiren herkkyys"
+        },
+        {
+            "ID": "music",
+            "value": "Musiikki"
+        },
+        {
+            "ID": "mute",
+            "value": "Mykistys"
+        },
+        {
+            "ID": "mycomputer",
+            "value": "Oma tietokone"
+        },
+        {
+            "ID": "mydocuments",
+            "value": "Omat tiedostot"
+        },
+        {
+            "ID": "myvideos",
+            "value": "Omat videot"
+        },
+        {
+            "ID": "next",
+            "value": "Seuraava"
+        },
+        {
+            "ID": "nextprevious",
+            "value": "Edellinen / seuraava"
+        },
+        {
+            "ID": "nexttrackfastforward",
+            "value": "Seuraava raita / Eteenpäinkelaus"
+        },
+        {
+            "ID": "openfile",
+            "value": "Avaa tiedosto"
+        },
+        {
+            "ID": "openfolder",
+            "value": "Avaa kansio"
+        },
+        {
+            "ID": "openwebpage",
+            "value": "Avaa verkkosivu"
+        },
+        {
+            "ID": "paste",
+            "value": "Liitä"
+        },
+        {
+            "ID": "mypictures",
+            "value": "Omat kuvat"
+        },
+        {
+            "ID": "pictures",
+            "value": "Kuvat"
+        },
+        {
+            "ID": "playpause",
+            "value": "Toista/Tauko"
+        },
+        {
+            "ID": "previous",
+            "value": "Edellinen"
+        },
+        {
+            "ID": "previoustrackrewind",
+            "value": "Edellinen raita / Taaksepäinkelaus"
+        },
+        {
+            "ID": "rightclick",
+            "value": "Napsautus oikealla"
+        },
+        {
+            "ID": "scrollleft",
+            "value": "Vieritys vasemmalle"
+        },
+        {
+            "ID": "scrollright",
+            "value": "Vieritys oikealle"
+        },
+        {
+            "ID": "search",
+            "value": "Hae"
+        },
+        {
+            "ID": "settings",
+            "value": "Asetukset"
+        },
+        {
+            "ID": "share",
+            "value": "Jaa"
+        },
+        {
+            "ID": "showhidedesktop",
+            "value": "Näytä/piilota työpöytä"
+        },
+        {
+            "ID": "shutdown",
+            "value": "Sammuta"
+        },
+        {
+            "ID": "signout",
+            "value": "Kirjaudu ulos"
+        },
+        {
+            "ID": "sleep",
+            "value": "Lepotila"
+        },
+        {
+            "ID": "startscreen",
+            "value": "Aloitusnäyttö"
+        },
+        {
+            "ID": "stop",
+            "value": "Pysäytä"
+        },
+        {
+            "ID": "switchscreen",
+            "value": "Vaihda näyttöä"
+        },
+        {
+            "ID": "thispc",
+            "value": "Tämä tietokone"
+        },
+        {
+            "ID": "togglesmoothscrolling",
+            "value": "Ota tasainen selaus käyttöön tai poista se käytöstä"
+        },
+        {
+            "ID": "videos",
+            "value": "Videot"
+        },
+        {
+            "ID": "volumedown",
+            "value": "Äänenvoimakkuuden vähennys"
+        },
+        {
+            "ID": "volumeup",
+            "value": "Äänenvoimakkuuden lisäys"
+        },
+        {
+            "ID": "zoomin",
+            "value": "Lähennä"
+        },
+        {
+            "ID": "zoomout",
+            "value": "Loitonna"
+        },
+        {
+            "ID": "zoomreset",
+            "value": "Zoomin palautus"
+        },
+        {
+            "ID": "none",
+            "value": "Ei mitään"
+        },
+        {
+            "ID": "switchleft",
+            "value": "Vaihda vasemmalle"
+        },
+        {
+            "ID": "switchright",
+            "value": "Vaihda oikealle"
+        },
+        {
+            "ID": "previouspage",
+            "value": "Edellinen sivu"
+        },
+        {
+            "ID": "nextpage",
+            "value": "Seuraava sivu"
+        },
+        {
+            "ID": "navigatepages",
+            "value": "Siirry sivuilla"
+        },
+        {
+            "ID": "customkey",
+            "value": "Mukautettu näppäin"
+        },
+        {
+            "ID": "navigatebetweenapps",
+            "value": "Siirry sovellusten välillä"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "Sisällönmukainen"
+        },
+        {
+            "ID": "crownbrowsertextsize",
+            "value": "Tekstin koko tai välilehden vaihto"
+        },
+        {
+            "ID": "createvirtualdesktop",
+            "value": "Uusi työpöytä"
+        },
+        {
+            "ID": "clonevirtualdesktop",
+            "value": "Sulje työpöytä"
+        },
+        {
+            "ID": "nextvirtualdesktop",
+            "value": "Työpöytä (seuraava)"
+        },
+        {
+            "ID": "previousvirtualdesktop",
+            "value": "Työpöytä (edellinen)"
+        },
+        {
+            "ID": "teskview",
+            "value": "Tehtävänäkymä"
+        },
+        {
+            "ID": "teskview10",
+            "value": "Tehtävänäkymä"
+        },
+        {
+            "ID": "cortana",
+            "value": "Cortana"
+        },
+        {
+            "ID": "actioncenter",
+            "value": "Toimintokeskus"
+        }
+    ]
+}

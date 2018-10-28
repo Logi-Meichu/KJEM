@@ -1,0 +1,92 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "textSize",
+            "value": "フォントサイズ"
+        },
+        {
+            "ID": "leading",
+            "value": "行送り"
+        },
+        {
+            "ID": "tracking",
+            "value": "トラッキング"
+        },
+        {
+            "ID": "colorFill",
+            "value": "塗り"
+        },
+        {
+            "ID": "colorStroke",
+            "value": "線"
+        },
+        {
+            "ID": "strokeWeight",
+            "value": "線幅"
+        },
+        {
+            "ID": "scale",
+            "value": "拡大・縮小"
+        },
+        {
+            "ID": "opacity",
+            "value": "不透明度"
+        },
+        {
+            "ID": "pageNavigation",
+            "value": "ページの変更"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "コンテキスト"
+        },
+        {
+            "ID": "undoRedo",
+            "value": "取り消し/やり直し"
+        },
+        {
+            "ID": "undoredo",
+            "value": "取り消し/やり直し"
+        },
+        {
+            "ID": "undo",
+            "value": "取り消し"
+        },
+        {
+            "ID": "redo",
+            "value": "やり直し"
+        },
+        {
+            "ID": "zoom",
+            "value": "ズーム"
+        },
+        {
+            "ID": "shear",
+            "value": "シアー"
+        },
+        {
+            "ID": "rotation",
+            "value": "回転"
+        },
+        {
+            "ID": "moveHorizontal",
+            "value": "位置 X"
+        },
+        {
+            "ID": "moveVertical",
+            "value": "位置 Y"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "キーストロークの割当"
+        },
+        {
+            "ID": "tint",
+            "value": "色合い"
+        },
+        {
+            "ID": "playpause",
+            "value": "再生/一時停止"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "textSize",
+            "value": "Size"
+        },
+        {
+            "ID": "leading",
+            "value": "Leading"
+        },
+        {
+            "ID": "tracking",
+            "value": "Tracking"
+        },
+        {
+            "ID": "colorFill",
+            "value": "Fill Color"
+        },
+        {
+            "ID": "colorStroke",
+            "value": "Stroke Color"
+        },
+        {
+            "ID": "strokeWeight",
+            "value": "Stroke Weight"
+        },
+        {
+            "ID": "scale",
+            "value": "Scale"
+        },
+        {
+            "ID": "opacity",
+            "value": "Opacity"
+        },
+        {
+            "ID": "pageNavigation",
+            "value": "Change Page"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "Contextual"
+        },
+        {
+            "ID": "undoRedo",
+            "value": "Undo/Redo"
+        },
+        {
+            "ID": "undoredo",
+            "value": "Undo/Redo"
+        },
+        {
+            "ID": "undo",
+            "value": "Undo"
+        },
+        {
+            "ID": "redo",
+            "value": "Redo"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zoom"
+        },
+        {
+            "ID": "shear",
+            "value": "Shear"
+        },
+        {
+            "ID": "rotation",
+            "value": "Rotation"
+        },
+        {
+            "ID": "moveHorizontal",
+            "value": "Position X"
+        },
+        {
+            "ID": "moveVertical",
+            "value": "Position Y"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Keystroke assignment"
+        },
+        {
+            "ID": "tint",
+            "value": "Tint"
+        },
+        {
+            "ID": "playpause",
+            "value": "Play/Pause"
+        }
+    ]
+}

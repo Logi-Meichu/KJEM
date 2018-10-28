@@ -1,0 +1,48 @@
+{
+  "LocalizedStrings": [
+    {
+      "ID": "keystrokeassignment",
+      "value": "Assegnazione tasto"
+    },
+    {
+      "ID": "changetoolvalue",
+      "value": "Contestuale"
+    },
+    {
+      "ID": "crownbrowsertextsize",
+      "value": "Dimensione testo o modifica scheda"
+    },
+    {
+      "ID": "crowntabscommand",
+      "value": "Switch scheda"
+    },
+    {
+      "ID": "textSize",
+      "value": "Dimensione"
+    },
+    {
+      "ID": "imageSize",
+      "value": "Dimensione"
+    },
+    {
+      "ID": "tabSwitch",
+      "value": "Navigazione scheda"
+    },
+    {
+      "ID": "zoom",
+      "value": "Zoom"
+    },
+    {
+      "ID": "sheetNavigation",
+      "value": "Navigazione foglio"
+    },
+    {
+      "ID": "horizontalScroll",
+      "value": "Scorrimento orizzontale"
+    },
+    {
+      "ID": "playpause",
+      "value": "Riproduci/Pausa"
+    }
+  ]
+}

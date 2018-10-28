@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="utf-8"?>
+<descriptions>
+	<taskids>
+
+		<!-- ******************************** frequently used windows tasks *********************************** -->
+		<task id="0x1d">
+			<description>Mediaspeler</description>
+		</task>
+		<task id="0x44">
+			<description>Vergrendelen</description>
+		</task>
+		<task id="0x10001">
+			<description>Afmelden</description>
+		</task>
+		<task id="0x0c">
+			<description>Venster sluiten</description>
+		</task>
+		<task id="0x52">
+			<description>Geen</description>
+		</task>
+		<task id="0x53">
+			<description>Tussen toepassingen schakelen</description>
+		</task>
+		<task id="0x8">
+			<description>Tussen toepassingen schakelen</description>
+		</task>
+		<task id="0x0e">
+			<description>E-mail</description>
+		</task>
+		<task id="0x87">
+			<description>Zoeken</description>
+		</task>
+		<task id="0x88">
+			<description>Delen</description>
+		</task>
+		<task id="0x89">
+			<description>Apparaten</description>
+		</task>
+		<task id="0x8a">
+			<description>Instellingen</description>
+		</task>
+		<task id="0x7A">
+			<description>Charms</description>
+		</task>
+		<task id="0x8E">
+			<description>Bureaublad weergeven/verbergen</description>
+		</task>
+		<task id="0x79">
+			<description>Toepassingsmenu</description>
+		</task>
+		<task id="0x90">
+			<description>Beginscherm</description>
+		</task>
+		<task id="0x95">
+			<description>Venster maximaliseren</description>
+		</task>
+		<task id="0x94">
+			<description>Venster minimaliseren</description>
+		</task>
+		<task id="0x38">
+			<description>Linksklikken</description>
+		</task>
+		<task id="0x39">
+			<description>Rechtsklikken</description>
+		</task>
+		<task id="0x3A">
+			<description>Middelste knop</description>
+		</task>
+
+		<!-- *********************************** back/forward *********************************** -->
+		<task id="0x3b">
+			<description>Terug</description>
+		</task>
+		<task id="0x3c">
+			<description>Terug</description>
+		</task>
+		<task id="0xab">
+			<description>Terug</description>
+		</task>
+		<task id="0x3d">
+			<description>Vooruit</description>
+		</task>
+		<task id="0x3e">
+			<description>Vooruit</description>
+		</task>
+		<task id="0xac">
+			<description>Vooruit</description>
+		</task>
+
+		<!-- *********************************** Edit features *********************************** -->
+		<task id="0x51">
+			<description>Knippen</description>
+		</task>
+		<task id="0x4e">
+			<description>Kopiëren</description>
+		</task>
+		<task id="0x85">
+			<description>Plakken</description>
+		</task>
+
+		<!-- *********************************** Calculator File launcher *********************************** -->
+		<task id="0x0a">
+			<description>Rekenmachine</description>
+		</task>
+
+		<!-- *********************************** Volume & Media handlers *********************************** -->
+		<task id="0x01">
+			<description>Volume omhoog</description>
+		</task>
+		<task id="0x02">
+			<description>Volume omlaag</description>
+		</task>
+		<task id="0x03">
+			<description>Dempen</description>
+		</task>
+		<task id="0x04">
+			<description>Afspelen/pauzeren</description>
+		</task>
+		<task id="0x07">
+			<description>Stoppen</description>
+		</task>
+		<task id="0x05">
+			<description>Volgende</description>
+		</task>
+		<task id="0x06">
+			<description>Vorige</description>
+		</task>
+
+		<!-- *********************************** Common folders *********************************** -->
+		<task id="0x27">
+			<description>Deze computer</description>
+		</task>
+		<task id="0x48">
+			<description>Deze pc</description>
+		</task>
+		<task id="0x22">
+			<description>Mijn documenten</description>
+		</task>
+		<task id="0x49">
+			<description>Documenten</description>
+		</task>
+		<task id="0x24">
+			<description>Mijn afbeeldingen</description>
+		</task>
+		<task id="0x50">
+			<description>Afbeeldingen</description>
+		</task>
+		<task id="0x23">
+			<description>Mijn muziek</description>
+		</task>
+		<task id="0x54">
+			<description>Muziek</description>
+		</task>
+		<task id="0x26">
+			<description>Mijn video's</description>
+		</task>
+		<task id="0x55">
+			<description>Video's</description>
+		</task>
+
+		<!-- *********************************** Open Web Page *********************************** -->
+		<task id="0x47">
+			<description>Startpagina</description>
+		</task>
+		<task id="0x33">
+			<description>Zoom in</description>
+		</task>
+		<task id="0x35">
+			<description>Zoom uit</description>
+		</task>
+		<task id="0x10010">
+			<description>Roteer linksom</description>
+		</task>
+		<task id="0x1000F">
+			<description>Roteer rechtsom</description>
+		</task>
+		<task id="0x1000E">
+			<description>Niet toegewezen</description>
+		</task>
+
+        <task id="0xFFFE">
+            <description>Uitgeschakeld</description>
+        </task>     
+
+		<task id="0x37">
+			<description>Zoomen opnieuw instellen</description>
+		</task>
+		<task id="0x0b">
+			<description>E-mail</description>
+		</task>
+		<task id="0x2f">
+			<description>Slaapstand</description>
+		</task>
+		<task id="0x1a">
+			<description>Startpagina</description>
+		</task>
+		<task id="0x56">
+			<description>Hoofdmenu</description>
+		</task>
+		<task id="0x1c">
+			<description>Alle vensters minimaliseren</description>
+		</task>
+		<task id="0x1b">
+			<description>Alle vensters herstellen</description>
+		</task>
+		<task id="0x91">
+			<description>Naar ander scherm schakelen</description>
+		</task>
+		<task id="0x93">
+			<description>Naar ander scherm schakelen</description>
+		</task>
+		<task id="0x43">
+			<description>Bureaublad weergeven/verbergen</description>
+		</task>
+		<task id="0x2d">
+			<description>Zoeken</description>
+		</task>
+		<task id="0xb0">
+			<description>Zoeken</description>
+		</task>
+		<task id="0xb1">
+			<description>Zoeken</description>
+		</task>
+		<task id="0xba">
+			<description>Invoertaal</description>
+		</task>
+
+		<task id="0x47">
+			<description>Startpagina</description>
+		</task>
+
+		<task id="0x96">
+			<description>Tussen toepassingen schakelen</description>
+		</task>
+		<task id="0x97">
+			<description>Startpagina</description>
+		</task>
+		<task id="0x9b">
+             <description>Schermopname</description>
+        </task>
+		<task id="0xb2">
+			<description>Startpagina</description>
+		</task>
+		<task id="0x98">
+			<description>Rechtsklikken</description>
+		</task>
+		<task id="0x20">
+			<description>Rechtsklikken</description>
+		</task>
+		<task id="0xb3">
+			<description>Rechtsklikken</description>
+		</task>
+		<task id="0x99">
+			<description>Terug</description>
+		</task>
+		<task id="0xce">
+			<description>Terug</description>
+		</task>
+    <task id="0xc5">
+      <description>Nieuw browsertabblad</description>
+    </task>
+    
+		<task id="0xA8">
+			<description>Bewegingsknop</description>
+		</task>
+		<task id="0xA9">
+			<description>Bewegingsknop</description>
+		</task>
+		<task id="0x9c">
+			<description>Bewegingsknop</description>
+		</task>
+		<task id="0xad">
+			<description>Bewegingsknop</description>
+		</task>
+
+		<task id="0x1002c">
+			<description>Bewegingsknop</description>
+		</task>
+
+		<task id="0x9d">
+			<description>Knop Moduswijziging</description>
+		</task>
+
+		<task id="0x71">
+			<description>analoog rechtsom draaien</description>
+		</task>
+
+		<task id="0x72">
+			<description>analoog linksom draaien</description>
+		</task>
+
+		<task id="0x73">
+			<description>naar links pannen</description>
+		</task>
+
+		<task id="0x74">
+			<description>naar rechts pannen</description>
+		</task>
+
+		<task id="0x75">
+			<description>omhoog pannen</description>
+		</task>
+
+		<task id="0x76">
+			<description>omlaag pannen</description>
+		</task>
+
+
+		<task id="0x3f">
+			<description>Naar links scrollen</description>
+		</task>
+
+		<task id="0x40">
+			<description>Naar rechts scrollen</description>
+		</task>
+
+		<task id="0xc3">
+			<description>App-menu</description>
+		</task>
+
+		<task id="0xbf">
+			<description>Taakweergave</description>
+		</task>
+
+		<task id="0xa3">
+			<description>Helderheid omlaag</description>
+		</task>
+
+		<task id="0xa4">
+			<description>Helderheid omhoog</description>
+		</task>
+
+		<task id="0xc0">
+			<description>Actiecentrum</description>
+		</task>
+
+		<task id="0xc1">
+			<description>Verlichting omlaag</description>
+		</task>
+
+		<task id="0xc2">
+			<description>Verlichting omhoog</description>
+		</task>
+		
+		<task id="0x10003">
+			<description>Sluimerstand</description>
+		</task>
+
+		<!-- task ids local to LogiOptions -->
+		<!-- *************************************  -->
+		<task id="0x10000">
+			<description>Toetsaanslagen toewijzen</description>
+		</task>
+		<task id="0x10001">
+			<description>Afmelden</description>
+		</task>
+		<task id="0x10002">
+			<description>Afsluiten</description>
+		</task>
+		<task id="0x10003">
+			<description>Sluimerstand</description>
+		</task>
+		<task id="0x10004">
+			<description>Toepassing starten</description>
+		</task>
+		<task id="0x10007">
+			<description>Volgend nummer/snel vooruitspoelen</description>
+		</task>
+		<task id="0x10008">
+			<description>Bestand openen</description>
+		</task>
+		<task id="0x10009">
+			<description>Map openen</description>
+		</task>
+		<task id="0x1000A">
+			<description>Webpagina openen</description>
+		</task>
+		<task id="0x1000B">
+			<description>Vorig nummer/terugspoelen</description>
+		</task>
+		<task id="0x1000C">
+			<description>Dubbelklikken</description>
+		</task>
+		<task id="0x1000D">
+			<description>Windows 8-sneltoetsen</description>
+		</task>
+
+		<task id="0x10011">
+			<description>Pannen</description>
+		</task>
+		<task id="0x10012">
+			<description>Pannen</description>
+		</task>
+		<task id="0x10013">
+			<description>Pannen</description>
+		</task>
+		<task id="0x10014">
+			<description>Pannen</description>
+		</task>
+		<task id="0x1000E">
+			<description>Middelste knop</description>
+		</task>
+
+		<task id="0x10019">
+			<description>Beginscherm</description>
+		</task>
+
+		<task id="0x10020">
+			<description>Venster maximaliseren</description>
+		</task>
+
+		<task id="0x10021">
+			<description>Bureaublad weergeven/verbergen</description>
+		</task>
+		<task id="0x10022">
+			<description>Tussen toepassingen schakelen</description>
+		</task>
+
+		<task id="0x10026">
+			<description>Links vastmaken</description>
+		</task>
+
+		<task id="0x10027">
+			<description>Rechts vastmaken</description>
+		</task>
+
+		<task id="0x10029">
+			<description>Zoom in</description>
+		</task>
+
+		<task id="0x10030">
+			<description>Volume omhoog</description>
+		</task>
+
+		<task id="0x10031">
+			<description>Volume omlaag</description>
+		</task>
+
+		<task id="0x10032">
+			<description>Vorige</description>
+		</task>
+
+		<task id="0x10033">
+			<description>Volgende</description>
+		</task>
+
+		<task id="0x10034">
+			<description>Afspelen/pauzeren</description>
+		</task>
+
+		<task id="0x10035">
+			<description>Start-menu</description>
+		</task>
+		<task id="0x10036">
+			<description>Easy-Switch</description>
+		</task>
+		<task id="0x10037">
+			<description>Muisgevoeligheid</description>
+		</task>
+		<task id="0xc4">
+			<description>Precisiemodus</description>
+		</task>
+
+		<task id="0x10038">
+			<description>Venster maximaliseren</description>
+		</task>
+
+		<task id="0x10039">
+			<description>Speciale toetsen</description>
+		</task>
+
+		<task id="0x10040">
+			<description>Geavanceerd klikken</description>
+		</task>
+
+		<task id="0x10041">
+			<description>Schakelen naar soepel scrollen</description>
+		</task>
+
+		<task id="0x10042">
+			<description>Nieuwe desktop</description>
+		</task>
+
+		<task id="0x10043">
+			<description>Desktop sluiten</description>
+		</task>
+
+		<task id="0x10044">
+			<description>Desktop (volgende)</description>
+		</task>
+
+		<task id="0x10045">
+			<description>Desktop (vorige)</description>
+		</task>
+
+		<task id="0x10047">
+			<description>Start-menu</description>
+		</task>
+		<task id="0x10048">
+			<description>Bureaublad weergeven/verbergen</description>
+		</task>
+		<task id="0x10049">
+			<description>Desktop (vorige)</description>
+		</task>
+		<task id="0x10050">
+			<description>Desktop (volgende)</description>
+		</task>
+		<task id="0x10051">
+			<description>Taakweergave</description>
+		</task>
+		<task id="0x10052">
+			<description>Actiecentrum</description>
+		</task>
+		<task id="0x10053">
+			<description>Taakweergave</description>
+		</task>
+		<task id="0x10055">
+			<description>Cortana</description>
+		</task>
+	<task id="0x10056">
+	  <description>Taakweergave</description>
+	</task>
+		<task id="0x10100">
+			<description>Venster maximaliseren</description>
+		</task>
+		<task id="0x10101">
+			<description>Bureaublad weergeven/verbergen</description>
+		</task>
+		<task id="0x10102">
+			<description>Startpagina</description>
+		</task>
+		<task id="0x10103">
+			<description>Toepassing starten</description>
+		</task>
+		<task id="0x10104">
+			<description>Tussen toepassingen schakelen</description>
+		</task>
+		<task id="0x10059">
+			<description>Volume</description>
+		</task>
+		<task id="0x1005a">
+			<description>Ander bureaublad</description>
+		</task>
+		<task id="0x1005b">
+			<description>Helderheid</description>
+		</task>
+		<task id="0x1005c">
+			<description>Mediaknop</description>
+		</task>
+		<task id="0x1005d">
+			<description>Tussen toepassingen schakelen</description>
+		</task>
+		<task id="0x1005f">
+			<description>Ander tabblad</description>
+		</task>
+    <!--task id="0x10060">
+			<description>Crown Desktop Switch</description>
+		</task-->
+		<task id="0x10061">
+			<description>Zoomen</description>
+		</task>
+		<task id="0x10062">
+			<description>Draaiknop voor paginanavigatie</description>
+		</task>
+		<task id="0x10063">
+			<description>Aangepaste toets</description>
+		</task>
+		<task id="0x10064">
+			<description>Gereedschapswaarde wijzigen</description>
+		</task>
+		<task id="0x10065">
+			<description>Ongedaan maken/Opnieuw</description>
+		</task>
+    <task id="0x10110">
+      <description>Gevoeligheid trackball</description>
+    </task>
+    <task id="0xcd">
+      <description>F1</description>
+    </task>
+    <task id="0xc6">
+      <description>F2</description>
+    </task>
+    <task id="0xc7">
+      <description>F3</description>
+    </task>
+    <task id="0xc8">
+      <description>F4</description>
+    </task>
+    <task id="0xc9">
+      <description>F5</description>
+    </task>
+    <task id="0xca">
+      <description>F6</description>
+    </task>
+    <task id="0xcb">
+      <description>F7</description>
+    </task>
+    <task id="0xcc">
+      <description>F8</description>
+    </task>
+
+
+  </taskids>
+	<gestureids>
+		<gesture id="0x21">
+			<description>Tikken om te klikken</description>
+		</gesture>
+		<gesture id="0x2c">
+			<description>Soepel scrollen</description>
+		</gesture>
+		<gesture id="0x2d">
+			<description>Scrollrichting</description>
+		</gesture>
+		<gesture id="0x2a">
+			<description>Horizontaal scrollen</description>
+		</gesture>
+		<gesture id="0x2b">
+			<description>Verticaal scrollen</description>
+		</gesture>
+		<gesture id="0x40">
+			<description>Tussen toepassingen schakelen</description>
+		</gesture>
+		<gesture id="0x41">
+			<description>Charms weergeven</description>
+		</gesture>
+		<gesture id="0x43">
+			<description>Toepassingsmenu</description>
+		</gesture>
+		<gesture id="0x54">
+			<description>Zoomen</description>
+		</gesture>
+		<gesture id="0x14">
+			<description>Aanwijzersnelheid</description>
+		</gesture>
+		<!-- new gestures -->
+		<gesture id="0x2e">
+			<description>Scrollen met duimwiel</description>
+		</gesture>
+		<gesture id="0x64">
+			<description>Dubbeltikken met duimwiel</description>
+		</gesture>
+		<gesture id="0x27d3">
+			<description>SmartShift opnieuw toewijzen</description>
+		</gesture>
+		<gesture id="0x2762">
+			<description>knop 3 opnieuw toewijzen</description>
+		</gesture>
+		<gesture id="0x27d4">
+			<description>bewegingsknop opnieuw toewijzen</description>
+		</gesture>
+	</gestureids>
+	<gesturetaskids>
+		<gesturetask id="0x0">
+			<description>Uitgeschakeld</description>
+		</gesturetask>
+		<gesturetask id="0x1">
+			<description>Met 1 of 2 vingers tikken</description>
+		</gesturetask>
+		<gesturetask id="0x2">
+			<description>Ingeschakeld</description>
+		</gesturetask>
+		<gesturetask id="0x3">
+			<description>Traditioneel</description>
+		</gesturetask>
+		<gesturetask id="0x4">
+			<description>Inhoud volgt vingers</description>
+		</gesturetask>
+		<gesturetask id="0x5">
+			<description>Met 2 vingers naar links en rechts vegen</description>
+		</gesturetask>
+		<gesturetask id="0x6">
+			<description>Met 2 vingers omhoog en omlaag vegen</description>
+		</gesturetask>
+		<gesturetask id="0x7">
+			<description>Met 1 vinger vanaf de linkerzijkant vegen</description>
+		</gesturetask>
+		<gesturetask id="0x8">
+			<description>Met 1 vinger vanaf de rechterzijkant vegen</description>
+		</gesturetask>
+		<gesturetask id="0x9">
+			<description>Met 1 vinger vanaf de bovenkant vegen</description>
+		</gesturetask>
+		<gesturetask id="0xa">
+			<description>Met 2 vingers spreiden of knijpen</description>
+		</gesturetask>
+		<gesturetask id="0xb">
+			<description>Aanwijzersnelheid</description>
+		</gesturetask>
+	</gesturetaskids>
+	<gestureactiongroups>
+		<actiongroup id="win8nav">
+			<description>Door vensters navigeren</description>
+		</actiongroup>
+		<actiongroup id="win7nav">
+			<description>Door vensters navigeren</description>
+		</actiongroup>
+		<actiongroup id="win8nav2">
+			<description>Vensters beheren</description>
+		</actiongroup>
+		<actiongroup id="winarrangement">
+			<description>Alle vensters</description>
+		</actiongroup>
+		<actiongroup id="mediagestures">
+			<description>Mediaknoppen</description>
+		</actiongroup>
+		<actiongroup id="panzoom">
+			<description>Pannen</description>
+		</actiongroup>
+		<actiongroup id="zoomrotate">
+			<description>Zoomen/draaien</description>
+		</actiongroup>
+		<actiongroup id="custom">
+			<description>Aangepast</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelhorzscroll">
+			<description>Horizontaal scrollen</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelzoom">
+			<description>Zoomt in/uit</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelvolume">
+			<description>Volume omhoog/omlaag</description>
+		</actiongroup>
+		<actiongroup id="thumbwheeltabs">
+			<description>Tab volgende/vorige</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelnextprev">
+			<description>Volgende/Vorige</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelbackforward">
+			<description>Vooruit/Terug</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelalttab">
+			<description>Tussen toepassingen schakelen</description>
+		</actiongroup>
+		<actiongroup id="thumbwheelbrightness">
+			<description>Helderheid verhogen/verlagen </description>
+		</actiongroup>
+		<actiongroup id="thumbwheelbackforwardtouch">
+			<description>Vooruit/Terug met aanraking</description>
+		</actiongroup>
+		<actiongroup id="virtualdesktop">
+			<description>Virtuele desktops</description>
+		</actiongroup>
+	<actiongroup id="fn_virtualdesktop">
+      <description>Virtuele desktops</description>
+    </actiongroup>
+		<actiongroup id="thumbwheelvirtualdesktop">
+			<description>Tussen desktops schakelen</description>
+		</actiongroup>
+		<actiongroup id="thumbwheeldonothing">
+			<description>Geen</description>
+		</actiongroup>
+		<actiongroup id="touch">
+			<description>Pannen met aanraking </description>
+		</actiongroup>
+		<actiongroup id="ichitaro">
+			<description>Ichitaro2017</description>
+		</actiongroup>
+    <actiongroup id="disabled">
+        <description>Uitgeschakeld</description>
+    </actiongroup>
+
+	</gestureactiongroups>
+</descriptions>

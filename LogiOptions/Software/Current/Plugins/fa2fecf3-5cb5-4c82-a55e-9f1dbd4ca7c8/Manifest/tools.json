@@ -1,0 +1,78 @@
+{
+    "GUID": "fa2fecf3-5cb5-4c82-a55e-9f1dbd4ca7c8",
+    "tools": [
+        {
+            "name": "nothing",
+            "enabled": true,
+            "tool_options": [
+				{
+                    "index": 0,
+                    "name": "nextPrevious",
+                    "image_file_path": "mediaControl.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "builtin_action": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 1,
+                    "name": "ShortSeek",
+                    "image_file_path": "seek.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "builtin_action": false,
+                    "update_overlay_on_value_change": false
+                },
+                {
+                    "index": 2,
+                    "name": "volumeUpDown",
+                    "image_file_path": "volumeMax.png",
+                    "enabled": true,
+                    "ratchet_enabled": true,
+                    "builtin_action": false,
+                    "update_overlay_on_value_change": false
+                }
+            ]
+        }
+    ],
+    "tasks": [
+         {
+            "name": "changetoolvalue",
+            "win_id": "0x10064",
+            "mac_id": 615
+          },
+		  {
+              "name": "nextPrevious",
+              "tool_options": [
+                "tell application \"System Events\" to key code  {35}",
+                "tell application \"System Events\" to key code  {45}"
+              ],
+              "mac_id": 500,
+              "win_id": "0x10057"
+          },
+          {
+              "name": "ShortSeek",
+              "tool_options": [
+                   "tell application \"System Events\" to key code {55,124}",
+                   "tell application \"System Events\" to key code {55,123}"
+                ],
+              "mac_id": 500,
+              "win_id": "0x10057"
+          },
+          {
+              "name": "volumeUpDown",
+              "tool_options": [
+                   "tell application \"System Events\" to key code {126}",
+                   "tell application \"System Events\" to key code {125}"
+                ],
+              "mac_id": 500,
+              "win_id": "0x10057"
+          },
+          {
+            "name": "playpause",
+            "image_file_path": "",
+            "mac_id": 4,
+            "win_id": "0x0004"
+         }
+    ]
+}

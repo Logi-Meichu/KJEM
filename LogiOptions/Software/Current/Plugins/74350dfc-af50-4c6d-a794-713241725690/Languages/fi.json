@@ -1,0 +1,72 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "textSize",
+            "value": "Koko"
+        },
+        {
+            "ID": "leading",
+            "value": "Johtava"
+        },
+        {
+            "ID": "tracking",
+            "value": "Seuranta"
+        },
+        {
+            "ID": "colorFill",
+            "value": "Täyttöväri"
+        },
+        {
+            "ID": "colorStroke",
+            "value": "Viivan väri"
+        },
+        {
+            "ID": "strokeWeight",
+            "value": "Viivan paino"
+        },
+        {
+            "ID": "scale",
+            "value": "Skaalaus"
+        },
+        {
+            "ID": "opacity",
+            "value": "Peittävyys"
+        },
+        {
+            "ID": "artboardNavigation",
+            "value": "Vaihda piirtoaluetta"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "Sisällönmukainen"
+        },
+        {
+            "ID": "undoRedo",
+            "value": "Kumoa / tee uudelleen"
+        },
+        {
+            "ID": "undoredo",
+            "value": "Kumoa / tee uudelleen"
+        },
+        {
+            "ID": "undo",
+            "value": "Kumoa"
+        },
+        {
+            "ID": "redo",
+            "value": "Tee uudelleen"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zoomaus"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Näppäinten määrittäminen"
+        },
+        {
+            "ID": "playpause",
+            "value": "Toisto / tauko"
+        }
+    ]
+}

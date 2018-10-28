@@ -1,0 +1,412 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "crownbrightness",
+            "value": "輝度"
+        },
+        {
+            "ID": "crownvolume",
+            "value": "音量"
+        },
+        {
+            "ID": "crownmediacontrol",
+            "value": "メディアコントロール"
+        },
+        {
+            "ID": "crownexposeappswitch",
+            "value": "アプリケーションの切り替え"
+        },
+        {
+            "ID": "crowntabscommand",
+            "value": "タブの切り替え"
+        },
+        {
+            "ID": "crownswitchdesktop",
+            "value": "デスクトップの切り替え"
+        },
+        {
+            "ID": "crownzoom",
+            "value": "ズーム"
+        },
+        {
+            "ID": "crownnavigatepages",
+            "value": "ページをナビゲート"
+        },
+        {
+            "ID": "crowncustomkeyleftright",
+            "value": "カスタムキー"
+        },
+        {
+            "ID": "crownhscroll",
+            "value": "水平スクロール"
+        },
+		{
+            "ID": "brightness",
+            "value": "輝度"
+        },
+        {
+            "ID": "volume",
+            "value": "音量"
+        },
+        {
+            "ID": "mediaplayer",
+            "value": "メディアプレーヤー"
+        },
+        {
+            "ID": "appswitch",
+            "value": "アプリケーションの切り替え"
+        },
+        {
+            "ID": "tabsswitch",
+            "value": "タブの切り替え"
+        },
+        {
+            "ID": "desktopswitch",
+            "value": "デスクトップの切り替え"
+        },
+        {
+            "ID": "crowndesktopswitch",
+            "value": "デスクトップの切り替え"
+        },
+        {
+            "ID": "zoom",
+            "value": "ズーム"
+        },
+        {
+            "ID": "gesturebutton",
+            "value": "ジェスチャー ボタン"
+        },
+        {
+            "ID": "modeshiftbutton",
+            "value": "モードシフト ボタン"
+        },
+        {
+            "ID": "advancedclick",
+            "value": "高度なクリック"
+        },
+        {
+            "ID": "applicationmenu",
+            "value": "アプリケーション メニュー"
+        },
+        {
+            "ID": "back",
+            "value": "戻る"
+        },
+        {
+            "ID": "calculator",
+            "value": "電卓"
+        },
+        {
+            "ID": "charms",
+            "value": "Charms"
+        },
+        {
+            "ID": "closewindow",
+            "value": "ウィンドウを閉じる"
+        },
+        {
+            "ID": "copy",
+            "value": "コピー"
+        },
+        {
+            "ID": "cut",
+            "value": "切り取り"
+        },
+        {
+            "ID": "devices",
+            "value": "デバイス"
+        },
+        {
+            "ID": "documents",
+            "value": "ドキュメント"
+        },
+        {
+            "ID": "doubleclick",
+            "value": "ダブルクリック"
+        },
+        {
+            "ID": "email",
+            "value": "電子メール"
+        },
+        {
+            "ID": "forward",
+            "value": "進む"
+        },
+        {
+            "ID": "home",
+            "value": "ホーム"
+        },
+        {
+            "ID": "myhome",
+            "value": "マイ ホーム"
+        },
+        {
+            "ID": "mymusic",
+            "value": "マイ ミュージック"
+        },
+        {
+            "ID": "inputlanguage",
+            "value": "入力言語"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "キーストロークの割当"
+        },
+        {
+            "ID": "launchapplication",
+            "value": "アプリケーションの起動"
+        },
+        {
+            "ID": "leftclick",
+            "value": "左クリック"
+        },
+        {
+            "ID": "lock",
+            "value": "ロック"
+        },
+        {
+            "ID": "maximizewindow",
+            "value": "ウィンドウを最大化"
+        },
+        {
+            "ID": "middlebutton",
+            "value": "中央ボタン"
+        },
+        {
+            "ID": "minimizewindow",
+            "value": "ウィンドウを最小化"
+        },
+        {
+            "ID": "modifierkeys",
+            "value": "モディファイアキー"
+        },
+        {
+            "ID": "mousesensitivity",
+            "value": "マウス感度"
+        },
+        {
+            "ID": "music",
+            "value": "音楽"
+        },
+        {
+            "ID": "mute",
+            "value": "ミュート"
+        },
+        {
+            "ID": "mycomputer",
+            "value": "マイ コンピューター"
+        },
+        {
+            "ID": "mydocuments",
+            "value": "マイ ドキュメント"
+        },
+        {
+            "ID": "myvideos",
+            "value": "マイ ビデオ"
+        },
+        {
+            "ID": "next",
+            "value": "次へ"
+        },
+        {
+            "ID": "nextprevious",
+            "value": "進む / 戻る"
+        },
+        {
+            "ID": "nexttrackfastforward",
+            "value": "次のトラック/早送り"
+        },
+        {
+            "ID": "openfile",
+            "value": "ファイルを開く"
+        },
+        {
+            "ID": "openfolder",
+            "value": "フォルダを開く"
+        },
+        {
+            "ID": "openwebpage",
+            "value": "Web ページを開く"
+        },
+        {
+            "ID": "paste",
+            "value": "貼り付け"
+        },
+        {
+            "ID": "mypictures",
+            "value": "マイ ピクチャ"
+        },
+        {
+            "ID": "pictures",
+            "value": "ピクチャ"
+        },
+        {
+            "ID": "playpause",
+            "value": "再生 / 一時停止"
+        },
+        {
+            "ID": "previous",
+            "value": "前へ"
+        },
+        {
+            "ID": "previoustrackrewind",
+            "value": "前のトラック/巻き戻し"
+        },
+        {
+            "ID": "rightclick",
+            "value": "右クリック"
+        },
+        {
+            "ID": "scrollleft",
+            "value": "左スクロール"
+        },
+        {
+            "ID": "scrollright",
+            "value": "右スクロール"
+        },
+        {
+            "ID": "search",
+            "value": "検索"
+        },
+        {
+            "ID": "settings",
+            "value": "設定"
+        },
+        {
+            "ID": "share",
+            "value": "共有"
+        },
+        {
+            "ID": "showhidedesktop",
+            "value": "デスクトップの表示/非表示"
+        },
+        {
+            "ID": "shutdown",
+            "value": "シャットダウン"
+        },
+        {
+            "ID": "signout",
+            "value": "サインアウト"
+        },
+        {
+            "ID": "sleep",
+            "value": "スリープ"
+        },
+        {
+            "ID": "startscreen",
+            "value": "スタート画面"
+        },
+        {
+            "ID": "stop",
+            "value": "停止"
+        },
+        {
+            "ID": "switchscreen",
+            "value": "画面を切り替える"
+        },
+        {
+            "ID": "thispc",
+            "value": "この PC"
+        },
+        {
+            "ID": "togglesmoothscrolling",
+            "value": "スムーズ スクロールを切り替え"
+        },
+        {
+            "ID": "videos",
+            "value": "ビデオ"
+        },
+        {
+            "ID": "volumedown",
+            "value": "ボリューム ダウン"
+        },
+        {
+            "ID": "volumeup",
+            "value": "ボリューム アップ"
+        },
+        {
+            "ID": "zoomin",
+            "value": "拡大"
+        },
+        {
+            "ID": "zoomout",
+            "value": "縮小"
+        },
+        {
+            "ID": "zoomreset",
+            "value": "ズームをリセット"
+        },
+        {
+            "ID": "none",
+            "value": "なし"
+        },
+        {
+            "ID": "switchleft",
+            "value": "切り替え 左"
+        },
+        {
+            "ID": "switchright",
+            "value": "切り替え 右"
+        },
+        {
+            "ID": "previouspage",
+            "value": "前のページ"
+        },
+        {
+            "ID": "nextpage",
+            "value": "次のページ"
+        },
+        {
+            "ID": "navigatepages",
+            "value": "ページをナビゲート"
+        },
+        {
+            "ID": "customkey",
+            "value": "カスタムキー"
+        },
+        {
+            "ID": "navigatebetweenapps",
+            "value": "アプリ間をナビゲート"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "コンテキスト"
+        },
+        {
+            "ID": "crownbrowsertextsize",
+            "value": "テキストサイズまたはタブの変更"
+        },
+        {
+            "ID": "createvirtualdesktop",
+            "value": "新しいデスクトップ"
+        },
+        {
+            "ID": "clonevirtualdesktop",
+            "value": "デスクトップを閉じる"
+        },
+        {
+            "ID": "nextvirtualdesktop",
+            "value": "デスクトップ（次）"
+        },
+        {
+            "ID": "previousvirtualdesktop",
+            "value": "デスクトップ（前）"
+        },
+        {
+            "ID": "teskview",
+            "value": "タスク表示"
+        },
+        {
+            "ID": "teskview10",
+            "value": "タスク表示"
+        },
+        {
+            "ID": "cortana",
+            "value": "Cortana"
+        },
+        {
+            "ID": "actioncenter",
+            "value": "アクションセンター"
+        }
+    ]
+}

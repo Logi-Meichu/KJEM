@@ -1,0 +1,48 @@
+{
+    "GUID": "847b44c9-a9c5-45f7-927a-a6e1960ad317",
+    "info": {
+        "name": "Adobe InDesign CC",
+        "publisher": "Logitech Inc.",
+        "version": "1.0",
+        "win_name": "InDesign.exe",
+        "mac_bundle": "Adobe InDesign CC 2018.app",
+        "mac_path": "/Applications/Adobe InDesign CC 2018",
+        "mac_paths": [
+            {
+                "path": "/Applications/Adobe InDesign CC 2017/Adobe InDesign CC 2017.app",
+                "mac_minimum_supported_version": "12.0.0",
+                "mac_maximum_supported_version": "12.*.*",
+                "name_suffix": "(2017)"
+            },
+            {
+                "path": "/Applications/Adobe InDesign CC 2018/Adobe InDesign CC 2018.app",
+                "comment": "Fix version number here when available",
+                "mac_minimum_supported_version": "13.0.0",
+                "mac_maximum_supported_version": "13.*.*",
+                "name_suffix": "(2018)"
+            }
+        ],
+        "win_minimum_supported_version": "12.0.0",
+        "win_maximum_supported_version": "2017.0.1"
+    },
+    "crown": {
+        "rotate": {
+            "default_task": "changetoolvalue",
+            "tasks": [
+                "changetoolvalue"
+            ],
+            "short_list": [
+                "changetoolvalue"
+            ]
+        },
+        "press": {
+            "default_task": "playpause",
+            "tasks": [
+                "playpause"
+            ],
+            "short_list": [
+                "playpause"
+            ]
+        }
+    }
+}

@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<StringDictionary version="1.2">
+  <Strings>
+    <String key="WindowName">LogiOptions</String>
+    <String key="ApplicationName">Options</String>
+    <String key="MoreDetails">More settings</String>
+    <String key="FnInversion">Use F1 - F12 as standard function keys</String>
+    <String key="KeyboardWinMode">Always keep keyboard in Windows layout</String>
+    <String key="Backlighting">Disable backlighting</String>
+    <String key="Customize">CUSTOMIZE</String>
+    <String key="CustomizeGestures">Customize gestures</String>
+    <String key="GestureClickDetail">Click the gesture button.</String>
+    <String key="GestureMotionDetail">Hold down the gesture button while moving the mouse.</String>
+    <String key="GestureMotionDetail_Trackball">Hold down the gesture button while moving the trackball.</String>
+    <!--<String key="GestureButtonLearnMore">Learn more about gesture button</String>-->
+    <String key="LearnMore">LEARN MORE</String> 
+    <String key="LaunchSetpoint">Launch SetPoint</String>
+    <String key="DownloadSetpoint">Download SetPoint</String>
+    <String key="CrosslinkDevicesReminder">Don't show this message again</String>
+    <String key="CrosslinkDevicesDialog">%BrandName% Options does not support all of the %BrandName% devices connected to your system.  Please use %BrandName% SetPoint software to customize settings for the following devices:</String>
+    <String key="CommaSeparator">, </String>
+    <String key="AndSeparator"> and </String>
+
+    <String key="StringFragments:Device">device</String>
+
+    <String key="DeviceList:NoDevices">No devices detected</String>
+    <String key="DeviceList:NoDeviceDesc">Please be sure your devices are connected and turned on.</String>
+    <String key="DeviceList:Removed">Removed</String>
+    <String key="DeviceList:Enumuerate">Scanning...</String>
+    <String key="DeviceList:Devices">Devices</String>
+
+    <String key="Video:NoVideo">Video not installed</String>
+    <String key="Video:VideoFailDialog">The device video could not be downloaded at this time, please try again later.</String>
+
+    <String key="Tooltip:BatteryUnknown">Unknown</String>
+    <String key="Tooltip:BatteryCritical">Critical</String>
+    <String key="Tooltip:BatteryLow">Low</String>
+    <String key="Tooltip:BatteryGood">Good</String>
+    <String key="Tooltip:BatteryFull">Full</String>
+    <String key="Tooltip:BatteryCharging">Charging</String>
+    <String key="Tooltip:BatteryError">Charging error</String>
+    <String key="Tooltip:BatteryComplete">Charge complete</String>
+    <String key="Tooltip:Connected">Connected</String>
+    <String key="Tooltip:NotConnected">Not connected</String>
+
+    <!-- Device Settings Tabs -->
+    <String key="DeviceSettings:Keyboard">Keyboard</String>
+    <String key="DeviceSettings:Mouse">Mouse</String>
+    <String key="DeviceSettings:Trackball">Trackball</String>
+    <String key="DeviceSettings:PointScroll">Point &#38; Scroll</String>
+    <String key="DeviceSettings:Gestures">Gestures</String>
+    <String key="DeviceSettings:Illumination">Illumination</String>
+    <String key="DeviceSettings:FunctionKeys">Function keys</String>
+    <String key="DeviceSettings:ShortcutKeys">Shortcut keys</String>
+    <String key="DeviceSettings:EasySwitch">Easy-Switch</String>
+    <String key="DeviceSettings:Crown">Crown</String>
+    <String key="DeviceSettings:Flow">Flow</String>
+    <String key="DeviceSettings:Beta">Beta</String>
+
+    <String key="DeviceSettings:GestureById0x2e">Thumb wheel sensitivity</String>
+
+    <String key="Buttons:MinimizeToolTip">Minimize</String>
+    <String key="Buttons:CloseToolTip">Close</String>
+    <String key="Buttons:More">MORE</String>
+    <String key="Buttons:Less">LESS</String>
+    <String key="Buttons:RestoreDefaults">Restore defaults</String>
+    <String key="Buttons:Restore">Restore</String>
+    <String key="Buttons:YourDevices">Your devices</String>
+    <String key="Buttons:AddDevice">Add devices</String>
+    <String key="Buttons:Continue">Continue</String>
+    <String key="Buttons:TryAgain">Try again</String>
+    <String key="Buttons:Cancel">Cancel</String>
+    <String key="Buttons:Skip">Skip</String>
+    <String key="Buttons:Remind">Install later</String>
+    <String key="Buttons:Okay">OK</String>
+    <String key="Buttons:Ok">OK</String>
+    <String key="Buttons:FirmwareUpdate">Check for firmware update</String>
+    <String key="Buttons:SoftwareUpdate">Check for update</String>
+    <String key="Buttons:LaunchUnifying">Open Unifying software</String>
+    <String key="Buttons:FileBrowse">Browse...</String>
+    <String key="Buttons:VideoDownload">Download video</String>
+    <String key="Buttons:PairAnother">Pair another device</String>
+    <String key="Buttons:Done">Done</String>    
+    <String key="Buttons:Enable">ENABLE</String><!--NEW AFTER 4/10/2017-->
+    <String key="Buttons:Disable">DISABLE</String>
+    <String key="Buttons:Retry">RETRY</String>
+    <String key="Buttons:MoreSettings">MORE SETTINGS</String><!--NEW 7/24/2017-->
+    
+    <String key="TaskSelect:RemoveHost">REMOVE</String>
+    <String key="TaskSelect:Keystroke">Enter Keystroke</String>
+    <String key="TaskSelect:FileLaunch">File name</String>
+    <String key="TaskSelect:FolderLaunch">Folder name</String>
+    <String key="TaskSelect:WebLaunch">Web address</String>
+    <String key="TaskSelect:HostSwitch">Easy-Switch control</String>
+    <String key="TaskSelect:DpiShift">Set mouse sensitivity</String>
+    <String key="TaskSelect:DpiShiftTrackball">Set trackball sensitivity</String>
+    <String key="TaskSelect:HorizontalScrollSpeed">Set horizontal scroll speed</String>
+    <String key="TaskSelect:KeystrokeBlank">(Click here)</String>
+    <String key="TaskSelect:FileLaunchBlank">(Enter file name)</String>
+    <String key="TaskSelect:FolderLaunchBlank">(Enter folder name)</String>
+    <String key="TaskSelect:WebLaunchBlank">(Enter URL)</String>
+    <String key="TaskSelect:KeystrokeDesc">Click in the white box above and press a valid key combination to create a shortcut.</String>
+    <String key="TaskSelect:FileLaunchDesc">Click the Browse button to select a file, or type the full path to the file in the white box above.</String>
+    <String key="TaskSelect:FolderLaunchDesc">Click the Browse button to select a folder, or type the full path to the folder in the white box above.</String>
+    <String key="TaskSelect:WebLaunchDesc">Enter the URL to the desired website in the white box above.</String>
+    <String key="TaskSelect:HostSwitchDesc">Press the button to switch to the next available host.</String>
+    <String key="TaskSelect:DpiShiftDesc">Press the button to toggle between the master and custom pointer speeds.</String>
+    <String key="TaskSelect:HorizontalScrollSpeedDesc">Use the slider to adjust the horizontal scroll speed setting.</String>
+    <String key="TaskSelect:KeystrokeWaiting">(Press Key Combination)</String>
+    <String key="TaskSelect:DpiShiftMasterChannel">Master</String>
+    <String key="TaskSelect:DpiShiftCustom1Channel">Custom</String>
+    <String key="TaskSelect:HostSwitchNotAvail">Device Not Available</String>
+    <String key="TaskSelect:HostSwitchInstruction">Toggle between up to 3 hosts.</String>
+    <String key="TaskSelect:HostSwitchLegend1">Current host</String>
+    <String key="TaskSelect:HostSwitchLegend2">Available</String>
+    <String key="TaskSelect:HostSwitchLegend3">Not available</String>
+    <String key="TaskSelect:ThumbwheelScroll">Thumb wheel scroll</String>
+    <String key="TaskSelect:InvertHorzScroll">Invert Horizontal Scrolling Direction</String>
+    <String key="TaskSelect:TiltScrollSpeed">Set horizontal scroll speed</String>
+    <String key="TaskSelect:AdvancedClick">Setup advanced click</String>
+    <String key="TaskSelect:ModifierKeys">Select modifier(s)</String>
+    <String key="TaskSelect:ModKeyAlt">Alt</String>
+    <String key="TaskSelect:ModKeyCtl">Ctrl</String>
+    <String key="TaskSelect:ModKeyShf">Shift</String>
+    <String key="TaskSelect:ModKeyWin">Win</String>
+    <String key="TaskSelect:ModKeyJnr"> + </String>
+    <String key="TaskSelect:SelectClick">Select click type</String>
+    <String key="TaskSelect:SingleClick">Click</String>
+    <String key="TaskSelect:DoubleClick">Double click</String>
+    <String key="TaskSelect:TripleClick">Triple click</String>
+    <String key="TaskSelect:RightClick">Right click</String>
+    <String key="TaskSelect:MiddleClick">Middle click</String>
+    <String key="TaskSelect:SelectTools">Select tools</String>
+    <String key="TaskSelect:SelectToolsHint">Depending on your screen resolution, you might not be able to view all the active tools in the overlay.</String>
+
+    <String key="More:ThisDevice">This device</String>
+    <String key="More:Connectivity">Connectivity</String>
+    <String key="More:Software">Software</String>
+    <String key="More:About">About</String>
+    <String key="More:NotifyCheckbox">Automatically check for updates</String>
+    <String key="More:Notifications">Notifications</String>
+    <String key="More:NotificationText">Notify me when the following happens. (Notifications will appear briefly on your screen.)</String>
+    <String key="More:NotificationsText">Notify me when one of the following happens. (Notifications will appear briefly on your screen.)</String>
+    <String key="More:NotifyBattLow">Device battery becomes low</String>
+    <String key="More:NotifyCapsLock">Caps lock is pressed</String>
+    <String key="More:NotifyScrollLock">Scroll lock is pressed</String>
+    <String key="More:NotifyLockKey">A lock key is pressed</String>
+    <String key="More:DisabledKeys">Disabled keys</String>
+    <String key="More:DisabledKeysText">Check the keys you want to disable.</String>
+    <String key="More:KeysCapsLock">Caps lock</String>
+    <String key="More:KeysScrollLock">Scroll lock</String>
+    <String key="More:KeysInsert">Insert</String>
+    <String key="More:KeysWindows">Windows/Start key</String>
+    <String key="More:KeysNumLock">Num lock</String>
+    <String key="More:Unifying">Unifying</String>
+    <String key="More:UnifyingText">A %BrandName% Unifying receiver is plugged into this computer. You can pair up to six compatible wireless mice, keyboards or other Unifying devices to a single %BrandName% Unifying receiver.</String>
+    <String key="More:LearnMore">Learn more</String>
+    <String key="More:OpenUnifying">Open Unifying Software</String>
+    <String key="More:Bluetooth">Bluetooth</String>
+    <String key="More:SoftwareVersion">Software version: </String>
+    <String key="More:FirmwareVersion">Firmware version: </String>
+    <String key="More:CopyTrade">© 2018 %BrandName%. %BrandName%, Logi and other %BrandName% marks are owned by %BrandName% and may be registered. All other trademarks are the property of their respective owners.</String>
+    <String key="More:Support">Support</String>
+    <String key="More:SupportText">Visit our support site to get assistance or to find documentation, downloads and access to user forums.</String>
+    <String key="More:DeveloperMode">Developer Mode</String><!--NEW 1/11/2018-->
+    <String key="More:DeveloperModeText">Allows you to install and use unsigned third-party application profiles for development purposes. Learn more about the </String><!--NEW 1/11/2018-->
+    <String key="More:DeveloperModeLink">Options SDK</String><!--NEW 1/11/2018-->
+    <String key="More:DeveloperModeEnabled">DEVELOPER MODE ENABLED</String><!--NEW 1/11/2018-->
+
+    <String key="UpdateStatus:Checking">Checking for update...</String>
+    <String key="UpdateStatus:NoUpdateAvailable">Software is up to date</String>
+    <String key="UpdateStatus:DownloadInProgress">Downloading update...</String>
+    <String key="UpdateStatus:DownloadSuccess">Download complete</String>
+    <String key="UpdateStatus:DownloadFailure">Failed to download</String>
+    <String key="UpdateStatus:InstallInProgress">Installing update...</String>
+    <String key="UpdateStatus:InstallSuccess">Software is up to date</String>
+    <String key="UpdateStatus:InstallFailure">Failed to install</String>
+    <String key="UpdateStatus:NoInternetConnection">No Internet connection detected, please try again later.</String>
+
+    <String key="Modal:RestoreDefaultsWarning">Settings for this device will be restored to their default values. Universal settings that apply to all devices will not be restored. Select Continue to restore the default settings or Cancel to keep your current settings.</String>
+    <String key="Modal:InstallUpdates">An update is ready to be installed. Select Continue to install the update now, Install Later to be reminded the next time you open this app, or Skip to ignore this update.</String>
+    <String key="Modal:InteractiveUpdates">An update is ready to be installed. Select Continue to install the update now or Install Later to be reminded the next time you open this app.</String>
+    <String key="Modal:RelaunchUI">%BrandName% Options has been updated and will automatically restart to enable new features.</String>
+    <String key="Modal:ClearHostChannel">This will temporarily remove the selected host from Easy-Switch functionality. Click %%Buttons:Continue%% to proceed or %%Buttons:Cancel%% to abort.</String>
+    <String key="Modal:UnknownFeatures">%BrandName% Options found unknown features in one or more of your connected devices. In order to properly support them please be sure to keep %BrandName% Options up to date with the latest version.</String>
+    <String key="Modal:ConfirmEnableDeveloperMode">By enabling developer mode, application profiles that were not approved and signed by %BrandName% can be installed and used. This action could affect the behavior of your devices and applications. If you encounter issues, please disable developer mode before contacting our support. &#x0a;&#x0a;NOTE: Analytics will be automatically turned on.</String><!--NEW 1/11/2018-->
+    <String key="Modal:ConfirmDisableDeveloperMode">By disabling developer mode, new application profiles that were not approved and signed by %BrandName% cannot be installed. Any unsigned application profiles already installed will be removed from the profiles list.</String><!--NEW 1/11/2018-->
+    <String key="Modal:OnboardingSelectionError">Applications can only have one profile assigned to them, please select a single profile from the list. If you already have a profile enabled, please make sure you remove the application profile from ‘Application Specific Settings’ first, and try to install the profile again.</String><!--NEW 1/11/2018-->
+
+    <String key="DFUState:DFU_WELCOME_PAGE_STEP0">A firmware update is available for your ==DeviceName==. During this process your ==DeviceName== may become unavailable for use. Would you like to proceed?</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_PAIRED_STEP1">Checking for paired device...</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_PAIRED_STEP1_WAITING">Your ==DeviceName== does not appear to be paired, please pair it now or try again later.</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_ACTIVE_STEP2">Making sure device is active...</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_ACTIVE_STEP2_WAITING">Unable to detect your ==DeviceName==. Please make sure it's turned On and working.</String>
+    <String key="DFUState:DFU_PREREQ_IS_DEVICE_BATTERY_OK_STEP3">Checking battery charge state...</String>
+    <String key="DFUState:DFU_PREREQ_FW_VERSION_CHECK_STEP3_PLUS">Checking firmware versions...</String>
+    <String key="DFUState:DFU_ENTER_DFU_MODE_STEP4">Putting device into firmware update mode...</String>
+    <String key="DFUState:DFU_ENTER_DFU_MODE_STEP4_WAITING">To install the update, please turn your ==DeviceName== Off then On. Once the update starts, do not turn your device Off or disconnect it until the update is complete.</String>
+    <String key="DFUState:DFU_SEND_FIRST_DFU_PACKET_STEP5">Initializing firmware update...</String>
+    <String key="DFUState:DFU_PACKET_STEP5_RESPONSE_WAITING">Updating your ==DeviceName== firmware</String>
+    <String key="DFUState:DFU_ABORT_INTERNAL_ERROR">An error occurred during the update process. Please try installing the update again.</String>
+    <String key="DFUState:DFU_ABORT_LOW_BATTERY_ERROR">The update cannot be installed because the battery level of your ==DeviceName== is too low. Please recharge or replace the batteries and try installing the update again.</String>
+    <String key="DFUState:DFU_ABORT_START_FAILED_ERROR">An error occurred during the update process. Please try installing the update again.</String>
+    <String key="DFUState:DFU_SUCCESS">Your ==DeviceName== firmware was successfully updated!</String>
+    <String key="DFUState:DFU_ABORT">An unknown issue caused the firmware update to abort. Please try again later.</String>
+    <String key="DFUState:DFU_DONE">Your ==DeviceName== is now ready to use.</String>
+    <String key="DFUState:DFU_ABORT_FW_VERSION_UPTO_DATE">Your device firmware is already up-to-date.</String>
+    <String key="DFUState:DFU_BLE_MODE_NOT_SUPPORTED">Your ==DeviceName== cannot be updated when paired with Bluetooth. Please make sure it is paired with a Unifying receiver and try again. Thank you.</String>
+    <String key="DFUState:DFU_EXIT_FROM_WELCOME_PAGE"></String>
+    <String key="DFUState:Unknown">An unknown DFU State has been reached:</String>
+
+    <String key="GenericFeatures:ProgramControls">Programmable controls</String>
+    <String key="GenericFeatures:UnsupportedFeatures">Unsupported features</String>
+
+    <String key="MouseFeatures:MiddleButton">Middle button</String>
+    <String key="MouseFeatures:PointerSpeed">Pointer speed</String>
+    <String key="MouseFeatures:ScrollDirection">Scroll wheel direction</String>
+    <String key="MouseFeatures:SmoothScroll">Smooth scrolling</String>
+    <String key="MouseFeatures:SmartShift">SmartShift</String>
+    <String key="MouseFeatures:SmartShiftThreshold">SmartShift sensitivity</String>
+    <String key="MouseFeatures:DefaultWheelMode">Fixed scroll wheel mode</String>
+    <String key="MouseFeatures:SwapLeftRight">Swap left/right buttons</String>
+    <String key="MouseFeatures:SmartShiftHintOff">Fixed mode is inactive. (Disable SmartShift and confirm mode shift isn't assigned to any button.)</String>
+    <String key="MouseFeatures:SmartShiftHintOn">Fixed mode is active. </String>
+    <String key="MouseFeatures:Enabled">Enabled</String>
+    <String key="MouseFeatures:Disabled">Disabled</String>
+    <String key="MouseFeatures:Traditional">Traditional</String>
+    <String key="MouseFeatures:Inverted">Inverted</String>
+    <String key="MouseFeatures:Default">Default</String>
+    <String key="MouseFeatures:Ratchet">Ratchet</String>
+    <String key="MouseFeatures:Freespin">Freespin</String>
+    <String key="MouseFeatures:HorScroll">Thumb wheel direction</String>
+    <String key="MouseFeatures:NotAssigned">Not Assigned</String>
+    <String key="MouseFeatures:Backlight">Turn off illumination after</String>
+    <String key="MouseFeatures:10Sec">10 seconds</String>
+    <String key="MouseFeatures:20Sec">20 seconds</String>
+    <String key="MouseFeatures:30Sec">30 seconds</String>
+    <String key="MouseFeatures:1Min">1 minute</String>
+    <String key="MouseFeatures:5Min">5 minutes</String>
+    <String key="MouseFeatures:10Min">10 minutes</String>
+    <String key="MouseFeatures:Illumination">Activate illumination</String>
+    <String key="MouseFeatures:HandDetection">with hand detection</String>
+    <String key="MouseFeatures:StartTyping">when I start typing</String>
+
+    <String key="AddDevice">Add a device</String>
+    <String key="AddDevice:UnifyingHeadline">Set up a Unifying device</String>
+    <String key="AddDevice:WirelessHeadline">Set up a wireless device</String>
+    <String key="AddDevice:UnifyingDescription">Pair up to six compatible wireless mice and keyboards to a single %BrandName% Unifying receiver.</String>
+    <String key="AddDevice:WirelessDescription">Pair up to six compatible wireless mice and keyboards to a single %BrandName% Unifying receiver, or a wireless mouse or keyboard to a %BrandName% nano receiver.</String>
+    <String key="AddDevice:LtdOnlyDescription">Pair a wireless mouse or keyboard.</String>
+    <String key="AddDevice:UnifyingButton">Add Unifying device</String>
+    <String key="AddDevice:WirelessButton">Add wireless device</String>
+    <String key="AddDevice:AdvancedButton">Advanced Unifying app</String>
+    <String key="AddDevice:NoUnifyingHeadline">No Unifying receiver</String>
+    <String key="AddDevice:NoUnifyingDescription">To add a device, plug a Unifying receiver into your computer and wait a few seconds for the 'Add Unifying device' button to become available.</String>
+    <String key="AddDevice:BluetoothHeadline">Set up a Bluetooth device</String>
+    <String key="AddDevice:BluetoothDescription">Add a Bluetooth device using the pairing utility in Windows.</String>
+    <String key="AddDevice:BluetoothButton">Add Bluetooth device</String>
+    <String key="AddDevice:NoBluetoothHeadline">No Bluetooth receiver</String>
+    <String key="AddDevice:BluetoothOffHeadline">Bluetooth receiver turned Off</String>
+    <String key="AddDevice:DevicesDetected">Detected devices</String>
+    <String key="AddDevice:NoDevicesDetected">No devices detected</String>
+    <String key="AddDevice:BluetoothSmartCapable">Your PC supports Bluetooth Smart devices.</String>
+    <String key="AddDevice:BluetoothSmartIncapable">Your PC does not support Bluetooth Smart devices.</String>
+
+    <!-- DJCU components -->
+    <String key="DJCU:ConnectTitle">Restart the device you want to connect to your computer</String>
+    <String key="DJCU:Connect1">1. Locate the OFF-ON slider (pictured below).</String>
+    <String key="DJCU:Connect2">2. Move the slider OFF, then ON. (Then wait for the device to be paired).</String>
+    <String key="DJCU:Connect3">(Tip: The slider is located either underneath or on the top-right corner of your device.)</String>
+    <String key="DJCU:Connect4">* Some %BrandName% devices are incompatible with this wireless receiver.</String>
+
+    <String key="DJCU:TimeoutTitle">Sorry, pairing failed</String>
+    <String key="DJCU:Timeout1">We were not able to pair your device in the time we expected.</String>
+    <String key="DJCU:Timeout2">Click ‘%%Buttons:TryAgain%%’ to restart the pairing process.</String>
+    <String key="DJCU:Timeout3">Or click ‘%%Buttons:Cancel%%’ if you don’t want to use this device.</String>
+    <String key="DJCU:Timeout4">Click here for troubleshooting information.</String>
+
+    <String key="DJCU:ReceiversFullTitle">All wireless receivers are full</String>
+    <String key="DJCU:ReceiversFull1">There are no available slots for connecting an additional Unifying or wireless device among your current receivers.</String>
+    <String key="DJCU:ReceiversFull2">In order to connect another device you must plug-in a new Unifying receiver.</String>
+
+    <String key="DJCU:MultiReceiverTitle">We found multiple wireless receivers plugged in</String>
+    <String key="DJCU:MultiReceiver1">If you want to pair to a specific receiver, unplug all Unifying receivers from your computer except the one you'd like for pairing.</String>
+    <String key="DJCU:MultiReceiver2">If you'd like us to pick any available receiver for pairing just click ‘%%Buttons:Continue%%’.</String>
+
+    <String key="DJCU:OtpErrorTitle">Device or receiver failure</String>
+    <String key="DJCU:OtpError1">The device or receiver you were attempting to pair has been paired too many times and can no longer be paired.</String>
+
+    <String key="DJCU:IncompatibleDeviceTitle">Device is incompatible</String>
+    <String key="DJCU:IncompatibleDevice1">We were not able to pair your device. The device is incompatible with the receiver. Please use the receiver that came with your device.</String>
+
+    <String key="DJCU:PairSuccessTitle">Pairing completed</String>
+    <String key="DJCU:PairSuccess1">Your %DeviceName% has been successfully paired.</String>
+
+    <!-- Easy-Switch HostInfo Types (feature 0x1814) -->
+    <!-- public enum HostInfoHostTypes { Unset = 0, Unknown = 1, Windows = 2, Win7 = 3, Win8 = 4, Win10 = 5, MacOS = 6, Mac107 = 7, Mac108 = 8, Mac109 = 9 } -->
+    <String key="HostInfo:Unset">No Host</String>
+    <String key="HostInfo:Unknown">Unknown Host Type</String>
+    <String key="HostInfo:Windows">Windows</String>
+    <String key="HostInfo:Win7">Windows 7</String>
+    <String key="HostInfo:Win8">Windows 8</String>
+    <String key="HostInfo:Win10">Windows 10</String>
+    <String key="HostInfo:MacOS">Mac OS</String>
+    <String key="HostInfo:Mac107">Mac OSX 10.7</String>
+    <String key="HostInfo:Mac108">Mac OSX 10.8</String>
+    <String key="HostInfo:Mac109">Mac OSX 10.9</String>
+
+    <!-- MP HostInfo Types (features 0x4531 and 0x1815) -->
+    <!-- public enum Feature4351Platforms { Unknown = 0, Windows = 1, WinEmb = 2, Linux = 3, Chrome = 4, Android = 5, MacOS = 6, IOS = 7 } -->
+    <String key="MPHostInfo:None">Not paired</String>
+    <String key="MPHostInfo:Unknown">Unknown</String>
+    <String key="MPHostInfo:Windows">Windows</String>
+    <String key="MPHostInfo:WinEmb">Windows IoT</String>
+    <String key="MPHostInfo:Linux">Linux</String>
+    <String key="MPHostInfo:Chrome">Chrome</String>
+    <String key="MPHostInfo:Android">Android</String>
+    <String key="MPHostInfo:MacOS">Mac OS</String>
+    <String key="MPHostInfo:IOS">iOS</String>
+
+    <!-- App profiles Strings -->
+    <String key="AppProfAddApp">Add application</String>
+    <!--<String key="AppProfAddAppTT">Click to add a new application profile for this device</String>
+     <String key="AppProfBrowseTT">Click to add a program manually using a file browser</String>-->
+    <String key="AppProfDeleteWarning">This will permanently remove the custom settings for ==ApplicationName==. Select Continue to remove or Cancel to keep your custom settings.</String>
+    <String key="AppProfDefaultSettings">All Applications</String>
+    <!--<String key="AppProfDefaultSettingsTT">Click to update All Applications settings</String>-->
+    <String key="AppProfRestoreProfileWarning">Settings for ==ApplicationName== will be restored to the 'All Applications' settings. Select Continue to restore or Cancel to keep your custom settings</String>
+    <String key="AppProfRestoreProfileWarningCraft">Settings for '==ApplicationName==' will be restored to the default Craft profile settings. Select Continue to restore or Cancel to keep your custom settings.</String><!--NEW-->
+    <String key="AppProfToggleText">Application Specific settings</String>
+    <String key="AppProfDetailHeading">Create custom settings for specific applications</String>
+    <String key="AppProfDetailDescription">With Application Specific settings you can customize buttons and actions for your favorite applications. Your current 'All Applications' settings won't be affected and you can enable or disable this feature at anytime without losing your custom settings.</String>
+    <String key="AppProfOther">Other...</String>
+    <String key="AppProfAddAppHeader">Select an application</String>
+
+    <String key="Flow:ConfigurationError">%BrandName% Flow configuration file error, please turn the mouse off/on and restart the %BrandName% Options.</String>
+    <String key="Flow:LearnMore">Learn more</String>
+    <String key="Flow:MoreOptions">More options</String>
+    <String key="Flow:ManualSetUp">Manual set up</String>
+    <String key="Flow:LinkKeyboard">Link keyboard</String>
+    <String key="Flow:CopyPaste">Copy and paste</String>
+    <String key="Flow:ScreenCorners">Screen corners</String>
+    <!--<String key="Flow:CannotFlow">Cannot Flow</String>
+    <String key="Flow:CanFlow">Can Flow</String>-->
+    <String key="Flow:SwitchBetweenComputers">Switch between computers</String>
+    <String key="Flow:HoldCtrlAndMove">Hold Ctrl and move to the edge</String>
+    <String key="Flow:MoveToEdge">Move to the edge</String>
+
+    <String key="Flow:SettingUpFlowHeader">SETTING UP %BRANDNAME% FLOW...</String>
+    <String key="Flow:SettingUpFlowSearching">Searching for computer(s)</String>
+    <String key="Flow:SettingUpFlowFound">Computer found</String>
+    <String key="Flow:SettingUpFlow">Setting up computer(s)</String>
+    <String key="Flow:SettingUpFlowNote">This process may take up to a minute</String>
+    <String key="Flow:SettingUpFlowManual">Enter other computer name or IP address</String>
+    <String key="Flow:SettingUpFlowSuccess">%BrandName% Flow is enabled and ready to use</String>
+    <String key="Flow:SettingUpFlowManualFailed">Unable to find or establish connection to other computers. Please make sure that:&#x0a; - %BrandName% Options is installed on other computer(s)&#x0a; - Your mouse is paired to your computer(s)&#x0a; - Your computers are on the same network&#x0a;Please confirm the above, and then attempt to enable Flow from your other computers.</String> 
+    <String key="Flow:SettingUpFlowOtherMachine">I have attempted to enable Flow on my other computer(s).</String>
+      <String key="Flow:ShowNotificationIcon">Show taskbar icon</String>
+    <String key="Flow:RemoveFlowHost">You will remove this computer and won’t be able to use it with %BrandName% Flow until you add it again. Select Continue to remove or Cancel to keep it.</String>
+    <String key="Flow:RestoreFlowDefaults">%BrandName% Flow settings will be restored. You will not be able to use Flow on this computer unless you re-enable it or add it from another Flow enabled computer. Select Continue to restore or Cancel to keep the current settings.</String>
+    <String key="Flow:FeedbackButton">Feedback</String>
+    <String key="Flow:FeedbackFormHint">Enter your feedback here...</String>
+
+    <String key="Flow:WelcomeTitle">WELCOME TO %BRANDNAME% FLOW</String>
+    <String key="Flow:WelcomeDescription1">Seamlessly switch between computers by moving your cursor to the edge of the screen and quickly copy-paste text, images, and files between them.</String>
+    <String key="Flow:WelcomeHowToSetup">HOW TO SETUP</String>
+    <String key="Flow:WelcomeEnabledFlow">ENABLE FLOW</String>
+
+      <String key="Flow:WelcomeTitlePart1">Please remember to tell us what you think using the </String>
+    <String key="Flow:feedback">FEEDBACK</String>
+    <String key="Flow:WelcomeTitlePart2"> button</String>
+    <String key="Flow:Enable">Enable Flow</String>
+    <String key="Flow:LogitechFlow">%BrandName% Flow</String>
+    <String key="Flow:TutorialSlide1">Pair your mouse to your computers.</String>
+    <String key="Flow:TutorialSlide2">Make sure your computers are on the same network.</String>
+    <String key="Flow:TutorialSlide3">Download and install %BrandName% Options on your computers.</String>
+
+    <String key="Flow:TutorialSlide4">That's it! You should be ready to use %BrandName% FLOW.</String>
+    
+    <String key="Flow:DiscoveryFailedUnableToEstablish">PLEASE ENABLE %BRANDNAME% FLOW ON OTHER COMPUTERS</String>
+    <String key="Flow:DiscoveryFailedFollowTheseSteps1">%BrandName% Flow wasn’t able to automatically find other computers on the network.</String>
+    <String key="Flow:DiscoveryFailedFollowTheseSteps2">Please make sure you have an internet connection and have followed the steps below.</String>
+    <String key="Flow:DiscoveryFailed:DownloadAndInstall">DOWNLOAD AND INSTALL THE LATEST VERSION OF %BRANDNAME% OPTIONS</String>
+    <String key="Flow:DiscoveryFailed:Pair">PAIR YOUR MOUSE TO OTHER COMPUTERS</String>
+    <String key="Flow:DiscoveryFailed:ConnectSameNetwork">CONNECT YOUR COMPUTERS TO THE SAME NETWORK</String>
+    <String key="Flow:DiscoveryFailed:EnabledOnAll">ENABLE %BRANDNAME% FLOW ON ALL COMPUTERS</String>
+    <String key="Flow:DiscoveryFailed:TroubleshootingLink">Troubleshooting</String>
+    <String key="Flow:DiscoverySucceeded:Success">SUCCESS</String>
+    <String key="Flow:DiscoverySucceeded:Continue">CONTINUE</String>
+    <String key="Buttons:CancelALLCAPS">CANCEL</String>
+
+    <!--Ichitaro-->
+    <String key="Ichitaro:AppName">Ichitaro2017</String>
+    <!--End Ichitaro-->
+
+    <!--Duolink-->
+    <String key="Duolink:ToggleDefault">DEFAULT</String>
+    <String key="Duolink:ToggleFn">DUOLINK</String> <!--MODIFIED 10/10/2017-->
+    <String key="Duolink:ArrowHover">Fn + Gesture</String>
+    <String key="Duolink:DeviceListSelectInfo">The Fn key on your keyboard allows you to expand the functionality of your %BrandName% mouse. Click the mouse you would like to configure.</String>
+    <String key="Duolink:TutorialText">DuoLink allows your mouse buttons to have a different set of actions when you hold the *Fn* key. You can also move the mouse with the *Fn* key down to perform different gestures.</String>
+    <String key="Duolink:TutorialFn">Fn</String>
+    <String key="Duolink:FnGestureMontionDetail">Hold the Fn key on your keyboard while moving the mouse</String>
+    <String key="Duolink:NoDevicesAddDevices">No Duolink devices found. Click here to add.</String>
+    <!--End Duolink-->
+    
+    <!--Analytics-->
+    <String key="Analytics:HelpImprove">Help %BrandName% improve its products and services by automatically sending anonymous diagnostics and usage data. Learn more about %BrandName%'s</String>
+    <String key="Analytics:PrivacyPolicy"> privacy policy</String>
+    <String key="Analytics:HelpImproveCheckBox">Help %BrandName% improve its products and services automatically</String>
+    <String key="Analytics:Analytics">Analytics</String>
+
+    <String key="Device:Unknown">Unknown %BrandName% Device</String>
+  
+    <!--Craft-->
+    <String key="Craft:Turn">Turn</String>
+    <String key="Craft:Press">Press</String>
+    <String key="Craft:PressAndTurn">Press &#38; Turn</String>
+    <String key="Craft:NameYourFunction">Name your custom function</String>
+    <String key="Craft:ExUndoRedo">Ex: Undo / Redo</String>
+    <String key="Craft:TurnRight">Turn right</String>
+    <String key="Craft:TurnLeft">Turn left</String>
+    <String key="Craft:Ratchet">Ratchet</String>
+    <String key="Craft:MaxCharactersX">Max characters : %d</String>
+    
+    <String key="Craft:ButtonInstallProfiles">INSTALL PROFILES</String>
+    <String key="Craft:ApplicationsWithProfiles">Applications with Craft profiles</String>
+    <String key="Craft:OtherApplications">Other applications</String>
+    <String key="Craft:PressAndTurnTooltip">You can only change this function in the 'All application' settings</String>
+    
+    <String key="Craft:ButtonContinueWithoutInstalling">CONTINUE WITHOUT INSTALLING PROFILES</String>
+    <String key="Craft:ButtonBackToOptions">BACK TO OPTIONS</String>    
+    <String key="Craft:OnboardingWelcome">WELCOME TO CRAFT</String>
+    <String key="Craft:OnboardingWelcomeDescription">Take complete creative control</String>
+    <String key="Craft:OnboardingSearch">SEARCHING FOR OPTIMIZED APPS</String>
+    <String key="Craft:OnboardingSearchDescription">Now searching for apps optimized for Craft on this computer</String>
+    <String key="Craft:OnboardingNoOptimizedApps">NO OPTIMIZED APP ON YOU COMPUTER</String>
+    <String key="Craft:OnboardingNoOptimizedAppsDescription">It seems there is no Craft optimized applications installed on this computer</String>
+    <String key="Craft:OnboardingNoOptimizedApps2">NO APP OPTIMIZED FOR CRAFT ON YOUR COMPUTER</String>
+    <String key="Craft:OnboardingNoOptimizedAppsDescription2">We didn't find any app optimized for Craft on your computer... :(</String>
+    <String key="Craft:OnboardingNoOptimizedAppsDescription3">We couldn't find any app optimized for Craft on your computer.</String><!--NEW 8/2/2017-->
+    <String key="Craft:OnboardingOneOptimizedApp">WE FOUND 1 APP OPTIMIZED FOR CRAFT</String>
+    <String key="Craft:OnboardingOneOptimizedApps">WE FOUND %d APPS OPTIMIZED FOR CRAFT</String>
+    <String key="Craft:OnboardingOneOptimizedAppDescription">The remaining Craft optimized applications seems not to be installed on this computer</String>
+    <String key="Craft:OnboardingXOptimizedApps">YOU HAVE %d OPTIMIZED APPS INSTALLED</String>
+    <String key="Craft:OnboardingXOptimizedAppsDescription">Select to install optimized profiles for each of the apps you use</String>
+    <String key="Craft:OnboardingProfilesInstalledDescription">Seems that profiles for those applications are already installed</String>
+    <String key="Craft:OnboardingInstallingProfiles">INSTALLING PROFILES</String>
+    <String key="Craft:OnboardingInstallingProfilesDescription">Profiles are being installed on your computer</String>
+    <String key="Craft:OnboardingInstallingProfilesProblem">PROBLEM INSTALLING PROFILES</String>
+    <String key="Craft:OnboardingInstallingProfilesPlugins">PROBLEM INSTALLING PLUGINS</String>
+    <String key="Craft:OnboardingInstallingProfilesProblemDescription">Please check out the troubleshooting on our website</String>
+    <String key="Craft:OnboardingInstallingProfilesDone">PROFILES INSTALLED</String>
+    <String key="Craft:OnboardingInstallingProfilesDoneDescription">Restart the optimized apps to complete the installation process</String>
+    <String key="Craft:OnboardingWatchTutorial">WATCH TUTORIAL</String>
+    <String key="Craft:OnboardingWatchTutorials">WATCH TUTORIALS</String>
+    <String key="Craft:OnboardingWatchTutorialDescription">Learn how the Crown revolutionizes your workflow in each optimized app</String>
+    <String key="Craft:OnboardingWatchTutorialDescription2">Learn how to use the Crown in each optimized app</String>
+    <String key="Craft:OnboardingDone">YOU ARE ALL SET</String>
+    <String key="Craft:OnboardingDoneDescription">Craft has been optimized for the apps you use most</String>
+    <String key="Craft:OnboardingSelectedNewApps">YOU JUST SELECTED NEW APP(S)</String>
+    <String key="Craft:OnboardingSelectedNewAppsDescription">Click the button to install profiles(s)</String>
+    <String key="Craft:OnboardingUnsignedPlugin">(Unsigned)</String><!--NEW 1/11/2018-->
+
+    <String key="Craft:RestoreDefaults">Settings for ==ApplicationName== will be restored to the default Craft profile settings. Select Continue to restore or Cancel to keep your custom settings.</String><!--NEW 8/8/2017-->
+    <!--End Craft-->
+  
+  </Strings>
+</StringDictionary>

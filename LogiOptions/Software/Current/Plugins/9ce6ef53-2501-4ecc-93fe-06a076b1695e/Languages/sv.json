@@ -1,0 +1,412 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "crownbrightness",
+            "value": "Ljusstyrka"
+        },
+        {
+            "ID": "crownvolume",
+            "value": "Volym"
+        },
+        {
+            "ID": "crownmediacontrol",
+            "value": "Mediakontroll"
+        },
+        {
+            "ID": "crownexposeappswitch",
+            "value": "Växla program"
+        },
+        {
+            "ID": "crowntabscommand",
+            "value": "Flikspak"
+        },
+        {
+            "ID": "crownswitchdesktop",
+            "value": "Skrivbordsspak"
+        },
+        {
+            "ID": "crownzoom",
+            "value": "Zooma"
+        },
+        {
+            "ID": "crownnavigatepages",
+            "value": "Navigera sidor"
+        },
+        {
+            "ID": "crowncustomkeyleftright",
+            "value": "Anpassad knapp"
+        },
+        {
+            "ID": "crownhscroll",
+            "value": "Vågrät rullning"
+        },
+		{
+            "ID": "brightness",
+            "value": "Ljusstyrka"
+        },
+        {
+            "ID": "volume",
+            "value": "Volym"
+        },
+        {
+            "ID": "mediaplayer",
+            "value": "Mediespelaren"
+        },
+        {
+            "ID": "appswitch",
+            "value": "Växla program"
+        },
+        {
+            "ID": "tabsswitch",
+            "value": "Flikspak"
+        },
+        {
+            "ID": "desktopswitch",
+            "value": "Skrivbordsspak"
+        },
+        {
+            "ID": "crowndesktopswitch",
+            "value": "Skrivbordsspak"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zooma"
+        },
+        {
+            "ID": "gesturebutton",
+            "value": "Gestknappen"
+        },
+        {
+            "ID": "modeshiftbutton",
+            "value": "Knappen Lägesväxling"
+        },
+        {
+            "ID": "advancedclick",
+            "value": "Avancerat klick"
+        },
+        {
+            "ID": "applicationmenu",
+            "value": "Programmeny"
+        },
+        {
+            "ID": "back",
+            "value": "Bakåt"
+        },
+        {
+            "ID": "calculator",
+            "value": "Kalkylator"
+        },
+        {
+            "ID": "charms",
+            "value": "Snabbknappar"
+        },
+        {
+            "ID": "closewindow",
+            "value": "Stäng fönstret"
+        },
+        {
+            "ID": "copy",
+            "value": "Kopiera"
+        },
+        {
+            "ID": "cut",
+            "value": "Klipp ut"
+        },
+        {
+            "ID": "devices",
+            "value": "Enheter"
+        },
+        {
+            "ID": "documents",
+            "value": "Dokument"
+        },
+        {
+            "ID": "doubleclick",
+            "value": "Dubbelklicka"
+        },
+        {
+            "ID": "email",
+            "value": "E-post"
+        },
+        {
+            "ID": "forward",
+            "value": "Framåt"
+        },
+        {
+            "ID": "home",
+            "value": "Startsida"
+        },
+        {
+            "ID": "myhome",
+            "value": "Startsida"
+        },
+        {
+            "ID": "mymusic",
+            "value": "Min musik"
+        },
+        {
+            "ID": "inputlanguage",
+            "value": "Inmatningsspråk"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Tangentkommando"
+        },
+        {
+            "ID": "launchapplication",
+            "value": "Starta programmet"
+        },
+        {
+            "ID": "leftclick",
+            "value": "Vänsterklicka"
+        },
+        {
+            "ID": "lock",
+            "value": "Lås"
+        },
+        {
+            "ID": "maximizewindow",
+            "value": "Expandera fönstret"
+        },
+        {
+            "ID": "middlebutton",
+            "value": "Mittenknappen"
+        },
+        {
+            "ID": "minimizewindow",
+            "value": "Minimera fönstret"
+        },
+        {
+            "ID": "modifierkeys",
+            "value": "Modifierar-knappar"
+        },
+        {
+            "ID": "mousesensitivity",
+            "value": "Musens känslighet"
+        },
+        {
+            "ID": "music",
+            "value": "Musik"
+        },
+        {
+            "ID": "mute",
+            "value": "Ljud av"
+        },
+        {
+            "ID": "mycomputer",
+            "value": "Den här datorn"
+        },
+        {
+            "ID": "mydocuments",
+            "value": "Mina dokument"
+        },
+        {
+            "ID": "myvideos",
+            "value": "Mina videoklipp"
+        },
+        {
+            "ID": "next",
+            "value": "Nästa"
+        },
+        {
+            "ID": "nextprevious",
+            "value": "Nästa / Föregående"
+        },
+        {
+            "ID": "nexttrackfastforward",
+            "value": "Nästa spår/snabbspola framåt"
+        },
+        {
+            "ID": "openfile",
+            "value": "Öppna fil"
+        },
+        {
+            "ID": "openfolder",
+            "value": "Öppna mapp"
+        },
+        {
+            "ID": "openwebpage",
+            "value": "Öppna webbsida"
+        },
+        {
+            "ID": "paste",
+            "value": "Klistra in"
+        },
+        {
+            "ID": "mypictures",
+            "value": "Mina bilder"
+        },
+        {
+            "ID": "pictures",
+            "value": "Bilder"
+        },
+        {
+            "ID": "playpause",
+            "value": "Spela/Pausa"
+        },
+        {
+            "ID": "previous",
+            "value": "Föregående"
+        },
+        {
+            "ID": "previoustrackrewind",
+            "value": "Föregående spår/spola tillbaka"
+        },
+        {
+            "ID": "rightclick",
+            "value": "Högerklicka"
+        },
+        {
+            "ID": "scrollleft",
+            "value": "Rulla åt vänster"
+        },
+        {
+            "ID": "scrollright",
+            "value": "Rulla åt höger"
+        },
+        {
+            "ID": "search",
+            "value": "Sök"
+        },
+        {
+            "ID": "settings",
+            "value": "Inställningar"
+        },
+        {
+            "ID": "share",
+            "value": "Dela"
+        },
+        {
+            "ID": "showhidedesktop",
+            "value": "Visa/dölj skrivbord"
+        },
+        {
+            "ID": "shutdown",
+            "value": "Stäng av"
+        },
+        {
+            "ID": "signout",
+            "value": "Logga ut"
+        },
+        {
+            "ID": "sleep",
+            "value": "Strömsparläge"
+        },
+        {
+            "ID": "startscreen",
+            "value": "Startfönster"
+        },
+        {
+            "ID": "stop",
+            "value": "Stoppa"
+        },
+        {
+            "ID": "switchscreen",
+            "value": "Växla skärm"
+        },
+        {
+            "ID": "thispc",
+            "value": "Den här datorn"
+        },
+        {
+            "ID": "togglesmoothscrolling",
+            "value": "Växla mellan smidig rullning"
+        },
+        {
+            "ID": "videos",
+            "value": "Videoklipp"
+        },
+        {
+            "ID": "volumedown",
+            "value": "Volym -"
+        },
+        {
+            "ID": "volumeup",
+            "value": "Volym +"
+        },
+        {
+            "ID": "zoomin",
+            "value": "Zooma in"
+        },
+        {
+            "ID": "zoomout",
+            "value": "Zooma ut"
+        },
+        {
+            "ID": "zoomreset",
+            "value": "Återställ zoomning"
+        },
+        {
+            "ID": "none",
+            "value": "Ingen"
+        },
+        {
+            "ID": "switchleft",
+            "value": "Spak vänster"
+        },
+        {
+            "ID": "switchright",
+            "value": "Spak höger"
+        },
+        {
+            "ID": "previouspage",
+            "value": "Föregående sida"
+        },
+        {
+            "ID": "nextpage",
+            "value": "Nästa sida"
+        },
+        {
+            "ID": "navigatepages",
+            "value": "Navigera sidor"
+        },
+        {
+            "ID": "customkey",
+            "value": "Anpassad knapp"
+        },
+        {
+            "ID": "navigatebetweenapps",
+            "value": "Navigera mellan appar"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "Kontextbaserad"
+        },
+        {
+            "ID": "crownbrowsertextsize",
+            "value": "Ändra textstorlek eller flik"
+        },
+        {
+            "ID": "createvirtualdesktop",
+            "value": "Nytt skrivbord"
+        },
+        {
+            "ID": "clonevirtualdesktop",
+            "value": "Stäng skrivbord"
+        },
+        {
+            "ID": "nextvirtualdesktop",
+            "value": "Skrivbord (nästa)"
+        },
+        {
+            "ID": "previousvirtualdesktop",
+            "value": "Skrivbord (föregående)"
+        },
+        {
+            "ID": "teskview",
+            "value": "Uppgiftsvy"
+        },
+        {
+            "ID": "teskview10",
+            "value": "Uppgiftsvy"
+        },
+        {
+            "ID": "cortana",
+            "value": "Cortana"
+        },
+        {
+            "ID": "actioncenter",
+            "value": "Åtgärdscenter"
+        }
+    ]
+}

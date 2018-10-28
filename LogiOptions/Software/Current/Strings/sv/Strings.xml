@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Source>
+	<StringSet>
+		<String ALIAS="IDS_SINGLE_DEVICE_LOWBATTERY_PREFIX">Batterinivå för följande enhet är väldigt låg:</String>
+        <String ALIAS="IDS_NO_APPS_SWITCH">Inga appar att växla mellan</String>
+        <String ALIAS="IDS_NO_HOSTS_SWITCH">Inga värdar att växla till</String>
+        <String ALIAS="IDS_HOSTS_SWITCH">Värd växlad</String>
+		<String ALIAS="IDS_APPLICATION_NAME">Logitech Options</String>
+
+        <!-- Lock notification -->
+		<String ALIAS="HELP_LOCK_CAPS_ON">Caps Lock på</String>
+		<String ALIAS="HELP_LOCK_CAPS_OFF">Caps Lock av</String>
+		<String ALIAS="HELP_LOCK_SCROLL_ON">Scroll Lock på</String>
+		<String ALIAS="HELP_LOCK_SCROLL_OFF">Scroll Lock av</String>
+		<String ALIAS="HELP_LOCK_NUMS_ON">Num Lock på</String>
+		<String ALIAS="HELP_LOCK_NUMS_OFF">Num Lock av</String>
+
+        <!-- Package Update notification -->
+		<String ALIAS="UPDATER_UPDATE_AVAILABLE_TITLE">Uppgradering ///finns//tillgänglig///</String>
+		<String ALIAS="UPDATER_UPDATE_AVAILABLE">Uppdatering tillgänglig för Logitech Options.</String>
+
+        <!-- Device Update notification -->
+        <String ALIAS="UPDATER_DEVICE_UPDATE_AVAILABLE_TITLE">Enhetsuppdatering tillgänglig</String>
+		<String ALIAS="UPDATER_DEVICE_UPDATE_AVAILABLE">Det finns en uppdatering tillgänglig för din enhet/enheter, klicka här för att utföra uppdateringen.</String>
+
+		<!-- Incorrect Keyboard Mode notification -->
+		<String ALIAS="INCORRECT_SELECTED_KEYBOARD_LAYOUT">Windows-layout har inte valts på tangentbordet.</String>
+
+		<!-- Missing software components -->
+		<String ALIAS="MISSING_MAINAPP_FILES">Viktiga filer saknas i Logitech Options. Installera programvaran på nytt.</String>
+
+    <!-- Tray icon notification -->
+    <String ALIAS="TRAYICON_FLOWOFF"> Inaktivera Logitech Flow</String>
+    <String ALIAS="TRAYICON_PREFERENCES"> Öppna inställningar</String>
+    <String ALIAS="TRAYICON_FLOWON"> Aktivera Logitech Flow</String>
+    <String ALIAS="TRAYICON_NETWORK_ISSUE"> Den här datorn är offline</String>
+    <String ALIAS="TRAYICON_HOST_ISSUE"> %s är inte nåbar</String>
+    <String ALIAS="TRAYICON_HELP"> Öppna Logitech Flow-hjälpen</String>
+    <String ALIAS="TRAYICON_CANCEL_TRANSFER"> Avbryt överföring</String>
+    <String ALIAS="TRAYICON_TRANSFER_STATUS"> Överför %d %% </String>
+    <String ALIAS="TRAYICON_TRANSFER_ERROR"> Överföringsfel</String>
+
+    <!-- toast notification -->
+    <String ALIAS="TOAST_HOST_CONNECTED">%s har lagts till Logitech Flow.</String>
+    <String ALIAS="TOAST_NEW_FEATURES">Vill du testa Logitechs senaste innovation? Klicka för att bli en beta-användare.</String>
+    <String ALIAS="TOAST_NOTMATCH_FIRMWARE">Den inbyggda programvaran måste uppgraderas i din enhet %s.</String>
+
+    <!-- Craft notification -->
+    <String ALIAS="CRAFT_PLUGIN_NOT_INSTALLED_TITLE">Craft-profil tillgänglig</String>
+    <String ALIAS="CRAFT_PLUGIN_NOT_INSTALLED_BODY">Det finns en Craft-profil för %s.</String>
+    <String ALIAS="CRAFT_PLUGIN_READY_TO_USE_TITLE">Craft-profil installerad</String>
+    <String ALIAS="CRAFT_PLUGIN_READY_TO_USE_BODY">En ny Craft-profil har installerats för %s.</String>
+    <String ALIAS="CRAFT_PLUGIN_APP_REQUIRE_RESTART_TITLE">Starta om %s</String>
+    <String ALIAS="CRAFT_PLUGIN_APP_REQUIRE_RESTART_BODY">Craft-profil installerad för %s. Starta om applikationen för att börja använda den här profilen.</String>
+
+  </StringSet>
+</Source>

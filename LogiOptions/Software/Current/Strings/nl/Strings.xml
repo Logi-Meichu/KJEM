@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Source>
+	<StringSet>
+		<String ALIAS="IDS_SINGLE_DEVICE_LOWBATTERY_PREFIX">Batterij(en) bijna leeg voor het volgende apparaat:</String>
+        <String ALIAS="IDS_NO_APPS_SWITCH">Geen apps om naar over te schakelen</String>
+        <String ALIAS="IDS_NO_HOSTS_SWITCH">Geen hosts om tussen te schakelen</String>
+        <String ALIAS="IDS_HOSTS_SWITCH">Host overgeschakeld</String>
+		<String ALIAS="IDS_APPLICATION_NAME">Logitech Options</String>
+
+        <!-- Lock notification -->
+		<String ALIAS="HELP_LOCK_CAPS_ON">Caps Lock aan</String>
+		<String ALIAS="HELP_LOCK_CAPS_OFF">Caps Lock uit</String>
+		<String ALIAS="HELP_LOCK_SCROLL_ON">Scroll Lock aan</String>
+		<String ALIAS="HELP_LOCK_SCROLL_OFF">Scroll Lock uit</String>
+		<String ALIAS="HELP_LOCK_NUMS_ON">Num Lock aan</String>
+		<String ALIAS="HELP_LOCK_NUMS_OFF">Num Lock uit</String>
+
+        <!-- Package Update notification -->
+		<String ALIAS="UPDATER_UPDATE_AVAILABLE_TITLE">Update beschikbaar</String>
+		<String ALIAS="UPDATER_UPDATE_AVAILABLE">Er is een update beschikbaar voor Logitech Options.</String>
+
+        <!-- Device Update notification -->
+        <String ALIAS="UPDATER_DEVICE_UPDATE_AVAILABLE_TITLE">Apparaatupdate beschikbaar</String>
+		<String ALIAS="UPDATER_DEVICE_UPDATE_AVAILABLE">Er is een update beschikbaar voor je apparaat/apparaten. Klik hier om de update uit te voeren.</String>
+
+		<!-- Incorrect Keyboard Mode notification -->
+		<String ALIAS="INCORRECT_SELECTED_KEYBOARD_LAYOUT">De Windows-indeling is niet geselecteerd voor uw toetsenbord.</String>
+
+		<!-- Missing software components -->
+		<String ALIAS="MISSING_MAINAPP_FILES">Er ontbreken essentiële bestanden in Logitech Options. Installeer de software opnieuw.</String>
+
+    <!-- Tray icon notification -->
+    <String ALIAS="TRAYICON_FLOWOFF"> Logitech Flow inschakelen</String>
+    <String ALIAS="TRAYICON_PREFERENCES"> Voorkeuren openen</String>
+    <String ALIAS="TRAYICON_FLOWON"> Logitech Flow uitschakelen</String>
+    <String ALIAS="TRAYICON_NETWORK_ISSUE"> Deze computer is offline</String>
+    <String ALIAS="TRAYICON_HOST_ISSUE"> %s is niet bereikbaar</String>
+    <String ALIAS="TRAYICON_HELP"> Help van Logitech Flow openen</String>
+    <String ALIAS="TRAYICON_CANCEL_TRANSFER"> Overdracht annuleren</String>
+    <String ALIAS="TRAYICON_TRANSFER_STATUS"> Bezig met overdracht van %d%% </String>
+    <String ALIAS="TRAYICON_TRANSFER_ERROR"> Overdrachtsfout</String>
+
+    <!-- toast notification -->
+    <String ALIAS="TOAST_HOST_CONNECTED">%s toegevoegd aan Logitech Flow.</String>
+    <String ALIAS="TOAST_NEW_FEATURES">Wilt u de nieuwste innovatie van Logitech proberen? Klik om een bèta-gebruiker te worden.</String>
+    <String ALIAS="TOAST_NOTMATCH_FIRMWARE">Firmware vereist om uw apparaat %s te upgraden.</String>
+
+    <!-- Craft notification -->
+    <String ALIAS="CRAFT_PLUGIN_NOT_INSTALLED_TITLE">Craft-profiel beschikbaar</String>
+    <String ALIAS="CRAFT_PLUGIN_NOT_INSTALLED_BODY">Er is een Craft-profiel beschikbaar voor %s.</String>
+    <String ALIAS="CRAFT_PLUGIN_READY_TO_USE_TITLE">Craft-profiel geïnstalleerd</String>
+    <String ALIAS="CRAFT_PLUGIN_READY_TO_USE_BODY">Er is een nieuw Craft-profiel geïnstalleerd voor %s.</String>
+    <String ALIAS="CRAFT_PLUGIN_APP_REQUIRE_RESTART_TITLE">Start %s opnieuw op</String>
+    <String ALIAS="CRAFT_PLUGIN_APP_REQUIRE_RESTART_BODY">Craft-profiel geïnstalleerd voor %s. Start de toepassing opnieuw op om dit profiel te gebruiken.</String>
+
+  </StringSet>
+</Source>

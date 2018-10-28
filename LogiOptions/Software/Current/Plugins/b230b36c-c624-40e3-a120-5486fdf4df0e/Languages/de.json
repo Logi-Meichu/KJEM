@@ -1,0 +1,92 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "size",
+            "value": "Größe"
+        },
+        {
+            "ID": "hardness",
+            "value": "Härte"
+        },
+        {
+            "ID": "strokeWeight",
+            "value": "Strichstärke"
+        },
+        {
+            "ID": "opacity",
+            "value": "Deckkraft"
+        },
+        {
+            "ID": "brightness",
+            "value": "Helligkeit"
+        },
+        {
+            "ID": "contrast",
+            "value": "Kontrast"
+        },
+        {
+            "ID": "saturation",
+            "value": "Sättigung"
+        },
+        {
+            "ID": "flow",
+            "value": "Fluss"
+        },
+        {
+            "ID": "strength",
+            "value": "Stärke"
+        },
+        {
+            "ID": "tolerance",
+            "value": "Toleranz"
+        },
+        {
+            "ID": "exposure",
+            "value": "Belichtung"
+        },        
+        {
+            "ID": "textSize",
+            "value": "Größe"
+        },
+        {
+            "ID": "layertextSize",
+            "value": "Ebenentext-Größe"
+        },
+        {
+            "ID": "blendMode",
+            "value": "Mischmodus"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "Kontextabhängig"
+        },
+        {
+            "ID": "savefile",
+            "value": "Datei speichern"
+        },
+        {
+            "ID": "undoredo",
+            "value": "Rückgängig/Wiederholen"
+        },
+        {
+            "ID": "undo",
+            "value": "Rückgängig"
+        },
+        {
+            "ID": "redo",
+            "value": "Wiederholen"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zoom"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Tastenanschlag-Zuweisung"
+        },
+        {
+            "ID": "playpause",
+            "value": "Wiedergabe/Pause"
+        }
+    ]
+}

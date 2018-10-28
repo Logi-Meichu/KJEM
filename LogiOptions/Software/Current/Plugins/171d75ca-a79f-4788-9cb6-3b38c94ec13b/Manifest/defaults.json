@@ -1,0 +1,41 @@
+{
+    "GUID": "171d75ca-a79f-4788-9cb6-3b38c94ec13b",
+    "info": {
+        "name": "Adobe Acrobat Pro DC",
+        "publisher": "Logitech Inc.",
+        "version": "1.0",
+        "restart_required": false,
+        "win_name": "Acrobat.exe",
+        "mac_bundle": "Adobe Acrobat.app",
+        "mac_path": "/Applications/Adobe Acrobat DC",
+        "mac_paths": [{
+            "path":"/Applications/Adobe Acrobat DC/Adobe Acrobat.app",
+            "mac_minimum_supported_version": "2015.0.1",
+            "mac_maximum_supported_version": "2015.0.1"
+        }],
+        "win_minimum_supported_version": "0.0.0",
+        "win_maximum_supported_version": "2015.0.1",
+        "mac_minimum_supported_version": "2015.0.1",
+        "mac_maximum_supported_version": "2015.0.1"
+    },
+    "crown": {
+        "rotate": {
+            "default_task": "changetoolvalue",
+            "tasks": [
+                "changetoolvalue"
+            ],
+            "short_list": [
+                "changetoolvalue"
+            ]
+        },
+        "press": {
+            "default_task": "playpause",
+            "tasks": [
+                "playpause"
+            ],
+            "short_list": [
+                "playpause"
+            ]
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "Acrobat Pro 控制功能"
+        },
+        {
+            "ID": "zoom",
+            "value": "縮放"
+        },
+        {
+            "ID": "rotate",
+            "value": "旋轉"
+        },
+        {
+            "ID": "navigate",
+            "value": "變更頁面"
+        },
+        {
+            "ID": "scroll",
+            "value": "水平捲動"
+        },
+        {
+            "ID": "playpause",
+            "value": "播放/暫停"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "size",
+            "value": "Rozmiar"
+        },
+        {
+            "ID": "hardness",
+            "value": "Twardość"
+        },
+        {
+            "ID": "strokeWeight",
+            "value": "Grubość obrysu"
+        },
+        {
+            "ID": "opacity",
+            "value": "Krycie"
+        },
+        {
+            "ID": "brightness",
+            "value": "Jasność"
+        },
+        {
+            "ID": "contrast",
+            "value": "Kontrast"
+        },
+        {
+            "ID": "saturation",
+            "value": "Nasycenie"
+        },
+        {
+            "ID": "flow",
+            "value": "Przepływ"
+        },
+        {
+            "ID": "strength",
+            "value": "Intensywność"
+        },
+        {
+            "ID": "tolerance",
+            "value": "Tolerancja"
+        },
+        {
+            "ID": "exposure",
+            "value": "Ekspozycja"
+        },        
+        {
+            "ID": "textSize",
+            "value": "Rozmiar"
+        },
+        {
+            "ID": "layertextSize",
+            "value": "Rozmiar tekstu na warstwie"
+        },
+        {
+            "ID": "blendMode",
+            "value": "Tryb mieszania"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "Kontekstowo"
+        },
+        {
+            "ID": "savefile",
+            "value": "Zapisz plik"
+        },
+        {
+            "ID": "undoredo",
+            "value": "Cofnij/ponów"
+        },
+        {
+            "ID": "undo",
+            "value": "Cofnij"
+        },
+        {
+            "ID": "redo",
+            "value": "Ponów"
+        },
+        {
+            "ID": "zoom",
+            "value": "Powiększenie"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Przypisanie sekwencji klawiszy"
+        },
+        {
+            "ID": "playpause",
+            "value": "Odtwórz/wstrzymaj"
+        }
+    ]
+}

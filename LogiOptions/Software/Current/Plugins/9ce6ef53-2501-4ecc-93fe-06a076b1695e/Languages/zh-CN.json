@@ -1,0 +1,412 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "crownbrightness",
+            "value": "亮度"
+        },
+        {
+            "ID": "crownvolume",
+            "value": "音量"
+        },
+        {
+            "ID": "crownmediacontrol",
+            "value": "媒体控制"
+        },
+        {
+            "ID": "crownexposeappswitch",
+            "value": "切换应用程序"
+        },
+        {
+            "ID": "crowntabscommand",
+            "value": "标签切换"
+        },
+        {
+            "ID": "crownswitchdesktop",
+            "value": "桌面切换"
+        },
+        {
+            "ID": "crownzoom",
+            "value": "缩放"
+        },
+        {
+            "ID": "crownnavigatepages",
+            "value": "导航页面"
+        },
+        {
+            "ID": "crowncustomkeyleftright",
+            "value": "自定义按键"
+        },
+        {
+            "ID": "crownhscroll",
+            "value": "水平滚动"
+        },
+		{
+            "ID": "brightness",
+            "value": "亮度"
+        },
+        {
+            "ID": "volume",
+            "value": "音量"
+        },
+        {
+            "ID": "mediaplayer",
+            "value": "媒体播放器"
+        },
+        {
+            "ID": "appswitch",
+            "value": "切换应用程序"
+        },
+        {
+            "ID": "tabsswitch",
+            "value": "标签切换"
+        },
+        {
+            "ID": "desktopswitch",
+            "value": "桌面切换"
+        },
+        {
+            "ID": "crowndesktopswitch",
+            "value": "桌面切换"
+        },
+        {
+            "ID": "zoom",
+            "value": "缩放"
+        },
+        {
+            "ID": "gesturebutton",
+            "value": "手势按钮"
+        },
+        {
+            "ID": "modeshiftbutton",
+            "value": "模式切换按钮"
+        },
+        {
+            "ID": "advancedclick",
+            "value": "再次单击"
+        },
+        {
+            "ID": "applicationmenu",
+            "value": "应用程序菜单"
+        },
+        {
+            "ID": "back",
+            "value": "后退"
+        },
+        {
+            "ID": "calculator",
+            "value": "计算器"
+        },
+        {
+            "ID": "charms",
+            "value": "Charms"
+        },
+        {
+            "ID": "closewindow",
+            "value": "关闭窗口"
+        },
+        {
+            "ID": "copy",
+            "value": "复制"
+        },
+        {
+            "ID": "cut",
+            "value": "剪切"
+        },
+        {
+            "ID": "devices",
+            "value": "设备"
+        },
+        {
+            "ID": "documents",
+            "value": "文档"
+        },
+        {
+            "ID": "doubleclick",
+            "value": "双击"
+        },
+        {
+            "ID": "email",
+            "value": "电子邮件"
+        },
+        {
+            "ID": "forward",
+            "value": "前进"
+        },
+        {
+            "ID": "home",
+            "value": "主页"
+        },
+        {
+            "ID": "myhome",
+            "value": "我的主页"
+        },
+        {
+            "ID": "mymusic",
+            "value": "我的音乐"
+        },
+        {
+            "ID": "inputlanguage",
+            "value": "输入语言"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "按键分配"
+        },
+        {
+            "ID": "launchapplication",
+            "value": "启动应用程序"
+        },
+        {
+            "ID": "leftclick",
+            "value": "点击左键"
+        },
+        {
+            "ID": "lock",
+            "value": "锁定"
+        },
+        {
+            "ID": "maximizewindow",
+            "value": "最大化窗口"
+        },
+        {
+            "ID": "middlebutton",
+            "value": "中间按钮"
+        },
+        {
+            "ID": "minimizewindow",
+            "value": "最小化窗口"
+        },
+        {
+            "ID": "modifierkeys",
+            "value": "修饰键"
+        },
+        {
+            "ID": "mousesensitivity",
+            "value": "鼠标灵敏度"
+        },
+        {
+            "ID": "music",
+            "value": "音乐"
+        },
+        {
+            "ID": "mute",
+            "value": "静音"
+        },
+        {
+            "ID": "mycomputer",
+            "value": "我的计算机"
+        },
+        {
+            "ID": "mydocuments",
+            "value": "我的文档"
+        },
+        {
+            "ID": "myvideos",
+            "value": "我的视频"
+        },
+        {
+            "ID": "next",
+            "value": "下一个"
+        },
+        {
+            "ID": "nextprevious",
+            "value": "下一个/上一个"
+        },
+        {
+            "ID": "nexttrackfastforward",
+            "value": "下一曲目/快进"
+        },
+        {
+            "ID": "openfile",
+            "value": "打开文件"
+        },
+        {
+            "ID": "openfolder",
+            "value": "打开文件夹"
+        },
+        {
+            "ID": "openwebpage",
+            "value": "打开网页"
+        },
+        {
+            "ID": "paste",
+            "value": "粘贴"
+        },
+        {
+            "ID": "mypictures",
+            "value": "我的图片"
+        },
+        {
+            "ID": "pictures",
+            "value": "图片"
+        },
+        {
+            "ID": "playpause",
+            "value": "播放/暂停"
+        },
+        {
+            "ID": "previous",
+            "value": "上一个"
+        },
+        {
+            "ID": "previoustrackrewind",
+            "value": "上一曲目/倒带"
+        },
+        {
+            "ID": "rightclick",
+            "value": "右键单击"
+        },
+        {
+            "ID": "scrollleft",
+            "value": "向左滚动"
+        },
+        {
+            "ID": "scrollright",
+            "value": "向右滚动"
+        },
+        {
+            "ID": "search",
+            "value": "搜索"
+        },
+        {
+            "ID": "settings",
+            "value": "设置"
+        },
+        {
+            "ID": "share",
+            "value": "共享"
+        },
+        {
+            "ID": "showhidedesktop",
+            "value": "显示/隐藏桌面"
+        },
+        {
+            "ID": "shutdown",
+            "value": "关闭"
+        },
+        {
+            "ID": "signout",
+            "value": "注销"
+        },
+        {
+            "ID": "sleep",
+            "value": "睡眠"
+        },
+        {
+            "ID": "startscreen",
+            "value": "开始屏幕"
+        },
+        {
+            "ID": "stop",
+            "value": "停止"
+        },
+        {
+            "ID": "switchscreen",
+            "value": "切换屏幕"
+        },
+        {
+            "ID": "thispc",
+            "value": "此 PC"
+        },
+        {
+            "ID": "togglesmoothscrolling",
+            "value": "切换平滑滚动"
+        },
+        {
+            "ID": "videos",
+            "value": "视频"
+        },
+        {
+            "ID": "volumedown",
+            "value": "降低音量"
+        },
+        {
+            "ID": "volumeup",
+            "value": "提高音量"
+        },
+        {
+            "ID": "zoomin",
+            "value": "放大"
+        },
+        {
+            "ID": "zoomout",
+            "value": "缩小"
+        },
+        {
+            "ID": "zoomreset",
+            "value": "缩放重置"
+        },
+        {
+            "ID": "none",
+            "value": "无"
+        },
+        {
+            "ID": "switchleft",
+            "value": "向左切换"
+        },
+        {
+            "ID": "switchright",
+            "value": "向右切换"
+        },
+        {
+            "ID": "previouspage",
+            "value": "上一页"
+        },
+        {
+            "ID": "nextpage",
+            "value": "下一页"
+        },
+        {
+            "ID": "navigatepages",
+            "value": "导航页面"
+        },
+        {
+            "ID": "customkey",
+            "value": "自定义按键"
+        },
+        {
+            "ID": "navigatebetweenapps",
+            "value": "应用间导航"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "上下文"
+        },
+        {
+            "ID": "crownbrowsertextsize",
+            "value": "文本字号或选项卡切换"
+        },
+        {
+            "ID": "createvirtualdesktop",
+            "value": "显示桌面"
+        },
+        {
+            "ID": "clonevirtualdesktop",
+            "value": "显示桌面"
+        },
+        {
+            "ID": "nextvirtualdesktop",
+            "value": "桌面（下一个）"
+        },
+        {
+            "ID": "previousvirtualdesktop",
+            "value": "桌面（上一个）"
+        },
+        {
+            "ID": "teskview",
+            "value": "任务视图"
+        },
+        {
+            "ID": "teskview10",
+            "value": "任务视图"
+        },
+        {
+            "ID": "cortana",
+            "value": "微软小娜"
+        },
+        {
+            "ID": "actioncenter",
+            "value": "操作中心"
+        }
+    ]
+}

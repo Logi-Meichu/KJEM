@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Source>
+	<StringSet>
+		<String ALIAS="IDS_SINGLE_DEVICE_LOWBATTERY_PREFIX">下列裝置上的電池電力嚴重不足：</String>
+        <String ALIAS="IDS_NO_APPS_SWITCH">沒有可切換的應用程式</String>
+        <String ALIAS="IDS_NO_HOSTS_SWITCH">沒有可切換的主機</String>
+        <String ALIAS="IDS_HOSTS_SWITCH">主機已切換</String>
+		<String ALIAS="IDS_APPLICATION_NAME">Logitech Options</String>
+
+        <!-- Lock notification -->
+		<String ALIAS="HELP_LOCK_CAPS_ON">Caps Lock 開啟</String>
+		<String ALIAS="HELP_LOCK_CAPS_OFF">Caps Lock 關閉</String>
+		<String ALIAS="HELP_LOCK_SCROLL_ON">Scroll Lock 開啟</String>
+		<String ALIAS="HELP_LOCK_SCROLL_OFF">Scroll Lock 關閉</String>
+		<String ALIAS="HELP_LOCK_NUMS_ON">Num Lock 開啟</String>
+		<String ALIAS="HELP_LOCK_NUMS_OFF">Num Lock 關閉</String>
+
+        <!-- Package Update notification -->
+		<String ALIAS="UPDATER_UPDATE_AVAILABLE_TITLE">有可用的更新</String>
+		<String ALIAS="UPDATER_UPDATE_AVAILABLE">Logitech Options 有可用更新。</String>
+
+        <!-- Device Update notification -->
+        <String ALIAS="UPDATER_DEVICE_UPDATE_AVAILABLE_TITLE">有可用的裝置更新</String>
+		<String ALIAS="UPDATER_DEVICE_UPDATE_AVAILABLE">您的裝置有可用的更新，請按一下這裡執行該更新。</String>
+
+		<!-- Incorrect Keyboard Mode notification -->
+		<String ALIAS="INCORRECT_SELECTED_KEYBOARD_LAYOUT">在您的鍵盤上並未選取 Windows 布局配置。</String>
+
+		<!-- Missing software components -->
+		<String ALIAS="MISSING_MAINAPP_FILES">Logitech Options 缺少關鍵檔案。請重新安裝軟體。</String>
+
+    <!-- Tray icon notification -->
+    <String ALIAS="TRAYICON_FLOWOFF"> 停用 Logitech Flow</String>
+    <String ALIAS="TRAYICON_PREFERENCES"> 開啟「偏好設定」</String>
+    <String ALIAS="TRAYICON_FLOWON"> 啟用 Logitech Flow</String>
+    <String ALIAS="TRAYICON_NETWORK_ISSUE"> 此電腦已離線</String>
+    <String ALIAS="TRAYICON_HOST_ISSUE"> 無法連結 %s</String>
+    <String ALIAS="TRAYICON_HELP"> 開啟 Logitech Flow 說明</String>
+    <String ALIAS="TRAYICON_CANCEL_TRANSFER"> 取消傳送</String>
+    <String ALIAS="TRAYICON_TRANSFER_STATUS"> 正在傳送 %d%% </String>
+    <String ALIAS="TRAYICON_TRANSFER_ERROR"> 傳送錯誤</String>
+
+    <!-- toast notification -->
+    <String ALIAS="TOAST_HOST_CONNECTED">%s 已加入到 Logitech Flow。</String>
+    <String ALIAS="TOAST_NEW_FEATURES">想要嘗試 Logitech 最新的創新成果嗎？按一下即可成為測試使用者。</String>
+    <String ALIAS="TOAST_NOTMATCH_FIRMWARE">您的裝置 %s 需要升級韌體。</String>
+
+    <!-- Craft notification -->
+    <String ALIAS="CRAFT_PLUGIN_NOT_INSTALLED_TITLE">可用的 Craft 設定檔</String>
+    <String ALIAS="CRAFT_PLUGIN_NOT_INSTALLED_BODY">有適用於 %s 的 Craft 設定檔。</String>
+    <String ALIAS="CRAFT_PLUGIN_READY_TO_USE_TITLE">Craft 設定檔已安裝</String>
+    <String ALIAS="CRAFT_PLUGIN_READY_TO_USE_BODY">已安裝適用於 %s 的新 Craft 設定檔。</String>
+    <String ALIAS="CRAFT_PLUGIN_APP_REQUIRE_RESTART_TITLE">請重新啟動 %s</String>
+    <String ALIAS="CRAFT_PLUGIN_APP_REQUIRE_RESTART_BODY">已安裝適用於 %s 的 Craft 設定檔，請重新啟動應用程式以開始使用此設定檔。</String>
+
+  </StringSet>
+</Source>

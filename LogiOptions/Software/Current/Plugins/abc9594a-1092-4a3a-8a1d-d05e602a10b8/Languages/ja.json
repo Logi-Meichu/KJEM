@@ -1,0 +1,64 @@
+{
+  "LocalizedStrings": [
+    {
+      "ID": "changetoolvalue",
+      "value": "コンテキスト"
+    },
+    {
+      "ID": "keystrokeassignment",
+      "value": "キーストロークの割当"
+    },
+    {
+      "ID": "savefile",
+      "value": "ファイルを保存"
+    },
+    {
+      "ID": "zoom",
+      "value": "ズーム"
+    },
+    {
+      "ID": "theme",
+      "value": "テーマのスタイル"
+    },
+    {
+      "ID": "colour",
+      "value": "テーマの色"
+    },
+    {
+      "ID": "layout",
+      "value": "レイアウト"
+    },
+    {
+      "ID": "font",
+      "value": "テーマのフォント"
+    },
+    {
+      "ID": "textSize",
+      "value": "サイズ"
+    },
+    {
+      "ID": "alignment",
+      "value": "整列"
+    },
+    {
+      "ID": "fontWeight",
+      "value": "フォントの太さ"
+    },
+    {
+      "ID": "size",
+      "value": "拡大・縮小"
+    },
+    {
+      "ID": "rotate",
+      "value": "回転"
+    },
+    {
+      "ID": "tableStyle",
+      "value": "表スタイル"
+    },
+    {
+      "ID": "tableColor",
+      "value": "表の色"
+    }
+  ]
+}

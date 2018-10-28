@@ -1,0 +1,48 @@
+{
+  "LocalizedStrings": [
+    {
+      "ID": "keystrokeassignment",
+      "value": "按键分配"
+    },
+    {
+      "ID": "changetoolvalue",
+      "value": "上下文"
+    },
+    {
+      "ID": "crownbrowsertextsize",
+      "value": "文本字号或选项卡切换"
+    },
+    {
+      "ID": "crowntabscommand",
+      "value": "标签切换"
+    },
+    {
+      "ID": "textSize",
+      "value": "大小"
+    },
+    {
+      "ID": "imageSize",
+      "value": "大小"
+    },
+    {
+      "ID": "tabSwitch",
+      "value": "选项卡导航"
+    },
+    {
+      "ID": "zoom",
+      "value": "缩放"
+    },
+    {
+      "ID": "sheetNavigation",
+      "value": "表单导航"
+    },
+    {
+      "ID": "horizontalScroll",
+      "value": "水平滚动"
+    },
+    {
+      "ID": "playpause",
+      "value": "播放/暂停"
+    }
+  ]
+}

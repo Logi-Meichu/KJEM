@@ -1,0 +1,359 @@
+{
+    "GUID": "9ce6ef53-2501-4ecc-93fe-06a076b1695e",
+    "tasks": [
+
+        {
+            "win_id": "0x10066",
+            "name": "crownbrowsertextsize",
+            "image_file_path": "brightness.png"
+        },
+        {
+            "win_id": "0x1005b",
+            "name": "crownbrightness",
+            "image_file_path": "brightness.png",
+            "ratchet_enabled": true
+        },
+        {
+            "win_id": "0x10059",
+            "name": "crownvolume",
+            "image_file_path": "volumeMax.png"
+        },
+        {
+            "win_id": "0x1005c",
+            "name": "crownmediacontrol",
+            "image_file_path": "mediaControl.png",
+             "ratchet_enabled": true
+        },
+        {
+            "win_id": "0x1005d",
+            "name": "crownexposeappswitch",
+            "image_file_path": "switchApps.png",
+            "ratchet_enabled": true
+        },
+        {
+            "win_id": "0x1005f",
+            "name": "crowntabscommand",
+            "image_file_path": "tabs.png",
+             "ratchet_enabled": true
+        },
+        {
+            "win_id": "0x1005a",
+            "name": "crownswitchdesktop",
+            "image_file_path": "desktopSwitch.png",
+            "ratchet_enabled": true
+        },
+        {
+            "win_id": "0x10061",
+            "name": "crownzoom",
+            "image_file_path": "zoom.png",
+             "ratchet_enabled": true
+        },
+        {
+            "win_id": "0x10063",
+            "name": "crowncustomkeyleftright",
+            "image_file_path": "custom.png"
+        },
+        {
+            "win_id": "0x10067",
+            "name": "crownhscroll",
+            "image_file_path": "horizontalScroll.png"
+        },
+        {
+            "win_id": "0x10040",
+            "name": "advancedclick"
+        },
+        {
+            "win_id": "0x79",
+            "name": "applicationmenu"
+        },
+        {
+            "win_id": "0x3b",
+            "name": "back"
+        },
+        {
+            "win_id": "0x0a",
+            "name": "calculator"
+        },
+        {
+            "win_id": "0x7A",
+            "name": "charms"
+        },
+        {
+            "win_id": "0x000c",
+            "name": "closewindow"
+        },
+        {
+            "win_id": "0x4e",
+            "name": "copy"
+        },
+        {
+            "win_id": "0x51",
+            "name": "cut"
+        },
+        {
+            "win_id": "0x89",
+            "name": "devices"
+        },
+        {
+            "win_id": "0x49",
+            "name": "documents"
+        },
+        {
+            "win_id": "0x1000C",
+            "name": "doubleclick"
+        },
+        {
+            "win_id": "0x0E",
+            "name": "email"
+        },
+        {
+            "win_id": "0x3d",
+            "name": "forward"
+        },
+        {
+            "win_id": "0x1a",
+            "name": "myhome"
+        },
+        {
+            "win_id": "0x56",
+            "name": "home"
+        },
+        {
+            "win_id": "0x23",
+            "name": "mymusic"
+        },
+        {
+            "win_id": "0x00ba",
+            "name": "inputlanguage"
+        },
+        {
+            "win_id": "0x10000",
+            "mac_id": 73,
+            "name": "keystrokeassignment"
+        },
+        {
+            "win_id": "0x10004",
+            "name": "launchapplication"
+        },
+        {
+            "win_id": "0x38",
+            "name": "leftclick"
+        },
+        {
+            "win_id": "0x44",
+            "name": "lock"
+        },
+        {
+            "win_id": "0x95",
+            "name": "maximizewindow"
+        },
+        {
+            "win_id": "0x1D",
+            "name": "mediaplayer"
+        },
+        {
+            "win_id": "0x3A",
+            "name": "middlebutton"
+        },
+        {
+            "win_id": "0x94",
+            "name": "minimizewindow"
+        },
+        {
+            "win_id": "0x10039",
+            "name": "modifierkeys"
+        },
+        {
+            "win_id": "0x10037",
+            "name": "mousesensitivity"
+        },
+        {
+            "win_id": "0x54",
+            "name": "music"
+        },
+        {
+            "win_id": "0x03",
+            "name": "mute"
+        },
+        {
+            "win_id": "0x05",
+            "name": "next"
+        },
+        {
+            "win_id": "0x10007",
+            "name": "nexttrackfastforward"
+        },
+        {
+            "win_id": "0x10008",
+            "name": "openfile"
+        },
+        {
+            "win_id": "0x10009",
+            "name": "openfolder"
+        },
+        {
+            "win_id": "0x1000A",
+            "name": "openwebpage"
+        },
+        {
+            "win_id": "0x85",
+            "name": "paste"
+        },
+        {
+            "win_id": "0x24",
+            "name": "mypictures"
+        },
+        {
+            "win_id": "0x50",
+            "name": "pictures"
+        },
+        {
+            "win_id": "0x04",
+            "name": "playpause"
+        },
+        {
+            "win_id": "0x06",
+            "name": "previous"
+        },
+        {
+            "win_id": "0x1000B",
+            "name": "previoustrackrewind"
+        },
+        {
+            "win_id": "0x39",
+            "name": "rightclick"
+        },
+        {
+            "win_id": "0x003f",
+            "name": "scrollleft"
+        },
+        {
+            "win_id": "0x0040",
+            "name": "scrollright"
+        },
+        {
+            "win_id": "0x002d",
+            "name": "search"
+        },
+        {
+            "win_id": "0x8a",
+            "name": "settings"
+        },
+        {
+            "win_id": "0x88",
+            "name": "share"
+        },
+        {
+            "win_id": "0x0043",
+            "name": "showhidedesktop"
+        },
+        {
+            "win_id": "0x10002",
+            "name": "shutdown"
+        },
+        {
+            "win_id": "0x10001",
+            "name": "signout"
+        },
+        {
+            "win_id": "0x002f",
+            "name": "sleep"
+        },
+        {
+            "win_id": "0x90",
+            "name": "startscreen"
+        },
+        {
+            "win_id": "0x07",
+            "name": "stop"
+        },
+        {
+            "win_id": "0x8",
+            "name": "appswitch"
+        },
+        {
+            "win_id": "0x93",
+            "name": "switchscreen"
+        },
+        {
+            "win_id": "0x27",
+            "name": "mycomputer"
+        },
+        {
+            "win_id": "0x48",
+            "name": "thispc"
+        },
+        {
+            "win_id": "0x22",
+            "name": "mydocuments"
+        },
+        {
+            "win_id": "0x10041",
+            "name": "togglesmoothscrolling"
+        },
+        {
+            "win_id": "0x26",
+            "name": "myvideos"
+        },
+        {
+            "win_id": "0x55",
+            "name": "videos"
+        },
+        {
+            "win_id": "0x02",
+            "name": "volumedown"
+        },
+        {
+            "win_id": "0x01",
+            "name": "volumeup"
+        },
+        {
+            "win_id": "0x33",
+            "name": "zoomin"
+        },
+        {
+            "win_id": "0x35",
+            "name": "zoomout"
+        },
+        {
+            "win_id": "0x37",
+            "name": "zoomreset"
+        },
+        {
+            "win_id": "0x10042",
+            "name": "createvirtualdesktop"
+        },
+        {
+            "win_id": "0x10043",
+            "name": "clonevirtualdesktop"
+        },
+        {
+            "win_id": "0x10044",
+            "name": "nextvirtualdesktop"
+        },
+        {
+            "win_id": "0x10045",
+            "name": "previousvirtualdesktop"
+        },
+        {
+            "win_id": "0x10051",
+            "name": "teskview"
+        },
+        {
+            "win_id": "0x10052",
+            "name": "actioncenter"
+        },
+        {
+            "win_id": "0x10053",
+            "name": "teskview10"
+        },
+        {
+            "win_id": "0x10055",
+            "name": "cortana"
+        },
+        {
+            "win_id": "0x52",
+            "name": "none"
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "Contextueel"
+        },
+        {
+            "ID": "savefile",
+            "value": "Bestand opslaan"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zoomen"
+        },
+        {
+            "ID": "sheetNavigation",
+            "value": "Bladnavigatie"
+        },
+        {
+            "ID": "horizontalScroll",
+            "value": "Horizontaal scrollen"
+        },
+        {
+            "ID": "createChart",
+            "value": "Diagram maken"
+        },
+        {
+            "ID": "createTable",
+            "value": "Tabel maken"
+        },
+        {
+            "ID": "tableStyle",
+            "value": "Tabelstijl"
+        },
+        {
+            "ID": "chartType",
+            "value": "Diagramtype"
+        },
+        {
+            "ID": "quickLayout",
+            "value": "Snelle lay-out"
+        },
+        {
+            "ID": "changeColor",
+            "value": "Kleur wijzigen"
+        },
+        {
+            "ID": "chartStyle",
+            "value": "Diagramstijl"
+        },
+        {
+            "ID": "pieChart",
+            "value": "Cirkeldiagram"
+        },
+        {
+            "ID": "columnChart",
+            "value": "Kolomdiagram"
+        },
+        {
+            "ID": "barChart",
+            "value": "Staafdiagram"
+        },
+        {
+            "ID": "areaChart",
+            "value": "Vlakdiagram"
+        },
+        {
+            "ID": "stockChart",
+            "value": "Aandelendiagram"
+        },
+        {
+            "ID": "surfaceChart",
+            "value": "Oppervlaktediagram"
+        },
+        {
+            "ID": "radarChart",
+            "value": "Radardiagram"
+        },
+        {
+            "ID": "tableColor",
+            "value": "Tabelkleur"
+        },
+        {
+            "ID": "xyscatterChart",
+            "value": "Spreidingsdiagram"
+        },
+        {
+            "ID": "lineChart",
+            "value": "Lijndiagram"
+        },
+        {
+            "ID": "comboChart",
+            "value": "Combinatiediagram"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Toetsaanslagen toewijzen"
+        }
+    ]
+}

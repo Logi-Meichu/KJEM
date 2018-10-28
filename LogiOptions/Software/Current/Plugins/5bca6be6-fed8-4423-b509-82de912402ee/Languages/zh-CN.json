@@ -1,0 +1,24 @@
+{
+    "LocalizedStrings": [
+          {
+              "ID": "volumeUpDown",
+              "value": "音量"
+          },
+          {
+              "ID": "nextPrevious",
+              "value": "上一曲/下一曲"
+          },
+          {
+              "ID": "SeekForwardBackward",
+              "value": "寻找"
+          },
+          {
+              "ID": "changetoolvalue",
+              "value": "Spotify 控件"
+          },
+          {
+              "ID": "playpause",
+              "value": "暂停/播放"
+          }
+    ]
+}

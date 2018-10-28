@@ -1,0 +1,72 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "textSize",
+            "value": "Grootte"
+        },
+        {
+            "ID": "leading",
+            "value": "Regelafstand"
+        },
+        {
+            "ID": "tracking",
+            "value": "Reeksspatiëring"
+        },
+        {
+            "ID": "colorFill",
+            "value": "Opvulkleur"
+        },
+        {
+            "ID": "colorStroke",
+            "value": "Lijnkleur"
+        },
+        {
+            "ID": "strokeWeight",
+            "value": "Lijndikte"
+        },
+        {
+            "ID": "scale",
+            "value": "Schalen"
+        },
+        {
+            "ID": "opacity",
+            "value": "Dekking"
+        },
+        {
+            "ID": "artboardNavigation",
+            "value": "Tekengebied wijzigen"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "Contextueel"
+        },
+        {
+            "ID": "undoRedo",
+            "value": "Ongedaan maken/Opnieuw"
+        },
+        {
+            "ID": "undoredo",
+            "value": "Ongedaan maken/Opnieuw"
+        },
+        {
+            "ID": "undo",
+            "value": "Ongedaan maken"
+        },
+        {
+            "ID": "redo",
+            "value": "Opnieuw"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zoomen"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Toetsaanslagen toewijzen"
+        },
+        {
+            "ID": "playpause",
+            "value": "Afspelen/pauzeren"
+        }
+    ]
+}

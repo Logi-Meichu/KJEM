@@ -1,0 +1,20 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "VLC 控制功能"
+        },
+		{
+            "ID": "nextPrevious",
+            "value": "上一曲目/下一曲目"
+        },
+		{
+            "ID": "ShortSeek",
+            "value": "搜尋"
+        },
+        {
+            "ID": "volumeUpDown",
+            "value": "音量"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+  "LocalizedStrings": [
+    {
+      "ID": "keystrokeassignment",
+      "value": "Tildeling af tastefunktioner"
+    },
+    {
+      "ID": "changetoolvalue",
+      "value": "Kontekstuel"
+    },
+    {
+      "ID": "crownbrowsertextsize",
+      "value": "Tekststørrelse eller ændring af fane"
+    },
+    {
+      "ID": "crowntabscommand",
+      "value": "Faneskift"
+    },
+    {
+      "ID": "textSize",
+      "value": "Størrelse"
+    },
+    {
+      "ID": "imageSize",
+      "value": "Størrelse"
+    },
+    {
+      "ID": "tabSwitch",
+      "value": "Navigation i fane"
+    },
+    {
+      "ID": "zoom",
+      "value": "Zoom"
+    },
+    {
+      "ID": "sheetNavigation",
+      "value": "Arknavigation"
+    },
+    {
+      "ID": "horizontalScroll",
+      "value": "Vandret rulning"
+    },
+    {
+      "ID": "playpause",
+      "value": "Afspil/pause"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "Contextueel"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Toetsaanslagen toewijzen"
+        },
+        {
+            "ID": "savefile",
+            "value": "Bestand opslaan"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zoomen"
+        },
+        {
+            "ID": "theme",
+            "value": "Themastijl"
+        },
+        {
+            "ID": "color",
+            "value": "Themakleur"
+        },
+        {
+            "ID": "layout",
+            "value": "Lay-out"
+        },
+        {
+            "ID": "font",
+            "value": "Themalettertype"
+        },
+        {
+            "ID": "fontSize",
+            "value": "Grootte"
+        },
+        {
+            "ID": "alignment",
+            "value": "Uitlijnen"
+        },
+        {
+            "ID": "fontWeight",
+            "value": "Tekengewicht"
+        },
+        {
+            "ID": "size",
+            "value": "Schalen"
+        },
+        {
+            "ID": "rotate",
+            "value": "Roteren"
+        },
+        {
+            "ID": "tableStyle",
+            "value": "Tabelstijl"
+        },
+        {
+            "ID": "tableColor",
+            "value": "Tabelkleur"
+        },
+        {
+            "ID": "paragraphStyle",
+            "value": "Alineastijl"
+        },
+        {
+            "ID": "wrapText",
+            "value": "Tekstterugloop"
+        }
+    ]
+}

@@ -1,0 +1,412 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "crownbrightness",
+            "value": "Lysstyrke"
+        },
+        {
+            "ID": "crownvolume",
+            "value": "Volum"
+        },
+        {
+            "ID": "crownmediacontrol",
+            "value": "Mediekontroll"
+        },
+        {
+            "ID": "crownexposeappswitch",
+            "value": "Bytt mellom programmer"
+        },
+        {
+            "ID": "crowntabscommand",
+            "value": "Fanebryter"
+        },
+        {
+            "ID": "crownswitchdesktop",
+            "value": "Skrivebordsbryter"
+        },
+        {
+            "ID": "crownzoom",
+            "value": "Zoom"
+        },
+        {
+            "ID": "crownnavigatepages",
+            "value": "Naviger på sider"
+        },
+        {
+            "ID": "crowncustomkeyleftright",
+            "value": "Egendefinert tast"
+        },
+        {
+            "ID": "crownhscroll",
+            "value": "Vanrett rulling</"
+        },
+		{
+            "ID": "brightness",
+            "value": "Lysstyrke"
+        },
+        {
+            "ID": "volume",
+            "value": "Volum"
+        },
+        {
+            "ID": "mediaplayer",
+            "value": "Medieavspillingsenhet"
+        },
+        {
+            "ID": "appswitch",
+            "value": "Bytt mellom programmer"
+        },
+        {
+            "ID": "tabsswitch",
+            "value": "Fanebryter"
+        },
+        {
+            "ID": "desktopswitch",
+            "value": "Skrivebordsbryter"
+        },
+        {
+            "ID": "crowndesktopswitch",
+            "value": "Skrivebordsbryter"
+        },
+        {
+            "ID": "zoom",
+            "value": "Zoom"
+        },
+        {
+            "ID": "gesturebutton",
+            "value": "Bevegelse-knapp"
+        },
+        {
+            "ID": "modeshiftbutton",
+            "value": "Modusbytte-knapp"
+        },
+        {
+            "ID": "advancedclick",
+            "value": "Avansert klikk"
+        },
+        {
+            "ID": "applicationmenu",
+            "value": "Programmeny"
+        },
+        {
+            "ID": "back",
+            "value": "Tilbake"
+        },
+        {
+            "ID": "calculator",
+            "value": "Kalkulator"
+        },
+        {
+            "ID": "charms",
+            "value": "Perler"
+        },
+        {
+            "ID": "closewindow",
+            "value": "Lukk vinduet"
+        },
+        {
+            "ID": "copy",
+            "value": "Kopier"
+        },
+        {
+            "ID": "cut",
+            "value": "Klipp ut"
+        },
+        {
+            "ID": "devices",
+            "value": "Enheter"
+        },
+        {
+            "ID": "documents",
+            "value": "Dokumenter"
+        },
+        {
+            "ID": "doubleclick",
+            "value": "Dobbeltklikk"
+        },
+        {
+            "ID": "email",
+            "value": "E-post"
+        },
+        {
+            "ID": "forward",
+            "value": "Frem"
+        },
+        {
+            "ID": "home",
+            "value": "Startside"
+        },
+        {
+            "ID": "myhome",
+            "value": "Mitt hjem"
+        },
+        {
+            "ID": "mymusic",
+            "value": "Min musikk"
+        },
+        {
+            "ID": "inputlanguage",
+            "value": "Inndataspråk"
+        },
+        {
+            "ID": "keystrokeassignment",
+            "value": "Tilordning av tastetrykk"
+        },
+        {
+            "ID": "launchapplication",
+            "value": "Start program"
+        },
+        {
+            "ID": "leftclick",
+            "value": "Venstreklikk"
+        },
+        {
+            "ID": "lock",
+            "value": "Lås"
+        },
+        {
+            "ID": "maximizewindow",
+            "value": "Maksimer vindu"
+        },
+        {
+            "ID": "middlebutton",
+            "value": "Midtre knapp"
+        },
+        {
+            "ID": "minimizewindow",
+            "value": "Minimer vindu"
+        },
+        {
+            "ID": "modifierkeys",
+            "value": "Endringstaster"
+        },
+        {
+            "ID": "mousesensitivity",
+            "value": "Sensitivitetsnivået til musen"
+        },
+        {
+            "ID": "music",
+            "value": "Musikk"
+        },
+        {
+            "ID": "mute",
+            "value": "Demp"
+        },
+        {
+            "ID": "mycomputer",
+            "value": "Min datamaskin"
+        },
+        {
+            "ID": "mydocuments",
+            "value": "Mine dokumenter"
+        },
+        {
+            "ID": "myvideos",
+            "value": "Mine videoer"
+        },
+        {
+            "ID": "next",
+            "value": "Neste"
+        },
+        {
+            "ID": "nextprevious",
+            "value": "Neste/Forrige"
+        },
+        {
+            "ID": "nexttrackfastforward",
+            "value": "Neste spor / spol framover"
+        },
+        {
+            "ID": "openfile",
+            "value": "Åpne fil"
+        },
+        {
+            "ID": "openfolder",
+            "value": "Åpne mappe"
+        },
+        {
+            "ID": "openwebpage",
+            "value": "Åpne en nettside"
+        },
+        {
+            "ID": "paste",
+            "value": "Lim inn"
+        },
+        {
+            "ID": "mypictures",
+            "value": "Mine bilder"
+        },
+        {
+            "ID": "pictures",
+            "value": "Bilder"
+        },
+        {
+            "ID": "playpause",
+            "value": "Spill av / pause"
+        },
+        {
+            "ID": "previous",
+            "value": "Forrige"
+        },
+        {
+            "ID": "previoustrackrewind",
+            "value": "Forrige spor / spol tilbake"
+        },
+        {
+            "ID": "rightclick",
+            "value": "Høyreklikk"
+        },
+        {
+            "ID": "scrollleft",
+            "value": "Rull mot venstre"
+        },
+        {
+            "ID": "scrollright",
+            "value": "Rull mot høyre"
+        },
+        {
+            "ID": "search",
+            "value": "Søk"
+        },
+        {
+            "ID": "settings",
+            "value": "Innstillinger"
+        },
+        {
+            "ID": "share",
+            "value": "Del"
+        },
+        {
+            "ID": "showhidedesktop",
+            "value": "Vis/skjul skrivebord"
+        },
+        {
+            "ID": "shutdown",
+            "value": "Avslutt"
+        },
+        {
+            "ID": "signout",
+            "value": "Logg av"
+        },
+        {
+            "ID": "sleep",
+            "value": "Hvilemodus"
+        },
+        {
+            "ID": "startscreen",
+            "value": "Startskjermen"
+        },
+        {
+            "ID": "stop",
+            "value": "Stopp"
+        },
+        {
+            "ID": "switchscreen",
+            "value": "Skift skjerm"
+        },
+        {
+            "ID": "thispc",
+            "value": "Denne PC-en"
+        },
+        {
+            "ID": "togglesmoothscrolling",
+            "value": "Veksle til myk rulling"
+        },
+        {
+            "ID": "videos",
+            "value": "Videoer"
+        },
+        {
+            "ID": "volumedown",
+            "value": "Volum ned"
+        },
+        {
+            "ID": "volumeup",
+            "value": "Volum opp"
+        },
+        {
+            "ID": "zoomin",
+            "value": "Zoom inn"
+        },
+        {
+            "ID": "zoomout",
+            "value": "Zoom ut"
+        },
+        {
+            "ID": "zoomreset",
+            "value": "Tilbakestill zoom"
+        },
+        {
+            "ID": "none",
+            "value": "Ingen"
+        },
+        {
+            "ID": "switchleft",
+            "value": "Bytt til venstre"
+        },
+        {
+            "ID": "switchright",
+            "value": "Bytt til høyre"
+        },
+        {
+            "ID": "previouspage",
+            "value": "Forrige side"
+        },
+        {
+            "ID": "nextpage",
+            "value": "Neste side"
+        },
+        {
+            "ID": "navigatepages",
+            "value": "Naviger på sider"
+        },
+        {
+            "ID": "customkey",
+            "value": "Egendefinert tast"
+        },
+        {
+            "ID": "navigatebetweenapps",
+            "value": "Naviger mellom apper"
+        },
+        {
+            "ID": "changetoolvalue",
+            "value": "Kontekstavhengig"
+        },
+        {
+            "ID": "crownbrowsertextsize",
+            "value": "Tekststørrelse eller fanebytte"
+        },
+        {
+            "ID": "createvirtualdesktop",
+            "value": "Nytt skrivebord"
+        },
+        {
+            "ID": "clonevirtualdesktop",
+            "value": "Lukk skrivebord"
+        },
+        {
+            "ID": "nextvirtualdesktop",
+            "value": "Skrivebord (neste)"
+        },
+        {
+            "ID": "previousvirtualdesktop",
+            "value": "Skrivebord (forrige)"
+        },
+        {
+            "ID": "teskview",
+            "value": "Oppgavevisning"
+        },
+        {
+            "ID": "teskview10",
+            "value": "Oppgavevisning"
+        },
+        {
+            "ID": "cortana",
+            "value": "Cortana"
+        },
+        {
+            "ID": "actioncenter",
+            "value": "Handlingssenter"
+        }
+    ]
+}
